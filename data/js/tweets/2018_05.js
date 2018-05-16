@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 15 21:44:33 +0000 2018",
+		"id": 996506645864812500,
+		"id_str": "996506645864812544",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/VkpGY6svrM Thanks to @mwcrecruiting @c3Communication @RonSteiger6 #sandiego #drone",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "drone",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwcrecruiting",
+					"name": "MW Recruiting",
+					"id": 870472043325608000,
+					"id_str": "870472043325607936",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "c3Communication",
+					"name": "c3 Communications",
+					"id": 57223793,
+					"id_str": "57223793",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"screen_name": "RonSteiger6",
+					"name": "Ron Steiger",
+					"id": 914538511113625600,
+					"id_str": "914538511113625600",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VkpGY6svrM",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=267d7480-5889-11e8-8cc9-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2994,
+			"friends_count": 2414,
+			"listed_count": 107,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1531,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601662542964895745/_3BisLbt.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601662542964895745/_3BisLbt.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 12 21:44:25 +0000 2018",
 		"id": 995419449615372300,
 		"id_str": "995419449615372290",
