@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 26 21:43:48 +0000 2018",
+		"id": 1000492726473936900,
+		"id_str": "1000492726473936896",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/jGtJehFhJv Thanks to @LJvillagenews @aafsite @iAmericaorg… https://t.co/AT4wsXwpzI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LJvillagenews",
+					"name": "LaJollaVillageNews",
+					"id": 156383222,
+					"id_str": "156383222",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "aafsite",
+					"name": "AAFSite.com",
+					"id": 976470371556716500,
+					"id_str": "976470371556716544",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"screen_name": "iAmericaorg",
+					"name": "iAmerica",
+					"id": 2178638689,
+					"id_str": "2178638689",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jGtJehFhJv",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=deb81a30-612d-11e8-8cc9-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/AT4wsXwpzI",
+					"expanded_url": "https://twitter.com/i/web/status/1000492726473936896",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3022,
+			"friends_count": 2410,
+			"listed_count": 106,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1530,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 22 21:43:48 +0000 2018",
 		"id": 999043172796911600,
 		"id_str": "999043172796911617",
