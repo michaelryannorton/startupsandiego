@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 18 21:45:20 +0000 2018",
+		"id": 1030933689658757100,
+		"id_str": "1030933689658757120",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/Cpwjqgxl5k Thanks to @srm_up @WestJetMagazine @MartinHolladay #sandiego #neverforget",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "neverforget",
+					"indices": [
+						124,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srm_up",
+					"name": "Lee Everton",
+					"id": 15292846,
+					"id_str": "15292846",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"screen_name": "WestJetMagazine",
+					"name": "WestJet Magazine",
+					"id": 19661616,
+					"id_str": "19661616",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"screen_name": "MartinHolladay",
+					"name": "Martin Holladay",
+					"id": 77718512,
+					"id_str": "77718512",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cpwjqgxl5k",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=feac5f60-a32f-11e8-917f-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3262,
+			"friends_count": 2399,
+			"listed_count": 113,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 14 21:45:18 +0000 2018",
 		"id": 1029484129820266500,
 		"id_str": "1029484129820266496",
