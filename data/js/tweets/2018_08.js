@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 21 21:45:19 +0000 2018",
+		"id": 1032020851225489400,
+		"id_str": "1032020851225489411",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/u8kKN8n9QK Thanks to @hYQSeBVHkbcbhPB @rebrokerlist #sandiego #california",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "california",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hYQSeBVHkbcbhPB",
+					"name": "Edith Pruitt",
+					"id": 977596769969279000,
+					"id_str": "977596769969278984",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "rebrokerlist",
+					"name": "RE Broker List",
+					"id": 2958009969,
+					"id_str": "2958009969",
+					"indices": [
+						90,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u8kKN8n9QK",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=7dc8f800-a58b-11e8-917f-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3275,
+			"friends_count": 2398,
+			"listed_count": 114,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 21 01:53:44 +0000 2018",
+		"id": 1031720977166557200,
+		"id_str": "1031720977166557185",
+		"text": "RT @NealBloom: Our new Executive Director of @StartupSanDiego @JarrodMRussell  kicking off the All Hands with our superstar volunteers #Sta…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom 🎩",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "JarrodMRussell",
+					"name": "Jarrod Russell",
+					"id": 210195786,
+					"id_str": "210195786",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3275,
+			"friends_count": 2398,
+			"listed_count": 114,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 21 00:49:21 +0000 2018",
+			"id": 1031704774985494500,
+			"id_str": "1031704774985494528",
+			"text": "Our new Executive Director of @StartupSanDiego @JarrodMRussell  kicking off the All Hands with our superstar volunt… https://t.co/NvwsWWVsce",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							30,
+							46
+						]
+					},
+					{
+						"screen_name": "JarrodMRussell",
+						"name": "Jarrod Russell",
+						"id": 210195786,
+						"id_str": "210195786",
+						"indices": [
+							47,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NvwsWWVsce",
+						"expanded_url": "https://twitter.com/i/web/status/1031704774985494528",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19131762,
+				"id_str": "19131762",
+				"name": "Neal Bloom 🎩",
+				"screen_name": "NealBloom",
+				"location": "San Diego, CA",
+				"description": "Building the #SDtechos ecosystem with talent, capital, and awareness |💡@StartupSanDiego | 🚀 @Hired_HQ @PortfoliumHQ @AerojetRdyne | #sdlifechanging 🌴",
+				"url": "https://t.co/Ei0BsLkfw4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ei0BsLkfw4",
+								"expanded_url": "http://www.nealbloom.me",
+								"display_url": "nealbloom.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1506,
+				"friends_count": 247,
+				"listed_count": 189,
+				"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+				"favourites_count": 7043,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6734,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19131762/1405621367",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 19,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 21 01:53:39 +0000 2018",
+		"id": 1031720957533028400,
+		"id_str": "1031720957533028352",
+		"text": "All-hands Kickoff Meeting with new #ExecutiveDirector @JarrodMRussell — let the projects begin!   #startupsd https://t.co/luKbh9oZnr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExecutiveDirector",
+					"indices": [
+						35,
+						53
+					]
+				},
+				{
+					"text": "startupsd",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JarrodMRussell",
+					"name": "Jarrod Russell",
+					"id": 210195786,
+					"id_str": "210195786",
+					"indices": [
+						54,
+						69
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031720941091471400,
+					"id_str": "1031720941091471360",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DlFouskWwAASTT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlFouskWwAASTT0.jpg",
+					"url": "https://t.co/luKbh9oZnr",
+					"display_url": "pic.twitter.com/luKbh9oZnr",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1031720957533028352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031720941091471400,
+					"id_str": "1031720941091471360",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DlFouskWwAASTT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlFouskWwAASTT0.jpg",
+					"url": "https://t.co/luKbh9oZnr",
+					"display_url": "pic.twitter.com/luKbh9oZnr",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1031720957533028352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3275,
+			"friends_count": 2398,
+			"listed_count": 114,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 18 21:45:20 +0000 2018",
 		"id": 1030933689658757100,
 		"id_str": "1030933689658757120",
