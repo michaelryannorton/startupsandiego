@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 09 21:48:00 +0000 2018",
+		"id": 1049778533067890700,
+		"id_str": "1049778533067890694",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/6ZeZS4619P Thanks to @cat_josefosky @guynoll @CityofEsco #sandiego #sdtechos",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "sdtechos",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cat_josefosky",
+					"name": "Cathyann Josefosky (Lewis)",
+					"id": 406758190,
+					"id_str": "406758190",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "guynoll",
+					"name": "Guy Noll",
+					"id": 312471398,
+					"id_str": "312471398",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"screen_name": "CityofEsco",
+					"name": "CityofEsco",
+					"id": 2840859958,
+					"id_str": "2840859958",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6ZeZS4619P",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=fcc198e0-cc0c-11e8-a440-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3327,
+			"friends_count": 2390,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 09 15:50:16 +0000 2018",
+		"id": 1049688503305482200,
+		"id_str": "1049688503305482241",
+		"text": "RT @Carlsbadbiz: Meet and chat with some awesome people at the #Carlsbad Tech Talk on 10/10, hosted by @AirspaceTech. This month's meetup i…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Carlsbad",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Carlsbadbiz",
+					"name": "Carlsbad Econ Dev",
+					"id": 2424103860,
+					"id_str": "2424103860",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "AirspaceTech",
+					"name": "AirspaceTechnologies",
+					"id": 860228436941348900,
+					"id_str": "860228436941348864",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3327,
+			"friends_count": 2390,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 09 01:01:07 +0000 2018",
+			"id": 1049464743327498200,
+			"id_str": "1049464743327498243",
+			"text": "Meet and chat with some awesome people at the #Carlsbad Tech Talk on 10/10, hosted by @AirspaceTech. This month's m… https://t.co/CT3Ct85jDe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Carlsbad",
+						"indices": [
+							46,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AirspaceTech",
+						"name": "AirspaceTechnologies",
+						"id": 860228436941348900,
+						"id_str": "860228436941348864",
+						"indices": [
+							86,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CT3Ct85jDe",
+						"expanded_url": "https://twitter.com/i/web/status/1049464743327498243",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2424103860,
+				"id_str": "2424103860",
+				"name": "Carlsbad Econ Dev",
+				"screen_name": "Carlsbadbiz",
+				"location": "Carlsbad, CA",
+				"description": "The career you want. The life you’ve dreamed of. Join our unique community of innovators and industries. \nTerms at https://t.co/04Ncaerztm",
+				"url": "http://t.co/1yencbptUY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1yencbptUY",
+								"expanded_url": "http://www.CarlsbadLifeInAction.com",
+								"display_url": "CarlsbadLifeInAction.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/04Ncaerztm",
+								"expanded_url": "http://www.carlsbadca.gov/news/tos.asp",
+								"display_url": "carlsbadca.gov/news/tos.asp",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 840,
+				"friends_count": 864,
+				"listed_count": 34,
+				"created_at": "Wed Apr 02 17:14:57 +0000 2014",
+				"favourites_count": 1363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1954,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "40A0BB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2424103860/1524092620",
+				"profile_link_color": "0A9CBD",
+				"profile_sidebar_border_color": "FE8171",
+				"profile_sidebar_fill_color": "FDAEA2",
+				"profile_text_color": "DFD1D2",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01d4e349481265e8",
+				"url": "https://api.twitter.com/1.1/geo/id/01d4e349481265e8.json",
+				"place_type": "city",
+				"name": "Carlsbad",
+				"full_name": "Carlsbad, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-117.359298,
+								33.0606148
+							],
+							[
+								-117.216549,
+								33.0606148
+							],
+							[
+								-117.216549,
+								33.1823533
+							],
+							[
+								-117.359298,
+								33.1823533
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 07 22:27:35 +0000 2018",
 		"id": 1049063716442914800,
 		"id_str": "1049063716442914817",
