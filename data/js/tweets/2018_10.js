@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 20 21:48:01 +0000 2018",
+		"id": 1053764801166499800,
+		"id_str": "1053764801166499841",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/aU4xi9PrH5 Thanks to @Priyankamadan @SD_LA_Chargers @FriarsOnBase #ucsandiego #healthtech",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ucsandiego",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"text": "healthtech",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Priyankamadan",
+					"name": "Jenna",
+					"id": 115129540,
+					"id_str": "115129540",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "SD_LA_Chargers",
+					"name": "$panos is trash",
+					"id": 41206520,
+					"id_str": "41206520",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"screen_name": "FriarsOnBase",
+					"name": "Friars On Base",
+					"id": 404125026,
+					"id_str": "404125026",
+					"indices": [
+						104,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aU4xi9PrH5",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=cf5bf410-d4b1-11e8-a440-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3336,
+			"friends_count": 2385,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/aU4xi9PrH5 Thanks to @Priyankamadan @SD_LA_Chargers @FriarsOnBase #ucsandiego #healthtech"
+	},
+	{
 		"created_at": "Tue Oct 16 21:48:26 +0000 2018",
 		"id": 1052315355002150900,
 		"id_str": "1052315355002150912",
