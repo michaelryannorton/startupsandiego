@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 25 02:05:06 +0000 2018",
+		"id": 1055279049977876500,
+		"id_str": "1055279049977876480",
+		"full_text": "Did you see the @SDSU students at last years Startup Week? We did. SDSU has created countless entrepreneurs all over San Diego and beyond. Here is a great list of many of them making San Diego an even better place for business. #MadeInSD https://t.co/hrT4uWOafr https://t.co/rcSONPbGsU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MadeInSD",
+					"indices": [
+						228,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDSU",
+					"name": "San Diego State University",
+					"id": 16739786,
+					"id_str": "16739786",
+					"indices": [
+						16,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hrT4uWOafr",
+					"expanded_url": "http://ziplaunchpad.sdsu.edu/sdsw_2018",
+					"display_url": "ziplaunchpad.sdsu.edu/sdsw_2018",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055279048404987900,
+					"id_str": "1055279048404987904",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/DqUatBMXcAA9KdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqUatBMXcAA9KdT.jpg",
+					"url": "https://t.co/rcSONPbGsU",
+					"display_url": "pic.twitter.com/rcSONPbGsU",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1055279049977876480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 705,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 705,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055279048404987900,
+					"id_str": "1055279048404987904",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/DqUatBMXcAA9KdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqUatBMXcAA9KdT.jpg",
+					"url": "https://t.co/rcSONPbGsU",
+					"display_url": "pic.twitter.com/rcSONPbGsU",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1055279049977876480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 705,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 705,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3341,
+			"friends_count": 2383,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1518730213",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you see the @SDSU students at last years Startup Week? We did. SDSU has created countless entrepreneurs all over San Diego and beyond. Here is a great list of many of them making San Diego an even better place for business. #MadeInSD https://t.co/hrT4uWOafr https://t.co/rcSONPbGsU"
+	},
+	{
 		"created_at": "Wed Oct 24 01:45:05 +0000 2018",
 		"id": 1054911626154033200,
 		"id_str": "1054911626154033155",
