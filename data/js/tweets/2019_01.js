@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 00:32:47 +0000 2019",
+		"id": 1082797297648382000,
+		"id_str": "1082797297648381953",
+		"full_text": "All this JPM talk is getting me hankering for a good industry conference. Hoping @StartupSanDiego brings its game to this year's @SDStartupWeek. #startups #tech #sandiego",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startups",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "tech",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2701355767,
+			"id_str": "2701355767",
+			"name": "Brittany Meiling",
+			"screen_name": "BrittanyMeiling",
+			"location": "San Diego, CA",
+			"description": "Senior Reporter, The San Diego Union-Tribune. Startups and entrepreneurship are my thing. Former Senior Writer at Endpoints News, when biotech was my thing.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2478,
+			"friends_count": 1115,
+			"listed_count": 120,
+			"created_at": "Sat Aug 02 17:32:05 +0000 2014",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075399945656487936/r_VqCq0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075399945656487936/r_VqCq0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2701355767/1538155440",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "All this JPM talk is getting me hankering for a good industry conference. Hoping @StartupSanDiego brings its game to this year's @SDStartupWeek. #startups #tech #sandiego"
+	},
+	{
+		"created_at": "Tue Jan 08 00:00:42 +0000 2019",
+		"id": 1082426832790597600,
+		"id_str": "1082426832790597632",
+		"full_text": "Rivaling dot-com boom, 2018 breaks record for San Diego startups raising cash\nhttps://t.co/JaLHJ4MV2r #startups #sandiego @PwC @sdvg @sdut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startups",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PwC",
+					"name": "PwC",
+					"id": 40937524,
+					"id_str": "40937524",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"screen_name": "sdvg",
+					"name": "SDVG",
+					"id": 19350368,
+					"id_str": "19350368",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"screen_name": "sdut",
+					"name": "San Diego Union-Tribune",
+					"id": 14148802,
+					"id_str": "14148802",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JaLHJ4MV2r",
+					"expanded_url": "https://www.sandiegouniontribune.com/business/technology/sd-fi-2018-vc-startups-20190107-story.html",
+					"display_url": "sandiegouniontribune.com/business/techn…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2701355767,
+			"id_str": "2701355767",
+			"name": "Brittany Meiling",
+			"screen_name": "BrittanyMeiling",
+			"location": "San Diego, CA",
+			"description": "Senior Reporter, The San Diego Union-Tribune. Startups and entrepreneurship are my thing. Former Senior Writer at Endpoints News, when biotech was my thing.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2478,
+			"friends_count": 1115,
+			"listed_count": 120,
+			"created_at": "Sat Aug 02 17:32:05 +0000 2014",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075399945656487936/r_VqCq0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075399945656487936/r_VqCq0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2701355767/1538155440",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rivaling dot-com boom, 2018 breaks record for San Diego startups raising cash\nhttps://t.co/JaLHJ4MV2r #startups #sandiego @PwC @sdvg @sdut"
+	},
+	{
 		"created_at": "Tue Jan 08 22:47:59 +0000 2019",
 		"id": 1082770923781013500,
 		"id_str": "1082770923781013504",
