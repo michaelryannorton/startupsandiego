@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 10:05:46 +0000 2019",
+		"id": 1085478207522885600,
+		"id_str": "1085478207522885632",
+		"full_text": "Last Call for Earlybird Tickets for Annual 3 Day Event -- It's CONVERGENCE 2019!! #startupsd    https://t.co/m73IZUhNDX https://t.co/H2SrsqKIkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupsd",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m73IZUhNDX",
+					"expanded_url": "http://bat.ly/iDTWc",
+					"display_url": "bat.ly/iDTWc",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085478205253795800,
+					"id_str": "1085478205253795842",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DxBkrTOUwAIRLoz.png",
+					"media_url_https": "https://pbs.twimg.com/media/DxBkrTOUwAIRLoz.png",
+					"url": "https://t.co/H2SrsqKIkd",
+					"display_url": "pic.twitter.com/H2SrsqKIkd",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1085478207522885632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 543,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085478205253795800,
+					"id_str": "1085478205253795842",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DxBkrTOUwAIRLoz.png",
+					"media_url_https": "https://pbs.twimg.com/media/DxBkrTOUwAIRLoz.png",
+					"url": "https://t.co/H2SrsqKIkd",
+					"display_url": "pic.twitter.com/H2SrsqKIkd",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1085478207522885632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 543,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.greenrope.com/\" rel=\"nofollow\">GreenRope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3434,
+			"friends_count": 2375,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last Call for Earlybird Tickets for Annual 3 Day Event -- It's CONVERGENCE 2019!! #startupsd    https://t.co/m73IZUhNDX https://t.co/H2SrsqKIkd"
+	},
+	{
+		"created_at": "Fri Jan 11 19:53:50 +0000 2019",
+		"id": 1083814259295842300,
+		"id_str": "1085424109440430082",
+		"full_text": "@latinas_tech con, \n@GirlsinTech Catalyst \n@lesbiantech con \n@StartupSanDiego to start\n@Microsoft Ignite 💻\n#womenintech https://t.co/8m9cAP9Ecq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womenintech",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latinas_tech",
+					"name": "Latinas in Tech",
+					"id": 905797916996010000,
+					"id_str": "905797916996009984",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "GirlsinTech",
+					"name": "Girls in Tech",
+					"id": 16014840,
+					"id_str": "16014840",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "lesbiantech",
+					"name": "Lesbians Who Tech + Allies",
+					"id": 994705358,
+					"id_str": "994705358",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8m9cAP9Ecq",
+					"expanded_url": "https://twitter.com/mirand4v/status/1083813324251226112",
+					"display_url": "twitter.com/mirand4v/statu…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 905797916996010000,
+		"in_reply_to_user_id_str": "905797916996009984",
+		"in_reply_to_screen_name": "latinas_tech",
+		"user": {
+			"id": 887073681897279500,
+			"id_str": "887073681897279488",
+			"name": "Girls In Tech SD",
+			"screen_name": "GirlsInTechSD",
+			"location": "San Diego, CA",
+			"description": "Girls in Tech is a global non-profit focused on the engagement, education and empowerment of girls and women who are passionate about technology. #GITSD",
+			"url": "https://t.co/7kOmAxIxYa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7kOmAxIxYa",
+							"expanded_url": "https://bit.ly/2OHLOZW",
+							"display_url": "bit.ly/2OHLOZW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 920,
+			"listed_count": 15,
+			"created_at": "Mon Jul 17 22:17:01 +0000 2017",
+			"favourites_count": 7805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946808680678170624/XkPEvwzq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946808680678170624/XkPEvwzq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887073681897279488/1514566523",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083813324251226100,
+		"quoted_status_id_str": "1083813324251226112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8m9cAP9Ecq",
+			"expanded": "https://twitter.com/mirand4v/status/1083813324251226112",
+			"display": "twitter.com/mirand4v/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 19:50:07 +0000 2019",
+			"id": 1083813324251226100,
+			"id_str": "1083813324251226112",
+			"full_text": "What are the MUST ATTEND #tech, #female focused, or #POC conferences of 2019? Example: @AWSreInvent, @MAKERSwomen con, @WeAllGrowLatina con, @techinclusionco, and more! 📲💻✨ https://t.co/ILsBLn3Vyx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tech",
+						"indices": [
+							25,
+							30
+						]
+					},
+					{
+						"text": "female",
+						"indices": [
+							32,
+							39
+						]
+					},
+					{
+						"text": "POC",
+						"indices": [
+							52,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AWSreInvent",
+						"name": "AWS re:Invent",
+						"id": 571241517,
+						"id_str": "571241517",
+						"indices": [
+							87,
+							99
+						]
+					},
+					{
+						"screen_name": "MAKERSwomen",
+						"name": "MAKERS",
+						"id": 491350825,
+						"id_str": "491350825",
+						"indices": [
+							101,
+							113
+						]
+					},
+					{
+						"screen_name": "WeAllGrowLatina",
+						"name": "#WeAllGrow Latina",
+						"id": 208778660,
+						"id_str": "208778660",
+						"indices": [
+							119,
+							135
+						]
+					},
+					{
+						"screen_name": "techinclusionco",
+						"name": "Tech Inclusion",
+						"id": 3139486897,
+						"id_str": "3139486897",
+						"indices": [
+							141,
+							157
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083813318014324700,
+						"id_str": "1083813318014324736",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/Dwp6eG8U0AAacTt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dwp6eG8U0AAacTt.jpg",
+						"url": "https://t.co/ILsBLn3Vyx",
+						"display_url": "pic.twitter.com/ILsBLn3Vyx",
+						"expanded_url": "https://twitter.com/mirand4v/status/1083813324251226112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083813318014324700,
+						"id_str": "1083813318014324736",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/Dwp6eG8U0AAacTt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dwp6eG8U0AAacTt.jpg",
+						"url": "https://t.co/ILsBLn3Vyx",
+						"display_url": "pic.twitter.com/ILsBLn3Vyx",
+						"expanded_url": "https://twitter.com/mirand4v/status/1083813324251226112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2500573645,
+				"id_str": "2500573645",
+				"name": "VM",
+				"screen_name": "mirand4v",
+				"location": "San Diego, CA",
+				"description": "TRAVEL, TECH, CULTURE 💻 @latinageeks @girlsintechsd. My views are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 463,
+				"friends_count": 1192,
+				"listed_count": 35,
+				"created_at": "Sat May 17 04:10:12 +0000 2014",
+				"favourites_count": 13404,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1044297330697035777/a7YJ48gN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044297330697035777/a7YJ48gN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2500573645/1517270232",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@latinas_tech con, \n@GirlsinTech Catalyst \n@lesbiantech con \n@StartupSanDiego to start\n@Microsoft Ignite 💻\n#womenintech https://t.co/8m9cAP9Ecq"
+	},
+	{
 		"created_at": "Tue Jan 15 22:47:58 +0000 2019",
 		"id": 1085307631848382500,
 		"id_str": "1085307631848382465",
