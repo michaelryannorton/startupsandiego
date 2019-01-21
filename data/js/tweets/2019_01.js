@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 20 23:05:42 +0000 2019",
+		"id": 1087124035996188700,
+		"id_str": "1087124035996188673",
+		"full_text": "We're gonna be @WeWork downtown this Monday. Jarrod Russell (Startup San Diego Executive Director) , will talk about our plans and goals for the next year.\nGet your tickets with this link: https://t.co/AaLdF7pZaj https://t.co/QhIVoEnnZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeWork",
+					"name": "WeWork",
+					"id": 111092283,
+					"id_str": "111092283",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AaLdF7pZaj",
+					"expanded_url": "https://www.eventbrite.com/e/startupsd-3rd-mondays-january-2019-tickets-53262199673",
+					"display_url": "eventbrite.com/e/startupsd-3r…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087124033647374300,
+					"id_str": "1087124033647374338",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/DxY9jHxXcAIjd3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxY9jHxXcAIjd3U.jpg",
+					"url": "https://t.co/QhIVoEnnZZ",
+					"display_url": "pic.twitter.com/QhIVoEnnZZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1087124035996188673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087124033647374300,
+					"id_str": "1087124033647374338",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/DxY9jHxXcAIjd3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxY9jHxXcAIjd3U.jpg",
+					"url": "https://t.co/QhIVoEnnZZ",
+					"display_url": "pic.twitter.com/QhIVoEnnZZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1087124035996188673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087124034364600300,
+					"id_str": "1087124034364600320",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/DxY9jKcXcAA1lKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxY9jKcXcAA1lKQ.jpg",
+					"url": "https://t.co/QhIVoEnnZZ",
+					"display_url": "pic.twitter.com/QhIVoEnnZZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1087124035996188673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 459,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 459,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3438,
+			"friends_count": 2377,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're gonna be @WeWork downtown this Monday. Jarrod Russell (Startup San Diego Executive Director) , will talk about our plans and goals for the next year.\nGet your tickets with this link: https://t.co/AaLdF7pZaj https://t.co/QhIVoEnnZZ"
+	},
+	{
 		"created_at": "Sat Jan 19 22:48:00 +0000 2019",
 		"id": 1086757193813246000,
 		"id_str": "1086757193813245952",
