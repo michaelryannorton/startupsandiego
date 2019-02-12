@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 03:17:42 +0000 2019",
+		"id": 1092985659319414800,
+		"id_str": "1095098156604215296",
+		"full_text": "Planning meeting for @StartupSanDiego Convergence. For #Entrepreneurs and those interested in working for #startups \n\nFor tickets: https://t.co/ETpGQAyArm https://t.co/Oe87NAV2dg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Entrepreneurs",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						21,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ETpGQAyArm",
+					"expanded_url": "https://bit.ly/2HwfPgP",
+					"display_url": "bit.ly/2HwfPgP",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092985654705774600,
+					"id_str": "1092985654705774592",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DysQqX1V4AAvfJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysQqX1V4AAvfJt.jpg",
+					"url": "https://t.co/Oe87NAV2dg",
+					"display_url": "pic.twitter.com/Oe87NAV2dg",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1092985659319414785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092985654705774600,
+					"id_str": "1092985654705774592",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DysQqX1V4AAvfJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysQqX1V4AAvfJt.jpg",
+					"url": "https://t.co/Oe87NAV2dg",
+					"display_url": "pic.twitter.com/Oe87NAV2dg",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1092985659319414785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "#CommunityOrganizer | #NonprofitProfessional | #SocialEntreprenuer | #SocialMedia | #Leadership | #HipHop l #Startup",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 535,
+			"listed_count": 58,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1521268910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Planning meeting for @StartupSanDiego Convergence. For #Entrepreneurs and those interested in working for #startups \n\nFor tickets: https://t.co/ETpGQAyArm https://t.co/Oe87NAV2dg"
+	},
+	{
 		"created_at": "Sat Feb 09 22:48:11 +0000 2019",
 		"id": 1094367385031721000,
 		"id_str": "1094367385031720960",
