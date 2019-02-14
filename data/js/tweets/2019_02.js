@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 18:57:03 +0000 2019",
+		"id": 1095758769814818800,
+		"id_str": "1095811987424956416",
+		"full_text": "&amp; another huge thank you to @AK_LaunchLeader @JarrodMRussell &amp; @NealBloom for joining us as well to talk about the roles @StartupSanDiego @SDStartupWeek &amp; @Techcoastangels play in supporting regional economic development, entrepreneurship &amp; start-up growth.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AK_LaunchLeader",
+					"name": "Ashok Kamal 👊🏾",
+					"id": 3120144299,
+					"id_str": "3120144299",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "JarrodMRussell",
+					"name": "Jarrod Russell",
+					"id": 210195786,
+					"id_str": "210195786",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom 🎩",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						129,
+						145
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						146,
+						160
+					]
+				},
+				{
+					"screen_name": "Techcoastangels",
+					"name": "Tech Coast Angels",
+					"id": 14608247,
+					"id_str": "14608247",
+					"indices": [
+						167,
+						183
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095757439016816600,
+		"in_reply_to_status_id_str": "1095757439016816642",
+		"in_reply_to_user_id": 450453720,
+		"in_reply_to_user_id_str": "450453720",
+		"in_reply_to_screen_name": "Markcaffertysd",
+		"user": {
+			"id": 450453720,
+			"id_str": "450453720",
+			"name": "Mark Cafferty",
+			"screen_name": "Markcaffertysd",
+			"location": "San Diego",
+			"description": "President & CEO, San Diego Regional EDC, husband, father, reader, sports fan and booster of all things San Diego. Opinions expressed are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4320,
+			"friends_count": 634,
+			"listed_count": 133,
+			"created_at": "Fri Dec 30 07:55:29 +0000 2011",
+			"favourites_count": 20684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18811,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021802411877269504/ByzWmUX4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021802411877269504/ByzWmUX4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/450453720/1532451814",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "&amp; another huge thank you to @AK_LaunchLeader @JarrodMRussell &amp; @NealBloom for joining us as well to talk about the roles @StartupSanDiego @SDStartupWeek &amp; @Techcoastangels play in supporting regional economic development, entrepreneurship &amp; start-up growth."
+	},
+	{
 		"created_at": "Tue Feb 12 22:48:41 +0000 2019",
 		"id": 1095454675153928200,
 		"id_str": "1095454675153928192",
