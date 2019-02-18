@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 01:31:18 +0000 2019",
+		"id": 1096945149718851600,
+		"id_str": "1096951193564135425",
+		"full_text": "Calling all #entrepreneurs, #students, #jobseekers, #developers, #designers, #investors, and #technerds🤓... we're in the #EndGame now.  Okay - it's also just the beginning for most #startups, ipso facto, but it had to be said!  #SDVERGE🌴 https://t.co/jI62MpJkAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"text": "students",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "jobseekers",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"text": "developers",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"text": "designers",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "investors",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "technerds",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "EndGame",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "SDVERGE",
+					"indices": [
+						228,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jI62MpJkAN",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1096932935863754752",
+					"display_url": "twitter.com/StartupSanDieg…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68277885,
+			"id_str": "68277885",
+			"name": "Jeremy Sanders",
+			"screen_name": "StartupJeremy",
+			"location": "Los Angeles, CA",
+			"description": "Cloudbased #CFO @benchmarkCFO, #Advisor @SEALfuturefund, #board leader, #founder, and #mentor to #entrepreneurs & #startups. #AchieveIntently",
+			"url": "https://t.co/L1VFzj2Qre",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L1VFzj2Qre",
+							"expanded_url": "https://www.linkedin.com/in/jeremysanders",
+							"display_url": "linkedin.com/in/jeremysande…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2201,
+			"friends_count": 4593,
+			"listed_count": 162,
+			"created_at": "Mon Aug 24 00:30:16 +0000 2009",
+			"favourites_count": 1886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752780053214224384/ZbQVZ9CI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752780053214224384/ZbQVZ9CI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68277885/1497979277",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096932935863754800,
+		"quoted_status_id_str": "1096932935863754752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jI62MpJkAN",
+			"expanded": "https://twitter.com/StartupSanDiego/status/1096932935863754752",
+			"display": "twitter.com/StartupSanDieg…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 17 00:42:46 +0000 2019",
+			"id": 1096932935863754800,
+			"id_str": "1096932935863754752",
+			"full_text": "Schedule Announced!  Check out Lineup of #SDEvents - it's #Convergence2019!  2/27 - 3/1   https://t.co/T6sRqU2aPV #startupsd https://t.co/4LPMk6qC3y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SDEvents",
+						"indices": [
+							41,
+							50
+						]
+					},
+					{
+						"text": "Convergence2019",
+						"indices": [
+							58,
+							74
+						]
+					},
+					{
+						"text": "startupsd",
+						"indices": [
+							114,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T6sRqU2aPV",
+						"expanded_url": "http://bat.ly/zCXiA",
+						"display_url": "bat.ly/zCXiA",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1096932933921722400,
+						"id_str": "1096932933921722369",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/DzkWsQzU0AE9OcM.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzkWsQzU0AE9OcM.png",
+						"url": "https://t.co/4LPMk6qC3y",
+						"display_url": "pic.twitter.com/4LPMk6qC3y",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1096932935863754752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 626,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 626,
+								"h": 393,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 626,
+								"h": 393,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096932933921722400,
+						"id_str": "1096932933921722369",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/DzkWsQzU0AE9OcM.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzkWsQzU0AE9OcM.png",
+						"url": "https://t.co/4LPMk6qC3y",
+						"display_url": "pic.twitter.com/4LPMk6qC3y",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1096932935863754752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 626,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 626,
+								"h": 393,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 626,
+								"h": 393,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.greenrope.com/\" rel=\"nofollow\">GreenRope</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3479,
+				"friends_count": 2377,
+				"listed_count": 115,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 1609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3204,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling all #entrepreneurs, #students, #jobseekers, #developers, #designers, #investors, and #technerds🤓... we're in the #EndGame now.  Okay - it's also just the beginning for most #startups, ipso facto, but it had to be said!  #SDVERGE🌴 https://t.co/jI62MpJkAN"
+	},
+	{
 		"created_at": "Sat Feb 16 22:47:57 +0000 2019",
 		"id": 1096904042905813000,
 		"id_str": "1096904042905812993",
