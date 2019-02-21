@@ -1,6 +1,997 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 22:30:27 +0000 2019",
+		"id": 1098349186301526000,
+		"id_str": "1098349186301526017",
+		"full_text": "Learn from Hayley's experience starting an education technology company from scratch. This panel of female founders will discuss developing innovative products, building brands, and attracting loyal customers. https://t.co/3FEQl3Stpe https://t.co/Gml0llYQlt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3FEQl3Stpe",
+					"expanded_url": "https://startupsd.org/convergence2019/",
+					"display_url": "startupsd.org/convergence201…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098349184393113600,
+					"id_str": "1098349184393113600",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4ew48XcAAlRyb.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4ew48XcAAlRyb.png",
+					"url": "https://t.co/Gml0llYQlt",
+					"display_url": "pic.twitter.com/Gml0llYQlt",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1098349186301526017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098349184393113600,
+					"id_str": "1098349184393113600",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4ew48XcAAlRyb.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4ew48XcAAlRyb.png",
+					"url": "https://t.co/Gml0llYQlt",
+					"display_url": "pic.twitter.com/Gml0llYQlt",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1098349186301526017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3494,
+			"friends_count": 2380,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn from Hayley's experience starting an education technology company from scratch. This panel of female founders will discuss developing innovative products, building brands, and attracting loyal customers. https://t.co/3FEQl3Stpe https://t.co/Gml0llYQlt"
+	},
+	{
+		"created_at": "Wed Feb 20 19:57:29 +0000 2019",
+		"id": 1098310691533008900,
+		"id_str": "1098310691533008902",
+		"full_text": "#StartupSD team looking fresh with new banners @ #IgniteUCSD #ucsd\n \nWant to get involved? #Convergence2019 is just around the corner!  Visit https://t.co/tmDnVWBMGS for info &amp; tickets… https://t.co/Wwic2A3D75",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "IgniteUCSD",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"text": "ucsd",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "Convergence2019",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tmDnVWBMGS",
+					"expanded_url": "http://Startupsd.org/c19",
+					"display_url": "Startupsd.org/c19",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/Wwic2A3D75",
+					"expanded_url": "https://www.instagram.com/p/BuHbvHrH2_6/?utm_source=ig_twitter_share&igshid=j42pyr2w6974",
+					"display_url": "instagram.com/p/BuHbvHrH2_6/…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3494,
+			"friends_count": 2380,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				32.88628692,
+				-117.24051781
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-117.24051781,
+				32.88628692
+			]
+		},
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#StartupSD team looking fresh with new banners @ #IgniteUCSD #ucsd\n \nWant to get involved? #Convergence2019 is just around the corner!  Visit https://t.co/tmDnVWBMGS for info &amp; tickets… https://t.co/Wwic2A3D75"
+	},
+	{
+		"created_at": "Wed Feb 20 13:35:09 +0000 2019",
+		"id": 1098214476569034800,
+		"id_str": "1098214476569034753",
+		"full_text": "Join Luis and other entrepreneurs for a discussion on how the local startup ecosystem &amp; community in San Diego needs more diverse faces, voices, and leadership in order to compete with Silicon Valley and reflect the changing face of the tech world. https://t.co/3FEQl3Stpe https://t.co/a2WFrJxvfT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3FEQl3Stpe",
+					"expanded_url": "https://startupsd.org/convergence2019/",
+					"display_url": "startupsd.org/convergence201…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098214474547449900,
+					"id_str": "1098214474547449857",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2kPvqX0AEozJf.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2kPvqX0AEozJf.png",
+					"url": "https://t.co/a2WFrJxvfT",
+					"display_url": "pic.twitter.com/a2WFrJxvfT",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1098214476569034753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098214474547449900,
+					"id_str": "1098214474547449857",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2kPvqX0AEozJf.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2kPvqX0AEozJf.png",
+					"url": "https://t.co/a2WFrJxvfT",
+					"display_url": "pic.twitter.com/a2WFrJxvfT",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1098214476569034753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3494,
+			"friends_count": 2380,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join Luis and other entrepreneurs for a discussion on how the local startup ecosystem &amp; community in San Diego needs more diverse faces, voices, and leadership in order to compete with Silicon Valley and reflect the changing face of the tech world. https://t.co/3FEQl3Stpe https://t.co/a2WFrJxvfT"
+	},
+	{
+		"created_at": "Wed Feb 20 03:32:58 +0000 2019",
+		"id": 1098062932221386800,
+		"id_str": "1098109019661586432",
+		"full_text": "For @StartupSanDiego #Convergence I got my room for the Career Incubator to be called the “Hyperbolic Time Chamber” in honor of @dragonballsuper https://t.co/2dAYoyy92Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"screen_name": "dragonballsuper",
+					"name": "Dragon Ball Super",
+					"id": 1027688366328959000,
+					"id_str": "1027688366328958977",
+					"indices": [
+						128,
+						144
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098062921861484500,
+					"id_str": "1098062921861484544",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz0aaN6U0AADWGK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz0aaN6U0AADWGK.jpg",
+					"url": "https://t.co/2dAYoyy92Z",
+					"display_url": "pic.twitter.com/2dAYoyy92Z",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1098062932221386752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098062921861484500,
+					"id_str": "1098062921861484544",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz0aaN6U0AADWGK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz0aaN6U0AADWGK.jpg",
+					"url": "https://t.co/2dAYoyy92Z",
+					"display_url": "pic.twitter.com/2dAYoyy92Z",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1098062932221386752/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 278,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							139
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dz0aaN6U0AADWGK.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "#CommunityOrganizer | #NonprofitProfessional | #SocialEntreprenuer | #SocialMedia | #Leadership | #HipHop l #Startup",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 539,
+			"listed_count": 58,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1521268910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For @StartupSanDiego #Convergence I got my room for the Career Incubator to be called the “Hyperbolic Time Chamber” in honor of @dragonballsuper https://t.co/2dAYoyy92Z"
+	},
+	{
+		"created_at": "Wed Feb 20 01:41:58 +0000 2019",
+		"id": 1098034999238881300,
+		"id_str": "1098104107317964801",
+		"full_text": "@Igniteucsd - Crafting (Not Correcting) the Culture\n\n#Uber, #Google… you don’t hear about #companyculture until something goes wrong. The @DesignLabUCSD has assembled a panel to discuss experiences &amp; field insights from the crowd. \n\n#igniteucsd #tritonchangemaker https://t.co/hODS9DBxjW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Uber",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "Google",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "companyculture",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"text": "igniteucsd",
+					"indices": [
+						237,
+						248
+					]
+				},
+				{
+					"text": "tritonchangemaker",
+					"indices": [
+						249,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Igniteucsd",
+					"name": "Ignite Conference",
+					"id": 818952453886349300,
+					"id_str": "818952453886349312",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DesignLabUCSD",
+					"name": "The Design Lab",
+					"id": 3192809753,
+					"id_str": "3192809753",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098033765496967200,
+					"id_str": "1098033765496967168",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzz_5F_U0AAVoZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzz_5F_U0AAVoZQ.jpg",
+					"url": "https://t.co/hODS9DBxjW",
+					"display_url": "pic.twitter.com/hODS9DBxjW",
+					"expanded_url": "https://twitter.com/Igniteucsd/status/1098034999238881280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098033765496967200,
+					"id_str": "1098033765496967168",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzz_5F_U0AAVoZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzz_5F_U0AAVoZQ.jpg",
+					"url": "https://t.co/hODS9DBxjW",
+					"display_url": "pic.twitter.com/hODS9DBxjW",
+					"expanded_url": "https://twitter.com/Igniteucsd/status/1098034999238881280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 818952453886349300,
+		"in_reply_to_user_id_str": "818952453886349312",
+		"in_reply_to_screen_name": "Igniteucsd",
+		"user": {
+			"id": 818952453886349300,
+			"id_str": "818952453886349312",
+			"name": "Ignite Conference",
+			"screen_name": "Igniteucsd",
+			"location": "La Jolla, San Diego",
+			"description": "Ignite @ UC San Diego is an annual, campus-wide conference for innovators and entrepreneurs. Join us for the 2019 Ignite Conference on February 20-21, 2019!",
+			"url": "https://t.co/yhWs2wQIaV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhWs2wQIaV",
+							"expanded_url": "http://ignite.ucsd.edu/",
+							"display_url": "ignite.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146,
+			"friends_count": 115,
+			"listed_count": 3,
+			"created_at": "Tue Jan 10 22:47:35 +0000 2017",
+			"favourites_count": 198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923230765093076994/nqeyucTM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923230765093076994/nqeyucTM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/818952453886349312/1509125848",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Igniteucsd - Crafting (Not Correcting) the Culture\n\n#Uber, #Google… you don’t hear about #companyculture until something goes wrong. The @DesignLabUCSD has assembled a panel to discuss experiences &amp; field insights from the crowd. \n\n#igniteucsd #tritonchangemaker https://t.co/hODS9DBxjW"
+	},
+	{
 		"created_at": "Wed Feb 13 18:15:00 +0000 2019",
 		"id": 1095748186814074900,
 		"id_str": "1098011437606219777",
