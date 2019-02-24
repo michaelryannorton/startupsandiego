@@ -1,6 +1,1726 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 22:48:04 +0000 2019",
+		"id": 1099440784309477400,
+		"id_str": "1099440784309477376",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/lc08ozKv16 Thanks to @EVT_News @DroBoatCom @DodgersWayFS #sandiego #gotritons",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "gotritons",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EVT_News",
+					"name": "East Village Times",
+					"id": 2990648917,
+					"id_str": "2990648917",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"screen_name": "DroBoatCom",
+					"name": "DroBoat",
+					"id": 921811275960737800,
+					"id_str": "921811275960737793",
+					"indices": [
+						83,
+						94
+					]
+				},
+				{
+					"screen_name": "DodgersWayFS",
+					"name": "Dodgers' Way",
+					"id": 199386595,
+					"id_str": "199386595",
+					"indices": [
+						95,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lc08ozKv16",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=130d34d0-37bd-11e9-b211-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3500,
+			"friends_count": 2382,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3231,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/lc08ozKv16 Thanks to @EVT_News @DroBoatCom @DodgersWayFS #sandiego #gotritons"
+	},
+	{
+		"created_at": "Sat Feb 23 22:40:06 +0000 2019",
+		"id": 1099438780665290800,
+		"id_str": "1099438780665290754",
+		"full_text": "Vilavanh and other entrepreneurs will discuss how the local startup ecosystem &amp; community in San Diego needs more diverse faces, voices, and leadership in order to compete with Silicon Valley and reflect the changing face of the tech world. https://t.co/3FEQl3Stpe https://t.co/OdegyCboaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3FEQl3Stpe",
+					"expanded_url": "https://startupsd.org/convergence2019/",
+					"display_url": "startupsd.org/convergence201…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099438778719092700,
+					"id_str": "1099438778719092737",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D0H9voHXQAEy16Z.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0H9voHXQAEy16Z.png",
+					"url": "https://t.co/OdegyCboaL",
+					"display_url": "pic.twitter.com/OdegyCboaL",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1099438780665290754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099438778719092700,
+					"id_str": "1099438778719092737",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D0H9voHXQAEy16Z.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0H9voHXQAEy16Z.png",
+					"url": "https://t.co/OdegyCboaL",
+					"display_url": "pic.twitter.com/OdegyCboaL",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1099438780665290754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3500,
+			"friends_count": 2382,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3231,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Vilavanh and other entrepreneurs will discuss how the local startup ecosystem &amp; community in San Diego needs more diverse faces, voices, and leadership in order to compete with Silicon Valley and reflect the changing face of the tech world. https://t.co/3FEQl3Stpe https://t.co/OdegyCboaL"
+	},
+	{
+		"created_at": "Sat Feb 23 15:07:16 +0000 2019",
+		"id": 1099324819974156300,
+		"id_str": "1099324819974156288",
+		"full_text": "#Convergence2019 is THIS Week!  Meet a Few Highlight Speakers from the Awesome Lineup! https://t.co/drQH3epAKl   #startupsd https://t.co/KGpGHbwXdm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2019",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "startupsd",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/drQH3epAKl",
+					"expanded_url": "http://bat.ly/DlI7t",
+					"display_url": "bat.ly/DlI7t",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099324817654698000,
+					"id_str": "1099324817654697984",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D0GWGOEUUAAb7De.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0GWGOEUUAAb7De.png",
+					"url": "https://t.co/KGpGHbwXdm",
+					"display_url": "pic.twitter.com/KGpGHbwXdm",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1099324819974156288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099324817654698000,
+					"id_str": "1099324817654697984",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D0GWGOEUUAAb7De.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0GWGOEUUAAb7De.png",
+					"url": "https://t.co/KGpGHbwXdm",
+					"display_url": "pic.twitter.com/KGpGHbwXdm",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1099324819974156288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.greenrope.com/\" rel=\"nofollow\">GreenRope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Building the #SDTech scene | #SanDiego #GoSanDiego #SoCal #Startups #Tech | Join us in June for #SanDiego #StartupWeek #SDSW",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3500,
+			"friends_count": 2382,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3231,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1547628800",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Convergence2019 is THIS Week!  Meet a Few Highlight Speakers from the Awesome Lineup! https://t.co/drQH3epAKl   #startupsd https://t.co/KGpGHbwXdm"
+	},
+	{
+		"created_at": "Wed Feb 20 18:48:02 +0000 2019",
+		"id": 1098293215965388800,
+		"id_str": "1099182649074044929",
+		"full_text": "Come out to Convergence 2019, an annual @StartupSanDiego event, for 3 days of fun, interactive, and educational events from 2/27 to 3/1 #sdtechos https://t.co/9QWKkdqIYC https://t.co/xB5BtvByUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sdtechos",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9QWKkdqIYC",
+					"expanded_url": "https://buff.ly/2GqIJxQ",
+					"display_url": "buff.ly/2GqIJxQ",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098293211263615000,
+					"id_str": "1098293211263614983",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3r20yXQAcA2fv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3r20yXQAcA2fv.jpg",
+					"url": "https://t.co/xB5BtvByUy",
+					"display_url": "pic.twitter.com/xB5BtvByUy",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1098293215965388800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1962,
+							"h": 770,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098293211263615000,
+					"id_str": "1098293211263614983",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3r20yXQAcA2fv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3r20yXQAcA2fv.jpg",
+					"url": "https://t.co/xB5BtvByUy",
+					"display_url": "pic.twitter.com/xB5BtvByUy",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1098293215965388800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1962,
+							"h": 770,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970531248882896900,
+			"id_str": "970531248882896897",
+			"name": "Fresh Brewed Tech",
+			"screen_name": "freshbrewedtech",
+			"location": "San Diego, CA",
+			"description": "Serving up the latest San Diego tech news! Subscribe to our newsletter for The Local Buzz https://t.co/t6c1DXX89D",
+			"url": "https://t.co/gqgiCYPCGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gqgiCYPCGk",
+							"expanded_url": "http://FreshBrewedTech.com",
+							"display_url": "FreshBrewedTech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t6c1DXX89D",
+							"expanded_url": "http://bit.ly/FreshBrewedSubscribe",
+							"display_url": "bit.ly/FreshBrewedSub…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 374,
+			"friends_count": 198,
+			"listed_count": 8,
+			"created_at": "Mon Mar 05 05:27:36 +0000 2018",
+			"favourites_count": 408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970531248882896897/1525202372",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come out to Convergence 2019, an annual @StartupSanDiego event, for 3 days of fun, interactive, and educational events from 2/27 to 3/1 #sdtechos https://t.co/9QWKkdqIYC https://t.co/xB5BtvByUy"
+	},
+	{
+		"created_at": "Wed Feb 20 21:44:42 +0000 2019",
+		"id": 1098337674174259200,
+		"id_str": "1099182567339655168",
+		"full_text": "Come give a high five and an idea at the @StartupSanDiego booth! #IgniteUCSD https://t.co/JSyYmricYn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IgniteUCSD",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098337649096458200,
+					"id_str": "1098337649096458240",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4URcnVAAAHiFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4URcnVAAAHiFX.jpg",
+					"url": "https://t.co/JSyYmricYn",
+					"display_url": "pic.twitter.com/JSyYmricYn",
+					"expanded_url": "https://twitter.com/NealBloom/status/1098337674174259205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098337649096458200,
+					"id_str": "1098337649096458240",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4URcnVAAAHiFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4URcnVAAAHiFX.jpg",
+					"url": "https://t.co/JSyYmricYn",
+					"display_url": "pic.twitter.com/JSyYmricYn",
+					"expanded_url": "https://twitter.com/NealBloom/status/1098337674174259205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19131762,
+			"id_str": "19131762",
+			"name": "Neal Bloom 🎩",
+			"screen_name": "NealBloom",
+			"location": "San Diego, CA",
+			"description": "Tech ecosystem builder | @StartupSanDiego |  @FreshBrewedTech | #sdlifechanging #sdtechos🌮💻",
+			"url": "https://t.co/Ei0BsL2E7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ei0BsL2E7u",
+							"expanded_url": "http://www.nealbloom.me",
+							"display_url": "nealbloom.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 254,
+			"listed_count": 187,
+			"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+			"favourites_count": 9636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8985,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19131762/1405621367",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come give a high five and an idea at the @StartupSanDiego booth! #IgniteUCSD https://t.co/JSyYmricYn"
+	},
+	{
+		"created_at": "Wed Feb 20 23:17:57 +0000 2019",
+		"id": 1098361143007957000,
+		"id_str": "1099182536704483329",
+		"full_text": "We loved listening to alumnus @JarrodMRussell of @StartupSanDiego discuss San Diego’s #collaborative ecosystems. #igniteucsd https://t.co/VWG4ES1KK4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "collaborative",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"text": "igniteucsd",
+					"indices": [
+						113,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JarrodMRussell",
+					"name": "Jarrod Russell",
+					"id": 210195786,
+					"id_str": "210195786",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098361139736457200,
+					"id_str": "1098361139736457216",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4poyEVsAAsFIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4poyEVsAAsFIK.jpg",
+					"url": "https://t.co/VWG4ES1KK4",
+					"display_url": "pic.twitter.com/VWG4ES1KK4",
+					"expanded_url": "https://twitter.com/GPS_UCSD/status/1098361143007956993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098361139736457200,
+					"id_str": "1098361139736457216",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4poyEVsAAsFIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4poyEVsAAsFIK.jpg",
+					"url": "https://t.co/VWG4ES1KK4",
+					"display_url": "pic.twitter.com/VWG4ES1KK4",
+					"expanded_url": "https://twitter.com/GPS_UCSD/status/1098361143007956993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14768168,
+			"id_str": "14768168",
+			"name": "GPS UC San Diego",
+			"screen_name": "GPS_UCSD",
+			"location": "San Diego, CA",
+			"description": "The UC San Diego School of Global Policy and Strategy is a community dedicated to the advancement of knowledge through teaching, research and engagement.",
+			"url": "https://t.co/dMoyquxfqx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dMoyquxfqx",
+							"expanded_url": "http://gps.ucsd.edu/",
+							"display_url": "gps.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2677,
+			"friends_count": 859,
+			"listed_count": 143,
+			"created_at": "Wed May 14 02:32:31 +0000 2008",
+			"favourites_count": 2709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10324,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/598133244530282497/V1XuOYzj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/598133244530282497/V1XuOYzj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14768168/1477935788",
+			"profile_link_color": "24537F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "96B2AF",
+			"profile_text_color": "454345",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We loved listening to alumnus @JarrodMRussell of @StartupSanDiego discuss San Diego’s #collaborative ecosystems. #igniteucsd https://t.co/VWG4ES1KK4"
+	},
+	{
+		"created_at": "Thu Feb 21 01:30:17 +0000 2019",
+		"id": 1098394443458273300,
+		"id_str": "1099182490126700544",
+		"full_text": "Come out to Convergence 2019, an annual @StartupSanDiego event, for 3 days of fun, interactive, and educational events from 2/27 to 3/1 #sdtechos https://t.co/RYc8VxoBs5 https://t.co/eMQDZefotq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sdtechos",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RYc8VxoBs5",
+					"expanded_url": "https://buff.ly/2GqIJxQ",
+					"display_url": "buff.ly/2GqIJxQ",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098394438974488600,
+					"id_str": "1098394438974488577",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5H7DZWwAEbJoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5H7DZWwAEbJoa.jpg",
+					"url": "https://t.co/eMQDZefotq",
+					"display_url": "pic.twitter.com/eMQDZefotq",
+					"expanded_url": "https://twitter.com/NealBloom/status/1098394443458273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1962,
+							"h": 770,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098394438974488600,
+					"id_str": "1098394438974488577",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5H7DZWwAEbJoa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5H7DZWwAEbJoa.jpg",
+					"url": "https://t.co/eMQDZefotq",
+					"display_url": "pic.twitter.com/eMQDZefotq",
+					"expanded_url": "https://twitter.com/NealBloom/status/1098394443458273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1962,
+							"h": 770,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19131762,
+			"id_str": "19131762",
+			"name": "Neal Bloom 🎩",
+			"screen_name": "NealBloom",
+			"location": "San Diego, CA",
+			"description": "Tech ecosystem builder | @StartupSanDiego |  @FreshBrewedTech | #sdlifechanging #sdtechos🌮💻",
+			"url": "https://t.co/Ei0BsL2E7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ei0BsL2E7u",
+							"expanded_url": "http://www.nealbloom.me",
+							"display_url": "nealbloom.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 254,
+			"listed_count": 187,
+			"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+			"favourites_count": 9636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8985,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19131762/1405621367",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come out to Convergence 2019, an annual @StartupSanDiego event, for 3 days of fun, interactive, and educational events from 2/27 to 3/1 #sdtechos https://t.co/RYc8VxoBs5 https://t.co/eMQDZefotq"
+	},
+	{
+		"created_at": "Thu Feb 21 19:45:40 +0000 2019",
+		"id": 1098670106958270500,
+		"id_str": "1099182437492350977",
+		"full_text": "Heading to #Convergence2019? Don't miss @brantcooper as the MC for Student Founders Fight Club at the Comic-Con Museum in Balboa Park! #Startups from across #SanDiego will compete for ultimate bragging rights. Learn more here: https://t.co/Erj5sGoI6q @StartupSanDiego #StartupSD https://t.co/rBGHaFvzs9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2019",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"text": "Startups",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "SanDiego",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						268,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brantcooper",
+					"name": "Brant Cooper",
+					"id": 18058024,
+					"id_str": "18058024",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						251,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Erj5sGoI6q",
+					"expanded_url": "https://movestheneedle.info/convergence",
+					"display_url": "movestheneedle.info/convergence",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098670103984525300,
+					"id_str": "1098670103984525313",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9Co3lW0AEUIoA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9Co3lW0AEUIoA.jpg",
+					"url": "https://t.co/rBGHaFvzs9",
+					"display_url": "pic.twitter.com/rBGHaFvzs9",
+					"expanded_url": "https://twitter.com/MovesTheNeedle/status/1098670106958270464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098670103984525300,
+					"id_str": "1098670103984525313",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9Co3lW0AEUIoA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9Co3lW0AEUIoA.jpg",
+					"url": "https://t.co/rBGHaFvzs9",
+					"display_url": "pic.twitter.com/rBGHaFvzs9",
+					"expanded_url": "https://twitter.com/MovesTheNeedle/status/1098670106958270464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 894326852,
+			"id_str": "894326852",
+			"name": "Moves the Needle",
+			"screen_name": "MovesTheNeedle",
+			"location": "Global",
+			"description": "Global practitioners of #leaninnovation. We ignite entrepreneurial action in the enterprise to help organizations move faster, act bolder, and drive impact.",
+			"url": "https://t.co/DVW6agLMH5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DVW6agLMH5",
+							"expanded_url": "http://movestheneedle.info/home-tb",
+							"display_url": "movestheneedle.info/home-tb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5839,
+			"friends_count": 5683,
+			"listed_count": 304,
+			"created_at": "Sun Oct 21 00:44:04 +0000 2012",
+			"favourites_count": 1481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902767244874264579/sQvwl4Hf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902767244874264579/sQvwl4Hf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/894326852/1533062946",
+			"profile_link_color": "63A1D7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heading to #Convergence2019? Don't miss @brantcooper as the MC for Student Founders Fight Club at the Comic-Con Museum in Balboa Park! #Startups from across #SanDiego will compete for ultimate bragging rights. Learn more here: https://t.co/Erj5sGoI6q @StartupSanDiego #StartupSD https://t.co/rBGHaFvzs9"
+	},
+	{
+		"created_at": "Thu Feb 21 20:05:00 +0000 2019",
+		"id": 1098674972204109800,
+		"id_str": "1099182385994686464",
+		"full_text": "#SanDiego kicks off their #Startup Convergence event next week! https://t.co/6lvmkqgfrl @StartupSanDiego",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "Startup",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6lvmkqgfrl",
+					"expanded_url": "https://startupsd.org/convergence2019/",
+					"display_url": "startupsd.org/convergence201…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29881875,
+			"id_str": "29881875",
+			"name": "Xconomy",
+			"screen_name": "Xconomy",
+			"location": "United States",
+			"description": "Xconomy is the authoritative voice on the exponential economy: innovation news, analysis, events, awards, #xconomists",
+			"url": "http://t.co/qmtsHw3BIS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qmtsHw3BIS",
+							"expanded_url": "http://www.xconomy.com",
+							"display_url": "xconomy.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26604,
+			"friends_count": 1854,
+			"listed_count": 1474,
+			"created_at": "Thu Apr 09 01:24:43 +0000 2009",
+			"favourites_count": 8122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "26323F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897531095255851009/qyTY7QgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897531095255851009/qyTY7QgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29881875/1435781881",
+			"profile_link_color": "4A5B74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SanDiego kicks off their #Startup Convergence event next week! https://t.co/6lvmkqgfrl @StartupSanDiego"
+	},
+	{
 		"created_at": "Fri Feb 22 22:30:28 +0000 2019",
 		"id": 1099073968491909100,
 		"id_str": "1099073968491909120",
