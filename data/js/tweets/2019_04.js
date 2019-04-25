@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 00:05:23 +0000 2019",
+		"id": 1121202329380720600,
+		"id_str": "1121203516653969409",
+		"full_text": "We are doing a walk thru at @SDConventionCtr for @StartupSanDiego #SanDiego #StartupWeek. Looking over logistics, A/V, and food. https://t.co/E9K0DjpeFD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "StartupWeek",
+					"indices": [
+						76,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDConventionCtr",
+					"name": "SD Convention Center",
+					"id": 90513723,
+					"id_str": "90513723",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121202299781541900,
+					"id_str": "1121202299781541888",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/D49PjR_UcAApPJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D49PjR_UcAApPJN.jpg",
+					"url": "https://t.co/E9K0DjpeFD",
+					"display_url": "pic.twitter.com/E9K0DjpeFD",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1121202329380720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121202299781541900,
+					"id_str": "1121202299781541888",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/D49PjR_UcAApPJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D49PjR_UcAApPJN.jpg",
+					"url": "https://t.co/E9K0DjpeFD",
+					"display_url": "pic.twitter.com/E9K0DjpeFD",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1121202329380720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121202299760590800,
+					"id_str": "1121202299760590848",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/D49PjR6UwAARnzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D49PjR6UwAARnzm.jpg",
+					"url": "https://t.co/E9K0DjpeFD",
+					"display_url": "pic.twitter.com/E9K0DjpeFD",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1121202329380720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121202299945177100,
+					"id_str": "1121202299945177088",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/D49PjSmVUAA4JvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D49PjSmVUAA4JvC.jpg",
+					"url": "https://t.co/E9K0DjpeFD",
+					"display_url": "pic.twitter.com/E9K0DjpeFD",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1121202329380720640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 593,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "#CommunityOrganizer | #NonprofitProfessional | #SocialEntreprenuer | #SocialMedia | #Leadership | #HipHop l #Startup",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 559,
+			"listed_count": 58,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1293,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1521268910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are doing a walk thru at @SDConventionCtr for @StartupSanDiego #SanDiego #StartupWeek. Looking over logistics, A/V, and food. https://t.co/E9K0DjpeFD"
+	},
+	{
 		"created_at": "Tue Apr 23 21:48:09 +0000 2019",
 		"id": 1120806589341081600,
 		"id_str": "1120806589341081601",
