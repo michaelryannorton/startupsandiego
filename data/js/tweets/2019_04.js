@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 22:17:10 +0000 2019",
+		"id": 1121901058509422600,
+		"id_str": "1121901058509422599",
+		"full_text": "This year’s theme at @SDSW is “We are San Diego.” To celebrate the amazing innovation happening in our region we are bringing @SDSW to locations across #SanDiego and #Tijuana!\nhttps://t.co/TJISX3NL26 https://t.co/5vEH881vvH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "Tijuana",
+					"indices": [
+						166,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sdsw",
+					"name": "dsw",
+					"id": 145564652,
+					"id_str": "145564652",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"screen_name": "sdsw",
+					"name": "dsw",
+					"id": 145564652,
+					"id_str": "145564652",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TJISX3NL26",
+					"expanded_url": "https://sandiegostartupweek.com/",
+					"display_url": "sandiegostartupweek.com",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1121901056680706000,
+					"id_str": "1121901056680706048",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/D5HLESSWwAAU_k8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5HLESSWwAAU_k8.jpg",
+					"url": "https://t.co/5vEH881vvH",
+					"display_url": "pic.twitter.com/5vEH881vvH",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1121901058509422599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121901056680706000,
+					"id_str": "1121901056680706048",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/D5HLESSWwAAU_k8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5HLESSWwAAU_k8.jpg",
+					"url": "https://t.co/5vEH881vvH",
+					"display_url": "pic.twitter.com/5vEH881vvH",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1121901058509422599/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2010. #SanDiego #GoSanDiego #Startups #Tech | May 28 - June 2 for #SDSW https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3601,
+			"friends_count": 2380,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This year’s theme at @SDSW is “We are San Diego.” To celebrate the amazing innovation happening in our region we are bringing @SDSW to locations across #SanDiego and #Tijuana!\nhttps://t.co/TJISX3NL26 https://t.co/5vEH881vvH"
+	},
+	{
 		"created_at": "Thu Apr 25 18:00:54 +0000 2019",
 		"id": 1121474178643664900,
 		"id_str": "1121474178643664896",
