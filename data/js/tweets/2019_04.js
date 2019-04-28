@@ -1,6 +1,526 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 21:48:10 +0000 2019",
+		"id": 1122256144880283600,
+		"id_str": "1122256144880283658",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/Gn031HSEhp Thanks to @cnsignbrideprom @FanpagesFB @EscoEconDev #sandiego #leadership",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cnsignbrideprom",
+					"name": "Consignment Bridal & Prom",
+					"id": 124163216,
+					"id_str": "124163216",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "FanpagesFB",
+					"name": "Facebook Fan Pages",
+					"id": 2985771922,
+					"id_str": "2985771922",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"screen_name": "EscoEconDev",
+					"name": "Escondido Economic Development",
+					"id": 969280947714629600,
+					"id_str": "969280947714629632",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gn031HSEhp",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=240b1f90-6936-11e9-869e-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3606,
+			"friends_count": 2380,
+			"listed_count": 123,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/Gn031HSEhp Thanks to @cnsignbrideprom @FanpagesFB @EscoEconDev #sandiego #leadership"
+	},
+	{
+		"created_at": "Sat Apr 27 18:50:11 +0000 2019",
+		"id": 1122211356839694300,
+		"id_str": "1122211356839694342",
+		"full_text": "They always say Saturdays are for taking it easy. I say it's for buying your Startup Week tickets! https://t.co/uh8OjN7G0Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122211355065507800,
+					"id_str": "1122211355065507840",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D5LlSB2W4AAPNUG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5LlSB2W4AAPNUG.jpg",
+					"url": "https://t.co/uh8OjN7G0Z",
+					"display_url": "pic.twitter.com/uh8OjN7G0Z",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1122211356839694342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122211355065507800,
+					"id_str": "1122211355065507840",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D5LlSB2W4AAPNUG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5LlSB2W4AAPNUG.jpg",
+					"url": "https://t.co/uh8OjN7G0Z",
+					"display_url": "pic.twitter.com/uh8OjN7G0Z",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1122211356839694342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3606,
+			"friends_count": 2380,
+			"listed_count": 123,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They always say Saturdays are for taking it easy. I say it's for buying your Startup Week tickets! https://t.co/uh8OjN7G0Z"
+	},
+	{
+		"created_at": "Sat Apr 27 18:47:19 +0000 2019",
+		"id": 1122176948787015700,
+		"id_str": "1122210633108209664",
+		"full_text": "And so it begins...San Diego engineers, we’re hiring! https://t.co/216XMKWHbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122176939316240400,
+					"id_str": "1122176939316240389",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D5LF-xMUYAU18H7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5LF-xMUYAU18H7.jpg",
+					"url": "https://t.co/216XMKWHbB",
+					"display_url": "pic.twitter.com/216XMKWHbB",
+					"expanded_url": "https://twitter.com/comma_ai/status/1122176948787015680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122176939316240400,
+					"id_str": "1122176939316240389",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D5LF-xMUYAU18H7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5LF-xMUYAU18H7.jpg",
+					"url": "https://t.co/216XMKWHbB",
+					"display_url": "pic.twitter.com/216XMKWHbB",
+					"expanded_url": "https://twitter.com/comma_ai/status/1122176948787015680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4576936579,
+			"id_str": "4576936579",
+			"name": "comma ai",
+			"screen_name": "comma_ai",
+			"location": "on discord @ discord.comma.ai",
+			"description": "Ghostriding for the masses. #antihype",
+			"url": "https://t.co/TUwp8GC5WB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TUwp8GC5WB",
+							"expanded_url": "http://comma.ai",
+							"display_url": "comma.ai",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21624,
+			"friends_count": 97,
+			"listed_count": 297,
+			"created_at": "Wed Dec 16 17:12:00 +0000 2015",
+			"favourites_count": 1023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/677405041460817920/oIC2a04o_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/677405041460817920/oIC2a04o_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4576936579/1531373196",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 113,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And so it begins...San Diego engineers, we’re hiring! https://t.co/216XMKWHbB"
+	},
+	{
 		"created_at": "Fri Apr 26 22:17:10 +0000 2019",
 		"id": 1121901058509422600,
 		"id_str": "1121901058509422599",
