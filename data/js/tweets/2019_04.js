@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 16:46:21 +0000 2019",
+		"id": 1122691192427302900,
+		"id_str": "1122904967101108224",
+		"full_text": "Startup Grind San Diego continues its 2019 Fireside Chat Series with \"Empowerment in the Local Tech &amp; Innovation Ecosystem,\" featuring @startupsandiego's Executive Director,… https://t.co/K7PC5PitFe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K7PC5PitFe",
+					"expanded_url": "https://www.instagram.com/p/Bw0qtBwHw3k/?utm_source=ig_twitter_share&igshid=ud1k92vvqxvt",
+					"display_url": "instagram.com/p/Bw0qtBwHw3k/…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1730085294,
+			"id_str": "1730085294",
+			"name": "Startup Grind San Diego",
+			"screen_name": "StartupGrindSD",
+			"location": "San Diego, CA",
+			"description": "San Diego's local connection to the World's  largest startup community. Educating, inspiring, connecting through  sharing narratives.\nJoin us.",
+			"url": "https://t.co/tFLx2hWPyN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tFLx2hWPyN",
+							"expanded_url": "http://www.startupgrind.com/san-diego",
+							"display_url": "startupgrind.com/san-diego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 145,
+			"listed_count": 45,
+			"created_at": "Wed Sep 04 22:50:04 +0000 2013",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 330,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121821417002037248/P8Sjx0pB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121821417002037248/P8Sjx0pB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1730085294/1556298080",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				32.721,
+				-117.128
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-117.128,
+				32.721
+			]
+		},
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Startup Grind San Diego continues its 2019 Fireside Chat Series with \"Empowerment in the Local Tech &amp; Innovation Ecosystem,\" featuring @startupsandiego's Executive Director,… https://t.co/K7PC5PitFe"
+	},
+	{
 		"created_at": "Sun Apr 28 00:51:27 +0000 2019",
 		"id": 1122296825464021000,
 		"id_str": "1122302270329110529",
