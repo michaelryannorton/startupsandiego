@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 17:57:17 +0000 2019",
+		"id": 1127954711535947800,
+		"id_str": "1127996248412147712",
+		"full_text": "Excited to be on @KUSINews today at 8:40am with #StartupSD volunteer @knguy2n! 15 days until @SDStartupWeek. So grateful to help celebrate our region's innovators along their entrepreneurial journey, whether they are curious, committed, or crushing it. #StartupSD #GoSanDiego https://t.co/YXePsVImSm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						253,
+						263
+					]
+				},
+				{
+					"text": "GoSanDiego",
+					"indices": [
+						264,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KUSINews",
+					"name": "KUSI News",
+					"id": 25596174,
+					"id_str": "25596174",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "knguy2n",
+					"name": "Kien",
+					"id": 856174909805875200,
+					"id_str": "856174909805875201",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						93,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127954106591498200,
+					"id_str": "1127954106591498240",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D6dMSKZUUAAQLvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6dMSKZUUAAQLvV.jpg",
+					"url": "https://t.co/YXePsVImSm",
+					"display_url": "pic.twitter.com/YXePsVImSm",
+					"expanded_url": "https://twitter.com/JarrodMRussell/status/1127954711535947776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127954106591498200,
+					"id_str": "1127954106591498240",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D6dMSKZUUAAQLvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6dMSKZUUAAQLvV.jpg",
+					"url": "https://t.co/YXePsVImSm",
+					"display_url": "pic.twitter.com/YXePsVImSm",
+					"expanded_url": "https://twitter.com/JarrodMRussell/status/1127954711535947776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 210195786,
+			"id_str": "210195786",
+			"name": "Jarrod Russell",
+			"screen_name": "JarrodMRussell",
+			"location": "San Diego, California",
+			"description": "Executive Director of Startup San Diego. Socio-environmental entrepreneur with a passion for vibrant communities and a healthy planet.",
+			"url": "https://t.co/kpnxn4d2k8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kpnxn4d2k8",
+							"expanded_url": "http://www.jarrodrussell.com",
+							"display_url": "jarrodrussell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 627,
+			"listed_count": 21,
+			"created_at": "Sat Oct 30 20:20:21 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 406,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "59472F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/719548136293666816/9i_V2rIP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/719548136293666816/9i_V2rIP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/210195786/1474130958",
+			"profile_link_color": "827972",
+			"profile_sidebar_border_color": "000515",
+			"profile_sidebar_fill_color": "061127",
+			"profile_text_color": "52555C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to be on @KUSINews today at 8:40am with #StartupSD volunteer @knguy2n! 15 days until @SDStartupWeek. So grateful to help celebrate our region's innovators along their entrepreneurial journey, whether they are curious, committed, or crushing it. #StartupSD #GoSanDiego https://t.co/YXePsVImSm"
+	},
+	{
 		"created_at": "Sun May 12 16:47:33 +0000 2019",
 		"id": 1127616311012409300,
 		"id_str": "1127616311012409344",
