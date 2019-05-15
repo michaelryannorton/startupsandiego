@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 21:48:08 +0000 2019",
+		"id": 1128416733126172700,
+		"id_str": "1128416733126172677",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/0NYd0YO90Z Thanks to @Patrici16011997 @WashTimesThreat @doubleekylee #sandiego #homeless",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "homeless",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Patrici16011997",
+					"name": "Patricia",
+					"id": 1100800932231696400,
+					"id_str": "1100800932231696384",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "WashTimesThreat",
+					"name": "Threat Assessment",
+					"id": 3179662599,
+					"id_str": "3179662599",
+					"indices": [
+						90,
+						106
+					]
+				},
+				{
+					"screen_name": "doubleekylee",
+					"name": "Kylee",
+					"id": 88575717,
+					"id_str": "88575717",
+					"indices": [
+						107,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0NYd0YO90Z",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=f539eb60-7691-11e9-bff4-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3639,
+			"friends_count": 2381,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/0NYd0YO90Z Thanks to @Patrici16011997 @WashTimesThreat @doubleekylee #sandiego #homeless"
+	},
+	{
+		"created_at": "Tue May 14 21:43:51 +0000 2019",
+		"id": 1128354702695911400,
+		"id_str": "1128415652144791552",
+		"full_text": "If you're in San Diego, I'll be running a few workshops. Come check out @StartupSanDiego! https://t.co/kDCQKLVAsm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						72,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128354324424183800,
+					"id_str": "1128354324424183810",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D6i4R6AUUAIhaw9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6i4R6AUUAIhaw9.jpg",
+					"url": "https://t.co/kDCQKLVAsm",
+					"display_url": "pic.twitter.com/kDCQKLVAsm",
+					"expanded_url": "https://twitter.com/thesalesmethod/status/1128354702695911424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128354324424183800,
+					"id_str": "1128354324424183810",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D6i4R6AUUAIhaw9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6i4R6AUUAIhaw9.jpg",
+					"url": "https://t.co/kDCQKLVAsm",
+					"display_url": "pic.twitter.com/kDCQKLVAsm",
+					"expanded_url": "https://twitter.com/thesalesmethod/status/1128354702695911424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38275611,
+			"id_str": "38275611",
+			"name": "Whitney Sales",
+			"screen_name": "thesalesmethod",
+			"location": "San Francisco",
+			"description": "General Partner @Acceleprise. B2B SaaS. Startup Sales Advisor and Speaker. Creator of The Sales Method. Process geek. #keepitsaasy",
+			"url": "https://t.co/HhTMgjp7nS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HhTMgjp7nS",
+							"expanded_url": "http://thesalesmethod.com",
+							"display_url": "thesalesmethod.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2066,
+			"friends_count": 746,
+			"listed_count": 80,
+			"created_at": "Wed May 06 21:02:23 +0000 2009",
+			"favourites_count": 2300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113145685228978177/kt688jYg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113145685228978177/kt688jYg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38275611/1554229690",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're in San Diego, I'll be running a few workshops. Come check out @StartupSanDiego! https://t.co/kDCQKLVAsm"
+	},
+	{
 		"created_at": "Mon May 13 17:57:17 +0000 2019",
 		"id": 1127954711535947800,
 		"id_str": "1127996248412147712",
