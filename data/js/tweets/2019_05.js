@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 23:39:32 +0000 2019",
+		"id": 1129169541651734500,
+		"id_str": "1129169541651734529",
+		"full_text": "Got our pretty blue table set up at the @toptechawards 📈\n.\nStop by and say hi if you're swingin through 🚀\n.\nLots of great companies and orgs in the building 🤩\n.\n#toptechawards #toptechsandiego #startupweek #sdsw #sdsw19 https://t.co/eDm0EeD7Pd https://t.co/KFNLdLt7y1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "toptechawards",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "toptechsandiego",
+					"indices": [
+						176,
+						192
+					]
+				},
+				{
+					"text": "startupweek",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "sdsw",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "sdsw19",
+					"indices": [
+						212,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TopTechAwards",
+					"name": "TechBreakthrough",
+					"id": 860545222186377200,
+					"id_str": "860545222186377217",
+					"indices": [
+						40,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eDm0EeD7Pd",
+					"expanded_url": "http://bit.ly/2LM7tUB",
+					"display_url": "bit.ly/2LM7tUB",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129169540703825900,
+					"id_str": "1129169540703825920",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/D6udtvTXsAA4VgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6udtvTXsAA4VgF.jpg",
+					"url": "https://t.co/KFNLdLt7y1",
+					"display_url": "pic.twitter.com/KFNLdLt7y1",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1129169541651734529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129169540703825900,
+					"id_str": "1129169540703825920",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/D6udtvTXsAA4VgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6udtvTXsAA4VgF.jpg",
+					"url": "https://t.co/KFNLdLt7y1",
+					"display_url": "pic.twitter.com/KFNLdLt7y1",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1129169541651734529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3644,
+			"friends_count": 2381,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Got our pretty blue table set up at the @toptechawards 📈\n.\nStop by and say hi if you're swingin through 🚀\n.\nLots of great companies and orgs in the building 🤩\n.\n#toptechawards #toptechsandiego #startupweek #sdsw #sdsw19 https://t.co/eDm0EeD7Pd https://t.co/KFNLdLt7y1"
+	},
+	{
 		"created_at": "Wed May 15 23:23:35 +0000 2019",
 		"id": 1128803139249950700,
 		"id_str": "1128803139249950722",
