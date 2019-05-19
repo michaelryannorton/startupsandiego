@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 21:48:15 +0000 2019",
+		"id": 1129866312023457800,
+		"id_str": "1129866312023457792",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/YDa7u3Ow0M Thanks to @jbtole2 @h2oexecutive @wokattack1 #sandiego #sdtechos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "sdtechos",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbtole2",
+					"name": "Jen ⭐️⭐️⭐️",
+					"id": 759149064470474800,
+					"id_str": "759149064470474754",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"screen_name": "h2oexecutive",
+					"name": "Meena Westford",
+					"id": 538475269,
+					"id_str": "538475269",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "wokattack1",
+					"name": "Marc Prosser",
+					"id": 27901826,
+					"id_str": "27901826",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YDa7u3Ow0M",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=a1e6b150-79b6-11e9-bff4-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3646,
+			"friends_count": 2382,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/YDa7u3Ow0M Thanks to @jbtole2 @h2oexecutive @wokattack1 #sandiego #sdtechos"
+	},
+	{
+		"created_at": "Sat May 18 20:52:58 +0000 2019",
+		"id": 1128763503622406100,
+		"id_str": "1129852401874116608",
+		"full_text": "Are you going to @startupsandiego? Find out how hiring remote both local and remote employees benefits us at https://t.co/4PBI7jwNzo and how we maintain a strong company culture. \n\n@learnwithmattc \n#SDSW #StartupSD #SDtech https://t.co/EkXzegjgup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						204,
+						214
+					]
+				},
+				{
+					"text": "SDtech",
+					"indices": [
+						215,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "learnwithmattc",
+					"name": "Matt Cromwell",
+					"id": 401763464,
+					"id_str": "401763464",
+					"indices": [
+						181,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4PBI7jwNzo",
+					"expanded_url": "http://bit.ly/2EcOn3B",
+					"display_url": "bit.ly/2EcOn3B",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/EkXzegjgup",
+					"expanded_url": "http://bit.ly/2WQCkAA",
+					"display_url": "bit.ly/2WQCkAA",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 466656757,
+			"id_str": "466656757",
+			"name": "Impress.org",
+			"screen_name": "ImpressOrg",
+			"location": "San Diego, California",
+			"description": "Developers of @GiveWP, @WPBizReviews, and other #WordPress plugins backed by rock-solid support and a love for our Community.",
+			"url": "https://t.co/73QdpmzYna",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/73QdpmzYna",
+							"expanded_url": "http://www.impress.org",
+							"display_url": "impress.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5438,
+			"friends_count": 5425,
+			"listed_count": 485,
+			"created_at": "Tue Jan 17 17:04:35 +0000 2012",
+			"favourites_count": 1271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058084955891281920/nbPkd2H-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058084955891281920/nbPkd2H-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/466656757/1541104078",
+			"profile_link_color": "15B3FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you going to @startupsandiego? Find out how hiring remote both local and remote employees benefits us at https://t.co/4PBI7jwNzo and how we maintain a strong company culture. \n\n@learnwithmattc \n#SDSW #StartupSD #SDtech https://t.co/EkXzegjgup"
+	},
+	{
+		"created_at": "Sat May 18 20:52:28 +0000 2019",
+		"id": 1128865624388542500,
+		"id_str": "1129852272899383296",
+		"full_text": "The @StartupSanDiego Career Incubator team. We finalized the itineraries for Wed, 5/29: #Resume Review &amp; Fri, 5/31: #Interview Skills. \n\n🎫 https://t.co/bKeG7UcC7h\n#careerdevelopment https://t.co/1NAFSdVSKs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Resume",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "Interview",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "careerdevelopment",
+					"indices": [
+						167,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bKeG7UcC7h",
+					"expanded_url": "https://sandiegostartupweek.com",
+					"display_url": "sandiegostartupweek.com",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128865618185220100,
+					"id_str": "1128865618185220096",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D6qJTHsU8AA_OcB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6qJTHsU8AA_OcB.jpg",
+					"url": "https://t.co/1NAFSdVSKs",
+					"display_url": "pic.twitter.com/1NAFSdVSKs",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1128865624388542465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128865618185220100,
+					"id_str": "1128865618185220096",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D6qJTHsU8AA_OcB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6qJTHsU8AA_OcB.jpg",
+					"url": "https://t.co/1NAFSdVSKs",
+					"display_url": "pic.twitter.com/1NAFSdVSKs",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1128865624388542465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "#CommunityOrganizer | #NonprofitProfessional | #SocialEntreprenuer | #SocialMedia | #Leadership | #HipHop l #Startup",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 570,
+			"listed_count": 58,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1312,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1521268910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @StartupSanDiego Career Incubator team. We finalized the itineraries for Wed, 5/29: #Resume Review &amp; Fri, 5/31: #Interview Skills. \n\n🎫 https://t.co/bKeG7UcC7h\n#careerdevelopment https://t.co/1NAFSdVSKs"
+	},
+	{
+		"created_at": "Sat May 18 20:51:59 +0000 2019",
+		"id": 1129125326930341900,
+		"id_str": "1129852154531856385",
+		"full_text": "Una vez al año, @startupsandiego reúne a empresarios y emprendedores para compartir avances, intercambiar recursos y celebrar a la próspera comunidad de innovación. \nNos vemos este 28 de mayo. #Calibaja #StartupSD #SDSW #SanDiego #Tijuana @mxidea_ https://t.co/UVR4MC165A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Calibaja",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"text": "SDSW",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "SanDiego",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"text": "Tijuana",
+					"indices": [
+						230,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UVR4MC165A",
+					"expanded_url": "https://www.instagram.com/p/BxiMOeEHemS/?utm_source=ig_web_options_share_sheet",
+					"display_url": "instagram.com/p/BxiMOeEHemS/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17460147,
+			"id_str": "17460147",
+			"name": "JoseLuquin",
+			"screen_name": "joseluquin",
+			"location": "32.881802,-117.146144",
+			"description": "I am a UX-UI Designer / Illustrator with over 12 years of experience, multi-cultural, bilingual and with a good eye for innovative and creative solutions.",
+			"url": "http://t.co/Zjc2qbivdB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Zjc2qbivdB",
+							"expanded_url": "http://www.joseluquin.com",
+							"display_url": "joseluquin.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 403,
+			"friends_count": 819,
+			"listed_count": 78,
+			"created_at": "Tue Nov 18 06:07:49 +0000 2008",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/691309666786107393/E-sw_dfB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/691309666786107393/E-sw_dfB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17460147/1453655989",
+			"profile_link_color": "919191",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Una vez al año, @startupsandiego reúne a empresarios y emprendedores para compartir avances, intercambiar recursos y celebrar a la próspera comunidad de innovación. \nNos vemos este 28 de mayo. #Calibaja #StartupSD #SDSW #SanDiego #Tijuana @mxidea_ https://t.co/UVR4MC165A"
+	},
+	{
 		"created_at": "Fri May 17 16:41:27 +0000 2019",
 		"id": 1129426714977800200,
 		"id_str": "1129426714977800194",
