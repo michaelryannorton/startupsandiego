@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 17:17:06 +0000 2019",
+		"id": 1131247628245712900,
+		"id_str": "1131247628245712896",
+		"full_text": "Wednesday night 5/29 is our opening Keynote at #SDSW These three amazing speakers exemplify different elements of the entrepreneur's journey and will surely inspire you all! @KimPerell Claude Jones, &amp; @GregShepard_\n\nAdd it to your schedule here! https://t.co/YcS32Xw4Pr https://t.co/UM171ek5H5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KimPerell",
+					"name": "Kim Perell",
+					"id": 4332388420,
+					"id_str": "4332388420",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"screen_name": "GregShepard_",
+					"name": "Greg Shepard",
+					"id": 871415166998634500,
+					"id_str": "871415166998634497",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YcS32Xw4Pr",
+					"expanded_url": "http://ow.ly/GFJw50umMsa",
+					"display_url": "ow.ly/GFJw50umMsa",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1131247625158746100,
+					"id_str": "1131247625158746118",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D7L_uLKXYAYHH-H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7L_uLKXYAYHH-H.jpg",
+					"url": "https://t.co/UM171ek5H5",
+					"display_url": "pic.twitter.com/UM171ek5H5",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1131247628245712896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131247625158746100,
+					"id_str": "1131247625158746118",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D7L_uLKXYAYHH-H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7L_uLKXYAYHH-H.jpg",
+					"url": "https://t.co/UM171ek5H5",
+					"display_url": "pic.twitter.com/UM171ek5H5",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1131247628245712896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3665,
+			"friends_count": 2382,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wednesday night 5/29 is our opening Keynote at #SDSW These three amazing speakers exemplify different elements of the entrepreneur's journey and will surely inspire you all! @KimPerell Claude Jones, &amp; @GregShepard_\n\nAdd it to your schedule here! https://t.co/YcS32Xw4Pr https://t.co/UM171ek5H5"
+	},
+	{
 		"created_at": "Tue May 21 21:48:10 +0000 2019",
 		"id": 1130953454158004200,
 		"id_str": "1130953454158004224",
