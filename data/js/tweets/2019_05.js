@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 21:48:58 +0000 2019",
+		"id": 1132403209379688400,
+		"id_str": "1132403209379688448",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/azKEbHDhId Thanks to @HIUSA @VoiceViewpoint @billschrier #sandiego #startups",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HIUSA",
+					"name": "Hostelling International USA",
+					"id": 18779019,
+					"id_str": "18779019",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"screen_name": "VoiceViewpoint",
+					"name": "SD Voice & Viewpoint",
+					"id": 1188600084,
+					"id_str": "1188600084",
+					"indices": [
+						80,
+						95
+					]
+				},
+				{
+					"screen_name": "billschrier",
+					"name": "Bill Schrier",
+					"id": 16666454,
+					"id_str": "16666454",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/azKEbHDhId",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=e4f6c590-7f36-11e9-8c4e-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3673,
+			"friends_count": 2386,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/azKEbHDhId Thanks to @HIUSA @VoiceViewpoint @billschrier #sandiego #startups"
+	},
+	{
 		"created_at": "Fri May 24 18:39:07 +0000 2019",
 		"id": 1131991747263901700,
 		"id_str": "1131993043999940608",
@@ -2271,7 +2433,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "Annie Brown",
 			"screen_name": "andreafrancesb",
 			"location": "San Diego, CA",
-			"description": "founder @ lips // included on 2019 list of @forbes women to follow in blockchain #womenintech 👩🏽‍💻",
+			"description": "founder @ lips // included on 2019 list of @forbes women to follow in blockchain #womenintech 👩🏽💻",
 			"url": "https://t.co/ho9rkD4ThP",
 			"entities": {
 				"url": {
