@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 03:25:40 +0000 2019",
+		"id": 1131997365261307900,
+		"id_str": "1132487943396872197",
+		"full_text": "Babak's talk at @StartupSanDiego,#startupsd,#SDSW,#SDtech - https://t.co/CkAOYAKDEU ⁦@WhovaSupport⁩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupsd",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "SDSW",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "SDtech",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"screen_name": "WhovaSupport",
+					"name": "Whova",
+					"id": 881607050,
+					"id_str": "881607050",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CkAOYAKDEU",
+					"expanded_url": "https://whova.com/webapp/event/program/644252/",
+					"display_url": "whova.com/webapp/event/p…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9317662,
+			"id_str": "9317662",
+			"name": "Babak",
+			"screen_name": "babakf",
+			"location": "San Diego, CA",
+			"description": "Curious Soul. Engineer. Entrepreneur. Innovation Catalyst. Get Excited + Make Things.",
+			"url": "https://t.co/lqloCUyqs6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lqloCUyqs6",
+							"expanded_url": "http://brilliantcompany.com",
+							"display_url": "brilliantcompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 534,
+			"friends_count": 704,
+			"listed_count": 45,
+			"created_at": "Mon Oct 08 22:16:58 +0000 2007",
+			"favourites_count": 6360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000293577832/3bbd4199d644510b7a74e233744fd682_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000293577832/3bbd4199d644510b7a74e233744fd682_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9317662/1513813464",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Babak's talk at @StartupSanDiego,#startupsd,#SDSW,#SDtech - https://t.co/CkAOYAKDEU ⁦@WhovaSupport⁩"
+	},
+	{
+		"created_at": "Sun May 26 03:25:34 +0000 2019",
+		"id": 1132020209684893700,
+		"id_str": "1132487916050010113",
+		"full_text": "This is one panel you don't want to miss! @StartupSanDiego will be hosting @Cblakespear, @ellehempen, @erikcaldwell, and @realMikeAllman for a panel on #GovTech and how we can work together to modernize constituent engagement. Get your tickets now 🎟️🎟️ #SDSW19 https://t.co/uRO2xGbUXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GovTech",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "SDSW19",
+					"indices": [
+						253,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "Cblakespear",
+					"name": "Catherine Blakespear",
+					"id": 2446618718,
+					"id_str": "2446618718",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"screen_name": "ellehempen",
+					"name": "Elle Hempen",
+					"id": 360818347,
+					"id_str": "360818347",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"screen_name": "erikcaldwell",
+					"name": "Erik W. Caldwell",
+					"id": 268051050,
+					"id_str": "268051050",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"screen_name": "realMikeAllman",
+					"name": "Michael Allman",
+					"id": 1220442518,
+					"id_str": "1220442518",
+					"indices": [
+						121,
+						136
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132019668028338200,
+					"id_str": "1132019668028338176",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D7W94--VsAA8kti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7W94--VsAA8kti.jpg",
+					"url": "https://t.co/uRO2xGbUXe",
+					"display_url": "pic.twitter.com/uRO2xGbUXe",
+					"expanded_url": "https://twitter.com/Voterfied/status/1132020209684893696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 783,
+							"h": 783,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 783,
+							"h": 783,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132019668028338200,
+					"id_str": "1132019668028338176",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D7W94--VsAA8kti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7W94--VsAA8kti.jpg",
+					"url": "https://t.co/uRO2xGbUXe",
+					"display_url": "pic.twitter.com/uRO2xGbUXe",
+					"expanded_url": "https://twitter.com/Voterfied/status/1132020209684893696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 783,
+							"h": 783,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 783,
+							"h": 783,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 980837240313061400,
+			"id_str": "980837240313061377",
+			"name": "Voterfied",
+			"screen_name": "Voterfied",
+			"location": "San Diego, CA",
+			"description": "Modernizing constituent engagement to win elections and increase civic participation! Powered by #BlockchainTechnology🔗\n\n#GetVoterfied",
+			"url": "https://t.co/PYBUa4pFD6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PYBUa4pFD6",
+							"expanded_url": "http://www.voterfied.com",
+							"display_url": "voterfied.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 345,
+			"friends_count": 736,
+			"listed_count": 10,
+			"created_at": "Mon Apr 02 15:59:55 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053037601257443328/USbSmH1f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053037601257443328/USbSmH1f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/980837240313061377/1557429145",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is one panel you don't want to miss! @StartupSanDiego will be hosting @Cblakespear, @ellehempen, @erikcaldwell, and @realMikeAllman for a panel on #GovTech and how we can work together to modernize constituent engagement. Get your tickets now 🎟️🎟️ #SDSW19 https://t.co/uRO2xGbUXe"
+	},
+	{
+		"created_at": "Sun May 26 03:25:30 +0000 2019",
+		"id": 1132043013587267600,
+		"id_str": "1132487897850949635",
+		"full_text": "@HubSpot all in to help San Diego Start Ups Grow Better 👊🏾 https://t.co/nX0EOtjkLZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HubSpot",
+					"name": "HubSpot",
+					"id": 14458280,
+					"id_str": "14458280",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nX0EOtjkLZ",
+					"expanded_url": "https://twitter.com/startupsandiego/status/1131992504402792448",
+					"display_url": "twitter.com/startupsandieg…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14458280,
+		"in_reply_to_user_id_str": "14458280",
+		"in_reply_to_screen_name": "HubSpot",
+		"user": {
+			"id": 165429225,
+			"id_str": "165429225",
+			"name": "Dan Tyre",
+			"screen_name": "dantyre",
+			"location": "Scottsdale AZ USA",
+			"description": "Entrepreneur, SMarketing pro,member of the HubSpot start up team,mentor, advisor, angel investor, strong believer in personal responsibility & GSD",
+			"url": "http://t.co/VHxN6vvDvf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VHxN6vvDvf",
+							"expanded_url": "http://blog.hubspot.com",
+							"display_url": "blog.hubspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38785,
+			"friends_count": 38967,
+			"listed_count": 1663,
+			"created_at": "Sun Jul 11 14:58:24 +0000 2010",
+			"favourites_count": 14706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791693605203087360/fnv1QprT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791693605203087360/fnv1QprT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165429225/1398270777",
+			"profile_link_color": "0B0D0D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5c62ffb0f0f3479d",
+			"url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json",
+			"place_type": "city",
+			"name": "Phoenix",
+			"full_name": "Phoenix, AZ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-112.3239143,
+							33.29026
+						],
+						[
+							-111.9254391,
+							33.29026
+						],
+						[
+							-111.9254391,
+							33.8154652
+						],
+						[
+							-112.3239143,
+							33.8154652
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131992504402792400,
+		"quoted_status_id_str": "1131992504402792448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nX0EOtjkLZ",
+			"expanded": "https://twitter.com/startupsandiego/status/1131992504402792448",
+			"display": "twitter.com/startupsandieg…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 24 18:36:59 +0000 2019",
+			"id": 1131992504402792400,
+			"id_str": "1131992504402792448",
+			"full_text": "@dantyre @HubSpotStartups 👊🏽back at you Dan!",
+			"truncated": false,
+			"display_text_range": [
+				26,
+				44
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dantyre",
+						"name": "Dan Tyre",
+						"id": 165429225,
+						"id_str": "165429225",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "HubSpotStartups",
+						"name": "HubSpot for Startups",
+						"id": 838830228902391800,
+						"id_str": "838830228902391809",
+						"indices": [
+							9,
+							25
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1130979924041392100,
+			"in_reply_to_status_id_str": "1130979924041392128",
+			"in_reply_to_user_id": 165429225,
+			"in_reply_to_user_id_str": "165429225",
+			"in_reply_to_screen_name": "dantyre",
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/apBzLwX7RV",
+								"expanded_url": "http://sandiegostartupweek.com",
+								"display_url": "sandiegostartupweek.com",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3676,
+				"friends_count": 2386,
+				"listed_count": 116,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 1713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3399,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HubSpot all in to help San Diego Start Ups Grow Better 👊🏾 https://t.co/nX0EOtjkLZ"
+	},
+	{
+		"created_at": "Sun May 26 03:25:21 +0000 2019",
+		"id": 1132089661000577000,
+		"id_str": "1132487859707846656",
+		"full_text": "Just registered for @StartupSanDiego! #sdsw #startupsd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sdsw",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "startupsd",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2707777891,
+			"id_str": "2707777891",
+			"name": "Albert Martinez 💻💊🎲",
+			"screen_name": "albertstartup",
+			"location": "Los Angeles, CA",
+			"description": "JS/React, Haskell, C++/Obj-C, ML/Physics/Comp Chemistry. SF,🏃, 🚵, @smc_edu, @ucdavis. Building a @Shopify product configurator (like for cars, dm for info).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 508,
+			"friends_count": 3613,
+			"listed_count": 44,
+			"created_at": "Mon Aug 04 23:58:44 +0000 2014",
+			"favourites_count": 10751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084353247823843328/ecwesZp9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084353247823843328/ecwesZp9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2707777891/1549776981",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just registered for @StartupSanDiego! #sdsw #startupsd"
+	},
+	{
 		"created_at": "Sat May 25 21:48:58 +0000 2019",
 		"id": 1132403209379688400,
 		"id_str": "1132403209379688448",
