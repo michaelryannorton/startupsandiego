@@ -1,6 +1,1124 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 19:05:06 +0000 2019",
+		"id": 1133039224796667900,
+		"id_str": "1133086745426243585",
+		"full_text": "Just a few days away from @startupsandiego! Are you getting as excited as we are? Be sure to stop by some of our #Fōkcus sessions and see what great wisdom our team has in store for you! Will we are you there? https://t.co/t89heQ8jJN https://t.co/LyD5RIx83l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Fōkcus",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						26,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t89heQ8jJN",
+					"expanded_url": "http://bit.ly/30J7CLP",
+					"display_url": "bit.ly/30J7CLP",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133039223672647700,
+					"id_str": "1133039223672647681",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ldK7uXsAEETjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ldK7uXsAEETjt.jpg",
+					"url": "https://t.co/LyD5RIx83l",
+					"display_url": "pic.twitter.com/LyD5RIx83l",
+					"expanded_url": "https://twitter.com/fokcus/status/1133039224796667904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133039223672647700,
+					"id_str": "1133039223672647681",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ldK7uXsAEETjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ldK7uXsAEETjt.jpg",
+					"url": "https://t.co/LyD5RIx83l",
+					"display_url": "pic.twitter.com/LyD5RIx83l",
+					"expanded_url": "https://twitter.com/fokcus/status/1133039224796667904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788908238053834800,
+			"id_str": "788908238053834752",
+			"name": "Fōkcus Mentoring",
+			"screen_name": "fokcus",
+			"location": "San Diego, CA",
+			"description": "Get a qualified business mentor. Save time and money. Help your venture survive and thrive.",
+			"url": "https://t.co/jUOZhpElT0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jUOZhpElT0",
+							"expanded_url": "http://www.fokcus.com",
+							"display_url": "fokcus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 407,
+			"listed_count": 0,
+			"created_at": "Thu Oct 20 01:02:35 +0000 2016",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970384679994994688/7PK6nWTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970384679994994688/7PK6nWTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788908238053834752/1551290828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a few days away from @startupsandiego! Are you getting as excited as we are? Be sure to stop by some of our #Fōkcus sessions and see what great wisdom our team has in store for you! Will we are you there? https://t.co/t89heQ8jJN https://t.co/LyD5RIx83l"
+	},
+	{
+		"created_at": "Mon May 27 19:04:00 +0000 2019",
+		"id": 1132424721172090900,
+		"id_str": "1133086467465523206",
+		"full_text": "Get excited! Our Startup Crawl is Fri May 31! Six parties at some of the coolest startups &amp; companies in downtown #GoSanDiego, food &amp; drinks provided. @measurabl, @WeWork, @AmplifiedAles, @Seamgen, @minderaswcraft, @BlinkUX. More info: https://t.co/BUkc1Ppy8Z\n#StartupSD #SDSW19 https://t.co/X1qA7bB2QH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoSanDiego",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						268,
+						278
+					]
+				},
+				{
+					"text": "SDSW19",
+					"indices": [
+						279,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "measurabl",
+					"name": "Measurabl",
+					"id": 1463425236,
+					"id_str": "1463425236",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"screen_name": "WeWork",
+					"name": "WeWork",
+					"id": 111092283,
+					"id_str": "111092283",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"screen_name": "AmplifiedAles",
+					"name": "Amplified Ale Works",
+					"id": 430944864,
+					"id_str": "430944864",
+					"indices": [
+						180,
+						194
+					]
+				},
+				{
+					"screen_name": "Seamgen",
+					"name": "Seamgen",
+					"id": 104070295,
+					"id_str": "104070295",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"screen_name": "minderaswcraft",
+					"name": "Mindera",
+					"id": 2906288259,
+					"id_str": "2906288259",
+					"indices": [
+						206,
+						221
+					]
+				},
+				{
+					"screen_name": "BlinkUX",
+					"name": "Blink",
+					"id": 88990841,
+					"id_str": "88990841",
+					"indices": [
+						223,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BUkc1Ppy8Z",
+					"expanded_url": "http://bit.ly/SDSW19_Uncrawl",
+					"display_url": "bit.ly/SDSW19_Uncrawl",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1132424565815013400,
+					"id_str": "1132424565815013376",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/D7cuJIxUcAAWcrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7cuJIxUcAAWcrr.jpg",
+					"url": "https://t.co/X1qA7bB2QH",
+					"display_url": "pic.twitter.com/X1qA7bB2QH",
+					"expanded_url": "https://twitter.com/JarrodMRussell/status/1132424721172090880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132424565815013400,
+					"id_str": "1132424565815013376",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/D7cuJIxUcAAWcrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7cuJIxUcAAWcrr.jpg",
+					"url": "https://t.co/X1qA7bB2QH",
+					"display_url": "pic.twitter.com/X1qA7bB2QH",
+					"expanded_url": "https://twitter.com/JarrodMRussell/status/1132424721172090880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 210195786,
+			"id_str": "210195786",
+			"name": "Jarrod Russell",
+			"screen_name": "JarrodMRussell",
+			"location": "San Diego, California",
+			"description": "Executive Director of Startup San Diego. Socio-environmental entrepreneur with a passion for vibrant communities and a healthy planet.",
+			"url": "https://t.co/kpnxn4d2k8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kpnxn4d2k8",
+							"expanded_url": "http://www.jarrodrussell.com",
+							"display_url": "jarrodrussell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 627,
+			"listed_count": 21,
+			"created_at": "Sat Oct 30 20:20:21 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "59472F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/719548136293666816/9i_V2rIP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/719548136293666816/9i_V2rIP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/210195786/1474130958",
+			"profile_link_color": "827972",
+			"profile_sidebar_border_color": "000515",
+			"profile_sidebar_fill_color": "061127",
+			"profile_text_color": "52555C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get excited! Our Startup Crawl is Fri May 31! Six parties at some of the coolest startups &amp; companies in downtown #GoSanDiego, food &amp; drinks provided. @measurabl, @WeWork, @AmplifiedAles, @Seamgen, @minderaswcraft, @BlinkUX. More info: https://t.co/BUkc1Ppy8Z\n#StartupSD #SDSW19 https://t.co/X1qA7bB2QH"
+	},
+	{
+		"created_at": "Mon May 27 15:40:21 +0000 2019",
+		"id": 1132655229672067100,
+		"id_str": "1133035220406374400",
+		"full_text": "San Diego Startup Week is approaching fast and they've got tons of great content in store for you! Head over to their Eventbrite page and use the promo code DISCOUNT_GREENROPE for a discounted ticket.\n@StartupSanDiego #Startuplife #smallbiz\nhttps://t.co/4msDSKRe9A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Startuplife",
+					"indices": [
+						218,
+						230
+					]
+				},
+				{
+					"text": "smallbiz",
+					"indices": [
+						231,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						201,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4msDSKRe9A",
+					"expanded_url": "http://bit.ly/30yOYGo",
+					"display_url": "bit.ly/30yOYGo",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 223748270,
+			"id_str": "223748270",
+			"name": "GreenRope",
+			"screen_name": "GreenRope",
+			"location": "San Diego",
+			"description": "Complete #CRM, with #MarketingAutomation to make your life easier everyday. Our platform let's you focus on what you do best, your job. Leave the rest to us.",
+			"url": "http://t.co/Y0YRlCnIuC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Y0YRlCnIuC",
+							"expanded_url": "http://www.greenrope.com",
+							"display_url": "greenrope.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4740,
+			"friends_count": 3270,
+			"listed_count": 516,
+			"created_at": "Tue Dec 07 06:46:39 +0000 2010",
+			"favourites_count": 7972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817132712611848192/unjGhWLF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817132712611848192/unjGhWLF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/223748270/1522719365",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "San Diego Startup Week is approaching fast and they've got tons of great content in store for you! Head over to their Eventbrite page and use the promo code DISCOUNT_GREENROPE for a discounted ticket.\n@StartupSanDiego #Startuplife #smallbiz\nhttps://t.co/4msDSKRe9A"
+	},
+	{
+		"created_at": "Mon May 27 15:40:12 +0000 2019",
+		"id": 1132781822180507600,
+		"id_str": "1133035182489948160",
+		"full_text": "Sai Shankar, VP Global Digital Healthcare Systems of @aptar, will be a panelist at The Future of #Healthcare &amp; San Diego event at @StartupSanDiego! You won’t want to miss it! \n\nReserve a seat below!\n\nhttps://t.co/ohOKw76ArG\n\n#StartUpSanDiego #StartUpWeek #NexCubed https://t.co/XPpbU1i0mS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Healthcare",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "StartUpSanDiego",
+					"indices": [
+						229,
+						245
+					]
+				},
+				{
+					"text": "StartUpWeek",
+					"indices": [
+						246,
+						258
+					]
+				},
+				{
+					"text": "NexCubed",
+					"indices": [
+						259,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aptar",
+					"name": "Aptar",
+					"id": 863280962,
+					"id_str": "863280962",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ohOKw76ArG",
+					"expanded_url": "https://whova.com/embedded/session/sdsw_201905/623599/",
+					"display_url": "whova.com/embedded/sessi…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1132781816451145700,
+					"id_str": "1132781816451145728",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D7hzD3GXoAA_H1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7hzD3GXoAA_H1y.jpg",
+					"url": "https://t.co/XPpbU1i0mS",
+					"display_url": "pic.twitter.com/XPpbU1i0mS",
+					"expanded_url": "https://twitter.com/nexcubed/status/1132781822180507648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132781816451145700,
+					"id_str": "1132781816451145728",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/D7hzD3GXoAA_H1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7hzD3GXoAA_H1y.jpg",
+					"url": "https://t.co/XPpbU1i0mS",
+					"display_url": "pic.twitter.com/XPpbU1i0mS",
+					"expanded_url": "https://twitter.com/nexcubed/status/1132781822180507648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380399431,
+			"id_str": "380399431",
+			"name": "Nex Cubed",
+			"screen_name": "nexcubed",
+			"location": "San Francisco, CA",
+			"description": "Nex Cubed is an investor that creates and accelerates frontier tech companies.",
+			"url": "https://t.co/8KcK33ZL4J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8KcK33ZL4J",
+							"expanded_url": "http://nex3.com",
+							"display_url": "nex3.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 728,
+			"listed_count": 81,
+			"created_at": "Mon Sep 26 15:49:50 +0000 2011",
+			"favourites_count": 849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F78E1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833187529968885765/Oj3SvUC4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833187529968885765/Oj3SvUC4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380399431/1544493042",
+			"profile_link_color": "087F8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3f6fecde60ca640b",
+			"url": "https://api.twitter.com/1.1/geo/id/3f6fecde60ca640b.json",
+			"place_type": "city",
+			"name": "Oakbrook",
+			"full_name": "Oakbrook, KY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-84.72012,
+							38.9739349
+						],
+						[
+							-84.6558818,
+							38.9739349
+						],
+						[
+							-84.6558818,
+							39.018585
+						],
+						[
+							-84.72012,
+							39.018585
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sai Shankar, VP Global Digital Healthcare Systems of @aptar, will be a panelist at The Future of #Healthcare &amp; San Diego event at @StartupSanDiego! You won’t want to miss it! \n\nReserve a seat below!\n\nhttps://t.co/ohOKw76ArG\n\n#StartUpSanDiego #StartUpWeek #NexCubed https://t.co/XPpbU1i0mS"
+	},
+	{
+		"created_at": "Mon May 27 15:39:24 +0000 2019",
+		"id": 1133024804624199700,
+		"id_str": "1133034980722929665",
+		"full_text": "@StartupSanDiego will be on @CBS8 in about 10 minutes to feature some local entrepreneurs and spread the word about @SDStartupWeek. See you soon! #StartupSD https://t.co/APLlEMq6RO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						146,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "CBS8",
+					"name": "CBS News 8",
+					"id": 27745484,
+					"id_str": "27745484",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133024765004828700,
+					"id_str": "1133024765004828672",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lQBU_VUAAsmhS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7lQBU_VUAAsmhS.jpg",
+					"url": "https://t.co/APLlEMq6RO",
+					"display_url": "pic.twitter.com/APLlEMq6RO",
+					"expanded_url": "https://twitter.com/JarrodMRussell/status/1133024804624199680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133024765004828700,
+					"id_str": "1133024765004828672",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lQBU_VUAAsmhS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7lQBU_VUAAsmhS.jpg",
+					"url": "https://t.co/APLlEMq6RO",
+					"display_url": "pic.twitter.com/APLlEMq6RO",
+					"expanded_url": "https://twitter.com/JarrodMRussell/status/1133024804624199680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133024765017378800,
+					"id_str": "1133024765017378817",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lQBVCU0AExgmz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7lQBVCU0AExgmz.jpg",
+					"url": "https://t.co/APLlEMq6RO",
+					"display_url": "pic.twitter.com/APLlEMq6RO",
+					"expanded_url": "https://twitter.com/JarrodMRussell/status/1133024804624199680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3222944604,
+		"in_reply_to_user_id_str": "3222944604",
+		"in_reply_to_screen_name": "StartupSanDiego",
+		"user": {
+			"id": 210195786,
+			"id_str": "210195786",
+			"name": "Jarrod Russell",
+			"screen_name": "JarrodMRussell",
+			"location": "San Diego, California",
+			"description": "Executive Director of Startup San Diego. Socio-environmental entrepreneur with a passion for vibrant communities and a healthy planet.",
+			"url": "https://t.co/kpnxn4d2k8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kpnxn4d2k8",
+							"expanded_url": "http://www.jarrodrussell.com",
+							"display_url": "jarrodrussell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 627,
+			"listed_count": 21,
+			"created_at": "Sat Oct 30 20:20:21 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "59472F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/719548136293666816/9i_V2rIP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/719548136293666816/9i_V2rIP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/210195786/1474130958",
+			"profile_link_color": "827972",
+			"profile_sidebar_border_color": "000515",
+			"profile_sidebar_fill_color": "061127",
+			"profile_text_color": "52555C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@StartupSanDiego will be on @CBS8 in about 10 minutes to feature some local entrepreneurs and spread the word about @SDStartupWeek. See you soon! #StartupSD https://t.co/APLlEMq6RO"
+	},
+	{
 		"created_at": "Sun May 26 03:25:40 +0000 2019",
 		"id": 1131997365261307900,
 		"id_str": "1132487943396872197",
