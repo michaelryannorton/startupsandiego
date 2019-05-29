@@ -1,6 +1,1811 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 23:52:05 +0000 2019",
+		"id": 1133518585807040500,
+		"id_str": "1133521353162743808",
+		"full_text": "Our CTO and co-founder, Sergey Sundukovskiy (@ssunduko) will be speaking at @StartupSanDiego Week tomorrow! \n\nStartup Failure is Not What You Think It is: Room 6B, 11AM\nSaas Founder Panel: Room 5A, 4PM \n\nReserve your seats and check out the full schedule: https://t.co/gDPsdAXha9 https://t.co/sdkvoBB6CX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssunduko",
+					"name": "Sergey Sundukovskiy",
+					"id": 57513531,
+					"id_str": "57513531",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gDPsdAXha9",
+					"expanded_url": "http://bit.ly/2VVEWvp",
+					"display_url": "bit.ly/2VVEWvp",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133518529544818700,
+					"id_str": "1133518529544818688",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D7sRGNPXkAApQuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7sRGNPXkAApQuX.jpg",
+					"url": "https://t.co/sdkvoBB6CX",
+					"display_url": "pic.twitter.com/sdkvoBB6CX",
+					"expanded_url": "https://twitter.com/RakenApp/status/1133518585807040512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133518529544818700,
+					"id_str": "1133518529544818688",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D7sRGNPXkAApQuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7sRGNPXkAApQuX.jpg",
+					"url": "https://t.co/sdkvoBB6CX",
+					"display_url": "pic.twitter.com/sdkvoBB6CX",
+					"expanded_url": "https://twitter.com/RakenApp/status/1133518585807040512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2290558968,
+			"id_str": "2290558968",
+			"name": "Raken",
+			"screen_name": "RakenApp",
+			"location": "CA",
+			"description": "Daily reporting and time card software for construction field management. Streamline field workflows to save time and improve accuracy.",
+			"url": "http://t.co/x0shbqSzRu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/x0shbqSzRu",
+							"expanded_url": "http://www.rakenapp.com/",
+							"display_url": "rakenapp.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1527,
+			"friends_count": 423,
+			"listed_count": 56,
+			"created_at": "Tue Jan 14 03:19:43 +0000 2014",
+			"favourites_count": 1106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/722544217050849280/HqDwnm6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/722544217050849280/HqDwnm6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2290558968/1525212830",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our CTO and co-founder, Sergey Sundukovskiy (@ssunduko) will be speaking at @StartupSanDiego Week tomorrow! \n\nStartup Failure is Not What You Think It is: Room 6B, 11AM\nSaas Founder Panel: Room 5A, 4PM \n\nReserve your seats and check out the full schedule: https://t.co/gDPsdAXha9 https://t.co/sdkvoBB6CX"
+	},
+	{
+		"created_at": "Tue May 28 22:10:56 +0000 2019",
+		"id": 1133436641157062700,
+		"id_str": "1133495899856953344",
+		"full_text": "Did you know @SDSU is sponsoring and participating in @StartupSanDiego? Stop by one of our three panels to learn about our entrepreneurship ecosystem and the benefit of P3s. #SDSW #StartupSD #SDtech Learn more: https://t.co/Sf3RVkMCTS https://t.co/5QnWC1Ev72",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "SDtech",
+					"indices": [
+						191,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDSU",
+					"name": "San Diego State University",
+					"id": 16739786,
+					"id_str": "16739786",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						54,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sf3RVkMCTS",
+					"expanded_url": "https://sandiegostartupweek.com/",
+					"display_url": "sandiegostartupweek.com",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133436637004804100,
+					"id_str": "1133436637004804096",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D7rGnbwVsAAaK9X.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7rGnbwVsAAaK9X.png",
+					"url": "https://t.co/5QnWC1Ev72",
+					"display_url": "pic.twitter.com/5QnWC1Ev72",
+					"expanded_url": "https://twitter.com/SDSUResearch/status/1133436641157062656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133436637004804100,
+					"id_str": "1133436637004804096",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D7rGnbwVsAAaK9X.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7rGnbwVsAAaK9X.png",
+					"url": "https://t.co/5QnWC1Ev72",
+					"display_url": "pic.twitter.com/5QnWC1Ev72",
+					"expanded_url": "https://twitter.com/SDSUResearch/status/1133436641157062656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 530,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3189303271,
+			"id_str": "3189303271",
+			"name": "SDSU Research",
+			"screen_name": "SDSUResearch",
+			"location": "San Diego, CA",
+			"description": "Sharing the activities and accomplishments of SDSU researchers and their students!",
+			"url": "https://t.co/HtWzSRVzig",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HtWzSRVzig",
+							"expanded_url": "http://research.sdsu.edu",
+							"display_url": "research.sdsu.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 177,
+			"listed_count": 17,
+			"created_at": "Sat May 09 00:57:24 +0000 2015",
+			"favourites_count": 428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047948354703900672/dJDkM47l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047948354703900672/dJDkM47l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3189303271/1527874641",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know @SDSU is sponsoring and participating in @StartupSanDiego? Stop by one of our three panels to learn about our entrepreneurship ecosystem and the benefit of P3s. #SDSW #StartupSD #SDtech Learn more: https://t.co/Sf3RVkMCTS https://t.co/5QnWC1Ev72"
+	},
+	{
+		"created_at": "Tue May 28 22:10:27 +0000 2019",
+		"id": 1133387453664907300,
+		"id_str": "1133495777970417664",
+		"full_text": "The latest #XconSDtech, featuring @StartupSanDiego/@SDStartupWeek, @planckaero, @TuSimpleAI, more:\nhttps://t.co/mlge7X6Ufr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "XconSDtech",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"screen_name": "planckaero",
+					"name": "Planck Aerosystems",
+					"id": 2475964902,
+					"id_str": "2475964902",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"screen_name": "TuSimpleAI",
+					"name": "TuSimple",
+					"id": 829023507707158500,
+					"id_str": "829023507707158530",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mlge7X6Ufr",
+					"expanded_url": "https://xconomy.com/san-diego/2019/05/27/san-diego-tech-roundup-startup-week-planck-tusimple-more/",
+					"display_url": "xconomy.com/san-diego/2019…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29881875,
+			"id_str": "29881875",
+			"name": "Xconomy",
+			"screen_name": "Xconomy",
+			"location": "United States",
+			"description": "Xconomy is the authoritative voice on the exponential economy: innovation news, analysis, events, awards, #xconomists",
+			"url": "http://t.co/qmtsHw3BIS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qmtsHw3BIS",
+							"expanded_url": "http://www.xconomy.com",
+							"display_url": "xconomy.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26773,
+			"friends_count": 1909,
+			"listed_count": 1483,
+			"created_at": "Thu Apr 09 01:24:43 +0000 2009",
+			"favourites_count": 9449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "26323F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897531095255851009/qyTY7QgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897531095255851009/qyTY7QgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29881875/1435781881",
+			"profile_link_color": "4A5B74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The latest #XconSDtech, featuring @StartupSanDiego/@SDStartupWeek, @planckaero, @TuSimpleAI, more:\nhttps://t.co/mlge7X6Ufr"
+	},
+	{
+		"created_at": "Tue May 28 21:48:08 +0000 2019",
+		"id": 1133490161466130400,
+		"id_str": "1133490161466130433",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/6AE6SSkDTt Thanks to @Thongch34759935 @SDUTmcdonald @LaCanadaPatch #sandiego #pharmaceutical",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "pharmaceutical",
+					"indices": [
+						129,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Thongch34759935",
+					"name": "Thongchai",
+					"id": 1032490124397834200,
+					"id_str": "1032490124397834240",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "SDUTmcdonald",
+					"name": "Jeff McDonald",
+					"id": 356321581,
+					"id_str": "356321581",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "LaCanadaPatch",
+					"name": "La Canada Patch",
+					"id": 159221982,
+					"id_str": "159221982",
+					"indices": [
+						104,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6AE6SSkDTt",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=4745dd00-8192-11e9-8c4e-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2387,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/6AE6SSkDTt Thanks to @Thongch34759935 @SDUTmcdonald @LaCanadaPatch #sandiego #pharmaceutical"
+	},
+	{
+		"created_at": "Tue May 28 21:28:52 +0000 2019",
+		"id": 1133485314234650600,
+		"id_str": "1133485314234650624",
+		"full_text": "@philipballew Thanks Philip! Excited to see you there!!!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philipballew",
+					"name": "Philip Ballew™",
+					"id": 61612784,
+					"id_str": "61612784",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1133485224312987600,
+		"in_reply_to_status_id_str": "1133485224312987650",
+		"in_reply_to_user_id": 61612784,
+		"in_reply_to_user_id_str": "61612784",
+		"in_reply_to_screen_name": "philipballew",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2387,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@philipballew Thanks Philip! Excited to see you there!!!"
+	},
+	{
+		"created_at": "Tue May 28 20:29:44 +0000 2019",
+		"id": 1133470433683001300,
+		"id_str": "1133470433683001344",
+		"full_text": "Anyone else on their way to Startup Week now?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2387,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Anyone else on their way to Startup Week now?"
+	},
+	{
+		"created_at": "Tue May 28 17:59:00 +0000 2019",
+		"id": 1133432498023567400,
+		"id_str": "1133432498023567360",
+		"full_text": "“There are three things I love every year: learning from other leaders who are slightly ahead of us in the journey, teaching leaders who are slightly behind us in the journey and the PetDesk team owning the dance floor at the party\" @TimesofSanDiego\nhttps://t.co/hZHomgT0TQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimesofSanDiego",
+					"name": "Times of San Diego",
+					"id": 2369658618,
+					"id_str": "2369658618",
+					"indices": [
+						233,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hZHomgT0TQ",
+					"expanded_url": "https://timesofsandiego.com/tech/2019/05/27/san-diego-startup-week-2019-begins-downtown-on-wednesday/",
+					"display_url": "timesofsandiego.com/tech/2019/05/2…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2387,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“There are three things I love every year: learning from other leaders who are slightly ahead of us in the journey, teaching leaders who are slightly behind us in the journey and the PetDesk team owning the dance floor at the party\" @TimesofSanDiego\nhttps://t.co/hZHomgT0TQ"
+	},
+	{
+		"created_at": "Tue May 28 17:56:35 +0000 2019",
+		"id": 1133431889270693900,
+		"id_str": "1133431889270693888",
+		"full_text": "\"The event, which started out with a few hundred people looking to highlight the region’s relatively nascent startup ecosystem, has morphed into days-long production with dozens of events and thousands of attendees.\" @Xconomy\nhttps://t.co/Po6ohiJrs7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Xconomy",
+					"name": "Xconomy",
+					"id": 29881875,
+					"id_str": "29881875",
+					"indices": [
+						217,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Po6ohiJrs7",
+					"expanded_url": "https://xconomy.com/san-diego/2019/05/27/san-diego-tech-roundup-startup-week-planck-tusimple-more/",
+					"display_url": "xconomy.com/san-diego/2019…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2387,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The event, which started out with a few hundred people looking to highlight the region’s relatively nascent startup ecosystem, has morphed into days-long production with dozens of events and thousands of attendees.\" @Xconomy\nhttps://t.co/Po6ohiJrs7"
+	},
+	{
+		"created_at": "Tue May 28 17:52:27 +0000 2019",
+		"id": 1133430850056384500,
+		"id_str": "1133430850056384513",
+		"full_text": "Thanks @thecwsandiego Come on out everybody! Excited for this week. https://t.co/8mGXABGFZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecwsandiego",
+					"name": "The CW San Diego",
+					"id": 17137971,
+					"id_str": "17137971",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8mGXABGFZC",
+					"expanded_url": "https://www.cbs8.com/article/news/local/morning-extra/san-diego-startup-week-may-28-june-2/509-d1e2e4a2-4797-4e37-a288-06ca8612d09d",
+					"display_url": "cbs8.com/article/news/l…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2387,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @thecwsandiego Come on out everybody! Excited for this week. https://t.co/8mGXABGFZC"
+	},
+	{
+		"created_at": "Tue May 28 06:49:41 +0000 2019",
+		"id": 1133256244213346300,
+		"id_str": "1133264059640401920",
+		"full_text": "And #6: making and reuniting with lifelong friends ⁦@SDStartupWeek⁩ -see you tomorrow #SanDiego + #Tijuana #founders + #startup enthusiasts! https://t.co/2XTGBlmtu4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "Tijuana",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "founders",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133256238039310300,
+					"id_str": "1133256238039310337",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D7oii1PUIAEdRiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7oii1PUIAEdRiK.jpg",
+					"url": "https://t.co/2XTGBlmtu4",
+					"display_url": "pic.twitter.com/2XTGBlmtu4",
+					"expanded_url": "https://twitter.com/StartupJeremy/status/1133256244213346304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133256238039310300,
+					"id_str": "1133256238039310337",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D7oii1PUIAEdRiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7oii1PUIAEdRiK.jpg",
+					"url": "https://t.co/2XTGBlmtu4",
+					"display_url": "pic.twitter.com/2XTGBlmtu4",
+					"expanded_url": "https://twitter.com/StartupJeremy/status/1133256244213346304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68277885,
+			"id_str": "68277885",
+			"name": "Jeremy Sanders",
+			"screen_name": "StartupJeremy",
+			"location": "Los Angeles, CA",
+			"description": "Cloudbased #CFO @benchmarkCFO, #Advisor @SEALfuturefund, #board leader, #founder, and #mentor to #entrepreneurs & #startups. #AchieveIntently",
+			"url": "https://t.co/L1VFzj2Qre",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L1VFzj2Qre",
+							"expanded_url": "https://www.linkedin.com/in/jeremysanders",
+							"display_url": "linkedin.com/in/jeremysande…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 4593,
+			"listed_count": 159,
+			"created_at": "Mon Aug 24 00:30:16 +0000 2009",
+			"favourites_count": 1942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752780053214224384/ZbQVZ9CI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752780053214224384/ZbQVZ9CI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68277885/1497979277",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And #6: making and reuniting with lifelong friends ⁦@SDStartupWeek⁩ -see you tomorrow #SanDiego + #Tijuana #founders + #startup enthusiasts! https://t.co/2XTGBlmtu4"
+	},
+	{
+		"created_at": "Tue May 28 02:47:53 +0000 2019",
+		"id": 1133121137469034500,
+		"id_str": "1133203210250797056",
+		"full_text": "Join me at SD Startup week! I’m speaking on the Equity, Diversity and Inclusion in Tech panel. Friday 5/31 at 11am in Rm 7B. #SDSW #startupsd #diversity #inclusion #SDtech @StartupSanDiego https://t.co/VzP7339rh8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "startupsd",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "diversity",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "inclusion",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "SDtech",
+					"indices": [
+						164,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						172,
+						188
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133121133329363000,
+					"id_str": "1133121133329362944",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mnqs-VsAA0RHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mnqs-VsAA0RHn.jpg",
+					"url": "https://t.co/VzP7339rh8",
+					"display_url": "pic.twitter.com/VzP7339rh8",
+					"expanded_url": "https://twitter.com/dchebbz/status/1133121137469034496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 652,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133121133329363000,
+					"id_str": "1133121133329362944",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mnqs-VsAA0RHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mnqs-VsAA0RHn.jpg",
+					"url": "https://t.co/VzP7339rh8",
+					"display_url": "pic.twitter.com/VzP7339rh8",
+					"expanded_url": "https://twitter.com/dchebbz/status/1133121137469034496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 652,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739702046,
+			"id_str": "739702046",
+			"name": "Debbie K Chen",
+			"screen_name": "dchebbz",
+			"location": "",
+			"description": "I an interested in people. Be kind, respect all, and challenge yourself to be better everyday. Scientist, Fighter, and Startup Founder. @hydrostasis",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 499,
+			"listed_count": 1,
+			"created_at": "Mon Aug 06 02:44:39 +0000 2012",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070736834274054146/bBIQleCU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070736834274054146/bBIQleCU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join me at SD Startup week! I’m speaking on the Equity, Diversity and Inclusion in Tech panel. Friday 5/31 at 11am in Rm 7B. #SDSW #startupsd #diversity #inclusion #SDtech @StartupSanDiego https://t.co/VzP7339rh8"
+	},
+	{
 		"created_at": "Mon May 27 19:05:06 +0000 2019",
 		"id": 1133039224796667900,
 		"id_str": "1133086745426243585",
