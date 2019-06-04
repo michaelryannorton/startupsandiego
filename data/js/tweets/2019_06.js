@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 17:45:31 +0000 2019",
+		"id": 1135271103465582600,
+		"id_str": "1135603430922235904",
+		"full_text": "Mentoring Sessions @SDStartupWeek @SDStartupWeek @Innovate_78 https://t.co/0Oz711qIec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						19,
+						33
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "Innovate_78",
+					"name": "Innovate78",
+					"id": 3063174003,
+					"id_str": "3063174003",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135271027292889100,
+					"id_str": "1135271027292889088",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135271027292889088/pu/img/OGYkCLuFXM0V-Yj2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135271027292889088/pu/img/OGYkCLuFXM0V-Yj2.jpg",
+					"url": "https://t.co/0Oz711qIec",
+					"display_url": "pic.twitter.com/0Oz711qIec",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1135271103465582592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135271027292889100,
+					"id_str": "1135271027292889088",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135271027292889088/pu/img/OGYkCLuFXM0V-Yj2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135271027292889088/pu/img/OGYkCLuFXM0V-Yj2.jpg",
+					"url": "https://t.co/0Oz711qIec",
+					"display_url": "pic.twitter.com/0Oz711qIec",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1135271103465582592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14863,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135271027292889088/pu/vid/320x568/ZP0Z9WKLulYTH6mU.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135271027292889088/pu/vid/720x1280/-p1_SlIaZ5RwnL2f.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1135271027292889088/pu/pl/oy6XfjYo9agAezw1.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135271027292889088/pu/vid/360x640/UiVT_NG7IawzIc4p.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2424103860,
+			"id_str": "2424103860",
+			"name": "Carlsbad Econ Dev",
+			"screen_name": "Carlsbadbiz",
+			"location": "Carlsbad, CA",
+			"description": "Supporting our Carlsbad business community by telling their stories. #LifeInAction #CarlsbadCareers               \nTerms at https://t.co/04Ncaerztm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/04Ncaerztm",
+							"expanded_url": "http://www.carlsbadca.gov/news/tos.asp",
+							"display_url": "carlsbadca.gov/news/tos.asp",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1063,
+			"friends_count": 1389,
+			"listed_count": 37,
+			"created_at": "Wed Apr 02 17:14:57 +0000 2014",
+			"favourites_count": 2101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "40A0BB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2424103860/1524092620",
+			"profile_link_color": "0A9CBD",
+			"profile_sidebar_border_color": "FE8171",
+			"profile_sidebar_fill_color": "FDAEA2",
+			"profile_text_color": "DFD1D2",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mentoring Sessions @SDStartupWeek @SDStartupWeek @Innovate_78 https://t.co/0Oz711qIec"
+	},
+	{
 		"created_at": "Mon Jun 03 00:13:12 +0000 2019",
 		"id": 1135243816812761100,
 		"id_str": "1135338607793729536",
