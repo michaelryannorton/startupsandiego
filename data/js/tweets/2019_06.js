@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 15:05:23 +0000 2019",
+		"id": 1138084014324101100,
+		"id_str": "1138099849985871872",
+		"full_text": "From @startupsandiego 's Marketing to Millenials panel, with Stephanie Trihn, @officeofawesome and Chief Martech Officer's CEO, Nicole Pereira. Every touchpoint a customer has with you should be consistent. That consistency is a result of the authenticity that Millennials crave! https://t.co/8bh9hHuwRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						5,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138083922644996100,
+					"id_str": "1138083922644996097",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138083922644996097/pu/img/Gv3CllP7p7NiS2nZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138083922644996097/pu/img/Gv3CllP7p7NiS2nZ.jpg",
+					"url": "https://t.co/8bh9hHuwRZ",
+					"display_url": "pic.twitter.com/8bh9hHuwRZ",
+					"expanded_url": "https://twitter.com/ChiefMartechOff/status/1138084014324101120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138083922644996100,
+					"id_str": "1138083922644996097",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138083922644996097/pu/img/Gv3CllP7p7NiS2nZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138083922644996097/pu/img/Gv3CllP7p7NiS2nZ.jpg",
+					"url": "https://t.co/8bh9hHuwRZ",
+					"display_url": "pic.twitter.com/8bh9hHuwRZ",
+					"expanded_url": "https://twitter.com/ChiefMartechOff/status/1138084014324101120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49300,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1138083922644996097/pu/pl/syJlqhx00fHz9WkT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138083922644996097/pu/vid/640x360/D19r9Re7aSnn8a36.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138083922644996097/pu/vid/480x270/wRdGTyRgHJKLfQ5g.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138083922644996097/pu/vid/1280x720/5wkr80P_ioG6Q2X_.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1026768548285173800,
+			"id_str": "1026768548285173760",
+			"name": "Chief Martech Officer",
+			"screen_name": "ChiefMartechOff",
+			"location": "San Diego, CA",
+			"description": "We Make #HubSpot Awesome.",
+			"url": "https://t.co/0mIh7jeO8o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mIh7jeO8o",
+							"expanded_url": "http://www.chiefmartechofficer.com",
+							"display_url": "chiefmartechofficer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 95,
+			"listed_count": 1,
+			"created_at": "Tue Aug 07 09:54:33 +0000 2018",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026768813029609473/UkhqDdQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026768813029609473/UkhqDdQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1026768548285173760/1544878113",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From @startupsandiego 's Marketing to Millenials panel, with Stephanie Trihn, @officeofawesome and Chief Martech Officer's CEO, Nicole Pereira. Every touchpoint a customer has with you should be consistent. That consistency is a result of the authenticity that Millennials crave! https://t.co/8bh9hHuwRZ"
+	},
+	{
 		"created_at": "Sat Jun 08 21:48:16 +0000 2019",
 		"id": 1137476462653648900,
 		"id_str": "1137476462653648901",
