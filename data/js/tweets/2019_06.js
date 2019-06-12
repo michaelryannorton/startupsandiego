@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 21:48:17 +0000 2019",
+		"id": 1138563629207433200,
+		"id_str": "1138563629207433217",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/amd0d71DJk Thanks to @lauraladida @PetalumaPatch @SDNewsfeed #environment #sandiego",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "environment",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lauraladida",
+					"name": "Laura Abbasi",
+					"id": 224729493,
+					"id_str": "224729493",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"screen_name": "PetalumaPatch",
+					"name": "Petaluma Patch",
+					"id": 160988110,
+					"id_str": "160988110",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"screen_name": "SDNewsfeed",
+					"name": "SD Newsfeed",
+					"id": 26678989,
+					"id_str": "26678989",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/amd0d71DJk",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=9bd40cb0-8c92-11e9-8c4e-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3731,
+			"friends_count": 2393,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/amd0d71DJk Thanks to @lauraladida @PetalumaPatch @SDNewsfeed #environment #sandiego"
+	},
+	{
 		"created_at": "Mon Jun 10 15:05:23 +0000 2019",
 		"id": 1138084014324101100,
 		"id_str": "1138099849985871872",
