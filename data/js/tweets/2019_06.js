@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 13:14:11 +0000 2019",
+		"id": 1138944786658779100,
+		"id_str": "1139521416254988288",
+		"full_text": "Attention startups! Here's a great opportunity for funding!  #startup78  @startupnoco  @StartupSanDiego @SanDiegoTechHub https://t.co/PjNASxcDJd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup78",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "startupnoco",
+					"name": "Startup North County",
+					"id": 1007716123398176800,
+					"id_str": "1007716123398176769",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"screen_name": "SanDiegoTechHub",
+					"name": "San Diego Tech Hub",
+					"id": 1075054628079788000,
+					"id_str": "1075054628079788032",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PjNASxcDJd",
+					"expanded_url": "https://twitter.com/sdvg/status/1135653100008759297",
+					"display_url": "twitter.com/sdvg/status/11…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 959787080,
+			"id_str": "959787080",
+			"name": "OS Maker Labs",
+			"screen_name": "OSMakerLabs",
+			"location": "Vista, CA 92081",
+			"description": "Open Source Maker Labs is a high-tech digital fabrication lab, where members can learn, collaborate, innovate, design, and build anything!",
+			"url": "http://t.co/gCvGdzy2dR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gCvGdzy2dR",
+							"expanded_url": "http://www.opensourcemakerlabs.com",
+							"display_url": "opensourcemakerlabs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 481,
+			"listed_count": 27,
+			"created_at": "Tue Nov 20 05:41:17 +0000 2012",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2882501313/34c1b35c7751c7832f2e858c5409738e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2882501313/34c1b35c7751c7832f2e858c5409738e_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/959787080/1353828843",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135653100008759300,
+		"quoted_status_id_str": "1135653100008759297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PjNASxcDJd",
+			"expanded": "https://twitter.com/sdvg/status/1135653100008759297",
+			"display": "twitter.com/sdvg/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 03 21:02:53 +0000 2019",
+			"id": 1135653100008759300,
+			"id_str": "1135653100008759297",
+			"full_text": "Quick Pitch 2019 Applications are OPEN! - https://t.co/Su8IePJ9wP Winners last year took home $75K! Startups Apply! #quickpitch19 #connectsd https://t.co/yWYSiwnCML",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "quickpitch19",
+						"indices": [
+							116,
+							129
+						]
+					},
+					{
+						"text": "connectsd",
+						"indices": [
+							130,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Su8IePJ9wP",
+						"expanded_url": "https://mailchi.mp/sdvg/quick-pitch-2019-applications-are-open",
+						"display_url": "mailchi.mp/sdvg/quick-pit…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1135653098096144400,
+						"id_str": "1135653098096144389",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D8KmecwXsAU92mJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8KmecwXsAU92mJ.jpg",
+						"url": "https://t.co/yWYSiwnCML",
+						"display_url": "pic.twitter.com/yWYSiwnCML",
+						"expanded_url": "https://twitter.com/sdvg/status/1135653100008759297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1234,
+								"h": 734,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 714,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135653098096144400,
+						"id_str": "1135653098096144389",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D8KmecwXsAU92mJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8KmecwXsAU92mJ.jpg",
+						"url": "https://t.co/yWYSiwnCML",
+						"display_url": "pic.twitter.com/yWYSiwnCML",
+						"expanded_url": "https://twitter.com/sdvg/status/1135653100008759297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1234,
+								"h": 734,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 714,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19350368,
+				"id_str": "19350368",
+				"name": "SDVG",
+				"screen_name": "sdvg",
+				"location": "San Diego, CA",
+				"description": "San Diego Venture Group (SDVG) promotes the formation, funding and development of innovative new ventures in the San Diego community",
+				"url": "https://t.co/GYBbzHczoz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GYBbzHczoz",
+								"expanded_url": "http://sdvg.org",
+								"display_url": "sdvg.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4070,
+				"friends_count": 242,
+				"listed_count": 117,
+				"created_at": "Thu Jan 22 17:46:14 +0000 2009",
+				"favourites_count": 307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1770,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F1EF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1132008707468873728/iWbEUla8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132008707468873728/iWbEUla8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19350368/1541632568",
+				"profile_link_color": "303745",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "AEFB89",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Attention startups! Here's a great opportunity for funding!  #startup78  @startupnoco  @StartupSanDiego @SanDiegoTechHub https://t.co/PjNASxcDJd"
+	},
+	{
 		"created_at": "Tue Jun 11 21:48:17 +0000 2019",
 		"id": 1138563629207433200,
 		"id_str": "1138563629207433217",
