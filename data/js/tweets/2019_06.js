@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 21:48:12 +0000 2019",
+		"id": 1140013159681536000,
+		"id_str": "1140013159681536007",
+		"full_text": "Check out The San Diego Startup Pulse! https://t.co/gH8ZIpejM1 Thanks to @MalexVlamburn18 @nk2_tu @EVT_News #sandiego #startups",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MalexVlamburn18",
+					"name": "Alex Manes",
+					"id": 22213768,
+					"id_str": "22213768",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "nk2_tu",
+					"name": "ゆーき",
+					"id": 706861900445790200,
+					"id_str": "706861900445790208",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"screen_name": "EVT_News",
+					"name": "East Village Times",
+					"id": 2990648917,
+					"id_str": "2990648917",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gH8ZIpejM1",
+					"expanded_url": "https://paper.li/StartupSanDiego/1511729069?edition_id=4563b420-8fb7-11e9-8c4e-0cc47a0d164b",
+					"display_url": "paper.li/StartupSanDieg…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | May 28 - June 2 for #SDSW19 https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3731,
+			"friends_count": 2393,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1555100057",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out The San Diego Startup Pulse! https://t.co/gH8ZIpejM1 Thanks to @MalexVlamburn18 @nk2_tu @EVT_News #sandiego #startups"
+	},
+	{
+		"created_at": "Sat Jun 15 18:51:49 +0000 2019",
+		"id": 1139965737143947300,
+		"id_str": "1139968771341164544",
+		"full_text": "Hey @startupnoco @SanDiegoTechHub @Innovate_78 this Monday @StartupSanDiego is coming back to Carlsbad for the 2nd time in a month to bring you our speaker series called #3rdMondays Let’s rally the troops and reminisce on sdsw together @Carlsbadbiz https://t.co/kLABhLSiAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3rdMondays",
+					"indices": [
+						170,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "startupnoco",
+					"name": "Startup North County",
+					"id": 1007716123398176800,
+					"id_str": "1007716123398176769",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"screen_name": "SanDiegoTechHub",
+					"name": "San Diego Tech Hub",
+					"id": 1075054628079788000,
+					"id_str": "1075054628079788032",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "Innovate_78",
+					"name": "Innovate78",
+					"id": 3063174003,
+					"id_str": "3063174003",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"screen_name": "Carlsbadbiz",
+					"name": "Carlsbad Econ Dev",
+					"id": 2424103860,
+					"id_str": "2424103860",
+					"indices": [
+						236,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kLABhLSiAN",
+					"expanded_url": "https://www.eventbrite.com/e/startupsd-3rd-mondays-june-2019-tickets-61744150416",
+					"display_url": "eventbrite.com/e/startupsd-3r…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19131762,
+			"id_str": "19131762",
+			"name": "Neal Bloom",
+			"screen_name": "NealBloom",
+			"location": "San Diego, CA",
+			"description": "Tech ecosystem builder @StartupSanDiego @FreshBrewedTech | #sdlifechanging #sdtechos🌮💻",
+			"url": "https://t.co/sbmE5iLnTA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sbmE5iLnTA",
+							"expanded_url": "http://freshbrewedtech.com",
+							"display_url": "freshbrewedtech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1937,
+			"friends_count": 246,
+			"listed_count": 187,
+			"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+			"favourites_count": 11010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955199923443478529/t4rMIxLz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19131762/1405621367",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @startupnoco @SanDiegoTechHub @Innovate_78 this Monday @StartupSanDiego is coming back to Carlsbad for the 2nd time in a month to bring you our speaker series called #3rdMondays Let’s rally the troops and reminisce on sdsw together @Carlsbadbiz https://t.co/kLABhLSiAN"
+	},
+	{
+		"created_at": "Sat Jun 15 18:31:57 +0000 2019",
+		"id": 1139554349502197800,
+		"id_str": "1139963772594876416",
+		"full_text": "We at @StartupGrindSD  would like to thank everyone who came out and supported the event. It was a great session last night where we got some 💎 from @gregshepard_  Keynote from this year's @startupsandiego Startup… https://t.co/mIBg0lAwPs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupGrindSD",
+					"name": "Startup Grind San Diego",
+					"id": 1730085294,
+					"id_str": "1730085294",
+					"indices": [
+						6,
+						21
+					]
+				},
+				{
+					"screen_name": "GregShepard_",
+					"name": "Greg Shepard",
+					"id": 871415166998634500,
+					"id_str": "871415166998634497",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						189,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mIBg0lAwPs",
+					"expanded_url": "https://www.instagram.com/p/BysfK4rnsFY/?igshid=1l765jkdmtvao",
+					"display_url": "instagram.com/p/BysfK4rnsFY/…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1062165516603686900,
+			"id_str": "1062165516603686912",
+			"name": "Luis Martinez, MSOL",
+			"screen_name": "LuisitoBrooklyn",
+			"location": "San Diego, CA",
+			"description": "Founder-We Tha Plug /Director Startup Grind San Diego /Advocate for Minority Tech and Innovation, , Brooklyn Raised Garifuna 💪🏾 🇭🇳(San Diego-LA)",
+			"url": "https://t.co/7csIfpMRtV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7csIfpMRtV",
+							"expanded_url": "http://www.wethaplug.com",
+							"display_url": "wethaplug.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Tue Nov 13 02:09:28 +0000 2018",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062170585352916993/za4lW8HN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062170585352916993/za4lW8HN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062165516603686912/1560320238",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				32.7155,
+				-117.1585
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-117.1585,
+				32.7155
+			]
+		},
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We at @StartupGrindSD  would like to thank everyone who came out and supported the event. It was a great session last night where we got some 💎 from @gregshepard_  Keynote from this year's @startupsandiego Startup… https://t.co/mIBg0lAwPs"
+	},
+	{
 		"created_at": "Fri Jun 14 13:14:11 +0000 2019",
 		"id": 1138944786658779100,
 		"id_str": "1139521416254988288",
