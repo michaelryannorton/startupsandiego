@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 16:40:32 +0000 2019",
+		"id": 1138942313537757200,
+		"id_str": "1140298121760559104",
+		"full_text": "Please join us at our launch party at Spaces. offices | co-working | meeting rooms. this June 26th at 6:30 pm. \n\nRegister now!\n\nhttps://t.co/JRQapSTePa\n\n#technology #agiledevelopment #networking https://t.co/iMy2JIHZJw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "technology",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "agiledevelopment",
+					"indices": [
+						165,
+						182
+					]
+				},
+				{
+					"text": "networking",
+					"indices": [
+						183,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRQapSTePa",
+					"expanded_url": "https://bit.ly/2WGt2uV",
+					"display_url": "bit.ly/2WGt2uV",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138942305367289900,
+					"id_str": "1138942305367289856",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D85V_gsU8AAufR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D85V_gsU8AAufR9.jpg",
+					"url": "https://t.co/iMy2JIHZJw",
+					"display_url": "pic.twitter.com/iMy2JIHZJw",
+					"expanded_url": "https://twitter.com/arkusnexus/status/1138942313537757184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138942305367289900,
+					"id_str": "1138942305367289856",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D85V_gsU8AAufR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D85V_gsU8AAufR9.jpg",
+					"url": "https://t.co/iMy2JIHZJw",
+					"display_url": "pic.twitter.com/iMy2JIHZJw",
+					"expanded_url": "https://twitter.com/arkusnexus/status/1138942313537757184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 562489080,
+			"id_str": "562489080",
+			"name": "ArkusNexus",
+			"screen_name": "arkusnexus",
+			"location": "San Diego",
+			"description": "Software development hub in the coolest binational city in the world –TIjuana, Mexico– a city of innovation and technology #tijuanaishappening",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 1096,
+			"listed_count": 40,
+			"created_at": "Tue Apr 24 23:02:04 +0000 2012",
+			"favourites_count": 544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030168553108860928/E2vFbSk5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030168553108860928/E2vFbSk5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/562489080/1559063617",
+			"profile_link_color": "FF0D0D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please join us at our launch party at Spaces. offices | co-working | meeting rooms. this June 26th at 6:30 pm. \n\nRegister now!\n\nhttps://t.co/JRQapSTePa\n\n#technology #agiledevelopment #networking https://t.co/iMy2JIHZJw"
+	},
+	{
 		"created_at": "Sat Jun 15 21:48:12 +0000 2019",
 		"id": 1140013159681536000,
 		"id_str": "1140013159681536007",
