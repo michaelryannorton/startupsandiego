@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 03:09:21 +0000 2019",
+		"id": 1141100953182978000,
+		"id_str": "1141181144127250432",
+		"full_text": "YESS !!  Last year's #QuickPitch18 winner @Neuralace just announced RAISE  https://t.co/wnDjb1ZEGC — STARTUPS be sure to APPLY !  https://t.co/FCI9Dbu72u | @sdvg @tcasandiego @CONNECTinSD @coxbusiness @StartupSanDiego #quickpitchsd #connectsd #startupsd #investsd https://t.co/bTiE0UpbmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QuickPitch18",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"text": "quickpitchsd",
+					"indices": [
+						218,
+						231
+					]
+				},
+				{
+					"text": "connectsd",
+					"indices": [
+						232,
+						242
+					]
+				},
+				{
+					"text": "startupsd",
+					"indices": [
+						243,
+						253
+					]
+				},
+				{
+					"text": "investsd",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Neuralace",
+					"name": "NeuraLace Medical",
+					"id": 771612876066787300,
+					"id_str": "771612876066787328",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "sdvg",
+					"name": "SDVG",
+					"id": 19350368,
+					"id_str": "19350368",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "CONNECT",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"screen_name": "coxbusiness",
+					"name": "Cox Business",
+					"id": 95263650,
+					"id_str": "95263650",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						201,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wnDjb1ZEGC",
+					"expanded_url": "http://bit.ly/2INlNYc",
+					"display_url": "bit.ly/2INlNYc",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/FCI9Dbu72u",
+					"expanded_url": "http://sdvg.org/qp19",
+					"display_url": "sdvg.org/qp19",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141100319276847100,
+					"id_str": "1141100319276847104",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/D9YAsc-U0AAlR1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9YAsc-U0AAlR1e.jpg",
+					"url": "https://t.co/bTiE0UpbmM",
+					"display_url": "pic.twitter.com/bTiE0UpbmM",
+					"expanded_url": "https://twitter.com/nicoIeandra/status/1141100953182978048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141100319276847100,
+					"id_str": "1141100319276847104",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/D9YAsc-U0AAlR1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9YAsc-U0AAlR1e.jpg",
+					"url": "https://t.co/bTiE0UpbmM",
+					"display_url": "pic.twitter.com/bTiE0UpbmM",
+					"expanded_url": "https://twitter.com/nicoIeandra/status/1141100953182978048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 249676374,
+			"id_str": "249676374",
+			"name": "Nicole Leandra",
+			"screen_name": "nicoIeandra",
+			"location": "San Diego, CA",
+			"description": "Building creatively in the city of the sun.  \n#connectsd #startupsd #investsd #sandiego\n\n💜#livemorehappy",
+			"url": "https://t.co/Z2XWSiJEx6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z2XWSiJEx6",
+							"expanded_url": "http://connectsd.org",
+							"display_url": "connectsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888,
+			"friends_count": 1237,
+			"listed_count": 126,
+			"created_at": "Wed Feb 09 15:07:56 +0000 2011",
+			"favourites_count": 2171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860385102391459840/JcVVu2yr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860385102391459840/JcVVu2yr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/249676374/1553676446",
+			"profile_link_color": "20AABA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESS !!  Last year's #QuickPitch18 winner @Neuralace just announced RAISE  https://t.co/wnDjb1ZEGC — STARTUPS be sure to APPLY !  https://t.co/FCI9Dbu72u | @sdvg @tcasandiego @CONNECTinSD @coxbusiness @StartupSanDiego #quickpitchsd #connectsd #startupsd #investsd https://t.co/bTiE0UpbmM"
+	},
+	{
 		"created_at": "Tue Jun 18 21:48:08 +0000 2019",
 		"id": 1141100306912227300,
 		"id_str": "1141100306912227334",
