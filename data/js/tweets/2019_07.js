@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 22:52:42 +0000 2019",
+		"id": 1153363015904796700,
+		"id_str": "1155612071515566080",
+		"full_text": "Join @Intuit and @AthenaSanDiego 8/27 for \"Return To Tech\" #Returnship #IntuitAgain #TWI \n\nRegister: https://t.co/J01iudho6G\n\n@GirlsInTechSD @LatinaGeeks @women_designing @BiT_SanDiego @SD_TechEvents @freshbrewedtech @WWCodesandiego @SDlifechanging @SDRegionalEDC @StartupSanDiego https://t.co/LAu5VvZon6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Returnship",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"text": "IntuitAgain",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"text": "TWI",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intuit",
+					"name": "Intuit",
+					"id": 1125071,
+					"id_str": "1125071",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"screen_name": "AthenaSanDiego",
+					"name": "Athena",
+					"id": 413449531,
+					"id_str": "413449531",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "GirlsInTechSD",
+					"name": "Girls In Tech SD",
+					"id": 887073681897279500,
+					"id_str": "887073681897279488",
+					"indices": [
+						126,
+						140
+					]
+				},
+				{
+					"screen_name": "LatinaGeeks",
+					"name": "#LatinaGeeks",
+					"id": 627801443,
+					"id_str": "627801443",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"screen_name": "women_designing",
+					"name": "Designing Women",
+					"id": 2893979970,
+					"id_str": "2893979970",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"screen_name": "BiT_SanDiego",
+					"name": "Blacks In Tech - SD",
+					"id": 3937236793,
+					"id_str": "3937236793",
+					"indices": [
+						171,
+						184
+					]
+				},
+				{
+					"screen_name": "SD_TechEvents",
+					"name": "SanDiego Tech Events",
+					"id": 711740756419948500,
+					"id_str": "711740756419948544",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"screen_name": "freshbrewedtech",
+					"name": "Fresh Brewed Tech",
+					"id": 970531248882896900,
+					"id_str": "970531248882896897",
+					"indices": [
+						200,
+						216
+					]
+				},
+				{
+					"screen_name": "WWCodesandiego",
+					"name": "WWCode San Diego",
+					"id": 801082960179040300,
+					"id_str": "801082960179040256",
+					"indices": [
+						217,
+						232
+					]
+				},
+				{
+					"screen_name": "SDlifechanging",
+					"name": "SD: Life. Changing.",
+					"id": 821480201808814100,
+					"id_str": "821480201808814080",
+					"indices": [
+						233,
+						248
+					]
+				},
+				{
+					"screen_name": "SDRegionalEDC",
+					"name": "SD Regional EDC",
+					"id": 113474827,
+					"id_str": "113474827",
+					"indices": [
+						249,
+						263
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						264,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J01iudho6G",
+					"expanded_url": "https://lnkd.in/gHz3a8S",
+					"display_url": "lnkd.in/gHz3a8S",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1153363013354659800,
+					"id_str": "1153363013354659840",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGRjMQUIAAbzFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAGRjMQUIAAbzFl.jpg",
+					"url": "https://t.co/LAu5VvZon6",
+					"display_url": "pic.twitter.com/LAu5VvZon6",
+					"expanded_url": "https://twitter.com/Kimbra727/status/1153363015904796673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 987,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153363013354659800,
+					"id_str": "1153363013354659840",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGRjMQUIAAbzFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAGRjMQUIAAbzFl.jpg",
+					"url": "https://t.co/LAu5VvZon6",
+					"display_url": "pic.twitter.com/LAu5VvZon6",
+					"expanded_url": "https://twitter.com/Kimbra727/status/1153363015904796673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 987,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 260,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 482228602,
+			"id_str": "482228602",
+			"name": "Kimbra",
+			"screen_name": "Kimbra727",
+			"location": "",
+			"description": "Sr. Program Manager, Tech Women at @Intuit. #GDISD leadership team, Wino, Foodie, Traveler, Auntie. https://t.co/87piL4z7QR",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/87piL4z7QR",
+							"expanded_url": "http://www.linkedin.com/in/kimbrabrookstein",
+							"display_url": "linkedin.com/in/kimbrabrook…",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 1031,
+			"listed_count": 17,
+			"created_at": "Fri Feb 03 17:30:42 +0000 2012",
+			"favourites_count": 1786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874462103523835904/0IsnZ3KR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874462103523835904/0IsnZ3KR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/482228602/1497323463",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @Intuit and @AthenaSanDiego 8/27 for \"Return To Tech\" #Returnship #IntuitAgain #TWI \n\nRegister: https://t.co/J01iudho6G\n\n@GirlsInTechSD @LatinaGeeks @women_designing @BiT_SanDiego @SD_TechEvents @freshbrewedtech @WWCodesandiego @SDlifechanging @SDRegionalEDC @StartupSanDiego https://t.co/LAu5VvZon6"
+	},
+	{
 		"created_at": "Sat Jul 27 21:48:21 +0000 2019",
 		"id": 1155233488217526300,
 		"id_str": "1155233488217526273",
