@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 29 19:20:48 +0000 2019",
+		"id": 1167137573342339000,
+		"id_str": "1167155157693386752",
+		"full_text": "I’m excited to launch a community engagement campaign that intersects #Startupweeksd &amp; leads to #Convergencesd in the fall of 2020. We’ll be partnering with entities focused on #Students, #Entrepreneurs, #Inclusivegrowth, &amp; #Veterans. https://t.co/3BX3aSFSEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Startupweeksd",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"text": "Convergencesd",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "Students",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "Entrepreneurs",
+					"indices": [
+						192,
+						206
+					]
+				},
+				{
+					"text": "Inclusivegrowth",
+					"indices": [
+						208,
+						224
+					]
+				},
+				{
+					"text": "Veterans",
+					"indices": [
+						232,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167137569869418500,
+					"id_str": "1167137569869418496",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EDKBb6AUUAAtFJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDKBb6AUUAAtFJk.jpg",
+					"url": "https://t.co/3BX3aSFSEz",
+					"display_url": "pic.twitter.com/3BX3aSFSEz",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1167137573342339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 626,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 626,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167137569869418500,
+					"id_str": "1167137569869418496",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EDKBb6AUUAAtFJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDKBb6AUUAAtFJk.jpg",
+					"url": "https://t.co/3BX3aSFSEz",
+					"display_url": "pic.twitter.com/3BX3aSFSEz",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1167137573342339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 626,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 626,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "#CommunityOrganizer | #NonprofitProfessional | #SocialEntreprenuer | #SocialMedia | #Leadership | #HipHop l #Startup",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 581,
+			"listed_count": 58,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1521268910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m excited to launch a community engagement campaign that intersects #Startupweeksd &amp; leads to #Convergencesd in the fall of 2020. We’ll be partnering with entities focused on #Students, #Entrepreneurs, #Inclusivegrowth, &amp; #Veterans. https://t.co/3BX3aSFSEz"
+	},
+	{
 		"created_at": "Tue Aug 27 21:48:12 +0000 2019",
 		"id": 1166467475778805800,
 		"id_str": "1166467475778805761",
