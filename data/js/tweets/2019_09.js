@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 01:40:21 +0000 2019",
+		"id": 1169709857970065400,
+		"id_str": "1169787388085690369",
+		"full_text": "Join our community of startups, VCs, accelerators &amp; cities that are developing the startup ecosystem in North County. This quarter the focus is on Sports and Active Lifestyles. Come test the unique products being designed in our backyard. Register: https://t.co/upALeOVAVx https://t.co/hvLLOSgPmX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/upALeOVAVx",
+					"expanded_url": "http://bit.ly/2PhlI5u",
+					"display_url": "bit.ly/2PhlI5u",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169709850986598400,
+					"id_str": "1169709850986598400",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EDuk6X5U0AA5fDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDuk6X5U0AA5fDf.jpg",
+					"url": "https://t.co/hvLLOSgPmX",
+					"display_url": "pic.twitter.com/hvLLOSgPmX",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1169709857970065409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169709850986598400,
+					"id_str": "1169709850986598400",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EDuk6X5U0AA5fDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDuk6X5U0AA5fDf.jpg",
+					"url": "https://t.co/hvLLOSgPmX",
+					"display_url": "pic.twitter.com/hvLLOSgPmX",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1169709857970065409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2424103860,
+			"id_str": "2424103860",
+			"name": "Carlsbad Econ Dev",
+			"screen_name": "Carlsbadbiz",
+			"location": "Carlsbad, CA",
+			"description": "Supporting our Carlsbad business community by telling their stories. #LifeInAction #CarlsbadCareers               \nTerms at https://t.co/04Ncaerztm",
+			"url": "https://t.co/A0QvYQI7QQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A0QvYQI7QQ",
+							"expanded_url": "http://www.carlsbadlifeinaction.com",
+							"display_url": "carlsbadlifeinaction.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/04Ncaerztm",
+							"expanded_url": "http://www.carlsbadca.gov/news/tos.asp",
+							"display_url": "carlsbadca.gov/news/tos.asp",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 1443,
+			"listed_count": 39,
+			"created_at": "Wed Apr 02 17:14:57 +0000 2014",
+			"favourites_count": 2344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "40A0BB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2424103860/1524092620",
+			"profile_link_color": "0A9CBD",
+			"profile_sidebar_border_color": "FE8171",
+			"profile_sidebar_fill_color": "FDAEA2",
+			"profile_text_color": "DFD1D2",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join our community of startups, VCs, accelerators &amp; cities that are developing the startup ecosystem in North County. This quarter the focus is on Sports and Active Lifestyles. Come test the unique products being designed in our backyard. Register: https://t.co/upALeOVAVx https://t.co/hvLLOSgPmX"
+	},
+	{
 		"created_at": "Wed Sep 04 22:58:05 +0000 2019",
 		"id": 1169314497250513000,
 		"id_str": "1169384162362454016",
