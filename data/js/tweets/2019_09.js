@@ -1,6 +1,836 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 21:54:43 +0000 2019",
+		"id": 1172974821015052300,
+		"id_str": "1172992095293861889",
+		"full_text": "“Surround yourself with great relationships, no one is successful alone” —@KimPerell at  #womensventuresummit (great advice for #womenentrepreneurs!)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensventuresummit",
+					"indices": [
+						89,
+						109
+					]
+				},
+				{
+					"text": "womenentrepreneurs",
+					"indices": [
+						128,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KimPerell",
+					"name": "Kim Perell",
+					"id": 4332388420,
+					"id_str": "4332388420",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15213339,
+			"id_str": "15213339",
+			"name": "Valentina Vitols",
+			"screen_name": "valentinavitols",
+			"location": "Seattle ",
+			"description": "Angel Investor @PipelineAngels @allianceangels @heraangels @nextwavenetwork @portfolia1. Latvian. Startups+photo+cacao, travel+food+baseball. Se habla Español.",
+			"url": "https://t.co/WzT2E07nN7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WzT2E07nN7",
+							"expanded_url": "http://www.valentinavitols.com",
+							"display_url": "valentinavitols.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3982,
+			"friends_count": 1981,
+			"listed_count": 301,
+			"created_at": "Mon Jun 23 23:34:49 +0000 2008",
+			"favourites_count": 6985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798331743556268033/3V6JCTsK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798331743556268033/3V6JCTsK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15213339/1408747750",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Surround yourself with great relationships, no one is successful alone” —@KimPerell at  #womensventuresummit (great advice for #womenentrepreneurs!)"
+	},
+	{
+		"created_at": "Sat Sep 14 21:53:00 +0000 2019",
+		"id": 1172989165656408000,
+		"id_str": "1172991664807243776",
+		"full_text": "You can grow as a leader, fill up your team where your gaps are.-@terrihansonmead #WomensVentureSummit https://t.co/6aRi1MqmE1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WomensVentureSummit",
+					"indices": [
+						82,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "terrihansonmead",
+					"name": "Terri Hanson Mead",
+					"id": 4781459766,
+					"id_str": "4781459766",
+					"indices": [
+						65,
+						81
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172989159616594000,
+					"id_str": "1172989159616593920",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEdLbQhUwAAvZas.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEdLbQhUwAAvZas.jpg",
+					"url": "https://t.co/6aRi1MqmE1",
+					"display_url": "pic.twitter.com/6aRi1MqmE1",
+					"expanded_url": "https://twitter.com/BCKMilFam/status/1172989165656408065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172989159616594000,
+					"id_str": "1172989159616593920",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEdLbQhUwAAvZas.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEdLbQhUwAAvZas.jpg",
+					"url": "https://t.co/6aRi1MqmE1",
+					"display_url": "pic.twitter.com/6aRi1MqmE1",
+					"expanded_url": "https://twitter.com/BCKMilFam/status/1172989165656408065/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 384,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							4
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EEdLbQhUwAAvZas.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3055995149,
+			"id_str": "3055995149",
+			"name": "Brittany Catton Kirk",
+			"screen_name": "BCKMilFam",
+			"location": "San Diego",
+			"description": "Social Entrepreneur and founder of the nonprofit social enterprise Sunlight Retreats For Survivors of Rape. Military spouse + mama. Haphazard Twitter user.",
+			"url": "https://t.co/pGMCsvtjoA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pGMCsvtjoA",
+							"expanded_url": "http://sunlightretreats.org",
+							"display_url": "sunlightretreats.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 348,
+			"listed_count": 5,
+			"created_at": "Mon Feb 23 14:37:08 +0000 2015",
+			"favourites_count": 841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172913746240360453/nJ8xwUzX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172913746240360453/nJ8xwUzX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3055995149/1568479299",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can grow as a leader, fill up your team where your gaps are.-@terrihansonmead #WomensVentureSummit https://t.co/6aRi1MqmE1"
+	},
+	{
+		"created_at": "Sat Sep 14 21:52:41 +0000 2019",
+		"id": 1172943106909454300,
+		"id_str": "1172991584448602112",
+		"full_text": "My awesome partner Allison Long Pettine leading the panel on bias in investing with fabulous panelists @aliciarobb Briana McDonald, Xandra Laskowski, and @AnaBermudez06 #womensventuresummit https://t.co/vFBksX5yut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensventuresummit",
+					"indices": [
+						169,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aliciarobb",
+					"name": "aliciarobb",
+					"id": 18152244,
+					"id_str": "18152244",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"screen_name": "AnaBermudez06",
+					"name": "Ana Bermudez",
+					"id": 544771191,
+					"id_str": "544771191",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172943094792081400,
+					"id_str": "1172943094792081408",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EEchh7rUUAAj87N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEchh7rUUAAj87N.jpg",
+					"url": "https://t.co/vFBksX5yut",
+					"display_url": "pic.twitter.com/vFBksX5yut",
+					"expanded_url": "https://twitter.com/vdinamani/status/1172943106909454337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172943094792081400,
+					"id_str": "1172943094792081408",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EEchh7rUUAAj87N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEchh7rUUAAj87N.jpg",
+					"url": "https://t.co/vFBksX5yut",
+					"display_url": "pic.twitter.com/vFBksX5yut",
+					"expanded_url": "https://twitter.com/vdinamani/status/1172943106909454337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88453151,
+			"id_str": "88453151",
+			"name": "Vidya Dinamani",
+			"screen_name": "vdinamani",
+			"location": "San Diego",
+			"description": "Product Coach. Innovation Leader. I inspire, teach and lead people to create product experiences that are meaningful, make an impact and delight customers.",
+			"url": "https://t.co/3jH98vLogL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3jH98vLogL",
+							"expanded_url": "http://vidyadinamani.com/",
+							"display_url": "vidyadinamani.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 252,
+			"listed_count": 28,
+			"created_at": "Sun Nov 08 16:33:17 +0000 2009",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/513704281044557825/X2b-i6wF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/513704281044557825/X2b-i6wF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88453151/1411311922",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My awesome partner Allison Long Pettine leading the panel on bias in investing with fabulous panelists @aliciarobb Briana McDonald, Xandra Laskowski, and @AnaBermudez06 #womensventuresummit https://t.co/vFBksX5yut"
+	},
+	{
+		"created_at": "Sat Sep 14 21:52:36 +0000 2019",
+		"id": 1172916465025994800,
+		"id_str": "1172991563988750336",
+		"full_text": "The best and most inspirational keynote by an entrepreneur I’ve ever seen —&gt; @jasminecrowe is incredible and what she is doing is incredible at Goodr @TheGoodrCo #womensventuresummit https://t.co/BHNcf5UtaS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensventuresummit",
+					"indices": [
+						165,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasminecrowe",
+					"name": "Jasmine Crowe",
+					"id": 18397519,
+					"id_str": "18397519",
+					"indices": [
+						80,
+						93
+					]
+				},
+				{
+					"screen_name": "TheGoodrCo",
+					"name": "GoodrCo.",
+					"id": 787303885945901000,
+					"id_str": "787303885945901056",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172916124670804000,
+					"id_str": "1172916124670803975",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172916124670803975/pu/img/E2B1xLgpSY92TlN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172916124670803975/pu/img/E2B1xLgpSY92TlN4.jpg",
+					"url": "https://t.co/BHNcf5UtaS",
+					"display_url": "pic.twitter.com/BHNcf5UtaS",
+					"expanded_url": "https://twitter.com/beclarke/status/1172916465025994752/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172916124670804000,
+					"id_str": "1172916124670803975",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172916124670803975/pu/img/E2B1xLgpSY92TlN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172916124670803975/pu/img/E2B1xLgpSY92TlN4.jpg",
+					"url": "https://t.co/BHNcf5UtaS",
+					"display_url": "pic.twitter.com/BHNcf5UtaS",
+					"expanded_url": "https://twitter.com/beclarke/status/1172916465025994752/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 19828,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172916124670803975/pu/vid/360x640/PVBI5TWFdwxSByJp.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172916124670803975/pu/vid/720x1280/yV08ZxVEq17yUapX.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172916124670803975/pu/vid/320x568/FjPq4j6w4Vf9fUdu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1172916124670803975/pu/pl/yX0FmvdX_Bb7OGLC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16277999,
+			"id_str": "16277999",
+			"name": "Barbara Clarke",
+			"screen_name": "beclarke",
+			"location": "Boston, MA",
+			"description": "#Angelinvestor. Economist. Cofounder @impactseat Invest in the change you want to see in the world. I do. @AstiaGlobal @portfolia1 @pipelineangels she/her",
+			"url": "https://t.co/w4ULe0MLEu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w4ULe0MLEu",
+							"expanded_url": "http://www.impactseat.com",
+							"display_url": "impactseat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4859,
+			"friends_count": 4151,
+			"listed_count": 359,
+			"created_at": "Sun Sep 14 00:18:22 +0000 2008",
+			"favourites_count": 9703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791220686173958144/x1xZ5_Zp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791220686173958144/x1xZ5_Zp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16277999/1455539380",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9f33a32c84001",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9f33a32c84001.json",
+			"place_type": "poi",
+			"name": "Joan B. Kroc Institute For Peace & Justice",
+			"full_name": "Joan B. Kroc Institute For Peace & Justice",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.19445073243217,
+							32.77044600080121
+						],
+						[
+							-117.19445073243217,
+							32.77044600080121
+						],
+						[
+							-117.19445073243217,
+							32.77044600080121
+						],
+						[
+							-117.19445073243217,
+							32.77044600080121
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best and most inspirational keynote by an entrepreneur I’ve ever seen —&gt; @jasminecrowe is incredible and what she is doing is incredible at Goodr @TheGoodrCo #womensventuresummit https://t.co/BHNcf5UtaS"
+	},
+	{
 		"created_at": "Thu Sep 12 20:55:54 +0000 2019",
 		"id": 1171856480644976600,
 		"id_str": "1172252516576301070",
