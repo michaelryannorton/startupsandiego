@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 03:43:25 +0000 2019",
+		"id": 1175550529373474800,
+		"id_str": "1175616565531660288",
+		"full_text": "It's official! One of the startups we're hosting, simpl inc., just filed for incorporation online right here at @OSMakerLabs ! @StartupSanDiego @startupnoco @Innovate_78 @freshbrewedtech https://t.co/Q5mKM692zC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OSMakerLabs",
+					"name": "OS Maker Labs",
+					"id": 959787080,
+					"id_str": "959787080",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"screen_name": "startupnoco",
+					"name": "Startup North County",
+					"id": 1007716123398176800,
+					"id_str": "1007716123398176769",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"screen_name": "Innovate_78",
+					"name": "Innovate78",
+					"id": 3063174003,
+					"id_str": "3063174003",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"screen_name": "freshbrewedtech",
+					"name": "Fresh Brewed Tech",
+					"id": 970531248882896900,
+					"id_str": "970531248882896897",
+					"indices": [
+						170,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175550526299074600,
+					"id_str": "1175550526299074560",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EFBk-a-UcAA30E1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFBk-a-UcAA30E1.jpg",
+					"url": "https://t.co/Q5mKM692zC",
+					"display_url": "pic.twitter.com/Q5mKM692zC",
+					"expanded_url": "https://twitter.com/OSMakerLabs/status/1175550529373474816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175550526299074600,
+					"id_str": "1175550526299074560",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EFBk-a-UcAA30E1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFBk-a-UcAA30E1.jpg",
+					"url": "https://t.co/Q5mKM692zC",
+					"display_url": "pic.twitter.com/Q5mKM692zC",
+					"expanded_url": "https://twitter.com/OSMakerLabs/status/1175550529373474816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 959787080,
+			"id_str": "959787080",
+			"name": "OS Maker Labs",
+			"screen_name": "OSMakerLabs",
+			"location": "Vista, CA 92081",
+			"description": "Open Source Maker Labs is a high-tech digital fabrication lab, where members can learn, collaborate, innovate, design, and build anything!",
+			"url": "http://t.co/gCvGdzy2dR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gCvGdzy2dR",
+							"expanded_url": "http://www.opensourcemakerlabs.com",
+							"display_url": "opensourcemakerlabs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 508,
+			"listed_count": 27,
+			"created_at": "Tue Nov 20 05:41:17 +0000 2012",
+			"favourites_count": 589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2882501313/34c1b35c7751c7832f2e858c5409738e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2882501313/34c1b35c7751c7832f2e858c5409738e_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/959787080/1353828843",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's official! One of the startups we're hosting, simpl inc., just filed for incorporation online right here at @OSMakerLabs ! @StartupSanDiego @startupnoco @Innovate_78 @freshbrewedtech https://t.co/Q5mKM692zC"
+	},
+	{
 		"created_at": "Sat Sep 21 21:48:13 +0000 2019",
 		"id": 1175527175040184300,
 		"id_str": "1175527175040184320",
