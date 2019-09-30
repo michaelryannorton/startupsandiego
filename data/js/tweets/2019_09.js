@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 19:04:44 +0000 2019",
+		"id": 1178357588351574000,
+		"id_str": "1178385136699576320",
+		"full_text": "@NealBloom @techstars @ryankuder @downtownworks @StartupSanDiego Thanks Neal! Here's the link to our event. And everyone should go to Startup 78's Meetup later this week too! 😉 https://t.co/wAdom7Xaio",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom💡",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "downtownworks",
+					"name": "Downtown Works",
+					"id": 722890121935081500,
+					"id_str": "722890121935081472",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wAdom7Xaio",
+					"expanded_url": "https://www.eventbrite.com/e/techstars-meet-and-greet-san-diego-registration-72723230139",
+					"display_url": "eventbrite.com/e/techstars-me…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1178331757575204900,
+		"in_reply_to_status_id_str": "1178331757575204865",
+		"in_reply_to_user_id": 19131762,
+		"in_reply_to_user_id_str": "19131762",
+		"in_reply_to_screen_name": "NealBloom",
+		"user": {
+			"id": 14226640,
+			"id_str": "14226640",
+			"name": "Kendra ☕️🌮🍷",
+			"screen_name": "kdixon",
+			"location": "Carlsbad, CA",
+			"description": "Bio? A work in progress 🙃 PM @techstars Anywhere 🚀 #GiveFirst Co-Navigator of life w/ @TheMentalLocker🙌So Uncool Mom🙄In love w/Laughter & Tacos 🌮",
+			"url": "https://t.co/rq9IhlCIVw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rq9IhlCIVw",
+							"expanded_url": "https://www.techstars.com/programs/anywhere-program/",
+							"display_url": "techstars.com/programs/anywh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1392,
+			"friends_count": 2139,
+			"listed_count": 40,
+			"created_at": "Wed Mar 26 15:30:10 +0000 2008",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041846899639123968/HB5MvkQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041846899639123968/HB5MvkQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14226640/1538613897",
+			"profile_link_color": "0B6613",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NealBloom @techstars @ryankuder @downtownworks @StartupSanDiego Thanks Neal! Here's the link to our event. And everyone should go to Startup 78's Meetup later this week too! 😉 https://t.co/wAdom7Xaio"
+	},
+	{
+		"created_at": "Sun Sep 29 17:01:30 +0000 2019",
+		"id": 1177662678594048000,
+		"id_str": "1178354125718712320",
+		"full_text": "MONDAY in San Diego! @kdixon and I will be downtown at @downtownworks answering your questions about starting up, joining an accelerator, and Techstars Anywhere. San Diego founders, we're looking forward to seeing you there! https://t.co/3cp36zzUVd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kdixon",
+					"name": "Kendra ☕️🌮🍷",
+					"id": 14226640,
+					"id_str": "14226640",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "downtownworks",
+					"name": "Downtown Works",
+					"id": 722890121935081500,
+					"id_str": "722890121935081472",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3cp36zzUVd",
+					"expanded_url": "https://www.eventbrite.com/e/techstars-meet-and-greet-san-diego-registration-72723230139",
+					"display_url": "eventbrite.com/e/techstars-me…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6837002,
+			"id_str": "6837002",
+			"name": "Ryan Kuder",
+			"screen_name": "ryankuder",
+			"location": "San Diego and #Anywhere",
+			"description": "Managing Director, @Techstars Anywhere. @AspenInstitute Fellow. Hoya. #GiveFirst #GoSanDiego",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6533,
+			"friends_count": 3511,
+			"listed_count": 417,
+			"created_at": "Fri Jun 15 16:05:55 +0000 2007",
+			"favourites_count": 7282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "180C12",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039952319486550016/lD3gF0Hg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039952319486550016/lD3gF0Hg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6837002/1516464745",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FECC80",
+			"profile_sidebar_fill_color": "120108",
+			"profile_text_color": "7D333A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MONDAY in San Diego! @kdixon and I will be downtown at @downtownworks answering your questions about starting up, joining an accelerator, and Techstars Anywhere. San Diego founders, we're looking forward to seeing you there! https://t.co/3cp36zzUVd"
+	},
+	{
 		"created_at": "Sat Sep 28 21:48:13 +0000 2019",
 		"id": 1178063892460839000,
 		"id_str": "1178063892460838914",
