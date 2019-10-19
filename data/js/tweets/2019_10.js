@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 03:00:09 +0000 2019",
+		"id": 1184843406792544300,
+		"id_str": "1185027760432893952",
+		"full_text": "Announcing the judge group of leading angels, VCs and corporate investors for the biggest pitch event in San Diego awarding the bag of $75K cash 💰 https://t.co/e8O4FCidTp via @tcasandiego @sdvg @coxbusiness @PeakSpanCapital @Qualcomm @nexcubed #SDtechos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDtechos",
+					"indices": [
+						244,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"screen_name": "sdvg",
+					"name": "SDVG",
+					"id": 19350368,
+					"id_str": "19350368",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"screen_name": "coxbusiness",
+					"name": "Cox Business",
+					"id": 95263650,
+					"id_str": "95263650",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"screen_name": "PeakSpanCapital",
+					"name": "PeakSpan Capital",
+					"id": 4084599202,
+					"id_str": "4084599202",
+					"indices": [
+						207,
+						223
+					]
+				},
+				{
+					"screen_name": "Qualcomm",
+					"name": "Qualcomm",
+					"id": 84623395,
+					"id_str": "84623395",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"screen_name": "nexcubed",
+					"name": "Nex Cubed",
+					"id": 380399431,
+					"id_str": "380399431",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e8O4FCidTp",
+					"expanded_url": "https://mailchi.mp/techcoastangels/quick-pitch-2019-judges?e=dd1ddbb798",
+					"display_url": "mailchi.mp/techcoastangel…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3120144299,
+			"id_str": "3120144299",
+			"name": "Ashok Kamal 👊🏾",
+			"screen_name": "AK_LaunchLeader",
+			"location": "San Diego, CA",
+			"description": "CEO @tcasandiego | Angel @outsiteco @backstage_cap @grovecollab | Founder https://t.co/8JzjqYLzwl | Aspiring surfer, Fantasy baseball aficionado, Presentist",
+			"url": "https://t.co/pPbienPRlJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPbienPRlJ",
+							"expanded_url": "https://www.linkedin.com/in/ashokkamal",
+							"display_url": "linkedin.com/in/ashokkamal",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8JzjqYLzwl",
+							"expanded_url": "http://theschoolofrap.com",
+							"display_url": "theschoolofrap.com",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1327,
+			"friends_count": 226,
+			"listed_count": 105,
+			"created_at": "Thu Mar 26 23:56:28 +0000 2015",
+			"favourites_count": 2377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800157852132261888/Yexu1OAq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800157852132261888/Yexu1OAq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3120144299/1454742295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Announcing the judge group of leading angels, VCs and corporate investors for the biggest pitch event in San Diego awarding the bag of $75K cash 💰 https://t.co/e8O4FCidTp via @tcasandiego @sdvg @coxbusiness @PeakSpanCapital @Qualcomm @nexcubed #SDtechos"
+	},
+	{
 		"created_at": "Wed Oct 16 21:58:45 +0000 2019",
 		"id": 1184589524598513700,
 		"id_str": "1184589524598513664",
