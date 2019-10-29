@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 22:20:56 +0000 2019",
+		"id": 1187891503605043200,
+		"id_str": "1188943758861033472",
+		"full_text": "Join us for our Entrepreneur Speaker Series - How to Stretch Each &amp; Every Dollar: Financial Planning for Entrepreneurs and Small Business Owners.  Nov. 13, 6 PM . @StartupSanDiego @SDStartupWeek https://t.co/8GdkWHkzmT https://t.co/2qxr00WOeO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8GdkWHkzmT",
+					"expanded_url": "http://bit.ly/2MPjMha",
+					"display_url": "bit.ly/2MPjMha",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187891499490394000,
+					"id_str": "1187891499490394112",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EHw9BmrUwAAiYD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHw9BmrUwAAiYD2.jpg",
+					"url": "https://t.co/2qxr00WOeO",
+					"display_url": "pic.twitter.com/2qxr00WOeO",
+					"expanded_url": "https://twitter.com/OSMakerLabs/status/1187891503605043200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187891499490394000,
+					"id_str": "1187891499490394112",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EHw9BmrUwAAiYD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHw9BmrUwAAiYD2.jpg",
+					"url": "https://t.co/2qxr00WOeO",
+					"display_url": "pic.twitter.com/2qxr00WOeO",
+					"expanded_url": "https://twitter.com/OSMakerLabs/status/1187891503605043200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://social.zoho.com\" rel=\"nofollow\">Zoho Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 959787080,
+			"id_str": "959787080",
+			"name": "OS Maker Labs",
+			"screen_name": "OSMakerLabs",
+			"location": "Vista, CA 92081",
+			"description": "Open Source Maker Labs is a high-tech digital fabrication lab, where members can learn, collaborate, innovate, design, and build anything!",
+			"url": "http://t.co/gCvGdzy2dR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gCvGdzy2dR",
+							"expanded_url": "http://www.opensourcemakerlabs.com",
+							"display_url": "opensourcemakerlabs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 514,
+			"listed_count": 27,
+			"created_at": "Tue Nov 20 05:41:17 +0000 2012",
+			"favourites_count": 620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2882501313/34c1b35c7751c7832f2e858c5409738e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2882501313/34c1b35c7751c7832f2e858c5409738e_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/959787080/1353828843",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us for our Entrepreneur Speaker Series - How to Stretch Each &amp; Every Dollar: Financial Planning for Entrepreneurs and Small Business Owners.  Nov. 13, 6 PM . @StartupSanDiego @SDStartupWeek https://t.co/8GdkWHkzmT https://t.co/2qxr00WOeO"
+	},
+	{
 		"created_at": "Sat Oct 26 21:48:13 +0000 2019",
 		"id": 1188210751833550800,
 		"id_str": "1188210751833550849",
