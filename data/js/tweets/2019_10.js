@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 22:59:11 +0000 2019",
+		"id": 1189360358953123800,
+		"id_str": "1190040548557623297",
+		"full_text": "Excited to let everyone know that startup San Diego panel speaker applications are open soon! @StartupSanDiego so get connected &amp; give back #quickpitch19 @CONNECTinSD @tcasandiego https://t.co/sMUW1TzM2S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quickpitch19",
+					"indices": [
+						144,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						94,
+						110
+					]
+				},
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "CONNECT",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						171,
+						183
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189360352657469400,
+					"id_str": "1189360352657469440",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EIF08HIU8AAX-AO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIF08HIU8AAX-AO.jpg",
+					"url": "https://t.co/sMUW1TzM2S",
+					"display_url": "pic.twitter.com/sMUW1TzM2S",
+					"expanded_url": "https://twitter.com/silviamah/status/1189360358953123841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "319294242",
+									"screen_name": "CONNECTinSD",
+									"name": "CONNECT"
+								},
+								{
+									"type": "user",
+									"user_id": "3222944604",
+									"screen_name": "StartupSanDiego",
+									"name": "Startup San Diego"
+								},
+								{
+									"type": "user",
+									"user_id": "893178238679236612",
+									"screen_name": "tcasandiego",
+									"name": "Tech Coast Angels SD"
+								},
+								{
+									"type": "user",
+									"user_id": "200349076",
+									"screen_name": "silviamah",
+									"name": "Silvia Mah"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 630,
+									"y": 376,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 265,
+									"y": 202,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 161,
+									"y": 191,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 456,
+									"y": 204,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1900,
+									"y": 1134,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 800,
+									"y": 610,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 486,
+									"y": 576,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1376,
+									"y": 616,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1900,
+									"y": 1134,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 800,
+									"y": 610,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 486,
+									"y": 576,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1376,
+									"y": 616,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1113,
+									"y": 664,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 468,
+									"y": 357,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 284,
+									"y": 337,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 806,
+									"y": 360,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189360352657469400,
+					"id_str": "1189360352657469440",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EIF08HIU8AAX-AO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIF08HIU8AAX-AO.jpg",
+					"url": "https://t.co/sMUW1TzM2S",
+					"display_url": "pic.twitter.com/sMUW1TzM2S",
+					"expanded_url": "https://twitter.com/silviamah/status/1189360358953123841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "319294242",
+									"screen_name": "CONNECTinSD",
+									"name": "CONNECT"
+								},
+								{
+									"type": "user",
+									"user_id": "3222944604",
+									"screen_name": "StartupSanDiego",
+									"name": "Startup San Diego"
+								},
+								{
+									"type": "user",
+									"user_id": "893178238679236612",
+									"screen_name": "tcasandiego",
+									"name": "Tech Coast Angels SD"
+								},
+								{
+									"type": "user",
+									"user_id": "200349076",
+									"screen_name": "silviamah",
+									"name": "Silvia Mah"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 630,
+									"y": 376,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 265,
+									"y": 202,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 161,
+									"y": 191,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 456,
+									"y": 204,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1900,
+									"y": 1134,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 800,
+									"y": 610,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 486,
+									"y": 576,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1376,
+									"y": 616,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1900,
+									"y": 1134,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 800,
+									"y": 610,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 486,
+									"y": 576,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1376,
+									"y": 616,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1113,
+									"y": 664,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 468,
+									"y": 357,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 284,
+									"y": 337,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 806,
+									"y": 360,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200349076,
+			"id_str": "200349076",
+			"name": "Silvia Mah",
+			"screen_name": "silviamah",
+			"location": "San Diego, California, USA",
+			"description": "Passionate connector | #accelerator 4 #fempreneurs @heralabs & angel @heraangels | integrity | mom 2B1G | Venezolana | #STEAM |#PurposeFilledLife @sheinvests100",
+			"url": "https://t.co/rWIu6A49dn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rWIu6A49dn",
+							"expanded_url": "http://www.hera-labs.com",
+							"display_url": "hera-labs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1842,
+			"friends_count": 1065,
+			"listed_count": 122,
+			"created_at": "Sat Oct 09 02:14:47 +0000 2010",
+			"favourites_count": 2052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/513107965281570816/D9mWwIWP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/513107965281570816/D9mWwIWP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200349076/1467007978",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9d25296c86001",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9d25296c86001.json",
+			"place_type": "poi",
+			"name": "Qualcomm Inc. - Bldg N (HQ)",
+			"full_name": "Qualcomm Inc. - Bldg N (HQ)",
+			"country_code": "",
+			"country": "",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.19583579735787,
+							32.89591839203115
+						],
+						[
+							-117.19583579735787,
+							32.89591839203115
+						],
+						[
+							-117.19583579735787,
+							32.89591839203115
+						],
+						[
+							-117.19583579735787,
+							32.89591839203115
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to let everyone know that startup San Diego panel speaker applications are open soon! @StartupSanDiego so get connected &amp; give back #quickpitch19 @CONNECTinSD @tcasandiego https://t.co/sMUW1TzM2S"
+	},
+	{
 		"created_at": "Tue Oct 29 21:48:14 +0000 2019",
 		"id": 1189297919293378600,
 		"id_str": "1189297919293378561",
