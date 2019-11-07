@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 06:51:53 +0000 2019",
+		"id": 1191532722436468700,
+		"id_str": "1191971446840594432",
+		"full_text": "Full house at @StartupSanDiego‘s 1stMonday event! #startupsd #sdtech https://t.co/9qSEl2vqyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupsd",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "sdtech",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191532704593899500,
+					"id_str": "1191532704593899520",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EIksrouUcAAhz5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIksrouUcAAhz5t.jpg",
+					"url": "https://t.co/9qSEl2vqyP",
+					"display_url": "pic.twitter.com/9qSEl2vqyP",
+					"expanded_url": "https://twitter.com/SDPhelan/status/1191532722436468736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 191,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 245,
+									"y": 205,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 526,
+									"y": 214,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 213,
+									"y": 221,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 162,
+									"y": 163,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1946,
+									"y": 576,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 738,
+									"y": 618,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1586,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 644,
+									"y": 668,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 488,
+									"y": 492,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1946,
+									"y": 576,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 738,
+									"y": 618,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1586,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 644,
+									"y": 668,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 488,
+									"y": 492,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1140,
+									"y": 337,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 432,
+									"y": 362,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 929,
+									"y": 378,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 377,
+									"y": 391,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 285,
+									"y": 288,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191532704593899500,
+					"id_str": "1191532704593899520",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EIksrouUcAAhz5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIksrouUcAAhz5t.jpg",
+					"url": "https://t.co/9qSEl2vqyP",
+					"display_url": "pic.twitter.com/9qSEl2vqyP",
+					"expanded_url": "https://twitter.com/SDPhelan/status/1191532722436468736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 646,
+									"y": 191,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 245,
+									"y": 205,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 526,
+									"y": 214,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 213,
+									"y": 221,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 162,
+									"y": 163,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1946,
+									"y": 576,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 738,
+									"y": 618,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1586,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 644,
+									"y": 668,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 488,
+									"y": 492,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1946,
+									"y": 576,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 738,
+									"y": 618,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1586,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 644,
+									"y": 668,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 488,
+									"y": 492,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1140,
+									"y": 337,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 432,
+									"y": 362,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 929,
+									"y": 378,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 377,
+									"y": 391,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 285,
+									"y": 288,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6538602,
+			"id_str": "6538602",
+			"name": "Phelan Riessen ©",
+			"screen_name": "SDPhelan",
+			"location": "ÜT: 32.751431,-117.148817",
+			"description": "CEO | NonStop Marketing, Founder | SD Tech Scene | StartupSD | entrepreneur, traveler, typographer, designer, foodie, WordPress guy",
+			"url": "https://t.co/hlReASYykv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hlReASYykv",
+							"expanded_url": "https://linktr.ee/phelan",
+							"display_url": "linktr.ee/phelan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 905,
+			"listed_count": 165,
+			"created_at": "Sun Jun 03 09:34:38 +0000 2007",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2AA4CF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000432932869/8d54d4c33345eb87cd82ad2ca6343419_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000432932869/8d54d4c33345eb87cd82ad2ca6343419_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6538602/1554363985",
+			"profile_link_color": "418587",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "13141F",
+			"profile_text_color": "808080",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e2f7be481001",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e2f7be481001.json",
+			"place_type": "poi",
+			"name": "Balboa's Taphouse",
+			"full_name": "Balboa's Taphouse",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.18348751109559,
+							32.824115691367695
+						],
+						[
+							-117.18348751109559,
+							32.824115691367695
+						],
+						[
+							-117.18348751109559,
+							32.824115691367695
+						],
+						[
+							-117.18348751109559,
+							32.824115691367695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full house at @StartupSanDiego‘s 1stMonday event! #startupsd #sdtech https://t.co/9qSEl2vqyP"
+	},
+	{
 		"created_at": "Tue Nov 05 22:48:12 +0000 2019",
 		"id": 1191849725693223000,
 		"id_str": "1191849725693222914",
