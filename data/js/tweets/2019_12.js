@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 07:03:32 +0000 2019",
+		"id": 1201726169403383800,
+		"id_str": "1202121239432589312",
+		"full_text": "If you've ever wanted to contribute your knowledge and experience to the community, @StartupSanDiego invites you to speak during Startup Week 2020! Give a presentation, host or join a panel, or even run a workshop. Applications due by December 6th.\n\nhttps://t.co/kt4ixta07D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kt4ixta07D",
+					"expanded_url": "https://startupsd.org/speaker-application/",
+					"display_url": "startupsd.org/speaker-applic…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893178238679236600,
+			"id_str": "893178238679236612",
+			"name": "Tech Coast Angels SD",
+			"screen_name": "tcasandiego",
+			"location": "San Diego, CA",
+			"description": "TCA has been fueling the growth of innovative entrepreneurs in SoCal since 1997. San Diego is our largest @techcoastangels chapter with 200+ members!",
+			"url": "https://t.co/v57J55gP2u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v57J55gP2u",
+							"expanded_url": "http://www.tcasandiego.com",
+							"display_url": "tcasandiego.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 846,
+			"friends_count": 641,
+			"listed_count": 7,
+			"created_at": "Thu Aug 03 18:34:21 +0000 2017",
+			"favourites_count": 331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893178238679236612/1527737947",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you've ever wanted to contribute your knowledge and experience to the community, @StartupSanDiego invites you to speak during Startup Week 2020! Give a presentation, host or join a panel, or even run a workshop. Applications due by December 6th.\n\nhttps://t.co/kt4ixta07D"
+	},
+	{
+		"created_at": "Wed Dec 04 07:02:20 +0000 2019",
+		"id": 1201688766353727500,
+		"id_str": "1202120937732104194",
+		"full_text": "San Diego’s most comprehensive, up-to-date list of resources for entrepreneurs is available here. Thanks to the team at @StartupSanDiego for putting this helpful resource together. https://t.co/adMPngjUpk https://t.co/2kNQaKehsB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						120,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/adMPngjUpk",
+					"expanded_url": "https://buff.ly/2zsdywo",
+					"display_url": "buff.ly/2zsdywo",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201688763958726700,
+					"id_str": "1201688763958726661",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1BkGJWkAU0ech.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1BkGJWkAU0ech.jpg",
+					"url": "https://t.co/2kNQaKehsB",
+					"display_url": "pic.twitter.com/2kNQaKehsB",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1201688766353727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 688,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201688763958726700,
+					"id_str": "1201688763958726661",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1BkGJWkAU0ech.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1BkGJWkAU0ech.jpg",
+					"url": "https://t.co/2kNQaKehsB",
+					"display_url": "pic.twitter.com/2kNQaKehsB",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1201688766353727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 688,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970531248882896900,
+			"id_str": "970531248882896897",
+			"name": "Fresh Brewed Tech",
+			"screen_name": "freshbrewedtech",
+			"location": "San Diego, CA",
+			"description": "Serving up the latest San Diego tech news and tacos 🌮 Subscribe to our newsletter here: https://t.co/eC5WbD3wWn  And listen to our podcast: @TacosandTechPod",
+			"url": "https://t.co/gqgiCYPCGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gqgiCYPCGk",
+							"expanded_url": "http://FreshBrewedTech.com",
+							"display_url": "FreshBrewedTech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eC5WbD3wWn",
+							"expanded_url": "http://bit.ly/FreshBrewedSub",
+							"display_url": "bit.ly/FreshBrewedSub",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 778,
+			"friends_count": 416,
+			"listed_count": 9,
+			"created_at": "Mon Mar 05 05:27:36 +0000 2018",
+			"favourites_count": 1112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970531248882896897/1574713241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "San Diego’s most comprehensive, up-to-date list of resources for entrepreneurs is available here. Thanks to the team at @StartupSanDiego for putting this helpful resource together. https://t.co/adMPngjUpk https://t.co/2kNQaKehsB"
+	},
+	{
 		"created_at": "Tue Dec 03 22:48:13 +0000 2019",
 		"id": 1201996590736650200,
 		"id_str": "1201996590736650242",
