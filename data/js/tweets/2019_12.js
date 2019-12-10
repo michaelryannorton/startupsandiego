@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 19:55:21 +0000 2019",
+		"id": 1204053178422984700,
+		"id_str": "1204127411375235072",
+		"full_text": "Since 2005, five metro areas — Boston, the San Francisco Bay Area, San Jose, Seattle, and San Diego — accounted for 90 percent of all US growth in “innovation sector” jobs #sdtechos https://t.co/AiYW2nI6La",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sdtechos",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AiYW2nI6La",
+					"expanded_url": "https://lnkd.in/gEYaQfX",
+					"display_url": "lnkd.in/gEYaQfX",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19131762,
+			"id_str": "19131762",
+			"name": "Neal Bloom",
+			"screen_name": "NealBloom",
+			"location": "San Diego, CA",
+			"description": "@StartupSanDiego @FreshBrewedTech @tacosandtechpod @ocfreshsqueezed",
+			"url": "https://t.co/sbmE5iLnTA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sbmE5iLnTA",
+							"expanded_url": "http://freshbrewedtech.com",
+							"display_url": "freshbrewedtech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2203,
+			"friends_count": 258,
+			"listed_count": 184,
+			"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+			"favourites_count": 13421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168054037041668096/_Fbtp05d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168054037041668096/_Fbtp05d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19131762/1405621367",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since 2005, five metro areas — Boston, the San Francisco Bay Area, San Jose, Seattle, and San Diego — accounted for 90 percent of all US growth in “innovation sector” jobs #sdtechos https://t.co/AiYW2nI6La"
+	},
+	{
 		"created_at": "Sat Dec 07 22:48:12 +0000 2019",
 		"id": 1203446137446961200,
 		"id_str": "1203446137446961152",
