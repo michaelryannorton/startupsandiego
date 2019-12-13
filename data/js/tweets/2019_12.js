@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 20:57:44 +0000 2019",
+		"id": 1205181647592624000,
+		"id_str": "1205230274839138304",
+		"full_text": "This is a big deal for @StartupSanDiego and the #SDTech ecosystem! Congrats @lexaRaeN, can't wait for you to really take the reigns and make your mark.\nhttps://t.co/icOvhzsxhP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDTech",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/icOvhzsxhP",
+					"expanded_url": "https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/startup-san-diego-hires-new-executive-director-after-six-month-vacancy",
+					"display_url": "sandiegouniontribune.com/business/techn…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16711411,
+			"id_str": "16711411",
+			"name": "AL Bsharah",
+			"screen_name": "ALBsharah",
+			"location": "San Diego, CA",
+			"description": "VP Product Strategy @SeismicSoftware. Sold @EmailCopilot. Angel Investor. Business Minded, Technically Inclined. Player of Volleyball. Lover of #SDTech.",
+			"url": "https://t.co/dNaI72X8i9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dNaI72X8i9",
+							"expanded_url": "http://al.bsharah.com",
+							"display_url": "al.bsharah.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1019,
+			"friends_count": 432,
+			"listed_count": 64,
+			"created_at": "Sun Oct 12 19:57:31 +0000 2008",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834990834864922624/axzQhqKh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834990834864922624/axzQhqKh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16711411/1571961826",
+			"profile_link_color": "C16A29",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a big deal for @StartupSanDiego and the #SDTech ecosystem! Congrats @lexaRaeN, can't wait for you to really take the reigns and make your mark.\nhttps://t.co/icOvhzsxhP"
+	},
+	{
+		"created_at": "Thu Dec 12 20:57:40 +0000 2019",
+		"id": 1205195394021380000,
+		"id_str": "1205230258766483456",
+		"full_text": "Startup San Diego hires new executive director after 6-month vacancy\nhttps://t.co/pDjUKAj1kj\n@sdut @StartupSanDiego #tech #sandiego #startups",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tech",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sdut",
+					"name": "San Diego Union-Tribune",
+					"id": 14148802,
+					"id_str": "14148802",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pDjUKAj1kj",
+					"expanded_url": "https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/startup-san-diego-hires-new-executive-director-after-six-month-vacancy",
+					"display_url": "sandiegouniontribune.com/business/techn…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2701355767,
+			"id_str": "2701355767",
+			"name": "Brittany Meiling",
+			"screen_name": "BrittanyMeiling",
+			"location": "San Diego, CA",
+			"description": "Reporter for The San Diego Union-Tribune covering startups, entrepreneurship, tech and retail.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2980,
+			"friends_count": 1184,
+			"listed_count": 128,
+			"created_at": "Sat Aug 02 17:32:05 +0000 2014",
+			"favourites_count": 1542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075399945656487936/r_VqCq0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075399945656487936/r_VqCq0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2701355767/1538155440",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Startup San Diego hires new executive director after 6-month vacancy\nhttps://t.co/pDjUKAj1kj\n@sdut @StartupSanDiego #tech #sandiego #startups"
+	},
+	{
 		"created_at": "Tue Dec 10 22:48:13 +0000 2019",
 		"id": 1204533303132541000,
 		"id_str": "1204533303132540928",
