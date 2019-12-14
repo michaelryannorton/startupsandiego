@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 16:51:42 +0000 2019",
+		"id": 1205517838208979000,
+		"id_str": "1205530745466343424",
+		"full_text": "We're sending a BIG welcome to Alexa-Rae Navarro - @StartupSanDiego's new executive director. Excited to work with you and see you propel our local #startup community into the next decade 🎉 https://t.co/B869qLrxwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						148,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						51,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B869qLrxwI",
+					"expanded_url": "https://buff.ly/36rzu9m",
+					"display_url": "buff.ly/36rzu9m",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113474827,
+			"id_str": "113474827",
+			"name": "SD Regional EDC",
+			"screen_name": "SDRegionalEDC",
+			"location": "San Diego, Calif.",
+			"description": "EDC's mission is to maximize San Diego's economic prosperity. SD news, data and more #SDlifechanging #inclusiveSD",
+			"url": "https://t.co/0dfC3hHTKH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0dfC3hHTKH",
+							"expanded_url": "http://www.sandiegobusiness.org",
+							"display_url": "sandiegobusiness.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6525,
+			"friends_count": 1588,
+			"listed_count": 215,
+			"created_at": "Thu Feb 11 21:57:12 +0000 2010",
+			"favourites_count": 6702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093232936013320193/Go9TeN6z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093232936013320193/Go9TeN6z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113474827/1534455893",
+			"profile_link_color": "003B4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're sending a BIG welcome to Alexa-Rae Navarro - @StartupSanDiego's new executive director. Excited to work with you and see you propel our local #startup community into the next decade 🎉 https://t.co/B869qLrxwI"
+	},
+	{
 		"created_at": "Thu Dec 12 20:57:44 +0000 2019",
 		"id": 1205181647592624000,
 		"id_str": "1205230274839138304",
