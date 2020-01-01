@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 21:05:37 +0000 2019",
+		"id": 1212117627205816300,
+		"id_str": "1212117627205816320",
+		"full_text": "Innovator VIP Passes are now SOLD OUT! Our Innovator General Admission Passes are still available for $40 until midnight tonight (then increasing to $60). Early Adopter VIP Passes are now available for $120 each. \nCheck out our events section of our site… https://t.co/kCMhBHd3ms https://t.co/NBT3CED0b3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kCMhBHd3ms",
+					"expanded_url": "http://bit.ly/2ZFyMD9",
+					"display_url": "bit.ly/2ZFyMD9",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212117626039734300,
+					"id_str": "1212117626039734272",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ENJOjw4WkAAtQkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENJOjw4WkAAtQkg.jpg",
+					"url": "https://t.co/NBT3CED0b3",
+					"display_url": "pic.twitter.com/NBT3CED0b3",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1212117627205816320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212117626039734300,
+					"id_str": "1212117626039734272",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ENJOjw4WkAAtQkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENJOjw4WkAAtQkg.jpg",
+					"url": "https://t.co/NBT3CED0b3",
+					"display_url": "pic.twitter.com/NBT3CED0b3",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1212117627205816320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 282,
+									"y": 87,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | Dates for #SDSW20 to be announced soon. https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3926,
+			"friends_count": 2383,
+			"listed_count": 113,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Innovator VIP Passes are now SOLD OUT! Our Innovator General Admission Passes are still available for $40 until midnight tonight (then increasing to $60). Early Adopter VIP Passes are now available for $120 each. \nCheck out our events section of our site… https://t.co/kCMhBHd3ms https://t.co/NBT3CED0b3"
+	},
+	{
+		"created_at": "Tue Dec 31 19:57:54 +0000 2019",
+		"id": 1212099733969354800,
+		"id_str": "1212100588063936512",
+		"full_text": "SDSW TICKET UPDATE: Our $80 Innovator VIP Passes are now SOLD OUT! Early Adopter VIP Passes are available at $120 each and grant you access to all VIP events and lounge areas during San Diego Startup Week 2020. https://t.co/Y1CFhKCknk #sdsw #startupweek #startups #entrepreneurs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sdsw",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "startupweek",
+					"indices": [
+						241,
+						253
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						254,
+						263
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						264,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y1CFhKCknk",
+					"expanded_url": "http://ow.ly/JTOo50xKNOo",
+					"display_url": "ow.ly/JTOo50xKNOo",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2339762118,
+			"id_str": "2339762118",
+			"name": "SD Startup Week",
+			"screen_name": "SDStartupWeek",
+			"location": "San Diego, CA",
+			"description": "One week, celebrating innovation. May 26 - 30, 2020 #SDSW #StartupSD #SDtech | Tickets: https://t.co/Uo2QR3HZny | Join us year round at @StartupSanDiego",
+			"url": "https://t.co/apBzLwX7RV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uo2QR3HZny",
+							"expanded_url": "http://bit.ly/SDSW19_EB",
+							"display_url": "bit.ly/SDSW19_EB",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4873,
+			"friends_count": 2389,
+			"listed_count": 159,
+			"created_at": "Wed Feb 12 04:53:19 +0000 2014",
+			"favourites_count": 3101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/805941289342504960/0NG4ydNT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/805941289342504960/0NG4ydNT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339762118/1555087617",
+			"profile_link_color": "45C3F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SDSW TICKET UPDATE: Our $80 Innovator VIP Passes are now SOLD OUT! Early Adopter VIP Passes are available at $120 each and grant you access to all VIP events and lounge areas during San Diego Startup Week 2020. https://t.co/Y1CFhKCknk #sdsw #startupweek #startups #entrepreneurs"
+	},
+	{
 		"created_at": "Tue Dec 24 18:19:14 +0000 2019",
 		"id": 1209539042934702000,
 		"id_str": "1209539042934702081",
