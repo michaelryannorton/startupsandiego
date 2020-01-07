@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 22:48:32 +0000 2020",
+		"id": 1214317857506349000,
+		"id_str": "1214317857506349056",
+		"full_text": "🙌 https://t.co/NtYlLOXrJ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NtYlLOXrJ1",
+					"expanded_url": "https://twitter.com/taylorasilveira/status/1211878716466270208",
+					"display_url": "twitter.com/taylorasilveir…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | Dates for #SDSW20 to be announced soon. https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3929,
+			"friends_count": 2383,
+			"listed_count": 113,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1211878716466270200,
+		"quoted_status_id_str": "1211878716466270208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NtYlLOXrJ1",
+			"expanded": "https://twitter.com/taylorasilveira/status/1211878716466270208",
+			"display": "twitter.com/taylorasilveir…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 31 05:16:16 +0000 2019",
+			"id": 1211878716466270200,
+			"id_str": "1211878716466270208",
+			"full_text": "These are the 15 best US cities to launch a startup. San Diego is ranked #11- the city has the highest concentration of science and engineering professionals in the country. | @businessinsider https://t.co/cypcaQt2dQ https://t.co/pbyWWBw5nj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "businessinsider",
+						"name": "Business Insider",
+						"id": 20562637,
+						"id_str": "20562637",
+						"indices": [
+							176,
+							192
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cypcaQt2dQ",
+						"expanded_url": "https://buff.ly/2MJnCYR",
+						"display_url": "buff.ly/2MJnCYR",
+						"indices": [
+							193,
+							216
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1211878697289928700,
+						"id_str": "1211878697289928705",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/ENF1QR7UUAEk1Xd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENF1QR7UUAEk1Xd.jpg",
+						"url": "https://t.co/pbyWWBw5nj",
+						"display_url": "pic.twitter.com/pbyWWBw5nj",
+						"expanded_url": "https://twitter.com/taylorasilveira/status/1211878716466270208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1211878697289928700,
+						"id_str": "1211878697289928705",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/ENF1QR7UUAEk1Xd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENF1QR7UUAEk1Xd.jpg",
+						"url": "https://t.co/pbyWWBw5nj",
+						"display_url": "pic.twitter.com/pbyWWBw5nj",
+						"expanded_url": "https://twitter.com/taylorasilveira/status/1211878716466270208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4638706452,
+				"id_str": "4638706452",
+				"name": "Taylor Silveira",
+				"screen_name": "taylorasilveira",
+				"location": "San Diego/Los Angeles CA",
+				"description": "Communications, 2023 | @UCLA. Marketing and Communications Associate | @freshbrewedtech.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82,
+				"friends_count": 391,
+				"listed_count": 1,
+				"created_at": "Wed Dec 23 18:44:43 +0000 2015",
+				"favourites_count": 1874,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172664099534249984/8M4rpEV4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172664099534249984/8M4rpEV4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4638706452/1575327026",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🙌 https://t.co/NtYlLOXrJ1"
+	},
+	{
 		"created_at": "Sat Jan 04 16:01:10 +0000 2020",
 		"id": 1213490563628064800,
 		"id_str": "1213490563628064768",
