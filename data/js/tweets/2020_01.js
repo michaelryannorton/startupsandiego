@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 23:10:05 +0000 2020",
+		"id": 1214685667021721600,
+		"id_str": "1214685667021721632",
+		"full_text": "Thanks to everyone who came out last night for tacos and talks in TJ! Big thank you to ArkusNexus for hosting! \n\n#1stMondays #startups #networking #entrepreneurs #startuplife #tech #businessevents #startupevents https://t.co/FxtOOSQ1BL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "networking",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"text": "startuplife",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "tech",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "businessevents",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"text": "startupevents",
+					"indices": [
+						197,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214685663351771100,
+					"id_str": "1214685663351771137",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ENtuLNXXkAEKCd1.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENtuLNXXkAEKCd1.png",
+					"url": "https://t.co/FxtOOSQ1BL",
+					"display_url": "pic.twitter.com/FxtOOSQ1BL",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1214685667021721632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 166,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 166,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 166,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 113,
+									"y": 141,
+									"h": 69,
+									"w": 69
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214685663351771100,
+					"id_str": "1214685663351771137",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ENtuLNXXkAEKCd1.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENtuLNXXkAEKCd1.png",
+					"url": "https://t.co/FxtOOSQ1BL",
+					"display_url": "pic.twitter.com/FxtOOSQ1BL",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1214685667021721632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 166,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 166,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 134,
+									"y": 166,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 113,
+									"y": 141,
+									"h": 69,
+									"w": 69
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214685664035442700,
+					"id_str": "1214685664035442689",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/ENtuLP6XkAEYwky.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENtuLP6XkAEYwky.png",
+					"url": "https://t.co/FxtOOSQ1BL",
+					"display_url": "pic.twitter.com/FxtOOSQ1BL",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1214685667021721632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | Dates for #SDSW20 to be announced soon. https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3932,
+			"friends_count": 2383,
+			"listed_count": 113,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to everyone who came out last night for tacos and talks in TJ! Big thank you to ArkusNexus for hosting! \n\n#1stMondays #startups #networking #entrepreneurs #startuplife #tech #businessevents #startupevents https://t.co/FxtOOSQ1BL"
+	},
+	{
 		"created_at": "Mon Jan 06 22:48:32 +0000 2020",
 		"id": 1214317857506349000,
 		"id_str": "1214317857506349056",
