@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 18:14:06 +0000 2020",
+		"id": 1215698345060118500,
+		"id_str": "1215698345060118529",
+		"full_text": "We're pleased to announce our panelists for this month's 3rd Mondays event! - Samantha Wolf (Manager, People &amp; Culture) @Measurabl\n- Jaime Onofre (Sr. Talent Partner, Engineering) @Zapier\n- Samantha Smoot (Talent Acquisition Coordinator) @Teradata\n\nIf yo… https://t.co/VDLWem0Kzp https://t.co/FAKEwXxCec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "measurabl",
+					"name": "Measurabl",
+					"id": 1463425236,
+					"id_str": "1463425236",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"screen_name": "zapier",
+					"name": "Zapier",
+					"id": 383012058,
+					"id_str": "383012058",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"screen_name": "Teradata",
+					"name": "Teradata",
+					"id": 16450071,
+					"id_str": "16450071",
+					"indices": [
+						242,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VDLWem0Kzp",
+					"expanded_url": "http://bit.ly/2tLFk7t",
+					"display_url": "bit.ly/2tLFk7t",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215698343743119400,
+					"id_str": "1215698343743119360",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8HM9zW4AA_DHw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8HM9zW4AA_DHw.jpg",
+					"url": "https://t.co/FAKEwXxCec",
+					"display_url": "pic.twitter.com/FAKEwXxCec",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1215698345060118529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215698343743119400,
+					"id_str": "1215698343743119360",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8HM9zW4AA_DHw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8HM9zW4AA_DHw.jpg",
+					"url": "https://t.co/FAKEwXxCec",
+					"display_url": "pic.twitter.com/FAKEwXxCec",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1215698345060118529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 165,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD | Dates for #SDSW20 to be announced soon. https://t.co/apBzLwX7RV",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3936,
+			"friends_count": 2383,
+			"listed_count": 113,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're pleased to announce our panelists for this month's 3rd Mondays event! - Samantha Wolf (Manager, People &amp; Culture) @Measurabl\n- Jaime Onofre (Sr. Talent Partner, Engineering) @Zapier\n- Samantha Smoot (Talent Acquisition Coordinator) @Teradata\n\nIf yo… https://t.co/VDLWem0Kzp https://t.co/FAKEwXxCec"
+	},
+	{
 		"created_at": "Thu Jan 09 17:25:07 +0000 2020",
 		"id": 1215323630089003000,
 		"id_str": "1215323630089003009",
