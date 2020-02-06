@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 06:09:43 +0000 2020",
+		"id": 1224827712415522800,
+		"id_str": "1224938133071921153",
+		"full_text": "Our February 1st Mondays event was 🔥...the @StartupSanDiego community showed up big last night TY @SocieteBrewing The #force was strong at this one! 🤓😉🚀 #buildingstartupecosystemsarewe #doordonotthereisnotry #startupSD https://t.co/hT1hVereuw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "force",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "buildingstartupecosystemsarewe",
+					"indices": [
+						153,
+						184
+					]
+				},
+				{
+					"text": "doordonotthereisnotry",
+					"indices": [
+						185,
+						207
+					]
+				},
+				{
+					"text": "startupSD",
+					"indices": [
+						208,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"screen_name": "SocieteBrewing",
+					"name": "Societe Brewing",
+					"id": 277250135,
+					"id_str": "277250135",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224827705931100200,
+					"id_str": "1224827705931100160",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EP92TyMUcAARcUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP92TyMUcAARcUu.jpg",
+					"url": "https://t.co/hT1hVereuw",
+					"display_url": "pic.twitter.com/hT1hVereuw",
+					"expanded_url": "https://twitter.com/lexaRaeN/status/1224827712415522816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224827705931100200,
+					"id_str": "1224827705931100160",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EP92TyMUcAARcUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP92TyMUcAARcUu.jpg",
+					"url": "https://t.co/hT1hVereuw",
+					"display_url": "pic.twitter.com/hT1hVereuw",
+					"expanded_url": "https://twitter.com/lexaRaeN/status/1224827712415522816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact. #community #economicimpact #inclusivetech | ED @startupsandiego  https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 376,
+			"listed_count": 15,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our February 1st Mondays event was 🔥...the @StartupSanDiego community showed up big last night TY @SocieteBrewing The #force was strong at this one! 🤓😉🚀 #buildingstartupecosystemsarewe #doordonotthereisnotry #startupSD https://t.co/hT1hVereuw"
+	},
+	{
 		"created_at": "Tue Feb 04 20:05:09 +0000 2020",
 		"id": 1224785985617133600,
 		"id_str": "1224785985617133575",
