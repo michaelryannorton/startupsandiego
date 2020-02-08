@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 16:01:07 +0000 2020",
+		"id": 1225811738475614200,
+		"id_str": "1225811738475614209",
+		"full_text": "Want to learn what it takes to land a job at one of the top U.S. employers (as named by @LinkedIn)? Come to our 3rd Mondays event (Feb 17) and hear from Ed Zecha, Senior Technical Recruiter for @ServiceNow.\n\nTickets: https://t.co/MO8H29f2OC\n\n#3rdMondays #interviewtips #jobseekers https://t.co/Ghaju1qkmn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3rdMondays",
+					"indices": [
+						242,
+						253
+					]
+				},
+				{
+					"text": "interviewtips",
+					"indices": [
+						254,
+						268
+					]
+				},
+				{
+					"text": "jobseekers",
+					"indices": [
+						269,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LinkedIn",
+					"name": "LinkedIn",
+					"id": 13058772,
+					"id_str": "13058772",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"screen_name": "servicenow",
+					"name": "ServiceNow",
+					"id": 15766070,
+					"id_str": "15766070",
+					"indices": [
+						194,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MO8H29f2OC",
+					"expanded_url": "http://ow.ly/5xM950yeWxy",
+					"display_url": "ow.ly/5xM950yeWxy",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225811735745003500,
+					"id_str": "1225811735745003520",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EQL1R26WAAAFMYT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQL1R26WAAAFMYT.jpg",
+					"url": "https://t.co/Ghaju1qkmn",
+					"display_url": "pic.twitter.com/Ghaju1qkmn",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1225811738475614209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1834,
+							"h": 917,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225811735745003500,
+					"id_str": "1225811735745003520",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EQL1R26WAAAFMYT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQL1R26WAAAFMYT.jpg",
+					"url": "https://t.co/Ghaju1qkmn",
+					"display_url": "pic.twitter.com/Ghaju1qkmn",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1225811738475614209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1834,
+							"h": 917,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3989,
+			"friends_count": 2377,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to learn what it takes to land a job at one of the top U.S. employers (as named by @LinkedIn)? Come to our 3rd Mondays event (Feb 17) and hear from Ed Zecha, Senior Technical Recruiter for @ServiceNow.\n\nTickets: https://t.co/MO8H29f2OC\n\n#3rdMondays #interviewtips #jobseekers https://t.co/Ghaju1qkmn"
+	},
+	{
 		"created_at": "Thu Feb 06 17:05:17 +0000 2020",
 		"id": 1225465499909337000,
 		"id_str": "1225465499909337093",
