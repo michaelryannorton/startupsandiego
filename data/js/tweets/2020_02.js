@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 17:00:57 +0000 2020",
+		"id": 1228001122805305300,
+		"id_str": "1228001122805305345",
+		"full_text": "ALERT: 3rd Mondays tickets are selling fast! Get your ticket before we're completely sold out. https://t.co/sVJsCUBbcr\n\nSee you all at FEMX Quarters next Monday! Get ready to learn from hiring experts at @tealium, @servicenow, and @MindTouch. \n\n#3rdMondays #careerdevelopment https://t.co/wNVXQTd82R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3rdMondays",
+					"indices": [
+						245,
+						256
+					]
+				},
+				{
+					"text": "careerdevelopment",
+					"indices": [
+						257,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tealium",
+					"name": "Tealium",
+					"id": 72982422,
+					"id_str": "72982422",
+					"indices": [
+						204,
+						212
+					]
+				},
+				{
+					"screen_name": "servicenow",
+					"name": "ServiceNow",
+					"id": 15766070,
+					"id_str": "15766070",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"screen_name": "MindTouch",
+					"name": "MindTouch",
+					"id": 14058185,
+					"id_str": "14058185",
+					"indices": [
+						231,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sVJsCUBbcr",
+					"expanded_url": "http://ow.ly/8P5F50yl7tN",
+					"display_url": "ow.ly/8P5F50yl7tN",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228001121416962000,
+					"id_str": "1228001121416962048",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EQq8g4HW4AAPWcz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQq8g4HW4AAPWcz.jpg",
+					"url": "https://t.co/wNVXQTd82R",
+					"display_url": "pic.twitter.com/wNVXQTd82R",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1228001122805305345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228001121416962000,
+					"id_str": "1228001121416962048",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EQq8g4HW4AAPWcz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQq8g4HW4AAPWcz.jpg",
+					"url": "https://t.co/wNVXQTd82R",
+					"display_url": "pic.twitter.com/wNVXQTd82R",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1228001122805305345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3990,
+			"friends_count": 2378,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ALERT: 3rd Mondays tickets are selling fast! Get your ticket before we're completely sold out. https://t.co/sVJsCUBbcr\n\nSee you all at FEMX Quarters next Monday! Get ready to learn from hiring experts at @tealium, @servicenow, and @MindTouch. \n\n#3rdMondays #careerdevelopment https://t.co/wNVXQTd82R"
+	},
+	{
 		"created_at": "Tue Feb 11 19:45:13 +0000 2020",
 		"id": 1227317687631712300,
 		"id_str": "1227317687631712257",
