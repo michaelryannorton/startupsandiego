@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 15 04:28:22 +0000 2020",
+		"id": 1228502962923806700,
+		"id_str": "1228536502767894528",
+		"full_text": "Don't forget to vote for what you want to see at SDSW2020! Some sessions have almost 400 votes already! Also remember there's only 1 week left to get your SDSW2020 tickets for just $60. \nhttps://t.co/vjbsLRqSjE\n\n#SDSW2020 #startupweek #sandiego #sandiegoevents #startuplife",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2020",
+					"indices": [
+						212,
+						221
+					]
+				},
+				{
+					"text": "startupweek",
+					"indices": [
+						222,
+						234
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						235,
+						244
+					]
+				},
+				{
+					"text": "sandiegoevents",
+					"indices": [
+						245,
+						260
+					]
+				},
+				{
+					"text": "startuplife",
+					"indices": [
+						261,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vjbsLRqSjE",
+					"expanded_url": "http://ow.ly/TKuV50yn4J7",
+					"display_url": "ow.ly/TKuV50yn4J7",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2339762118,
+			"id_str": "2339762118",
+			"name": "SD Startup Week",
+			"screen_name": "SDStartupWeek",
+			"location": "San Diego, CA",
+			"description": "One week, celebrating innovation. May 26 - 30, 2020 #SDSW2020 #StartupSD #SDtech - Join us year round at @StartupSanDiego",
+			"url": "https://t.co/apBzLwX7RV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4890,
+			"friends_count": 2381,
+			"listed_count": 157,
+			"created_at": "Wed Feb 12 04:53:19 +0000 2014",
+			"favourites_count": 3100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/805941289342504960/0NG4ydNT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/805941289342504960/0NG4ydNT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339762118/1581351344",
+			"profile_link_color": "45C3F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't forget to vote for what you want to see at SDSW2020! Some sessions have almost 400 votes already! Also remember there's only 1 week left to get your SDSW2020 tickets for just $60. \nhttps://t.co/vjbsLRqSjE\n\n#SDSW2020 #startupweek #sandiego #sandiegoevents #startuplife"
+	},
+	{
 		"created_at": "Fri Feb 14 02:10:04 +0000 2020",
 		"id": 1228139310995705900,
 		"id_str": "1228139310995705861",
