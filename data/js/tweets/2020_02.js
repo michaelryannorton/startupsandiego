@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 04:33:25 +0000 2020",
+		"id": 1230703716212170800,
+		"id_str": "1230712102295228416",
+		"full_text": "ALERT: Our $60 passes to SDSW2020 are SOLD OUT! Passes are now $110 (or $250 for VIP).\n\nAlso, don't forget to vote for your favorite sessions! https://t.co/2dZh4lu9e0\n\n#SDSW2020 #sandiego #sandiegoevents #startupevents #entrepreneurship #startuplife #startups #startupbusiness",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2020",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "sandiegoevents",
+					"indices": [
+						188,
+						203
+					]
+				},
+				{
+					"text": "startupevents",
+					"indices": [
+						204,
+						218
+					]
+				},
+				{
+					"text": "entrepreneurship",
+					"indices": [
+						219,
+						236
+					]
+				},
+				{
+					"text": "startuplife",
+					"indices": [
+						237,
+						249
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						250,
+						259
+					]
+				},
+				{
+					"text": "startupbusiness",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2dZh4lu9e0",
+					"expanded_url": "http://ow.ly/WgMD50ys71j",
+					"display_url": "ow.ly/WgMD50ys71j",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2339762118,
+			"id_str": "2339762118",
+			"name": "SD Startup Week",
+			"screen_name": "SDStartupWeek",
+			"location": "San Diego, CA",
+			"description": "One week, celebrating innovation. May 26 - 30, 2020 #SDSW2020 #StartupSD #SDtech - Join us year round at @StartupSanDiego",
+			"url": "https://t.co/apBzLwX7RV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4891,
+			"friends_count": 2379,
+			"listed_count": 157,
+			"created_at": "Wed Feb 12 04:53:19 +0000 2014",
+			"favourites_count": 3100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/805941289342504960/0NG4ydNT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/805941289342504960/0NG4ydNT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339762118/1581351344",
+			"profile_link_color": "45C3F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ALERT: Our $60 passes to SDSW2020 are SOLD OUT! Passes are now $110 (or $250 for VIP).\n\nAlso, don't forget to vote for your favorite sessions! https://t.co/2dZh4lu9e0\n\n#SDSW2020 #sandiego #sandiegoevents #startupevents #entrepreneurship #startuplife #startups #startupbusiness"
+	},
+	{
 		"created_at": "Thu Feb 20 02:00:09 +0000 2020",
 		"id": 1230311143656378400,
 		"id_str": "1230311143656378369",
