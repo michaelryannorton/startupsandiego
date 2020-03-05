@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 16:01:53 +0000 2020",
+		"id": 1235234015445217300,
+		"id_str": "1235234015445217283",
+		"full_text": "Don't miss the first of 5 workshops as part of our new Startup Series. Register for free: https://t.co/xCdCwo07CJ\n\n#sandiego #sandiegoevents #startupevents #startup #business #entrepreneur #entrepreneurship #smallbusiness #startuplife #startups #entrepreneurlife #entrepreneurs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "sandiegoevents",
+					"indices": [
+						125,
+						140
+					]
+				},
+				{
+					"text": "startupevents",
+					"indices": [
+						141,
+						155
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "business",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "entrepreneur",
+					"indices": [
+						175,
+						188
+					]
+				},
+				{
+					"text": "entrepreneurship",
+					"indices": [
+						189,
+						206
+					]
+				},
+				{
+					"text": "smallbusiness",
+					"indices": [
+						207,
+						221
+					]
+				},
+				{
+					"text": "startuplife",
+					"indices": [
+						222,
+						234
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						235,
+						244
+					]
+				},
+				{
+					"text": "entrepreneurlife",
+					"indices": [
+						245,
+						262
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						263,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xCdCwo07CJ",
+					"expanded_url": "http://ow.ly/DKex50yzpKx",
+					"display_url": "ow.ly/DKex50yzpKx",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4013,
+			"friends_count": 2376,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't miss the first of 5 workshops as part of our new Startup Series. Register for free: https://t.co/xCdCwo07CJ\n\n#sandiego #sandiegoevents #startupevents #startup #business #entrepreneur #entrepreneurship #smallbusiness #startuplife #startups #entrepreneurlife #entrepreneurs"
+	},
+	{
 		"created_at": "Mon Mar 02 16:01:07 +0000 2020",
 		"id": 1234509044888604700,
 		"id_str": "1234509044888604672",
