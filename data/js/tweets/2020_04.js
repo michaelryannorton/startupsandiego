@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 20:27:32 +0000 2020",
+		"id": 1250883544726945800,
+		"id_str": "1250883544726945792",
+		"full_text": "T-minus 4 hours⏳until we get to see our #startupsd #community 🚀💙🤓 Use discount code SSD20 &amp; snag your 🎟 NOW! ⬇️ #sdtechos #startupecosystem #bettertogether https://t.co/pLpP5ch1sX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupsd",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "sdtechos",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "startupecosystem",
+					"indices": [
+						126,
+						143
+					]
+				},
+				{
+					"text": "bettertogether",
+					"indices": [
+						144,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pLpP5ch1sX",
+					"expanded_url": "https://twitter.com/metabyacai/status/1250801279498100736",
+					"display_url": "twitter.com/metabyacai/sta…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4039,
+			"friends_count": 2369,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250801279498100700,
+		"quoted_status_id_str": "1250801279498100736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pLpP5ch1sX",
+			"expanded": "https://twitter.com/metabyacai/status/1250801279498100736",
+			"display": "twitter.com/metabyacai/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 15:00:38 +0000 2020",
+			"id": 1250801279498100700,
+			"id_str": "1250801279498100736",
+			"full_text": "Get your ticket to tonight's virtual #networking event for the #startup ecosystem before it sells out! https://t.co/WmYmLNp5QE\n#MxA #entrepreneurs #networking https://t.co/Z3E93DgW1x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "networking",
+						"indices": [
+							37,
+							48
+						]
+					},
+					{
+						"text": "startup",
+						"indices": [
+							63,
+							71
+						]
+					},
+					{
+						"text": "MxA",
+						"indices": [
+							127,
+							131
+						]
+					},
+					{
+						"text": "entrepreneurs",
+						"indices": [
+							132,
+							146
+						]
+					},
+					{
+						"text": "networking",
+						"indices": [
+							147,
+							158
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WmYmLNp5QE",
+						"expanded_url": "http://www.metabyacai.com",
+						"display_url": "metabyacai.com",
+						"indices": [
+							103,
+							126
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1250801277384175600,
+						"id_str": "1250801277384175618",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/EVu9In8WsAIJ2f1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVu9In8WsAIJ2f1.jpg",
+						"url": "https://t.co/Z3E93DgW1x",
+						"display_url": "pic.twitter.com/Z3E93DgW1x",
+						"expanded_url": "https://twitter.com/metabyacai/status/1250801279498100736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 601,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1834,
+								"h": 918,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250801277384175600,
+						"id_str": "1250801277384175618",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/EVu9In8WsAIJ2f1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVu9In8WsAIJ2f1.jpg",
+						"url": "https://t.co/Z3E93DgW1x",
+						"display_url": "pic.twitter.com/Z3E93DgW1x",
+						"expanded_url": "https://twitter.com/metabyacai/status/1250801279498100736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 601,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1834,
+								"h": 918,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1240925171071864800,
+				"id_str": "1240925171071864832",
+				"name": "Meta by Acai",
+				"screen_name": "metabyacai",
+				"location": "San Diego, CA",
+				"description": "Helping keep the startup community together, when we can’t afford to be apart. From the founders of https://t.co/1UE4JRsOKZ",
+				"url": "https://t.co/zX5sBFxUcN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zX5sBFxUcN",
+								"expanded_url": "http://www.metabyacai.com",
+								"display_url": "metabyacai.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1UE4JRsOKZ",
+								"expanded_url": "http://www.thinkacai.com",
+								"display_url": "thinkacai.com",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13,
+				"friends_count": 30,
+				"listed_count": 0,
+				"created_at": "Fri Mar 20 08:57:05 +0000 2020",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240956502879297540/EzDo5r0F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240956502879297540/EzDo5r0F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1240925171071864832/1584702061",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "T-minus 4 hours⏳until we get to see our #startupsd #community 🚀💙🤓 Use discount code SSD20 &amp; snag your 🎟 NOW! ⬇️ #sdtechos #startupecosystem #bettertogether https://t.co/pLpP5ch1sX"
+	},
+	{
 		"created_at": "Thu Apr 09 16:00:00 +0000 2020",
 		"id": 1248279505392693200,
 		"id_str": "1248279505392693249",
