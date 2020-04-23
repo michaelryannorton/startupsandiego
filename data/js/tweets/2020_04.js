@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 20:03:51 +0000 2020",
+		"id": 1253050538834292700,
+		"id_str": "1253051912850534400",
+		"full_text": "A digital early stage #startup workshop series tuned to #COVID climate kicks-off Friday 4/24 alongside @SDPartnership &amp; @StartupSanDiego! Join us as we provide founders content, tools, &amp; best practices to build resilient ventures! \nhttps://t.co/TKzQwpOL9i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "COVID",
+					"indices": [
+						56,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDPartnership",
+					"name": "Downtown San Diego",
+					"id": 362197703,
+					"id_str": "362197703",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TKzQwpOL9i",
+					"expanded_url": "https://www.eventbrite.com/e/the-entrepreneurial-leader-mindset-workshop-1-of-5-tickets-96013451819",
+					"display_url": "eventbrite.com/e/the-entrepre…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130852872,
+			"id_str": "130852872",
+			"name": "Mission Edge",
+			"screen_name": "MissionEdgeSD",
+			"location": "San Diego, CA",
+			"description": "Serving social enterprises with operational and strategic solutions for foundations and nonprofit organizations that seek to accelerate their mission.",
+			"url": "https://t.co/nCMpnN6MzB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nCMpnN6MzB",
+							"expanded_url": "http://www.MissionEdge.org",
+							"display_url": "MissionEdge.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 977,
+			"friends_count": 873,
+			"listed_count": 42,
+			"created_at": "Thu Apr 08 14:34:21 +0000 2010",
+			"favourites_count": 540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/514454453458436096/jT6h1INF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/514454453458436096/jT6h1INF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130852872/1548194004",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A digital early stage #startup workshop series tuned to #COVID climate kicks-off Friday 4/24 alongside @SDPartnership &amp; @StartupSanDiego! Join us as we provide founders content, tools, &amp; best practices to build resilient ventures! \nhttps://t.co/TKzQwpOL9i"
+	},
+	{
 		"created_at": "Tue Apr 21 02:30:44 +0000 2020",
 		"id": 1252424499577843700,
 		"id_str": "1252424499577843712",
