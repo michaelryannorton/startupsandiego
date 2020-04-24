@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 19:38:09 +0000 2020",
+		"id": 1253407833988624400,
+		"id_str": "1253407833988624384",
+		"full_text": "📢 Calling all early stage founders—What’s on your agenda tomorrow morning? Grab your ☕️ and tune in with us, snag your 🎟 now! ⬇️ @SDPartnership @MissionEdgeSD @NealBloom #startupsd https://t.co/XlSdoMiL7n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupsd",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDPartnership",
+					"name": "Downtown San Diego",
+					"id": 362197703,
+					"id_str": "362197703",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"screen_name": "MissionEdgeSD",
+					"name": "Mission Edge",
+					"id": 130852872,
+					"id_str": "130852872",
+					"indices": [
+						144,
+						158
+					]
+				},
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XlSdoMiL7n",
+					"expanded_url": "https://www.eventbrite.com/e/the-entrepreneurial-leader-mindset-workshop-1-of-5-tickets-96013451819",
+					"display_url": "eventbrite.com/e/the-entrepre…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4045,
+			"friends_count": 2370,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Calling all early stage founders—What’s on your agenda tomorrow morning? Grab your ☕️ and tune in with us, snag your 🎟 now! ⬇️ @SDPartnership @MissionEdgeSD @NealBloom #startupsd https://t.co/XlSdoMiL7n"
+	},
+	{
+		"created_at": "Thu Apr 23 19:15:20 +0000 2020",
+		"id": 1253384573070610400,
+		"id_str": "1253402090975555590",
+		"full_text": "San Diegans: here's a resource of tech and life sciences companies hiring https://t.co/y5D9IlSync\n\nResource created by @SDRegionalEDC @CONNECTinSD @StartupSanDiego \n\nI also interviewed some SD community leaders and HR teams for @SDbusiness to learn more. \nhttps://t.co/6JaoFAS25O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDRegionalEDC",
+					"name": "SD Regional EDC",
+					"id": 113474827,
+					"id_str": "113474827",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "Connect",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"screen_name": "SDbusiness",
+					"name": "SD Business Journal",
+					"id": 24221330,
+					"id_str": "24221330",
+					"indices": [
+						228,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y5D9IlSync",
+					"expanded_url": "http://bit.ly/3eF64tr",
+					"display_url": "bit.ly/3eF64tr",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/6JaoFAS25O",
+					"expanded_url": "https://www.sdbj.com/news/2020/apr/22/tech-medical-industries-hunt-talent/",
+					"display_url": "sdbj.com/news/2020/apr/…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4775662891,
+			"id_str": "4775662891",
+			"name": "Fred Grier",
+			"screen_name": "Fredmgrier",
+			"location": "San Diego, CA",
+			"description": "Reporter at The San Diego Business Journal covering entrepreneurs and technology startups disrupting industries. fgrier@sdbj.com",
+			"url": "https://t.co/XtsaaeYOYi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XtsaaeYOYi",
+							"expanded_url": "https://www.linkedin.com/in/fredgrier/",
+							"display_url": "linkedin.com/in/fredgrier/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 368,
+			"listed_count": 0,
+			"created_at": "Sun Jan 17 23:08:47 +0000 2016",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240143595086192641/9pfdkZYU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240143595086192641/9pfdkZYU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4775662891/1587666774",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "San Diegans: here's a resource of tech and life sciences companies hiring https://t.co/y5D9IlSync\n\nResource created by @SDRegionalEDC @CONNECTinSD @StartupSanDiego \n\nI also interviewed some SD community leaders and HR teams for @SDbusiness to learn more. \nhttps://t.co/6JaoFAS25O"
+	},
+	{
 		"created_at": "Wed Apr 22 20:03:51 +0000 2020",
 		"id": 1253050538834292700,
 		"id_str": "1253051912850534400",
