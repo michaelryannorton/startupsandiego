@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 00:04:11 +0000 2020",
+		"id": 1255286721224290300,
+		"id_str": "1255286721224290304",
+		"full_text": "Join us for digital workshop #2 this Friday at 10:00 AM! 🚀🤓 https://t.co/ZIAKsaudb3 #startupsd #sdtechos @SDPartnership @MissionEdgeSD @kendavenport63 https://t.co/s0fHBxbCto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupsd",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "sdtechos",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDPartnership",
+					"name": "Downtown San Diego",
+					"id": 362197703,
+					"id_str": "362197703",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"screen_name": "MissionEdgeSD",
+					"name": "Mission Edge",
+					"id": 130852872,
+					"id_str": "130852872",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"screen_name": "kendavenport63",
+					"name": "Ken Davenport",
+					"id": 875773177204326400,
+					"id_str": "875773177204326400",
+					"indices": [
+						135,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZIAKsaudb3",
+					"expanded_url": "https://bit.ly/2KEp8Kq",
+					"display_url": "bit.ly/2KEp8Kq",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255286716166033400,
+					"id_str": "1255286716166033409",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+					"url": "https://t.co/s0fHBxbCto",
+					"display_url": "pic.twitter.com/s0fHBxbCto",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1255286721224290304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255286716166033400,
+					"id_str": "1255286716166033409",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+					"url": "https://t.co/s0fHBxbCto",
+					"display_url": "pic.twitter.com/s0fHBxbCto",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1255286721224290304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4053,
+			"friends_count": 2372,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us for digital workshop #2 this Friday at 10:00 AM! 🚀🤓 https://t.co/ZIAKsaudb3 #startupsd #sdtechos @SDPartnership @MissionEdgeSD @kendavenport63 https://t.co/s0fHBxbCto"
+	},
+	{
+		"created_at": "Tue Apr 28 23:22:25 +0000 2020",
+		"id": 1255236317019082800,
+		"id_str": "1255276210013208577",
+		"full_text": "Please join us tomorrow, 4/29 from 5:30pm to 6:30pm for FilAm Innovators Against the Grain: Resilience. We will have early-stage #founders dialogue on how they’re navigating the pandemic. \n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\nStream links: \nhttps://t.co/LuBMwCoGpQ https://t.co/JD0b7pgUDd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "founders",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LuBMwCoGpQ",
+					"expanded_url": "http://www.filaminnovators.com/events",
+					"display_url": "filaminnovators.com/events",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255236310857650200,
+					"id_str": "1255236310857650177",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EWt-xjHXkAEbOdo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWt-xjHXkAEbOdo.jpg",
+					"url": "https://t.co/JD0b7pgUDd",
+					"display_url": "pic.twitter.com/JD0b7pgUDd",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1255236317019082754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255236310857650200,
+					"id_str": "1255236310857650177",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EWt-xjHXkAEbOdo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWt-xjHXkAEbOdo.jpg",
+					"url": "https://t.co/JD0b7pgUDd",
+					"display_url": "pic.twitter.com/JD0b7pgUDd",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1255236317019082754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "#CommunityOrganizer | #OrganizationalDevelopment | #LeadershipDevelopment | #EcosystemBuilder | #Leadership | #HipHopEnthusiast l #Startup",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 577,
+			"listed_count": 58,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080353839654481921/HBmpiL72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1521268910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please join us tomorrow, 4/29 from 5:30pm to 6:30pm for FilAm Innovators Against the Grain: Resilience. We will have early-stage #founders dialogue on how they’re navigating the pandemic. \n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\nStream links: \nhttps://t.co/LuBMwCoGpQ https://t.co/JD0b7pgUDd"
+	},
+	{
+		"created_at": "Tue Apr 28 19:00:26 +0000 2020",
+		"id": 1255198315681063000,
+		"id_str": "1255210283213062144",
+		"full_text": "The Connection: May 2020 | Message from Mike, Capital numbers are in, SD Job Board, Vizer donates 70k Meals, BrainCorp raises $36M more for Robots - https://t.co/6kK5olhEaY #connectsd https://t.co/y19sNi6iAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "connectsd",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6kK5olhEaY",
+					"expanded_url": "https://mailchi.mp/connect/the-connection",
+					"display_url": "mailchi.mp/connect/the-co…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255198313265205200,
+					"id_str": "1255198313265205250",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EWtcNzDXkAIVm4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWtcNzDXkAIVm4U.jpg",
+					"url": "https://t.co/y19sNi6iAK",
+					"display_url": "pic.twitter.com/y19sNi6iAK",
+					"expanded_url": "https://twitter.com/CONNECTinSD/status/1255198315681062912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255198313265205200,
+					"id_str": "1255198313265205250",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EWtcNzDXkAIVm4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWtcNzDXkAIVm4U.jpg",
+					"url": "https://t.co/y19sNi6iAK",
+					"display_url": "pic.twitter.com/y19sNi6iAK",
+					"expanded_url": "https://twitter.com/CONNECTinSD/status/1255198315681062912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 319294242,
+			"id_str": "319294242",
+			"name": "Connect",
+			"screen_name": "CONNECTinSD",
+			"location": "San Diego",
+			"description": "Connect w/ San Diego Venture Group | Helping Entrepreneurs Build Great Companies",
+			"url": "https://t.co/sEtDGb4nPT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sEtDGb4nPT",
+							"expanded_url": "https://connect.org",
+							"display_url": "connect.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5416,
+			"friends_count": 1617,
+			"listed_count": 224,
+			"created_at": "Fri Jun 17 21:46:36 +0000 2011",
+			"favourites_count": 2033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121449475812155393/SMRCV2W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121449475812155393/SMRCV2W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/319294242/1446227307",
+			"profile_link_color": "F08A1D",
+			"profile_sidebar_border_color": "F08A1D",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "88746A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Connection: May 2020 | Message from Mike, Capital numbers are in, SD Job Board, Vizer donates 70k Meals, BrainCorp raises $36M more for Robots - https://t.co/6kK5olhEaY #connectsd https://t.co/y19sNi6iAK"
+	},
+	{
 		"created_at": "Fri Apr 24 13:55:54 +0000 2020",
 		"id": 1253684092048044000,
 		"id_str": "1253684092048044034",
