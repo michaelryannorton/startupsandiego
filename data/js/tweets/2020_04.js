@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 19:48:13 +0000 2020",
+		"id": 1255536010148143000,
+		"id_str": "1255584694386569216",
+		"full_text": "Another great event coming up for our #SDTechos community! Thanks @StartupSanDiego @SDPartnership @MissionEdgeSD https://t.co/MMO3qw7xG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDTechos",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"screen_name": "SDPartnership",
+					"name": "Downtown San Diego",
+					"id": 362197703,
+					"id_str": "362197703",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "MissionEdgeSD",
+					"name": "Mission Edge",
+					"id": 130852872,
+					"id_str": "130852872",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MMO3qw7xG3",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1255286721224290304",
+					"display_url": "twitter.com/StartupSanDieg…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1590,
+			"friends_count": 1189,
+			"listed_count": 104,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1571341162",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255286721224290300,
+		"quoted_status_id_str": "1255286721224290304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MMO3qw7xG3",
+			"expanded": "https://twitter.com/StartupSanDiego/status/1255286721224290304",
+			"display": "twitter.com/StartupSanDieg…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 29 00:04:11 +0000 2020",
+			"id": 1255286721224290300,
+			"id_str": "1255286721224290304",
+			"full_text": "Join us for digital workshop #2 this Friday at 10:00 AM! 🚀🤓 https://t.co/ZIAKsaudb3 #startupsd #sdtechos @SDPartnership @MissionEdgeSD @kendavenport63 https://t.co/s0fHBxbCto",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "startupsd",
+						"indices": [
+							84,
+							94
+						]
+					},
+					{
+						"text": "sdtechos",
+						"indices": [
+							95,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SDPartnership",
+						"name": "Downtown San Diego",
+						"id": 362197703,
+						"id_str": "362197703",
+						"indices": [
+							105,
+							119
+						]
+					},
+					{
+						"screen_name": "MissionEdgeSD",
+						"name": "Mission Edge",
+						"id": 130852872,
+						"id_str": "130852872",
+						"indices": [
+							120,
+							134
+						]
+					},
+					{
+						"screen_name": "kendavenport63",
+						"name": "Ken Davenport",
+						"id": 875773177204326400,
+						"id_str": "875773177204326400",
+						"indices": [
+							135,
+							150
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZIAKsaudb3",
+						"expanded_url": "https://bit.ly/2KEp8Kq",
+						"display_url": "bit.ly/2KEp8Kq",
+						"indices": [
+							60,
+							83
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1255286716166033400,
+						"id_str": "1255286716166033409",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+						"url": "https://t.co/s0fHBxbCto",
+						"display_url": "pic.twitter.com/s0fHBxbCto",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1255286721224290304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255286716166033400,
+						"id_str": "1255286716166033409",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWusnhhX0AEnNvR.jpg",
+						"url": "https://t.co/s0fHBxbCto",
+						"display_url": "pic.twitter.com/s0fHBxbCto",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1255286721224290304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/apBzLwX7RV",
+								"expanded_url": "http://sandiegostartupweek.com",
+								"display_url": "sandiegostartupweek.com",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4053,
+				"friends_count": 2372,
+				"listed_count": 115,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 1976,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3674,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another great event coming up for our #SDTechos community! Thanks @StartupSanDiego @SDPartnership @MissionEdgeSD https://t.co/MMO3qw7xG3"
+	},
+	{
 		"created_at": "Wed Apr 29 00:04:11 +0000 2020",
 		"id": 1255286721224290300,
 		"id_str": "1255286721224290304",
