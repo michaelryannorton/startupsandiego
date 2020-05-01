@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 20:23:25 +0000 2020",
+		"id": 1255949170575196200,
+		"id_str": "1255955942866161664",
+		"full_text": "Join us TOMORROW for our second #webinar in the #Startup Series: #COVID Edition. @MissionEdgeSD CEO, Ken Davenport, will be leading the discussion on #resiliency and finding opportunities in difficult times. @StartupSanDiego @SDPartnership \nRegister here: https://t.co/umHvEAW76J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "webinar",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "Startup",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "COVID",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "resiliency",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissionEdgeSD",
+					"name": "Mission Edge",
+					"id": 130852872,
+					"id_str": "130852872",
+					"indices": [
+						81,
+						95
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						208,
+						224
+					]
+				},
+				{
+					"screen_name": "SDPartnership",
+					"name": "Downtown San Diego",
+					"id": 362197703,
+					"id_str": "362197703",
+					"indices": [
+						225,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/umHvEAW76J",
+					"expanded_url": "https://www.eventbrite.com/e/embracing-resiliency-finding-opportunities-workshop-2-of-5-tickets-96579318341",
+					"display_url": "eventbrite.com/e/embracing-re…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130852872,
+			"id_str": "130852872",
+			"name": "Mission Edge",
+			"screen_name": "MissionEdgeSD",
+			"location": "San Diego, CA",
+			"description": "Serving social enterprises with operational and strategic solutions for foundations and nonprofit organizations that seek to accelerate their mission.",
+			"url": "https://t.co/nCMpnN6MzB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nCMpnN6MzB",
+							"expanded_url": "http://www.MissionEdge.org",
+							"display_url": "MissionEdge.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 975,
+			"friends_count": 873,
+			"listed_count": 42,
+			"created_at": "Thu Apr 08 14:34:21 +0000 2010",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/514454453458436096/jT6h1INF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/514454453458436096/jT6h1INF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130852872/1548194004",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us TOMORROW for our second #webinar in the #Startup Series: #COVID Edition. @MissionEdgeSD CEO, Ken Davenport, will be leading the discussion on #resiliency and finding opportunities in difficult times. @StartupSanDiego @SDPartnership \nRegister here: https://t.co/umHvEAW76J"
+	},
+	{
+		"created_at": "Thu Apr 30 17:45:27 +0000 2020",
+		"id": 1255916189143842800,
+		"id_str": "1255916189143842816",
+		"full_text": "#SDtogether 🚀💙 https://t.co/XPYVegpVjX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDtogether",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XPYVegpVjX",
+					"expanded_url": "https://twitter.com/connectinsd/status/1255913314426724353",
+					"display_url": "twitter.com/connectinsd/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4055,
+			"friends_count": 2373,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255913314426724400,
+		"quoted_status_id_str": "1255913314426724353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XPYVegpVjX",
+			"expanded": "https://twitter.com/connectinsd/status/1255913314426724353",
+			"display": "twitter.com/connectinsd/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 17:34:02 +0000 2020",
+			"id": 1255913314426724400,
+			"id_str": "1255913314426724353",
+			"full_text": "Careers in everything from engineering to management to design — Check out the new San Diego Job Board!  Companies Lytx, Qualcomm, Dexcom, Cubic, Red Door and many more…  https://t.co/TlOhAB27mB — Incredible work w/ @SDRegionalEDC &amp; @StartupSanDiego #connectsd #SDlifechanging https://t.co/JVHTsEMmWr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "connectsd",
+						"indices": [
+							254,
+							264
+						]
+					},
+					{
+						"text": "SDlifechanging",
+						"indices": [
+							265,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SDRegionalEDC",
+						"name": "SD Regional EDC",
+						"id": 113474827,
+						"id_str": "113474827",
+						"indices": [
+							216,
+							230
+						]
+					},
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							237,
+							253
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TlOhAB27mB",
+						"expanded_url": "https://bit.ly/3bMJ3mp",
+						"display_url": "bit.ly/3bMJ3mp",
+						"indices": [
+							171,
+							194
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1255913310937124900,
+						"id_str": "1255913310937124864",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EW3mgI8XkAAw85k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW3mgI8XkAAw85k.jpg",
+						"url": "https://t.co/JVHTsEMmWr",
+						"display_url": "pic.twitter.com/JVHTsEMmWr",
+						"expanded_url": "https://twitter.com/CONNECTinSD/status/1255913314426724353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255913310937124900,
+						"id_str": "1255913310937124864",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EW3mgI8XkAAw85k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW3mgI8XkAAw85k.jpg",
+						"url": "https://t.co/JVHTsEMmWr",
+						"display_url": "pic.twitter.com/JVHTsEMmWr",
+						"expanded_url": "https://twitter.com/CONNECTinSD/status/1255913314426724353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 319294242,
+				"id_str": "319294242",
+				"name": "Connect",
+				"screen_name": "CONNECTinSD",
+				"location": "San Diego",
+				"description": "Connect - San Diego | Helping Entrepreneurs Build Great Companies #connectsd | SD Funding News @ #investsd",
+				"url": "https://t.co/sEtDGb4nPT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sEtDGb4nPT",
+								"expanded_url": "https://connect.org",
+								"display_url": "connect.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5419,
+				"friends_count": 1635,
+				"listed_count": 224,
+				"created_at": "Fri Jun 17 21:46:36 +0000 2011",
+				"favourites_count": 2047,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10867,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121449475812155393/SMRCV2W9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121449475812155393/SMRCV2W9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/319294242/1446227307",
+				"profile_link_color": "F08A1D",
+				"profile_sidebar_border_color": "F08A1D",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "88746A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#SDtogether 🚀💙 https://t.co/XPYVegpVjX"
+	},
+	{
 		"created_at": "Wed Apr 29 19:48:13 +0000 2020",
 		"id": 1255536010148143000,
 		"id_str": "1255584694386569216",
