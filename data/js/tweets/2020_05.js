@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 23:00:45 +0000 2020",
+		"id": 1257734927413465000,
+		"id_str": "1257807476340092928",
+		"full_text": "@SDStartupWeek is officially postponed to the fall and #GoingVirtual! Looking forward to engaging at the new #SDSW2020 experience with @StartupSanDiego. Register today: https://t.co/TUBuVe6iTz https://t.co/cSmNFHjukb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoingVirtual",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "SDSW2020",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TUBuVe6iTz",
+					"expanded_url": "https://www.eventbrite.com/e/san-diego-startup-week-2020-tickets-77976159793",
+					"display_url": "eventbrite.com/e/san-diego-st…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257734333391007700,
+					"id_str": "1257734333391007746",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EXRetmOVcAIxaRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXRetmOVcAIxaRj.jpg",
+					"url": "https://t.co/cSmNFHjukb",
+					"display_url": "pic.twitter.com/cSmNFHjukb",
+					"expanded_url": "https://twitter.com/UCSDInnovation/status/1257734927413465089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257734333391007700,
+					"id_str": "1257734333391007746",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EXRetmOVcAIxaRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXRetmOVcAIxaRj.jpg",
+					"url": "https://t.co/cSmNFHjukb",
+					"display_url": "pic.twitter.com/cSmNFHjukb",
+					"expanded_url": "https://twitter.com/UCSDInnovation/status/1257734927413465089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2339762118,
+		"in_reply_to_user_id_str": "2339762118",
+		"in_reply_to_screen_name": "SDStartupWeek",
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 1188,
+			"listed_count": 104,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1571341162",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SDStartupWeek is officially postponed to the fall and #GoingVirtual! Looking forward to engaging at the new #SDSW2020 experience with @StartupSanDiego. Register today: https://t.co/TUBuVe6iTz https://t.co/cSmNFHjukb"
+	},
+	{
 		"created_at": "Mon May 04 19:44:45 +0000 2020",
 		"id": 1257336727074746400,
 		"id_str": "1257395763065376773",
