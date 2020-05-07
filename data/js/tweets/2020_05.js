@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 19:00:39 +0000 2020",
+		"id": 1258109439535648800,
+		"id_str": "1258109439535648778",
+		"full_text": "Make lasting connections and join us on 5/7 at a virtual networking event bringing together women in tech, by San Diego startup @metabyacai Use the following link to get 20% off your ticket! 👩‍💻⬇️\nhttps://t.co/VjO4WDC77g\n#MxA #wfh #womenintech #networking #startupsd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MxA",
+					"indices": [
+						221,
+						225
+					]
+				},
+				{
+					"text": "wfh",
+					"indices": [
+						226,
+						230
+					]
+				},
+				{
+					"text": "womenintech",
+					"indices": [
+						231,
+						243
+					]
+				},
+				{
+					"text": "networking",
+					"indices": [
+						244,
+						255
+					]
+				},
+				{
+					"text": "startupsd",
+					"indices": [
+						256,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metabyacai",
+					"name": "Meta by Acai",
+					"id": 1240925171071864800,
+					"id_str": "1240925171071864832",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VjO4WDC77g",
+					"expanded_url": "http://ow.ly/lbyy50zyHE6",
+					"display_url": "ow.ly/lbyy50zyHE6",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4056,
+			"friends_count": 2373,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make lasting connections and join us on 5/7 at a virtual networking event bringing together women in tech, by San Diego startup @metabyacai Use the following link to get 20% off your ticket! 👩‍💻⬇️\nhttps://t.co/VjO4WDC77g\n#MxA #wfh #womenintech #networking #startupsd"
+	},
+	{
+		"created_at": "Wed May 06 16:01:01 +0000 2020",
+		"id": 1258064234983960600,
+		"id_str": "1258064234983960576",
+		"full_text": "Wondering how to evaluate shifting customer needs &amp; motivations during the uncertainty of COVID? Join us as we talk \"Customer Empathy\" with LoyaltyCraft Founder &amp; President Lauren Feehrer this Friday @10:00 am! #startupsd @missionedgesd @sdpartnership ⬇️ https://t.co/d0n46hk24J https://t.co/4izzTsFwPi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupsd",
+					"indices": [
+						219,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "10",
+					"name": "edo",
+					"id": 7888952,
+					"id_str": "7888952",
+					"indices": [
+						208,
+						211
+					]
+				},
+				{
+					"screen_name": "MissionEdgeSD",
+					"name": "Mission Edge",
+					"id": 130852872,
+					"id_str": "130852872",
+					"indices": [
+						230,
+						244
+					]
+				},
+				{
+					"screen_name": "SDPartnership",
+					"name": "Downtown San Diego",
+					"id": 362197703,
+					"id_str": "362197703",
+					"indices": [
+						245,
+						259
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d0n46hk24J",
+					"expanded_url": "http://ow.ly/O13950zyEig",
+					"display_url": "ow.ly/O13950zyEig",
+					"indices": [
+						263,
+						286
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258064232731443200,
+					"id_str": "1258064232731443203",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EXWKwRCVAAM_Efv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXWKwRCVAAM_Efv.png",
+					"url": "https://t.co/4izzTsFwPi",
+					"display_url": "pic.twitter.com/4izzTsFwPi",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1258064234983960576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258064232731443200,
+					"id_str": "1258064232731443203",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EXWKwRCVAAM_Efv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXWKwRCVAAM_Efv.png",
+					"url": "https://t.co/4izzTsFwPi",
+					"display_url": "pic.twitter.com/4izzTsFwPi",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1258064234983960576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4056,
+			"friends_count": 2373,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wondering how to evaluate shifting customer needs &amp; motivations during the uncertainty of COVID? Join us as we talk \"Customer Empathy\" with LoyaltyCraft Founder &amp; President Lauren Feehrer this Friday @10:00 am! #startupsd @missionedgesd @sdpartnership ⬇️ https://t.co/d0n46hk24J https://t.co/4izzTsFwPi"
+	},
+	{
 		"created_at": "Tue May 05 23:00:45 +0000 2020",
 		"id": 1257734927413465000,
 		"id_str": "1257807476340092928",
