@@ -1,10 +1,403 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 20:19:21 +0000 2020",
+		"id": 1258472208449618000,
+		"id_str": "1258491634464862208",
+		"full_text": "We connected with @lexaRaeN who leads @StartupSanDiego , get to know their biggest challenges during this health emergency and get some tips as an entrepreneur.\n\nhttps://t.co/trlgeY6kT8\n\n#StartupSD #Entrepreneurship #interview #GoArkus #pandemic #Covid_19 #Leadership #startup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"text": "Entrepreneurship",
+					"indices": [
+						198,
+						215
+					]
+				},
+				{
+					"text": "interview",
+					"indices": [
+						216,
+						226
+					]
+				},
+				{
+					"text": "GoArkus",
+					"indices": [
+						227,
+						235
+					]
+				},
+				{
+					"text": "pandemic",
+					"indices": [
+						236,
+						245
+					]
+				},
+				{
+					"text": "Covid_19",
+					"indices": [
+						246,
+						255
+					]
+				},
+				{
+					"text": "Leadership",
+					"indices": [
+						256,
+						267
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						268,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/trlgeY6kT8",
+					"expanded_url": "https://bit.ly/2SMKzgP",
+					"display_url": "bit.ly/2SMKzgP",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 562489080,
+			"id_str": "562489080",
+			"name": "Arkus",
+			"screen_name": "goarkus",
+			"location": "San Diego",
+			"description": "Your local software consultancy. Design, develop and launch succesful digital platforms #GoArkus #software #development #product #techleadership #",
+			"url": "https://t.co/RO12pGTiW9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RO12pGTiW9",
+							"expanded_url": "http://goarkus.com",
+							"display_url": "goarkus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 1142,
+			"listed_count": 42,
+			"created_at": "Tue Apr 24 23:02:04 +0000 2012",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030168553108860928/E2vFbSk5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030168553108860928/E2vFbSk5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/562489080/1584126578",
+			"profile_link_color": "FF0D0D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We connected with @lexaRaeN who leads @StartupSanDiego , get to know their biggest challenges during this health emergency and get some tips as an entrepreneur.\n\nhttps://t.co/trlgeY6kT8\n\n#StartupSD #Entrepreneurship #interview #GoArkus #pandemic #Covid_19 #Leadership #startup"
+	},
+	{
+		"created_at": "Thu May 07 16:01:27 +0000 2020",
+		"id": 1258426731737878500,
+		"id_str": "1258426731737878538",
+		"full_text": "How are you kicking off your Friday?! 🚀 Last chance to grab  🎟️s for Workshop #3 on Customer Empathy ft. LoyaltyCraft Founder &amp; President Lauren Feehrer 5/8 at 10:00 am--be there! #StartupSd #TheStartupSeries Mission Edge Downtown San Diego Partnership https://t.co/3tUr49FYTD https://t.co/ttuGRdITQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSd",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "TheStartupSeries",
+					"indices": [
+						195,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3tUr49FYTD",
+					"expanded_url": "http://ow.ly/gnht50zyFqf",
+					"display_url": "ow.ly/gnht50zyFqf",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258426728235573200,
+					"id_str": "1258426728235573250",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EXbUcSBWoAIdgCM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXbUcSBWoAIdgCM.jpg",
+					"url": "https://t.co/ttuGRdITQq",
+					"display_url": "pic.twitter.com/ttuGRdITQq",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1258426731737878538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258426728235573200,
+					"id_str": "1258426728235573250",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EXbUcSBWoAIdgCM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXbUcSBWoAIdgCM.jpg",
+					"url": "https://t.co/ttuGRdITQq",
+					"display_url": "pic.twitter.com/ttuGRdITQq",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1258426731737878538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4057,
+			"friends_count": 2373,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How are you kicking off your Friday?! 🚀 Last chance to grab  🎟️s for Workshop #3 on Customer Empathy ft. LoyaltyCraft Founder &amp; President Lauren Feehrer 5/8 at 10:00 am--be there! #StartupSd #TheStartupSeries Mission Edge Downtown San Diego Partnership https://t.co/3tUr49FYTD https://t.co/ttuGRdITQq"
+	},
+	{
 		"created_at": "Wed May 06 19:00:39 +0000 2020",
 		"id": 1258109439535648800,
 		"id_str": "1258109439535648778",
-		"full_text": "Make lasting connections and join us on 5/7 at a virtual networking event bringing together women in tech, by San Diego startup @metabyacai Use the following link to get 20% off your ticket! 👩‍💻⬇️\nhttps://t.co/VjO4WDC77g\n#MxA #wfh #womenintech #networking #startupsd",
+		"full_text": "Make lasting connections and join us on 5/7 at a virtual networking event bringing together women in tech, by San Diego startup @metabyacai Use the following link to get 20% off your ticket! 👩💻⬇️\nhttps://t.co/VjO4WDC77g\n#MxA #wfh #womenintech #networking #startupsd",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -161,7 +554,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Make lasting connections and join us on 5/7 at a virtual networking event bringing together women in tech, by San Diego startup @metabyacai Use the following link to get 20% off your ticket! 👩‍💻⬇️\nhttps://t.co/VjO4WDC77g\n#MxA #wfh #womenintech #networking #startupsd"
+		"text": "Make lasting connections and join us on 5/7 at a virtual networking event bringing together women in tech, by San Diego startup @metabyacai Use the following link to get 20% off your ticket! 👩💻⬇️\nhttps://t.co/VjO4WDC77g\n#MxA #wfh #womenintech #networking #startupsd"
 	},
 	{
 		"created_at": "Wed May 06 16:01:01 +0000 2020",
