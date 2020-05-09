@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 15:49:30 +0000 2020",
+		"id": 1258786109015744500,
+		"id_str": "1258786109015744512",
+		"full_text": "TGIF SD! Tune in live at 10:00 am to talk customer empathy w/ @LoyaltyCraft 👩🏽‍💻🚀🧑🏽‍💻 #StartupSD #TheStartupSeries #Community #Collaboration #Entrepreneurship https://t.co/d0n46hk24J @MissionEdgeSD @SDPartnership",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "TheStartupSeries",
+					"indices": [
+						97,
+						114
+					]
+				},
+				{
+					"text": "Community",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "Collaboration",
+					"indices": [
+						126,
+						140
+					]
+				},
+				{
+					"text": "Entrepreneurship",
+					"indices": [
+						141,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LoyaltyCraft",
+					"name": "LoyaltyCraft",
+					"id": 4831671489,
+					"id_str": "4831671489",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"screen_name": "MissionEdgeSD",
+					"name": "Mission Edge",
+					"id": 130852872,
+					"id_str": "130852872",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"screen_name": "SDPartnership",
+					"name": "Downtown San Diego",
+					"id": 362197703,
+					"id_str": "362197703",
+					"indices": [
+						198,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d0n46hk24J",
+					"expanded_url": "http://ow.ly/O13950zyEig",
+					"display_url": "ow.ly/O13950zyEig",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4057,
+			"friends_count": 2373,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 1990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TGIF SD! Tune in live at 10:00 am to talk customer empathy w/ @LoyaltyCraft 👩🏽‍💻🚀🧑🏽‍💻 #StartupSD #TheStartupSeries #Community #Collaboration #Entrepreneurship https://t.co/d0n46hk24J @MissionEdgeSD @SDPartnership"
+	},
+	{
 		"created_at": "Thu May 07 20:19:21 +0000 2020",
 		"id": 1258472208449618000,
 		"id_str": "1258491634464862208",
