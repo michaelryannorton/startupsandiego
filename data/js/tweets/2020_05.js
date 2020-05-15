@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 16:25:40 +0000 2020",
+		"id": 1260959812755443700,
+		"id_str": "1260969538884997120",
+		"full_text": "Founders! Tomorrow @iamamoslee and I are going to be joining @lexaRaeN to share some ways to think about your ideal customer and then a framework to weave that into a great story. Hope you can join us! #givefirst @startupsandiego @techstars https://t.co/tiQcaSRIJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "givefirst",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamamoslee",
+					"name": "Amos",
+					"id": 382627323,
+					"id_str": "382627323",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						213,
+						229
+					]
+				},
+				{
+					"screen_name": "techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						230,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tiQcaSRIJB",
+					"expanded_url": "https://www.eventbrite.com/e/unique-value-proposition-storytelling-workshop-4-of-5-tickets-96588184861",
+					"display_url": "eventbrite.com/e/unique-value…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6837002,
+			"id_str": "6837002",
+			"name": "Ryan Kuder",
+			"screen_name": "ryankuder",
+			"location": "San Diego and #Anywhere",
+			"description": "Managing Director, @Techstars Anywhere. @AspenInstitute Fellow. Hoya. #GiveFirst #GoSanDiego",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6702,
+			"friends_count": 3604,
+			"listed_count": 412,
+			"created_at": "Fri Jun 15 16:05:55 +0000 2007",
+			"favourites_count": 8114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "180C12",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039952319486550016/lD3gF0Hg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039952319486550016/lD3gF0Hg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6837002/1516464745",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FECC80",
+			"profile_sidebar_fill_color": "120108",
+			"profile_text_color": "7D333A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Founders! Tomorrow @iamamoslee and I are going to be joining @lexaRaeN to share some ways to think about your ideal customer and then a framework to weave that into a great story. Hope you can join us! #givefirst @startupsandiego @techstars https://t.co/tiQcaSRIJB"
+	},
+	{
 		"created_at": "Tue May 12 20:00:20 +0000 2020",
 		"id": 1260298785705595000,
 		"id_str": "1260298785705594882",
