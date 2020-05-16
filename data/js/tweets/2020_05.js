@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 00:12:19 +0000 2020",
+		"id": 1261431437653229600,
+		"id_str": "1261449364108500993",
+		"full_text": ".@FelenaHanson please share with your @herahub #femalefounders and your @StartupSanDiego #Entrepreneurs  #StartupSD #SDSW20 https://t.co/i1MBlxjrfH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femalefounders",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"text": "Entrepreneurs",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "SDSW20",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FelenaHanson",
+					"name": "Felena Hanson",
+					"id": 20824677,
+					"id_str": "20824677",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "HeraHub",
+					"name": "Hera Hub",
+					"id": 202496836,
+					"id_str": "202496836",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						72,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i1MBlxjrfH",
+					"expanded_url": "https://twitter.com/JudiBonilla/status/1261404530530377728",
+					"display_url": "twitter.com/JudiBonilla/st…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17889656,
+			"id_str": "17889656",
+			"name": "Judi Bonilla 👵 👴",
+			"screen_name": "JudiBonilla",
+			"location": "San Diego, CA",
+			"description": "Aging Expert | Author | Gerontologist | Podcaster | SXSW Speaker | #UoPeopleAmbassador | #DementiaFriend | #beoasis #herahub #rebrandage | #campcovid",
+			"url": "https://t.co/bxoufVaSpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bxoufVaSpx",
+							"expanded_url": "http://judibonilla.com",
+							"display_url": "judibonilla.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5487,
+			"friends_count": 5019,
+			"listed_count": 497,
+			"created_at": "Fri Dec 05 04:08:43 +0000 2008",
+			"favourites_count": 6161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/473080875500843008/dh1J4a0A_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/473080875500843008/dh1J4a0A_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17889656/1586708445",
+			"profile_link_color": "05A9C5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261404530530377700,
+		"quoted_status_id_str": "1261404530530377728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i1MBlxjrfH",
+			"expanded": "https://twitter.com/JudiBonilla/status/1261404530530377728",
+			"display": "twitter.com/JudiBonilla/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 15 21:14:10 +0000 2020",
+			"id": 1261404530530377700,
+			"id_str": "1261404530530377728",
+			"full_text": "Did #COVID19 validate your startup in the #aging or #caregiving space? I'm excited to partner with @endwellproject for their Startup Pitch Competition 6/17 sponsored by @AARPiLabs Apply today: https://t.co/r3CnHPY25d #makeyourmark #OAM2020 https://t.co/VURpaPo6UG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							4,
+							12
+						]
+					},
+					{
+						"text": "aging",
+						"indices": [
+							42,
+							48
+						]
+					},
+					{
+						"text": "caregiving",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"text": "makeyourmark",
+						"indices": [
+							217,
+							230
+						]
+					},
+					{
+						"text": "OAM2020",
+						"indices": [
+							231,
+							239
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "endwellproject",
+						"name": "End Well",
+						"id": 790210961722384400,
+						"id_str": "790210961722384385",
+						"indices": [
+							99,
+							114
+						]
+					},
+					{
+						"screen_name": "AARPiLabs",
+						"name": "AARP Innovation Labs",
+						"id": 1007605418649178100,
+						"id_str": "1007605418649178113",
+						"indices": [
+							169,
+							179
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/r3CnHPY25d",
+						"expanded_url": "http://bit.ly/endwelljb",
+						"display_url": "bit.ly/endwelljb",
+						"indices": [
+							193,
+							216
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1261404528798244900,
+						"id_str": "1261404528798244866",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EYFovFkWoAIUziZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYFovFkWoAIUziZ.jpg",
+						"url": "https://t.co/VURpaPo6UG",
+						"display_url": "pic.twitter.com/VURpaPo6UG",
+						"expanded_url": "https://twitter.com/JudiBonilla/status/1261404530530377728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1030,
+								"h": 539,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1030,
+								"h": 539,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1261404528798244900,
+						"id_str": "1261404528798244866",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EYFovFkWoAIUziZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYFovFkWoAIUziZ.jpg",
+						"url": "https://t.co/VURpaPo6UG",
+						"display_url": "pic.twitter.com/VURpaPo6UG",
+						"expanded_url": "https://twitter.com/JudiBonilla/status/1261404530530377728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1030,
+								"h": 539,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1030,
+								"h": 539,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17889656,
+				"id_str": "17889656",
+				"name": "Judi Bonilla 👵 👴",
+				"screen_name": "JudiBonilla",
+				"location": "San Diego, CA",
+				"description": "Aging Expert | Author | Gerontologist | Podcaster | SXSW Speaker | #UoPeopleAmbassador | #DementiaFriend | #beoasis #herahub #rebrandage | #campcovid",
+				"url": "https://t.co/bxoufVaSpx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bxoufVaSpx",
+								"expanded_url": "http://judibonilla.com",
+								"display_url": "judibonilla.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5487,
+				"friends_count": 5019,
+				"listed_count": 497,
+				"created_at": "Fri Dec 05 04:08:43 +0000 2008",
+				"favourites_count": 6161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/473080875500843008/dh1J4a0A_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/473080875500843008/dh1J4a0A_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17889656/1586708445",
+				"profile_link_color": "05A9C5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@FelenaHanson please share with your @herahub #femalefounders and your @StartupSanDiego #Entrepreneurs  #StartupSD #SDSW20 https://t.co/i1MBlxjrfH"
+	},
+	{
+		"created_at": "Sat May 16 00:11:03 +0000 2020",
+		"id": 1261127421572628500,
+		"id_str": "1261449046008291329",
+		"full_text": "🌮 @StartupSanDiego Executive Director @lexaRaeN dropped by the podcast to chat about the latest in San Diego tech. \n\nTopics include recent fundings, upcoming virtual events, the fate of Startup Week, and more.\n\nTune in on your favorite platform: https://t.co/ouM7hZSAHn https://t.co/W7SP1FV3ji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						2,
+						18
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ouM7hZSAHn",
+					"expanded_url": "https://bit.ly/2xZlmIP",
+					"display_url": "bit.ly/2xZlmIP",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261127419936850000,
+					"id_str": "1261127419936849920",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBstOnXQAA6TDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBstOnXQAA6TDr.jpg",
+					"url": "https://t.co/W7SP1FV3ji",
+					"display_url": "pic.twitter.com/W7SP1FV3ji",
+					"expanded_url": "https://twitter.com/TacosAndTechPod/status/1261127421572628481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261127419936850000,
+					"id_str": "1261127419936849920",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBstOnXQAA6TDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBstOnXQAA6TDr.jpg",
+					"url": "https://t.co/W7SP1FV3ji",
+					"display_url": "pic.twitter.com/W7SP1FV3ji",
+					"expanded_url": "https://twitter.com/TacosAndTechPod/status/1261127421572628481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961374969287491600,
+			"id_str": "961374969287491585",
+			"name": "Tacos & Tech Podcast 🌮🤖🎙",
+			"screen_name": "TacosAndTechPod",
+			"location": "San Diego, CA",
+			"description": "Interviewing the builders of companies, technologies, and ecosystems in San Diego. | Powered by @FreshBrewedTech #SDTechos",
+			"url": "https://t.co/jvtnVVDb75",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jvtnVVDb75",
+							"expanded_url": "http://freshbrewedtech.com/podcast",
+							"display_url": "freshbrewedtech.com/podcast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493,
+			"friends_count": 171,
+			"listed_count": 7,
+			"created_at": "Wed Feb 07 23:03:48 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961381980079206400/hgfI7IQ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961381980079206400/hgfI7IQ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961374969287491585/1518063029",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌮 @StartupSanDiego Executive Director @lexaRaeN dropped by the podcast to chat about the latest in San Diego tech. \n\nTopics include recent fundings, upcoming virtual events, the fate of Startup Week, and more.\n\nTune in on your favorite platform: https://t.co/ouM7hZSAHn https://t.co/W7SP1FV3ji"
+	},
+	{
+		"created_at": "Fri May 15 23:45:04 +0000 2020",
+		"id": 1261442504588746800,
+		"id_str": "1261442504588746752",
+		"full_text": "🍻 to our #StartupSD community who showed up this morning to talk UVP &amp; Storytelling! Catch us next Fri 5/22 for #TheStartupSeries finale w/ @Rachel_Gauvin &amp; virtual #networking provided by local SD startup @metabyacai! \n 🚀💙🤓 https://t.co/Ebv5xeHuW9 https://t.co/nrhYATjgMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "TheStartupSeries",
+					"indices": [
+						116,
+						133
+					]
+				},
+				{
+					"text": "networking",
+					"indices": [
+						173,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rachel_Gauvin",
+					"name": "Rachel Gauvin",
+					"id": 1563593432,
+					"id_str": "1563593432",
+					"indices": [
+						144,
+						158
+					]
+				},
+				{
+					"screen_name": "metabyacai",
+					"name": "Meta by Acai",
+					"id": 1240925171071864800,
+					"id_str": "1240925171071864832",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ebv5xeHuW9",
+					"expanded_url": "http://ow.ly/cTpr50zHOeM",
+					"display_url": "ow.ly/cTpr50zHOeM",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261442502730662000,
+					"id_str": "1261442502730661889",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EYGLRdfXQAEFrZy.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYGLRdfXQAEFrZy.png",
+					"url": "https://t.co/nrhYATjgMO",
+					"display_url": "pic.twitter.com/nrhYATjgMO",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1261442504588746752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261442502730662000,
+					"id_str": "1261442502730661889",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EYGLRdfXQAEFrZy.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYGLRdfXQAEFrZy.png",
+					"url": "https://t.co/nrhYATjgMO",
+					"display_url": "pic.twitter.com/nrhYATjgMO",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1261442504588746752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4111,
+			"friends_count": 2373,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🍻 to our #StartupSD community who showed up this morning to talk UVP &amp; Storytelling! Catch us next Fri 5/22 for #TheStartupSeries finale w/ @Rachel_Gauvin &amp; virtual #networking provided by local SD startup @metabyacai! \n 🚀💙🤓 https://t.co/Ebv5xeHuW9 https://t.co/nrhYATjgMO"
+	},
+	{
 		"created_at": "Thu May 14 16:25:40 +0000 2020",
 		"id": 1260959812755443700,
 		"id_str": "1260969538884997120",
