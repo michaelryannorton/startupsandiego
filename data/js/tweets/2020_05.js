@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 21:19:22 +0000 2020",
+		"id": 1262493003869859800,
+		"id_str": "1262493003869859840",
+		"full_text": "In case you missed it our Executive Director,  @lexaRaeN recently went on the @TacosAndTechPod 🌮 with @NealBloom! Tune in for a discussion about what’s happening in #SanDiego #Tech &amp; about the ✨ #magic ✨we’re working on for @SDStartupWeek https://t.co/28VLH66Fuk https://t.co/nvUvHO1F5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "Tech",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "magic",
+					"indices": [
+						199,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"screen_name": "TacosAndTechPod",
+					"name": "Tacos & Tech Podcast 🌮🤖🎙",
+					"id": 961374969287491600,
+					"id_str": "961374969287491585",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						228,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/28VLH66Fuk",
+					"expanded_url": "https://bit.ly/2WRC0T3",
+					"display_url": "bit.ly/2WRC0T3",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262493000048865300,
+					"id_str": "1262493000048865280",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EYVGsc9UcAAgCDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYVGsc9UcAAgCDZ.jpg",
+					"url": "https://t.co/nvUvHO1F5j",
+					"display_url": "pic.twitter.com/nvUvHO1F5j",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1262493003869859840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262493000048865300,
+					"id_str": "1262493000048865280",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EYVGsc9UcAAgCDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYVGsc9UcAAgCDZ.jpg",
+					"url": "https://t.co/nvUvHO1F5j",
+					"display_url": "pic.twitter.com/nvUvHO1F5j",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1262493003869859840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4118,
+			"friends_count": 2372,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you missed it our Executive Director,  @lexaRaeN recently went on the @TacosAndTechPod 🌮 with @NealBloom! Tune in for a discussion about what’s happening in #SanDiego #Tech &amp; about the ✨ #magic ✨we’re working on for @SDStartupWeek https://t.co/28VLH66Fuk https://t.co/nvUvHO1F5j"
+	},
+	{
 		"created_at": "Sat May 16 00:12:19 +0000 2020",
 		"id": 1261431437653229600,
 		"id_str": "1261449364108500993",
