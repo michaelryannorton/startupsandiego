@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 17:01:47 +0000 2020",
+		"id": 1263515342778912800,
+		"id_str": "1263515342778912770",
+		"full_text": "📣Calling all #earlystage #entrepreneurs: Are you struggling w/ #productivity &amp; taking #action? Are you craving interaction with fellow #founders &amp; #ecosystem #allies &amp; #mentors? If you answered \"Yes!\" put #TheStartupSeries final workshop on your 📆 ASAP! https://t.co/wgdd3bsltk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			289
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "earlystage",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"text": "action",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "founders",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "ecosystem",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "allies",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "mentors",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "TheStartupSeries",
+					"indices": [
+						217,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wgdd3bsltk",
+					"expanded_url": "http://ow.ly/Xby950zHQfz",
+					"display_url": "ow.ly/Xby950zHQfz",
+					"indices": [
+						266,
+						289
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4126,
+			"friends_count": 2371,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣Calling all #earlystage #entrepreneurs: Are you struggling w/ #productivity &amp; taking #action? Are you craving interaction with fellow #founders &amp; #ecosystem #allies &amp; #mentors? If you answered \"Yes!\" put #TheStartupSeries final workshop on your 📆 ASAP! https://t.co/wgdd3bsltk"
+	},
+	{
+		"created_at": "Thu May 21 06:13:45 +0000 2020",
+		"id": 1263352261821870000,
+		"id_str": "1263352261821870085",
+		"full_text": "@hopscotchlabs @UCSDInnovation @SDStartupWeek @hopscotchlabs Startup Week has officially been postponed to the fall and #GoingVirtual! Checkout our website for the latest info, we’re hoping to announce the new dates in the next few weeks. Hope to host you in the fall 🤓 https://t.co/a53cGPpSRj",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			293
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoingVirtual",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hopscotchlabs",
+					"name": "Hopscotch Labs",
+					"id": 2462041836,
+					"id_str": "2462041836",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UCSDInnovation",
+					"name": "UCSD OIC",
+					"id": 49085200,
+					"id_str": "49085200",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						31,
+						45
+					]
+				},
+				{
+					"screen_name": "hopscotchlabs",
+					"name": "Hopscotch Labs",
+					"id": 2462041836,
+					"id_str": "2462041836",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a53cGPpSRj",
+					"expanded_url": "https://www.sandiegostartupweek.com/",
+					"display_url": "sandiegostartupweek.com",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1263254344419340300,
+		"in_reply_to_status_id_str": "1263254344419340289",
+		"in_reply_to_user_id": 2462041836,
+		"in_reply_to_user_id_str": "2462041836",
+		"in_reply_to_screen_name": "hopscotchlabs",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4126,
+			"friends_count": 2371,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@hopscotchlabs @UCSDInnovation @SDStartupWeek @hopscotchlabs Startup Week has officially been postponed to the fall and #GoingVirtual! Checkout our website for the latest info, we’re hoping to announce the new dates in the next few weeks. Hope to host you in the fall 🤓 https://t.co/a53cGPpSRj"
+	},
+	{
 		"created_at": "Mon May 18 21:19:22 +0000 2020",
 		"id": 1262493003869859800,
 		"id_str": "1262493003869859840",
