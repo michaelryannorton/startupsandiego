@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 19:43:58 +0000 2020",
+		"id": 1265005707964723200,
+		"id_str": "1265005707964723200",
+		"full_text": "@hopscotchlabs @UCSDInnovation @SDStartupWeek No new dates announced yet but very soon. Sad to be missing everyone this week but for everyone’s safety, we’re excited to bring us together virtually in the fall. Thanks for the SEO/meta heads up 🙏🏻",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hopscotchlabs",
+					"name": "Hopscotch Labs",
+					"id": 2462041836,
+					"id_str": "2462041836",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UCSDInnovation",
+					"name": "UCSD OIC",
+					"id": 49085200,
+					"id_str": "49085200",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Week",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264975411034742800,
+		"in_reply_to_status_id_str": "1264975411034742784",
+		"in_reply_to_user_id": 2462041836,
+		"in_reply_to_user_id_str": "2462041836",
+		"in_reply_to_screen_name": "hopscotchlabs",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSW20 session voting coming soon. https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4125,
+			"friends_count": 2370,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hopscotchlabs @UCSDInnovation @SDStartupWeek No new dates announced yet but very soon. Sad to be missing everyone this week but for everyone’s safety, we’re excited to bring us together virtually in the fall. Thanks for the SEO/meta heads up 🙏🏻"
+	},
+	{
 		"created_at": "Fri May 22 15:01:56 +0000 2020",
 		"id": 1263847571421888500,
 		"id_str": "1263847571421888513",
