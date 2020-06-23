@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 22 22:41:07 +0000 2020",
+		"id": 1275197149102440400,
+		"id_str": "1275197149102440448",
+		"full_text": "Our friends at @goarkus are hosting a digital roundtable this Thursday ft. @LionDesk Founder! Don't miss seasoned founders sharing their startup experience, tips, and wish-I'd-known insight! They'll be giving away 2 🎟️s to @SDStartupWeek #SDSM2020 https://t.co/pXNaPtOy7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						238,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "goarkus",
+					"name": "Arkus",
+					"id": 562489080,
+					"id_str": "562489080",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "LionDesk",
+					"name": "LionDesk",
+					"id": 1383277098,
+					"id_str": "1383277098",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "SD Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						223,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pXNaPtOy7E",
+					"expanded_url": "https://bit.ly/sd-tech-success",
+					"display_url": "bit.ly/sd-tech-success",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 Full dates coming soon: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4128,
+			"friends_count": 2372,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our friends at @goarkus are hosting a digital roundtable this Thursday ft. @LionDesk Founder! Don't miss seasoned founders sharing their startup experience, tips, and wish-I'd-known insight! They'll be giving away 2 🎟️s to @SDStartupWeek #SDSM2020 https://t.co/pXNaPtOy7E"
+	},
+	{
 		"created_at": "Sun Jun 21 15:01:59 +0000 2020",
 		"id": 1274035024422027300,
 		"id_str": "1274719219054075904",
