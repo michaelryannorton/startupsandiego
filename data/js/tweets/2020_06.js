@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 02:54:24 +0000 2020",
+		"id": 1275120573568319500,
+		"id_str": "1275260890791555072",
+		"full_text": "Join 7/28 @AthenaSanDiego sess on #AI #ML. This is going to be a high powered discussion @Intuit @curemetrix @IBM @Sony \n\nhttps://t.co/gK4mrYfmtV\n \n@womenofai @WWCodesandiego @freshbrewedtech @LatinaGeeks @GirlsInTechSD @SDlifechanging @StartupSanDiego @GirlsInTechSD  @SDTWS2020 https://t.co/0OSCgJ4s1t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "ML",
+					"indices": [
+						38,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AthenaSanDiego",
+					"name": "Athena",
+					"id": 413449531,
+					"id_str": "413449531",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "Intuit",
+					"name": "Intuit",
+					"id": 1125071,
+					"id_str": "1125071",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"screen_name": "CureMetrix",
+					"name": "CureMetrix",
+					"id": 2369348954,
+					"id_str": "2369348954",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"screen_name": "IBM",
+					"name": "IBM",
+					"id": 18994444,
+					"id_str": "18994444",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"screen_name": "Sony",
+					"name": "Sony",
+					"id": 34442404,
+					"id_str": "34442404",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"screen_name": "womenofai",
+					"name": "WomenofAI.org",
+					"id": 1088183298986143700,
+					"id_str": "1088183298986143744",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"screen_name": "WWCodesandiego",
+					"name": "WWCodeSanDiego",
+					"id": 801082960179040300,
+					"id_str": "801082960179040256",
+					"indices": [
+						159,
+						174
+					]
+				},
+				{
+					"screen_name": "freshbrewedtech",
+					"name": "Fresh Brewed Tech",
+					"id": 970531248882896900,
+					"id_str": "970531248882896897",
+					"indices": [
+						175,
+						191
+					]
+				},
+				{
+					"screen_name": "LatinaGeeks",
+					"name": "#LatinaGeeks",
+					"id": 627801443,
+					"id_str": "627801443",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"screen_name": "GirlsInTechSD",
+					"name": "Girls In Tech SD",
+					"id": 887073681897279500,
+					"id_str": "887073681897279488",
+					"indices": [
+						205,
+						219
+					]
+				},
+				{
+					"screen_name": "SDlifechanging",
+					"name": "San Diego: Life. Changing.",
+					"id": 821480201808814100,
+					"id_str": "821480201808814080",
+					"indices": [
+						220,
+						235
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						236,
+						252
+					]
+				},
+				{
+					"screen_name": "GirlsInTechSD",
+					"name": "Girls In Tech SD",
+					"id": 887073681897279500,
+					"id_str": "887073681897279488",
+					"indices": [
+						253,
+						267
+					]
+				},
+				{
+					"screen_name": "SDTWS2020",
+					"name": "SDTechWomensSummit",
+					"id": 1207438177822052400,
+					"id_str": "1207438177822052353",
+					"indices": [
+						269,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gK4mrYfmtV",
+					"expanded_url": "https://lnkd.in/gqFFF5E",
+					"display_url": "lnkd.in/gqFFF5E",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1275120570313531400,
+					"id_str": "1275120570313531392",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EbIjZx9U4AACtZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbIjZx9U4AACtZ_.jpg",
+					"url": "https://t.co/0OSCgJ4s1t",
+					"display_url": "pic.twitter.com/0OSCgJ4s1t",
+					"expanded_url": "https://twitter.com/Kimbra727/status/1275120573568319489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 641,
+							"h": 643,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 641,
+							"h": 643,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275120570313531400,
+					"id_str": "1275120570313531392",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EbIjZx9U4AACtZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbIjZx9U4AACtZ_.jpg",
+					"url": "https://t.co/0OSCgJ4s1t",
+					"display_url": "pic.twitter.com/0OSCgJ4s1t",
+					"expanded_url": "https://twitter.com/Kimbra727/status/1275120573568319489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 641,
+							"h": 643,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 641,
+							"h": 643,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 482228602,
+			"id_str": "482228602",
+			"name": "Kimbra",
+			"screen_name": "Kimbra727",
+			"location": "San Diego, CA",
+			"description": "Sr. Program Manager, Tech Women at @Intuit. Founding Member @sdtws2020 , Auntie, Foodie, Wino, 🌎 Traveler 🧳 #TWI at https://t.co/R9mkGq1wGV",
+			"url": "https://t.co/v5EXB13HA5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v5EXB13HA5",
+							"expanded_url": "https://www.linkedin.com/in/kimbrabrookstein",
+							"display_url": "linkedin.com/in/kimbrabrook…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R9mkGq1wGV",
+							"expanded_url": "http://intuit.com",
+							"display_url": "intuit.com",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 1158,
+			"listed_count": 18,
+			"created_at": "Fri Feb 03 17:30:42 +0000 2012",
+			"favourites_count": 2656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232884283104055297/1UDoXcBV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232884283104055297/1UDoXcBV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/482228602/1582777494",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join 7/28 @AthenaSanDiego sess on #AI #ML. This is going to be a high powered discussion @Intuit @curemetrix @IBM @Sony \n\nhttps://t.co/gK4mrYfmtV\n \n@womenofai @WWCodesandiego @freshbrewedtech @LatinaGeeks @GirlsInTechSD @SDlifechanging @StartupSanDiego @GirlsInTechSD  @SDTWS2020 https://t.co/0OSCgJ4s1t"
+	},
+	{
 		"created_at": "Mon Jun 22 22:41:07 +0000 2020",
 		"id": 1275197149102440400,
 		"id_str": "1275197149102440448",
