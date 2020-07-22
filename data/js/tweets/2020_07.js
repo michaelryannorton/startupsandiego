@@ -1,10 +1,393 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 22:13:15 +0000 2020",
+		"id": 1285666912211546000,
+		"id_str": "1285699387482673152",
+		"full_text": "Calling all low-to-moderate income #entrepreneurs in #SanDiego! #AccelerateImpact with City SAIL through expert-led curriculum based on:\n\n-#IdeaValidation\n-#FinancialModeling\n-#CustomerEmpathy \n-#Fundraising\n-#ImpactMeasurement\n-#Pitching101\nhttps://t.co/2IUCcVXsf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"text": "SanDiego",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "AccelerateImpact",
+					"indices": [
+						64,
+						81
+					]
+				},
+				{
+					"text": "IdeaValidation",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "FinancialModeling",
+					"indices": [
+						156,
+						174
+					]
+				},
+				{
+					"text": "CustomerEmpathy",
+					"indices": [
+						176,
+						192
+					]
+				},
+				{
+					"text": "Fundraising",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"text": "ImpactMeasurement",
+					"indices": [
+						209,
+						227
+					]
+				},
+				{
+					"text": "Pitching101",
+					"indices": [
+						229,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2IUCcVXsf3",
+					"expanded_url": "https://hubs.ly/H0sPSlG0",
+					"display_url": "hubs.ly/H0sPSlG0",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130852872,
+			"id_str": "130852872",
+			"name": "Mission Edge",
+			"screen_name": "MissionEdgeSD",
+			"location": "San Diego, CA",
+			"description": "Serving social enterprises with operational and strategic solutions for foundations and nonprofit organizations that seek to accelerate their mission.",
+			"url": "https://t.co/nCMpnN6MzB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nCMpnN6MzB",
+							"expanded_url": "http://www.MissionEdge.org",
+							"display_url": "MissionEdge.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986,
+			"friends_count": 869,
+			"listed_count": 43,
+			"created_at": "Thu Apr 08 14:34:21 +0000 2010",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/514454453458436096/jT6h1INF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/514454453458436096/jT6h1INF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130852872/1548194004",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling all low-to-moderate income #entrepreneurs in #SanDiego! #AccelerateImpact with City SAIL through expert-led curriculum based on:\n\n-#IdeaValidation\n-#FinancialModeling\n-#CustomerEmpathy \n-#Fundraising\n-#ImpactMeasurement\n-#Pitching101\nhttps://t.co/2IUCcVXsf3"
+	},
+	{
+		"created_at": "Tue Jul 21 20:34:04 +0000 2020",
+		"id": 1284184312934477800,
+		"id_str": "1285674424969068546",
+		"full_text": "ATTN: #femalefounders, EXTENDED deadline! Submit your entry to our #2020WomensFastPitch by Wednesday, JULY 22ND. 🎉 Apply at: https://t.co/qhte6HMctN\nPotential $10k #investment &amp; $30k in-kind prizes. *Selected #womeninbiz in Northeast region may have less than a week to prepare.* https://t.co/D6Fz840Dw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femalefounders",
+					"indices": [
+						6,
+						21
+					]
+				},
+				{
+					"text": "2020WomensFastPitch",
+					"indices": [
+						67,
+						87
+					]
+				},
+				{
+					"text": "investment",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "womeninbiz",
+					"indices": [
+						213,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhte6HMctN",
+					"expanded_url": "http://ow.ly/FJgb50ABngt",
+					"display_url": "ow.ly/FJgb50ABngt",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1284184310220836900,
+					"id_str": "1284184310220836867",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EdJW04TX0AM20ps.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdJW04TX0AM20ps.png",
+					"url": "https://t.co/D6Fz840Dw1",
+					"display_url": "pic.twitter.com/D6Fz840Dw1",
+					"expanded_url": "https://twitter.com/stellalabs_org/status/1284184312934477826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284184310220836900,
+					"id_str": "1284184310220836867",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EdJW04TX0AM20ps.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdJW04TX0AM20ps.png",
+					"url": "https://t.co/D6Fz840Dw1",
+					"display_url": "pic.twitter.com/D6Fz840Dw1",
+					"expanded_url": "https://twitter.com/stellalabs_org/status/1284184312934477826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1480627296,
+			"id_str": "1480627296",
+			"name": "Stella Labs",
+			"screen_name": "stellalabs_org",
+			"location": "San Diego",
+			"description": "Stella Labs is a premier female business #accelerator, providing action-oriented, DIY workshops & funding for women.",
+			"url": "https://t.co/TFvxvgmSz3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TFvxvgmSz3",
+							"expanded_url": "http://www.stellalabs.org",
+							"display_url": "stellalabs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1285,
+			"listed_count": 221,
+			"created_at": "Mon Jun 03 21:16:42 +0000 2013",
+			"favourites_count": 2394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136003906410934272/dQo_gttF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136003906410934272/dQo_gttF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1480627296/1537316080",
+			"profile_link_color": "8FA5B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ATTN: #femalefounders, EXTENDED deadline! Submit your entry to our #2020WomensFastPitch by Wednesday, JULY 22ND. 🎉 Apply at: https://t.co/qhte6HMctN\nPotential $10k #investment &amp; $30k in-kind prizes. *Selected #womeninbiz in Northeast region may have less than a week to prepare.* https://t.co/D6Fz840Dw1"
+	},
+	{
 		"created_at": "Thu Jul 16 05:34:41 +0000 2020",
 		"id": 1283636149387325400,
 		"id_str": "1283636149387325441",
-		"full_text": "Join us 7/30 2:00 pm w/ @SDlifechanging @SDRegionalEDC @CONNECTinSD #SDtogether 👩‍💻👇👨‍💻 https://t.co/XMnZRTfBf4",
+		"full_text": "Join us 7/30 2:00 pm w/ @SDlifechanging @SDRegionalEDC @CONNECTinSD #SDtogether 👩💻👇👨💻 https://t.co/XMnZRTfBf4",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -294,7 +677,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Join us 7/30 2:00 pm w/ @SDlifechanging @SDRegionalEDC @CONNECTinSD #SDtogether 👩‍💻👇👨‍💻 https://t.co/XMnZRTfBf4"
+		"text": "Join us 7/30 2:00 pm w/ @SDlifechanging @SDRegionalEDC @CONNECTinSD #SDtogether 👩💻👇👨💻 https://t.co/XMnZRTfBf4"
 	},
 	{
 		"created_at": "Mon Jul 13 15:50:16 +0000 2020",
