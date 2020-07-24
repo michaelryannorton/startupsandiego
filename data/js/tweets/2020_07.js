@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 03:48:14 +0000 2020",
+		"id": 1285272335331635200,
+		"id_str": "1286146076265734144",
+		"full_text": "Applications for @Techstars Anywhere are OPEN! We're especially interested in the future of work and the impacts remote work has on the rest of our lives. If you're building something awesome, we'd love to meet you. https://t.co/YeYDmtatrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YeYDmtatrT",
+					"expanded_url": "https://www.techstars.com/newsroom/techstars-anywhere-is-exploring-the-future-of-remote-work-life",
+					"display_url": "techstars.com/newsroom/techs…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6837002,
+			"id_str": "6837002",
+			"name": "Ryan Kuder",
+			"screen_name": "ryankuder",
+			"location": "San Diego and #Anywhere",
+			"description": "Managing Director, @Techstars Anywhere. @AspenInstitute Fellow. Hoya. #GiveFirst #GoSanDiego",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6733,
+			"friends_count": 3630,
+			"listed_count": 409,
+			"created_at": "Fri Jun 15 16:05:55 +0000 2007",
+			"favourites_count": 8210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "180C12",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039952319486550016/lD3gF0Hg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039952319486550016/lD3gF0Hg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6837002/1516464745",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FECC80",
+			"profile_sidebar_fill_color": "120108",
+			"profile_text_color": "7D333A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Applications for @Techstars Anywhere are OPEN! We're especially interested in the future of work and the impacts remote work has on the rest of our lives. If you're building something awesome, we'd love to meet you. https://t.co/YeYDmtatrT"
+	},
+	{
 		"created_at": "Tue Jul 21 22:13:15 +0000 2020",
 		"id": 1285666912211546000,
 		"id_str": "1285699387482673152",
