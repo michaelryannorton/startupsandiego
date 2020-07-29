@@ -1,6 +1,734 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 19:26:07 +0000 2020",
+		"id": 1288194041218306000,
+		"id_str": "1288194041218306048",
+		"full_text": "Why we 💙 our #StartupSD #community! 😎🚀 👏🏻 #SDlifechanging #SDtechos #SDtogether https://t.co/KGwM1uGHHM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "SDlifechanging",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"text": "SDtechos",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "SDtogether",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KGwM1uGHHM",
+					"expanded_url": "https://twitter.com/cubiccorp/status/1288135593516507139",
+					"display_url": "twitter.com/cubiccorp/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4145,
+			"friends_count": 2371,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288135593516507100,
+		"quoted_status_id_str": "1288135593516507139",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KGwM1uGHHM",
+			"expanded": "https://twitter.com/cubiccorp/status/1288135593516507139",
+			"display": "twitter.com/cubiccorp/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 28 15:33:52 +0000 2020",
+			"id": 1288135593516507100,
+			"id_str": "1288135593516507139",
+			"full_text": "This is how we do; this is how we hire. Check it out 👇.\nhttps://t.co/KMSfKXGFYz\n\n#madeinSD #SDlifechanging #wearecubic https://t.co/nnlHP0xFYA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "madeinSD",
+						"indices": [
+							81,
+							90
+						]
+					},
+					{
+						"text": "SDlifechanging",
+						"indices": [
+							91,
+							106
+						]
+					},
+					{
+						"text": "wearecubic",
+						"indices": [
+							107,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KMSfKXGFYz",
+						"expanded_url": "https://www.eventbrite.com/e/the-job-search-the-global-pandemic-tickets-113410606176",
+						"display_url": "eventbrite.com/e/the-job-sear…",
+						"indices": [
+							56,
+							79
+						]
+					},
+					{
+						"url": "https://t.co/nnlHP0xFYA",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1287954009647546369",
+						"display_url": "twitter.com/StartupSanDieg…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 772294016,
+				"id_str": "772294016",
+				"name": "Cubic",
+				"screen_name": "CubicCorp",
+				"location": "San Diego, CA",
+				"description": "Parent company of @CubicTS @CubicDefense @Cubic_MS for innovative, mission-critical #transportation & #defense solutions. #wearecubic #hereforyou #cubiccares",
+				"url": "https://t.co/KpX3BEGcEY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KpX3BEGcEY",
+								"expanded_url": "http://www.cubic.com/",
+								"display_url": "cubic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2151,
+				"friends_count": 990,
+				"listed_count": 107,
+				"created_at": "Tue Aug 21 21:26:39 +0000 2012",
+				"favourites_count": 4334,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4844,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1281426717110939648/tu-peCEn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281426717110939648/tu-peCEn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/772294016/1594415339",
+				"profile_link_color": "00ADBB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1287954009647546400,
+			"quoted_status_id_str": "1287954009647546369",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nnlHP0xFYA",
+				"expanded": "https://twitter.com/StartupSanDiego/status/1287954009647546369",
+				"display": "twitter.com/StartupSanDieg…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why we 💙 our #StartupSD #community! 😎🚀 👏🏻 #SDlifechanging #SDtechos #SDtogether https://t.co/KGwM1uGHHM"
+	},
+	{
+		"created_at": "Tue Jul 28 04:26:10 +0000 2020",
+		"id": 1287957488172589000,
+		"id_str": "1287967561611501568",
+		"full_text": "#SDtogether Also, checkout the 83+ local companies STILL hiring 👀 @classy @FlockFreight @petdesk @trustandwill @servicenow @Qualcomm @shieldaitech @Cloudbeds @dexcom to name a few! 🚀💙👏🏻🤓 https://t.co/QHas4tezNp #startupSD #techtalent https://t.co/LM6XfJCXxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDtogether",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "startupSD",
+					"indices": [
+						211,
+						221
+					]
+				},
+				{
+					"text": "techtalent",
+					"indices": [
+						222,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "classy",
+					"name": "Classy",
+					"id": 15818883,
+					"id_str": "15818883",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"screen_name": "FlockFreight",
+					"name": "Flock Freight",
+					"id": 1159163101641498600,
+					"id_str": "1159163101641498624",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "petdesk",
+					"name": "PetDesk",
+					"id": 1311445760,
+					"id_str": "1311445760",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"screen_name": "trustandwill",
+					"name": "Trust & Will",
+					"id": 895876199372562400,
+					"id_str": "895876199372562433",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"screen_name": "servicenow",
+					"name": "ServiceNow",
+					"id": 15766070,
+					"id_str": "15766070",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"screen_name": "Qualcomm",
+					"name": "Qualcomm",
+					"id": 84623395,
+					"id_str": "84623395",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"screen_name": "shieldaitech",
+					"name": "Shield AI",
+					"id": 738479913976528900,
+					"id_str": "738479913976528896",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"screen_name": "Cloudbeds",
+					"name": "Cloudbeds",
+					"id": 2338850767,
+					"id_str": "2338850767",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "dexcom",
+					"name": "Dexcom",
+					"id": 19696161,
+					"id_str": "19696161",
+					"indices": [
+						158,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QHas4tezNp",
+					"expanded_url": "https://startupsd.org/resources-covid-19/",
+					"display_url": "startupsd.org/resources-covi…",
+					"indices": [
+						187,
+						210
+					]
+				},
+				{
+					"url": "https://t.co/LM6XfJCXxu",
+					"expanded_url": "https://twitter.com/startupsandiego/status/1287954009647546369",
+					"display_url": "twitter.com/startupsandieg…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 344,
+			"friends_count": 464,
+			"listed_count": 15,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1287954009647546400,
+		"quoted_status_id_str": "1287954009647546369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LM6XfJCXxu",
+			"expanded": "https://twitter.com/startupsandiego/status/1287954009647546369",
+			"display": "twitter.com/startupsandieg…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 28 03:32:19 +0000 2020",
+			"id": 1287954009647546400,
+			"id_str": "1287954009647546369",
+			"full_text": "The lineup for this Thursday’s panel on  the job search &amp; the global pandemic ft. @lytx @MindTouch @CubicCorp &amp; @Sony is 🔥! #SDtogether @SDlifechanging @SDRegionalEDC @CONNECTinSD ➡️ https://t.co/Cr52NmYPpM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SDtogether",
+						"indices": [
+							132,
+							143
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lytx",
+						"name": "Lytx",
+						"id": 1948076167,
+						"id_str": "1948076167",
+						"indices": [
+							86,
+							91
+						]
+					},
+					{
+						"screen_name": "MindTouch",
+						"name": "MindTouch",
+						"id": 14058185,
+						"id_str": "14058185",
+						"indices": [
+							92,
+							102
+						]
+					},
+					{
+						"screen_name": "CubicCorp",
+						"name": "Cubic",
+						"id": 772294016,
+						"id_str": "772294016",
+						"indices": [
+							103,
+							113
+						]
+					},
+					{
+						"screen_name": "Sony",
+						"name": "Sony",
+						"id": 34442404,
+						"id_str": "34442404",
+						"indices": [
+							120,
+							125
+						]
+					},
+					{
+						"screen_name": "SDlifechanging",
+						"name": "San Diego: Life. Changing.",
+						"id": 821480201808814100,
+						"id_str": "821480201808814080",
+						"indices": [
+							144,
+							159
+						]
+					},
+					{
+						"screen_name": "SDRegionalEDC",
+						"name": "San Diego Regional EDC",
+						"id": 113474827,
+						"id_str": "113474827",
+						"indices": [
+							160,
+							174
+						]
+					},
+					{
+						"screen_name": "CONNECTinSD",
+						"name": "Connect",
+						"id": 319294242,
+						"id_str": "319294242",
+						"indices": [
+							175,
+							187
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Cr52NmYPpM",
+						"expanded_url": "https://www.eventbrite.com/e/the-job-search-the-global-pandemic-tickets-113410606176",
+						"display_url": "eventbrite.com/e/the-job-sear…",
+						"indices": [
+							191,
+							214
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/apBzLwX7RV",
+								"expanded_url": "http://sandiegostartupweek.com",
+								"display_url": "sandiegostartupweek.com",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4145,
+				"friends_count": 2371,
+				"listed_count": 115,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3723,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SDtogether Also, checkout the 83+ local companies STILL hiring 👀 @classy @FlockFreight @petdesk @trustandwill @servicenow @Qualcomm @shieldaitech @Cloudbeds @dexcom to name a few! 🚀💙👏🏻🤓 https://t.co/QHas4tezNp #startupSD #techtalent https://t.co/LM6XfJCXxu"
+	},
+	{
 		"created_at": "Thu Jul 23 03:48:14 +0000 2020",
 		"id": 1285272335331635200,
 		"id_str": "1286146076265734144",
