@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 21:27:23 +0000 2020",
+		"id": 1288949333891543000,
+		"id_str": "1288949333891543041",
+		"full_text": "Proud to continue to partner to support our #StartupSD community @SDlifechanging! #SDtogether 🚀 https://t.co/vGf4eYbqOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "SDtogether",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDlifechanging",
+					"name": "San Diego: Life. Changing.",
+					"id": 821480201808814100,
+					"id_str": "821480201808814080",
+					"indices": [
+						65,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vGf4eYbqOs",
+					"expanded_url": "https://twitter.com/sdlifechanging/status/1288947598125015040",
+					"display_url": "twitter.com/sdlifechanging…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4141,
+			"friends_count": 2371,
+			"listed_count": 115,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1561565943",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288947598125015000,
+		"quoted_status_id_str": "1288947598125015040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vGf4eYbqOs",
+			"expanded": "https://twitter.com/sdlifechanging/status/1288947598125015040",
+			"display": "twitter.com/sdlifechanging…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 30 21:20:29 +0000 2020",
+			"id": 1288947598125015000,
+			"id_str": "1288947598125015040",
+			"full_text": "Special thanks to @StartupSanDiego &amp; @CONNECTinSD for their partnership on this event. We're always grateful for your continued support!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							18,
+							34
+						]
+					},
+					{
+						"screen_name": "CONNECTinSD",
+						"name": "Connect",
+						"id": 319294242,
+						"id_str": "319294242",
+						"indices": [
+							41,
+							53
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1288947317559582700,
+			"in_reply_to_status_id_str": "1288947317559582720",
+			"in_reply_to_user_id": 821480201808814100,
+			"in_reply_to_user_id_str": "821480201808814080",
+			"in_reply_to_screen_name": "SDlifechanging",
+			"user": {
+				"id": 821480201808814100,
+				"id_str": "821480201808814080",
+				"name": "San Diego: Life. Changing.",
+				"screen_name": "SDlifechanging",
+				"location": "San Diego ☀️ ",
+				"description": "More innovation, more impact, more ways to live life on your terms. Welcome to San Diego: Life. Changing. #SDlifechanging by @SDRegionalEDC",
+				"url": "https://t.co/6vdn7Y23wl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6vdn7Y23wl",
+								"expanded_url": "https://sandiegolifechanging.org/",
+								"display_url": "sandiegolifechanging.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1531,
+				"friends_count": 331,
+				"listed_count": 17,
+				"created_at": "Tue Jan 17 22:11:57 +0000 2017",
+				"favourites_count": 1877,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021811418457243649/RPBW0Hr6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021811418457243649/RPBW0Hr6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821480201808814080/1584672885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud to continue to partner to support our #StartupSD community @SDlifechanging! #SDtogether 🚀 https://t.co/vGf4eYbqOs"
+	},
+	{
 		"created_at": "Tue Jul 28 19:26:07 +0000 2020",
 		"id": 1288194041218306000,
 		"id_str": "1288194041218306048",
