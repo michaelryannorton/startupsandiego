@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 29 02:25:03 +0000 2020",
+		"id": 1299412479693467600,
+		"id_str": "1299533490950565888",
+		"full_text": "Calling Science &amp; Research-based Companies to Apply!\nInventors &amp; Investors is a new pitch event from @SDInnovCouncil, @tcasandiego, Connect, and @StartupSanDiego. \nDeadline: Tuesday, Sept 1st. Learn more: https://t.co/PKi340z2Ep  #sandiego #sdtech #connectsd https://t.co/MRgz3RqQ2j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sandiego",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"text": "sdtech",
+					"indices": [
+						248,
+						255
+					]
+				},
+				{
+					"text": "connectsd",
+					"indices": [
+						256,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDInnovCouncil",
+					"name": "SDIC",
+					"id": 871730809895563300,
+					"id_str": "871730809895563264",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						153,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PKi340z2Ep",
+					"expanded_url": "https://connect.org/invent-invest",
+					"display_url": "connect.org/invent-invest",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1299412476707078100,
+					"id_str": "1299412476707078145",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Eghww1LWAAEB0t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eghww1LWAAEB0t8.jpg",
+					"url": "https://t.co/MRgz3RqQ2j",
+					"display_url": "pic.twitter.com/MRgz3RqQ2j",
+					"expanded_url": "https://twitter.com/CONNECTinSD/status/1299412479693467648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299412476707078100,
+					"id_str": "1299412476707078145",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Eghww1LWAAEB0t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eghww1LWAAEB0t8.jpg",
+					"url": "https://t.co/MRgz3RqQ2j",
+					"display_url": "pic.twitter.com/MRgz3RqQ2j",
+					"expanded_url": "https://twitter.com/CONNECTinSD/status/1299412479693467648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 319294242,
+			"id_str": "319294242",
+			"name": "Connect",
+			"screen_name": "CONNECTinSD",
+			"location": "San Diego",
+			"description": "Connect - San Diego | Helping Entrepreneurs Build Great Companies #connectsd | SD Funding News @ #investsd",
+			"url": "https://t.co/sEtDGb4nPT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sEtDGb4nPT",
+							"expanded_url": "https://connect.org",
+							"display_url": "connect.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5441,
+			"friends_count": 1663,
+			"listed_count": 223,
+			"created_at": "Fri Jun 17 21:46:36 +0000 2011",
+			"favourites_count": 2186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121449475812155393/SMRCV2W9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121449475812155393/SMRCV2W9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/319294242/1590712570",
+			"profile_link_color": "F08A1D",
+			"profile_sidebar_border_color": "F08A1D",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "88746A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling Science &amp; Research-based Companies to Apply!\nInventors &amp; Investors is a new pitch event from @SDInnovCouncil, @tcasandiego, Connect, and @StartupSanDiego. \nDeadline: Tuesday, Sept 1st. Learn more: https://t.co/PKi340z2Ep  #sandiego #sdtech #connectsd https://t.co/MRgz3RqQ2j"
+	},
+	{
 		"created_at": "Thu Aug 27 21:24:07 +0000 2020",
 		"id": 1299050136174129200,
 		"id_str": "1299095370782384130",
