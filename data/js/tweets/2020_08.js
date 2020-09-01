@@ -1,6 +1,949 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 31 19:51:34 +0000 2020",
+		"id": 1300507833658519600,
+		"id_str": "1300521632960741379",
+		"full_text": "Deadline is TOMORROW! #Inventors &amp; #Investors! Get your applications in for this awesome virtual pitch comp! @tcasandiego @CONNECTinSD @StartupSanDiego @SDInnovCouncil https://t.co/f1Yptj8jX0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Inventors",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "Investors",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "Connect",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"screen_name": "SDInnovCouncil",
+					"name": "SDIC",
+					"id": 871730809895563300,
+					"id_str": "871730809895563264",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f1Yptj8jX0",
+					"expanded_url": "https://twitter.com/tcasandiego/status/1300438945487032323",
+					"display_url": "twitter.com/tcasandiego/st…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 1238,
+			"listed_count": 100,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1571341162",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1300438945487032300,
+		"quoted_status_id_str": "1300438945487032323",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f1Yptj8jX0",
+			"expanded": "https://twitter.com/tcasandiego/status/1300438945487032323",
+			"display": "twitter.com/tcasandiego/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 31 14:23:00 +0000 2020",
+			"id": 1300438945487032300,
+			"id_str": "1300438945487032323",
+			"full_text": "The San Diego Innovation Council, @CONNECTinSD, @StartupSanDiego , and TCA are coming together to host a new virtual pitch competition - “Inventors &amp; Investors” on October 9 - showcasing innovative science-based startups to angel investors and VCs. \n\nhttps://t.co/VI9lI4uous https://t.co/lYjeIuDzlS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CONNECTinSD",
+						"name": "Connect",
+						"id": 319294242,
+						"id_str": "319294242",
+						"indices": [
+							34,
+							46
+						]
+					},
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							48,
+							64
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VI9lI4uous",
+						"expanded_url": "https://connect.org/inventors-investors/",
+						"display_url": "connect.org/inventors-inve…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1300320905810251800,
+						"id_str": "1300320905810251776",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+						"url": "https://t.co/lYjeIuDzlS",
+						"display_url": "pic.twitter.com/lYjeIuDzlS",
+						"expanded_url": "https://twitter.com/tcasandiego/status/1300438945487032323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 594,
+								"h": 555,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 594,
+								"h": 555,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 594,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1300320905810251800,
+						"id_str": "1300320905810251776",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+						"url": "https://t.co/lYjeIuDzlS",
+						"display_url": "pic.twitter.com/lYjeIuDzlS",
+						"expanded_url": "https://twitter.com/tcasandiego/status/1300438945487032323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 594,
+								"h": 555,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 594,
+								"h": 555,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 594,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 893178238679236600,
+				"id_str": "893178238679236612",
+				"name": "Tech Coast Angels SD",
+				"screen_name": "tcasandiego",
+				"location": "San Diego, CA",
+				"description": "TCA has been fueling innovative entrepreneurs in SoCal since 1997. San Diego is the largest @techcoastangels chapter with 200+ members investing $10M+ / year.",
+				"url": "https://t.co/v57J55gP2u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v57J55gP2u",
+								"expanded_url": "http://www.tcasandiego.com",
+								"display_url": "tcasandiego.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1103,
+				"friends_count": 714,
+				"listed_count": 12,
+				"created_at": "Thu Aug 03 18:34:21 +0000 2017",
+				"favourites_count": 453,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/893178238679236612/1527737947",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deadline is TOMORROW! #Inventors &amp; #Investors! Get your applications in for this awesome virtual pitch comp! @tcasandiego @CONNECTinSD @StartupSanDiego @SDInnovCouncil https://t.co/f1Yptj8jX0"
+	},
+	{
+		"created_at": "Mon Aug 31 18:40:01 +0000 2020",
+		"id": 1300482498401624000,
+		"id_str": "1300503626192912384",
+		"full_text": "On Monday, Sept 7, join the @startupsandiego 1st Mondays Virtual Happy Hour and start connecting with the local startup community. Attendees chat during 5-minute speed networking sessions to meet San Diego tech-ecosystem talent. https://t.co/2pU0H52y5Q @sdstartupweek #1stMondays https://t.co/4FLZTuuWRb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						268,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						253,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2pU0H52y5Q",
+					"expanded_url": "https://bit.ly/3gKzsyj",
+					"display_url": "bit.ly/3gKzsyj",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300482495499116500,
+					"id_str": "1300482495499116557",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Egw98HzWoA0qSL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egw98HzWoA0qSL5.jpg",
+					"url": "https://t.co/4FLZTuuWRb",
+					"display_url": "pic.twitter.com/4FLZTuuWRb",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1300482498401624067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300482495499116500,
+					"id_str": "1300482495499116557",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Egw98HzWoA0qSL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egw98HzWoA0qSL5.jpg",
+					"url": "https://t.co/4FLZTuuWRb",
+					"display_url": "pic.twitter.com/4FLZTuuWRb",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1300482498401624067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970531248882896900,
+			"id_str": "970531248882896897",
+			"name": "Fresh Brewed Tech - SD Tech News",
+			"screen_name": "freshbrewedtech",
+			"location": "San Diego, CA",
+			"description": "Serving up the latest San Diego tech news and tacos 🌮 Subscribe to our newsletter here https://t.co/Msp95nNQqF & check out our podcast @TacosandTechPod",
+			"url": "https://t.co/gqgiCYPCGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gqgiCYPCGk",
+							"expanded_url": "http://FreshBrewedTech.com",
+							"display_url": "FreshBrewedTech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Msp95nNQqF",
+							"expanded_url": "http://conta.cc/2XsAbOi",
+							"display_url": "conta.cc/2XsAbOi",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1224,
+			"friends_count": 859,
+			"listed_count": 16,
+			"created_at": "Mon Mar 05 05:27:36 +0000 2018",
+			"favourites_count": 1822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970531248882896897/1574713241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Monday, Sept 7, join the @startupsandiego 1st Mondays Virtual Happy Hour and start connecting with the local startup community. Attendees chat during 5-minute speed networking sessions to meet San Diego tech-ecosystem talent. https://t.co/2pU0H52y5Q @sdstartupweek #1stMondays https://t.co/4FLZTuuWRb"
+	},
+	{
+		"created_at": "Mon Aug 31 18:39:49 +0000 2020",
+		"id": 1300501115948200000,
+		"id_str": "1300503574737285135",
+		"full_text": "Do you know what HP, IBM and FedEx have in common? They were all founded during a #recession. Join @StartupSanDiego's Alexa Rae Navarro and @PhilManpowerSD for some helpful advice for #startups to help them flourish during these tough economic times. https://t.co/s7CTEAP27Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "recession",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"screen_name": "PhilManpowerSD",
+					"name": "Phil Blair",
+					"id": 627637522,
+					"id_str": "627637522",
+					"indices": [
+						140,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s7CTEAP27Z",
+					"expanded_url": "https://youtu.be/WAAs8cPnIlQ",
+					"display_url": "youtu.be/WAAs8cPnIlQ",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.contentcal.io\" rel=\"nofollow\">ContentCal Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22994081,
+			"id_str": "22994081",
+			"name": "UC San Diego Extension",
+			"screen_name": "UCSDExtension",
+			"location": "La Jolla, CA",
+			"description": "We are the #continuingeducation division of top-ranked @UCSanDiego serving the #lifelonglearning and skill development needs of #SanDiego and beyond.",
+			"url": "https://t.co/AD90Q7scWE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AD90Q7scWE",
+							"expanded_url": "http://extension.ucsd.edu",
+							"display_url": "extension.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2850,
+			"friends_count": 891,
+			"listed_count": 116,
+			"created_at": "Thu Mar 05 22:59:45 +0000 2009",
+			"favourites_count": 5065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285259125287313410/VZ-V5EP3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285259125287313410/VZ-V5EP3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22994081/1516919919",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you know what HP, IBM and FedEx have in common? They were all founded during a #recession. Join @StartupSanDiego's Alexa Rae Navarro and @PhilManpowerSD for some helpful advice for #startups to help them flourish during these tough economic times. https://t.co/s7CTEAP27Z"
+	},
+	{
+		"created_at": "Mon Aug 31 15:01:53 +0000 2020",
+		"id": 1300438945487032300,
+		"id_str": "1300448733633576962",
+		"full_text": "The San Diego Innovation Council, @CONNECTinSD, @StartupSanDiego , and TCA are coming together to host a new virtual pitch competition - “Inventors &amp; Investors” on October 9 - showcasing innovative science-based startups to angel investors and VCs. \n\nhttps://t.co/VI9lI4uous https://t.co/lYjeIuDzlS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "Connect",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VI9lI4uous",
+					"expanded_url": "https://connect.org/inventors-investors/",
+					"display_url": "connect.org/inventors-inve…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300320905810251800,
+					"id_str": "1300320905810251776",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+					"url": "https://t.co/lYjeIuDzlS",
+					"display_url": "pic.twitter.com/lYjeIuDzlS",
+					"expanded_url": "https://twitter.com/tcasandiego/status/1300438945487032323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 594,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 555,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300320905810251800,
+					"id_str": "1300320905810251776",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eguq-XTVkAAD1_m.png",
+					"url": "https://t.co/lYjeIuDzlS",
+					"display_url": "pic.twitter.com/lYjeIuDzlS",
+					"expanded_url": "https://twitter.com/tcasandiego/status/1300438945487032323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 594,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 555,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893178238679236600,
+			"id_str": "893178238679236612",
+			"name": "Tech Coast Angels SD",
+			"screen_name": "tcasandiego",
+			"location": "San Diego, CA",
+			"description": "TCA has been fueling innovative entrepreneurs in SoCal since 1997. San Diego is the largest @techcoastangels chapter with 200+ members investing $10M+ / year.",
+			"url": "https://t.co/v57J55gP2u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v57J55gP2u",
+							"expanded_url": "http://www.tcasandiego.com",
+							"display_url": "tcasandiego.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 714,
+			"listed_count": 12,
+			"created_at": "Thu Aug 03 18:34:21 +0000 2017",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893178238679236612/1527737947",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The San Diego Innovation Council, @CONNECTinSD, @StartupSanDiego , and TCA are coming together to host a new virtual pitch competition - “Inventors &amp; Investors” on October 9 - showcasing innovative science-based startups to angel investors and VCs. \n\nhttps://t.co/VI9lI4uous https://t.co/lYjeIuDzlS"
+	},
+	{
 		"created_at": "Sat Aug 29 02:25:03 +0000 2020",
 		"id": 1299412479693467600,
 		"id_str": "1299533490950565888",
