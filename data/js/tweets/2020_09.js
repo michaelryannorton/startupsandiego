@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 18:13:55 +0000 2020",
+		"id": 1305189723497992200,
+		"id_str": "1305570487473405952",
+		"full_text": "Who's ready for @SDStartupWeek's month long celebration? @StartupSanDiego is committed to keeping our #ecosystem going and doing what we can to ensure our community's unwavering strength, force, and #resiliency. Together we shall rise! https://t.co/uwVGwoC7iQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ecosystem",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "resiliency",
+					"indices": [
+						199,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uwVGwoC7iQ",
+					"expanded_url": "https://www.eventbrite.com/e/san-diego-startup-month-2020-tickets-77976159793",
+					"display_url": "eventbrite.com/e/san-diego-st…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1645,
+			"friends_count": 1243,
+			"listed_count": 101,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1571341162",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who's ready for @SDStartupWeek's month long celebration? @StartupSanDiego is committed to keeping our #ecosystem going and doing what we can to ensure our community's unwavering strength, force, and #resiliency. Together we shall rise! https://t.co/uwVGwoC7iQ"
+	},
+	{
 		"created_at": "Mon Sep 07 18:07:50 +0000 2020",
 		"id": 1303032242172653600,
 		"id_str": "1303032242172653569",
