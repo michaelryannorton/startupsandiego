@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 18:05:09 +0000 2020",
+		"id": 1308467386606137300,
+		"id_str": "1308467386606137345",
+		"full_text": "Are you a Startup Founder or looking for tips on how to scale your business? San Diego Startup Month is for you!  Our Founder and Sales tracks will take you through innovative programming around fundraising and more. https://t.co/iIVJobhIc7\n\n#SDSM2020 #Startupsd #entrepreneurs https://t.co/TQ0j9WTNBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						242,
+						251
+					]
+				},
+				{
+					"text": "Startupsd",
+					"indices": [
+						252,
+						262
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						263,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iIVJobhIc7",
+					"expanded_url": "http://ow.ly/RhHR50BxoAA",
+					"display_url": "ow.ly/RhHR50BxoAA",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308467384328618000,
+					"id_str": "1308467384328617984",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EiicJ0sXgAADRFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiicJ0sXgAADRFx.jpg",
+					"url": "https://t.co/TQ0j9WTNBr",
+					"display_url": "pic.twitter.com/TQ0j9WTNBr",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1308467386606137345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308467384328618000,
+					"id_str": "1308467384328617984",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EiicJ0sXgAADRFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiicJ0sXgAADRFx.jpg",
+					"url": "https://t.co/TQ0j9WTNBr",
+					"display_url": "pic.twitter.com/TQ0j9WTNBr",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1308467386606137345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1308467384555102200,
+					"id_str": "1308467384555102209",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EiicJ1iXYAEX4WV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiicJ1iXYAEX4WV.jpg",
+					"url": "https://t.co/TQ0j9WTNBr",
+					"display_url": "pic.twitter.com/TQ0j9WTNBr",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1308467386606137345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4162,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you a Startup Founder or looking for tips on how to scale your business? San Diego Startup Month is for you!  Our Founder and Sales tracks will take you through innovative programming around fundraising and more. https://t.co/iIVJobhIc7\n\n#SDSM2020 #Startupsd #entrepreneurs https://t.co/TQ0j9WTNBr"
+	},
+	{
 		"created_at": "Mon Sep 21 15:34:38 +0000 2020",
 		"id": 1308067117426782200,
 		"id_str": "1308067117426782210",
