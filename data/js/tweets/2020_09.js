@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 24 22:40:51 +0000 2020",
+		"id": 1309202382983635000,
+		"id_str": "1309261543809441792",
+		"full_text": "The inaugural @StartupSanDiego  Incubator is being launched next during Startup Month! A partnership with @techstars, the incubator will select up to 10 companies to receive mentorship and community support, at no cost and with no equity requirements!\n\nhttps://t.co/cLw3qxPYWD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cLw3qxPYWD",
+					"expanded_url": "https://startupsd.org/2020-sdsm-apply-to-incubator-program/?mc_cid=dcf756e8ef&mc_eid=c1373b2a28",
+					"display_url": "startupsd.org/2020-sdsm-appl…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893178238679236600,
+			"id_str": "893178238679236612",
+			"name": "Tech Coast Angels SD",
+			"screen_name": "tcasandiego",
+			"location": "San Diego, CA",
+			"description": "TCA has been fueling innovative entrepreneurs in SoCal since 1997. San Diego is the largest @techcoastangels chapter with 200+ members investing $10M+ / year.",
+			"url": "https://t.co/v57J55gP2u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v57J55gP2u",
+							"expanded_url": "http://www.tcasandiego.com",
+							"display_url": "tcasandiego.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1131,
+			"friends_count": 718,
+			"listed_count": 12,
+			"created_at": "Thu Aug 03 18:34:21 +0000 2017",
+			"favourites_count": 479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893178238679236612/1527737947",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The inaugural @StartupSanDiego  Incubator is being launched next during Startup Month! A partnership with @techstars, the incubator will select up to 10 companies to receive mentorship and community support, at no cost and with no equity requirements!\n\nhttps://t.co/cLw3qxPYWD"
+	},
+	{
+		"created_at": "Thu Sep 24 20:00:41 +0000 2020",
+		"id": 1309221235893719000,
+		"id_str": "1309221235893719041",
+		"full_text": "Customer experience is the pulse of every business. This track will focus on customer service, support, and success to provide a comprehensive review of every stage of the customer experience journey. https://t.co/47BN6mstQ3\n\n#SDSM2020 #StartupSD #SDbusiness https://t.co/w7nmyYWy8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						236,
+						246
+					]
+				},
+				{
+					"text": "SDbusiness",
+					"indices": [
+						247,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/47BN6mstQ3",
+					"expanded_url": "http://ow.ly/jtzx50BxolF",
+					"display_url": "ow.ly/jtzx50BxolF",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1309221233549082600,
+					"id_str": "1309221233549082635",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EitJxn4XgAsLi-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EitJxn4XgAsLi-l.jpg",
+					"url": "https://t.co/w7nmyYWy8O",
+					"display_url": "pic.twitter.com/w7nmyYWy8O",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1309221235893719041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309221233549082600,
+					"id_str": "1309221233549082635",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EitJxn4XgAsLi-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EitJxn4XgAsLi-l.jpg",
+					"url": "https://t.co/w7nmyYWy8O",
+					"display_url": "pic.twitter.com/w7nmyYWy8O",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1309221235893719041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4166,
+			"friends_count": 2369,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Customer experience is the pulse of every business. This track will focus on customer service, support, and success to provide a comprehensive review of every stage of the customer experience journey. https://t.co/47BN6mstQ3\n\n#SDSM2020 #StartupSD #SDbusiness https://t.co/w7nmyYWy8O"
+	},
+	{
+		"created_at": "Thu Sep 24 17:27:48 +0000 2020",
+		"id": 1308849886385901600,
+		"id_str": "1309182761735987206",
+		"full_text": "🚀Prepare for LIFT OFF! We're looking for 10 companies for @StartupSanDiego's Inaugural Incubator during #SDSM2020 \n\nYou'll get an out-of-this world team to give your startup a boost. Free, no equity stake.\n\nApply here https://t.co/damFBly8yV by Sept. 30.\n\n#StartupSD #SanDiego https://t.co/k8DmperJme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						256,
+						266
+					]
+				},
+				{
+					"text": "SanDiego",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						58,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/damFBly8yV",
+					"expanded_url": "http://ow.ly/FRdH50ByvAI",
+					"display_url": "ow.ly/FRdH50ByvAI",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308849881130381300,
+					"id_str": "1308849881130381312",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+					"url": "https://t.co/k8DmperJme",
+					"display_url": "pic.twitter.com/k8DmperJme",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1308849886385901570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308849881130381300,
+					"id_str": "1308849881130381312",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+					"url": "https://t.co/k8DmperJme",
+					"display_url": "pic.twitter.com/k8DmperJme",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1308849886385901570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4166,
+			"friends_count": 2369,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚀Prepare for LIFT OFF! We're looking for 10 companies for @StartupSanDiego's Inaugural Incubator during #SDSM2020 \n\nYou'll get an out-of-this world team to give your startup a boost. Free, no equity stake.\n\nApply here https://t.co/damFBly8yV by Sept. 30.\n\n#StartupSD #SanDiego https://t.co/k8DmperJme"
+	},
+	{
 		"created_at": "Wed Sep 23 19:25:04 +0000 2020",
 		"id": 1308849886385901600,
 		"id_str": "1308849886385901570",
