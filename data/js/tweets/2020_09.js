@@ -1,6 +1,662 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 26 22:25:25 +0000 2020",
+		"id": 1309597011230879700,
+		"id_str": "1309982434134351872",
+		"full_text": "Cool opportunity for early stage startups in San Diego! https://t.co/HzKygIDUiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HzKygIDUiU",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1308849886385901570",
+					"display_url": "twitter.com/StartupSanDieg…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15841670,
+			"id_str": "15841670",
+			"name": "Adam Riggs-Zeigen",
+			"screen_name": "AdamRZ",
+			"location": "San Diego",
+			"description": "Head of product @formsensehq. Founder @RockMyRun. Love fitness & tech. I also tweet about startups, software, #miamidolphins, #lfc and other sports",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 633,
+			"listed_count": 39,
+			"created_at": "Wed Aug 13 20:08:57 +0000 2008",
+			"favourites_count": 2807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096512693698125824/qggRl1nQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096512693698125824/qggRl1nQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15841670/1499229192",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308849886385901600,
+		"quoted_status_id_str": "1308849886385901570",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HzKygIDUiU",
+			"expanded": "https://twitter.com/StartupSanDiego/status/1308849886385901570",
+			"display": "twitter.com/StartupSanDieg…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 23 19:25:04 +0000 2020",
+			"id": 1308849886385901600,
+			"id_str": "1308849886385901570",
+			"full_text": "🚀Prepare for LIFT OFF! We're looking for 10 companies for @StartupSanDiego's Inaugural Incubator during #SDSM2020 \n\nYou'll get an out-of-this world team to give your startup a boost. Free, no equity stake.\n\nApply here https://t.co/damFBly8yV by Sept. 30.\n\n#StartupSD #SanDiego https://t.co/k8DmperJme",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SDSM2020",
+						"indices": [
+							104,
+							113
+						]
+					},
+					{
+						"text": "StartupSD",
+						"indices": [
+							256,
+							266
+						]
+					},
+					{
+						"text": "SanDiego",
+						"indices": [
+							267,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							58,
+							74
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/damFBly8yV",
+						"expanded_url": "http://ow.ly/FRdH50ByvAI",
+						"display_url": "ow.ly/FRdH50ByvAI",
+						"indices": [
+							218,
+							241
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1308849881130381300,
+						"id_str": "1308849881130381312",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+						"url": "https://t.co/k8DmperJme",
+						"display_url": "pic.twitter.com/k8DmperJme",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1308849886385901570/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1308849881130381300,
+						"id_str": "1308849881130381312",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ein4CEUWsAAPK-_.jpg",
+						"url": "https://t.co/k8DmperJme",
+						"display_url": "pic.twitter.com/k8DmperJme",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1308849886385901570/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/apBzLwX7RV",
+								"expanded_url": "http://sandiegostartupweek.com",
+								"display_url": "sandiegostartupweek.com",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4166,
+				"friends_count": 2367,
+				"listed_count": 116,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2055,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3764,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cool opportunity for early stage startups in San Diego! https://t.co/HzKygIDUiU"
+	},
+	{
+		"created_at": "Sat Sep 26 22:25:05 +0000 2020",
+		"id": 1309644503632851000,
+		"id_str": "1309982352488054785",
+		"full_text": "Excited to see @styxbio in top 10 finalists @StartupSanDiego @CONNECTinSD https://t.co/Rhp10IbzVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "styxbio",
+					"name": "Styx Biotechnologies",
+					"id": 1237182782209589200,
+					"id_str": "1237182782209589248",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "Connect",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rhp10IbzVU",
+					"expanded_url": "https://connect.org/inventors-investors/?fbclid=IwAR3GEU0wllb72VAfD-i_Ea0ea0zusmpppxjUJ44_GVX1pULhA8vSaq7Mb2U",
+					"display_url": "connect.org/inventors-inve…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978423343706550300,
+			"id_str": "978423343706550272",
+			"name": "Ashutosh",
+			"screen_name": "emailtoashu",
+			"location": "San Diego, CA",
+			"description": "Researcher #cancer #vaccine",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Tue Mar 27 00:07:58 +0000 2018",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246890758797287425/lbSTMV7T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246890758797287425/lbSTMV7T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978423343706550272/1573540557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to see @styxbio in top 10 finalists @StartupSanDiego @CONNECTinSD https://t.co/Rhp10IbzVU"
+	},
+	{
+		"created_at": "Sat Sep 26 20:30:10 +0000 2020",
+		"id": 1309953431197581300,
+		"id_str": "1309953431197581313",
+		"full_text": "We'd like to give a shout out to our sponsor: The Wege Foundation! Thank you for your ongoing support for the San Diego Startup community and helping make SDSM happen. We truly appreciate it! \n\n#SDSM2020 #ThankYou #Entrepreneurs https://t.co/Y3YZnVrJ2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "ThankYou",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "Entrepreneurs",
+					"indices": [
+						214,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309953429192704000,
+					"id_str": "1309953429192704000",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei3jtBNWAAAxooK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei3jtBNWAAAxooK.jpg",
+					"url": "https://t.co/Y3YZnVrJ2e",
+					"display_url": "pic.twitter.com/Y3YZnVrJ2e",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1309953431197581313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309953429192704000,
+					"id_str": "1309953429192704000",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei3jtBNWAAAxooK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei3jtBNWAAAxooK.jpg",
+					"url": "https://t.co/Y3YZnVrJ2e",
+					"display_url": "pic.twitter.com/Y3YZnVrJ2e",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1309953431197581313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4166,
+			"friends_count": 2367,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'd like to give a shout out to our sponsor: The Wege Foundation! Thank you for your ongoing support for the San Diego Startup community and helping make SDSM happen. We truly appreciate it! \n\n#SDSM2020 #ThankYou #Entrepreneurs https://t.co/Y3YZnVrJ2e"
+	},
+	{
 		"created_at": "Fri Sep 25 19:01:02 +0000 2020",
 		"id": 1309568610940129300,
 		"id_str": "1309568610940129283",
