@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 01:05:03 +0000 2020",
+		"id": 1311109771324465200,
+		"id_str": "1311109771324465152",
+		"full_text": "What do @ryankuder @DJ_CURFEW @e_lizlyons &amp; @DrAlexHowland all have in common?! They'll be talking the Future of Work on our \"The Work-From-Home Revolution\" panel at the #SDSM2020 kick-off! 💥🚀  Don't miss out on this @SDStartupWeek convo 😎➡️https://t.co/oqHVYf6IhO https://t.co/oTD9kdDMUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "DJ_CURFEW",
+					"name": "Zeb Evans",
+					"id": 42836285,
+					"id_str": "42836285",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "e_lizlyons",
+					"name": "Liz Lyons",
+					"id": 1308815882013913000,
+					"id_str": "1308815882013913088",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "DrAlexHowland",
+					"name": "Alex Howland",
+					"id": 794234465228767200,
+					"id_str": "794234465228767236",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						221,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oqHVYf6IhO",
+					"expanded_url": "http://ow.ly/7Q9J50BEO9O",
+					"display_url": "ow.ly/7Q9J50BEO9O",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311109768195571700,
+					"id_str": "1311109768195571714",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EjH_YzrXgAI05dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjH_YzrXgAI05dz.jpg",
+					"url": "https://t.co/oTD9kdDMUH",
+					"display_url": "pic.twitter.com/oTD9kdDMUH",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1311109771324465152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311109768195571700,
+					"id_str": "1311109768195571714",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EjH_YzrXgAI05dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjH_YzrXgAI05dz.jpg",
+					"url": "https://t.co/oTD9kdDMUH",
+					"display_url": "pic.twitter.com/oTD9kdDMUH",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1311109771324465152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4170,
+			"friends_count": 2366,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What do @ryankuder @DJ_CURFEW @e_lizlyons &amp; @DrAlexHowland all have in common?! They'll be talking the Future of Work on our \"The Work-From-Home Revolution\" panel at the #SDSM2020 kick-off! 💥🚀  Don't miss out on this @SDStartupWeek convo 😎➡️https://t.co/oqHVYf6IhO https://t.co/oTD9kdDMUH"
+	},
+	{
 		"created_at": "Tue Sep 29 22:05:06 +0000 2020",
 		"id": 1311064484514062300,
 		"id_str": "1311064484514062336",
