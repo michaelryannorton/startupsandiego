@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 23:54:23 +0000 2020",
+		"id": 1313266158104084500,
+		"id_str": "1313266314887143424",
+		"full_text": "Who's ready for our very 1st #SDSM2020 LIVE Pitch Feedback Show ft. investor judges Steven Staszach from @LabsBoost &amp; Bridget Brick from The Accelerate Group?! Join us 5:00 pm 😎🚀: https://t.co/kxdrqLkKlI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kxdrqLkKlI",
+					"expanded_url": "http://ow.ly/zvXW50BKlhY",
+					"display_url": "ow.ly/zvXW50BKlhY",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2339762118,
+			"id_str": "2339762118",
+			"name": "San Diego Startup Month",
+			"screen_name": "SDStartupWeek",
+			"location": "San Diego, CA",
+			"description": "One month, celebrating innovation. October 1 - 30 2020 #SDSM2020 #StartupSD #SDtech - Join us year round at @StartupSanDiego",
+			"url": "https://t.co/apBzLwX7RV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4858,
+			"friends_count": 2337,
+			"listed_count": 157,
+			"created_at": "Wed Feb 12 04:53:19 +0000 2014",
+			"favourites_count": 3166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309554513171243009/1R0DWaj9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309554513171243009/1R0DWaj9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339762118/1599626578",
+			"profile_link_color": "45C3F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who's ready for our very 1st #SDSM2020 LIVE Pitch Feedback Show ft. investor judges Steven Staszach from @LabsBoost &amp; Bridget Brick from The Accelerate Group?! Join us 5:00 pm 😎🚀: https://t.co/kxdrqLkKlI"
+	},
+	{
+		"created_at": "Mon Oct 05 18:56:18 +0000 2020",
+		"id": 1313191172735725600,
+		"id_str": "1313191298963107841",
+		"full_text": "T-minus 5 min till our lunch hour #SDMSM2020 sessions kick-off! Ft. @DrAlexHowland of @VirBELA1 &amp; @BreanneAcio of @TheVanlifeApp for the #founder &amp; #people tracks! Join us 🚀 https://t.co/nw7XsQwUyV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDMSM2020",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "founder",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "people",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrAlexHowland",
+					"name": "Alex Howland",
+					"id": 794234465228767200,
+					"id_str": "794234465228767236",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"screen_name": "VirBELA1",
+					"name": "VirBELA",
+					"id": 1431687014,
+					"id_str": "1431687014",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "BreanneAcio",
+					"name": "Breanne Acio",
+					"id": 1135974267995058200,
+					"id_str": "1135974267995058176",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "TheVanlifeApp",
+					"name": "The Vanlife App by Sēkr",
+					"id": 1171915706381865000,
+					"id_str": "1171915706381864960",
+					"indices": [
+						118,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nw7XsQwUyV",
+					"expanded_url": "http://ow.ly/OjZo50BK6eq",
+					"display_url": "ow.ly/OjZo50BK6eq",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2339762118,
+			"id_str": "2339762118",
+			"name": "San Diego Startup Month",
+			"screen_name": "SDStartupWeek",
+			"location": "San Diego, CA",
+			"description": "One month, celebrating innovation. October 1 - 30 2020 #SDSM2020 #StartupSD #SDtech - Join us year round at @StartupSanDiego",
+			"url": "https://t.co/apBzLwX7RV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4858,
+			"friends_count": 2337,
+			"listed_count": 157,
+			"created_at": "Wed Feb 12 04:53:19 +0000 2014",
+			"favourites_count": 3166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309554513171243009/1R0DWaj9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309554513171243009/1R0DWaj9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339762118/1599626578",
+			"profile_link_color": "45C3F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "T-minus 5 min till our lunch hour #SDMSM2020 sessions kick-off! Ft. @DrAlexHowland of @VirBELA1 &amp; @BreanneAcio of @TheVanlifeApp for the #founder &amp; #people tracks! Join us 🚀 https://t.co/nw7XsQwUyV"
+	},
+	{
 		"created_at": "Fri Oct 02 01:24:44 +0000 2020",
 		"id": 1311830827601334300,
 		"id_str": "1311839501824806912",
