@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 23:30:12 +0000 2020",
+		"id": 1314347393337434000,
+		"id_str": "1314347393337434112",
+		"full_text": "Listen to Bruno Miranda, VP of Engineering at Doximity, share a story of what makes a thriving distributed culture tick. Recruit, hire, focus, and grow your distributed team. This popular #SDSM2020 session starts soon! https://t.co/cMiwgsgOaH\n\n@brupm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brupm",
+					"name": "Bruno Miranda",
+					"id": 4513751,
+					"id_str": "4513751",
+					"indices": [
+						244,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cMiwgsgOaH",
+					"expanded_url": "http://ow.ly/77lk50BNrXp",
+					"display_url": "ow.ly/77lk50BNrXp",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4187,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to Bruno Miranda, VP of Engineering at Doximity, share a story of what makes a thriving distributed culture tick. Recruit, hire, focus, and grow your distributed team. This popular #SDSM2020 session starts soon! https://t.co/cMiwgsgOaH\n\n@brupm"
+	},
+	{
+		"created_at": "Thu Oct 08 22:13:03 +0000 2020",
+		"id": 1314327916734423000,
+		"id_str": "1314327978889732096",
+		"full_text": "LIVE at #SDSM2020 w/ @ryankuder during Startup Month Incubator open session talking early stage funding 💸!  @SDStartupWeek @StartupSanDiego Join the convo in @RunTheWorld365 👉🏼 https://t.co/BV4kIb7PJG https://t.co/w23KFnSyZV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "RunTheWorld365",
+					"name": "Run The World",
+					"id": 1232949020194066400,
+					"id_str": "1232949020194066432",
+					"indices": [
+						158,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BV4kIb7PJG",
+					"expanded_url": "https://www.runtheworld.today/app/invitation/7120",
+					"display_url": "runtheworld.today/app/invitation…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314327725667049500,
+					"id_str": "1314327725667049472",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej1uGlbU4AAZdyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej1uGlbU4AAZdyF.jpg",
+					"url": "https://t.co/w23KFnSyZV",
+					"display_url": "pic.twitter.com/w23KFnSyZV",
+					"expanded_url": "https://twitter.com/lexaRaeN/status/1314327916734423040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1979,
+							"h": 1514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314327725667049500,
+					"id_str": "1314327725667049472",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej1uGlbU4AAZdyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej1uGlbU4AAZdyF.jpg",
+					"url": "https://t.co/w23KFnSyZV",
+					"display_url": "pic.twitter.com/w23KFnSyZV",
+					"expanded_url": "https://twitter.com/lexaRaeN/status/1314327916734423040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1979,
+							"h": 1514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 361,
+			"friends_count": 473,
+			"listed_count": 16,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIVE at #SDSM2020 w/ @ryankuder during Startup Month Incubator open session talking early stage funding 💸!  @SDStartupWeek @StartupSanDiego Join the convo in @RunTheWorld365 👉🏼 https://t.co/BV4kIb7PJG https://t.co/w23KFnSyZV"
+	},
+	{
+		"created_at": "Thu Oct 08 21:30:13 +0000 2020",
+		"id": 1314317197469196300,
+		"id_str": "1314317197469196289",
+		"full_text": "Build a strong foundation for your startup! #SDSM2020 is hosting an open incubator session with @techstars Anywhere's @ryankuder #TSAnywhere #givefirst Join live--starting soon! https://t.co/OQm9u54LbN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "TSAnywhere",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "givefirst",
+					"indices": [
+						141,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OQm9u54LbN",
+					"expanded_url": "http://ow.ly/bGbM50BNrSc",
+					"display_url": "ow.ly/bGbM50BNrSc",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4187,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Build a strong foundation for your startup! #SDSM2020 is hosting an open incubator session with @techstars Anywhere's @ryankuder #TSAnywhere #givefirst Join live--starting soon! https://t.co/OQm9u54LbN"
+	},
+	{
+		"created_at": "Thu Oct 08 18:40:04 +0000 2020",
+		"id": 1314274378432028700,
+		"id_str": "1314274378432028673",
+		"full_text": "Poor packaging can equal ZERO first time sales or ZERO repeat sales. What do you need to consider to successfully sell online and on the shelf? Join Emily Page in our virtual #SDSM2020 workshop--starting soon! https://t.co/RhGTWIGmjK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						175,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RhGTWIGmjK",
+					"expanded_url": "http://ow.ly/mUvK50BNrOy",
+					"display_url": "ow.ly/mUvK50BNrOy",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4187,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Poor packaging can equal ZERO first time sales or ZERO repeat sales. What do you need to consider to successfully sell online and on the shelf? Join Emily Page in our virtual #SDSM2020 workshop--starting soon! https://t.co/RhGTWIGmjK"
+	},
+	{
 		"created_at": "Wed Oct 07 23:50:03 +0000 2020",
 		"id": 1313989999310835700,
 		"id_str": "1313989999310835712",
