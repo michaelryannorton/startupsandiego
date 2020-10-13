@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 23:30:10 +0000 2020",
+		"id": 1315796936532918300,
+		"id_str": "1315796936532918273",
+		"full_text": "Pitch feedback show goes LIVE at 5! https://t.co/dxxmxWB5gY Watch real-time pitches from San Diego startups with feedback from a panel of judges @tcasandiego Celebrate San Diego's startup ecosystem with @CONNECTinSD @SDInnovCouncil #SDTogether ✨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDTogether",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						145,
+						157
+					]
+				},
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "Connect",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						203,
+						215
+					]
+				},
+				{
+					"screen_name": "SDInnovCouncil",
+					"name": "SDIC",
+					"id": 871730809895563300,
+					"id_str": "871730809895563264",
+					"indices": [
+						216,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dxxmxWB5gY",
+					"expanded_url": "http://ow.ly/dYO650BQhRL",
+					"display_url": "ow.ly/dYO650BQhRL",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pitch feedback show goes LIVE at 5! https://t.co/dxxmxWB5gY Watch real-time pitches from San Diego startups with feedback from a panel of judges @tcasandiego Celebrate San Diego's startup ecosystem with @CONNECTinSD @SDInnovCouncil #SDTogether ✨"
+	},
+	{
+		"created_at": "Mon Oct 12 19:13:08 +0000 2020",
+		"id": 1315732252748255200,
+		"id_str": "1315732252748255232",
+		"full_text": "LIVE @SDStartupWeek with @Intuit talking about the Open Source Rockstar Program &amp; how to build an #opensource program ft. @SocialAC &amp; @montes_roxio #SDSM2020 #womenintech #intuitTech https://t.co/Rw1uCYoJON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "opensource",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "SDSM2020",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "womenintech",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"text": "intuitTech",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"screen_name": "Intuit",
+					"name": "Intuit",
+					"id": 1125071,
+					"id_str": "1125071",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "SocialAC",
+					"name": "Social AC",
+					"id": 15808649,
+					"id_str": "15808649",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"screen_name": "montes_roxio",
+					"name": "Rocio Montes",
+					"id": 2545337837,
+					"id_str": "2545337837",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315732249560539100,
+					"id_str": "1315732249560539137",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EkJrgoqU4AEb-Ma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkJrgoqU4AEb-Ma.jpg",
+					"url": "https://t.co/Rw1uCYoJON",
+					"display_url": "pic.twitter.com/Rw1uCYoJON",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1315732252748255232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1972,
+							"h": 1137,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315732249560539100,
+					"id_str": "1315732249560539137",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EkJrgoqU4AEb-Ma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkJrgoqU4AEb-Ma.jpg",
+					"url": "https://t.co/Rw1uCYoJON",
+					"display_url": "pic.twitter.com/Rw1uCYoJON",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1315732252748255232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1972,
+							"h": 1137,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIVE @SDStartupWeek with @Intuit talking about the Open Source Rockstar Program &amp; how to build an #opensource program ft. @SocialAC &amp; @montes_roxio #SDSM2020 #womenintech #intuitTech https://t.co/Rw1uCYoJON"
+	},
+	{
+		"created_at": "Mon Oct 12 18:40:03 +0000 2020",
+		"id": 1315723927218516000,
+		"id_str": "1315723927218515969",
+		"full_text": "Call all tech evangelists developers! @montes_roxio and @TurboTaxAliza from @Intuit go LIVE soon in the #SDSM2020 Open Source Rockstar Program. Demystify open source, increase followers, contributors, and community impact https://t.co/jfYL87pdIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "montes_roxio",
+					"name": "Rocio Montes",
+					"id": 2545337837,
+					"id_str": "2545337837",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "TurboTaxAliza",
+					"name": "aliza carpio",
+					"id": 107215521,
+					"id_str": "107215521",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"screen_name": "Intuit",
+					"name": "Intuit",
+					"id": 1125071,
+					"id_str": "1125071",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jfYL87pdIA",
+					"expanded_url": "http://ow.ly/1ibu50BQhNg",
+					"display_url": "ow.ly/1ibu50BQhNg",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Call all tech evangelists developers! @montes_roxio and @TurboTaxAliza from @Intuit go LIVE soon in the #SDSM2020 Open Source Rockstar Program. Demystify open source, increase followers, contributors, and community impact https://t.co/jfYL87pdIA"
+	},
+	{
 		"created_at": "Fri Oct 09 22:50:02 +0000 2020",
 		"id": 1314699671516967000,
 		"id_str": "1314699671516966918",
