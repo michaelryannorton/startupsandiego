@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 23:30:18 +0000 2020",
+		"id": 1316159355394326500,
+		"id_str": "1316159355394326528",
+		"full_text": "Katy Sperry helps startups build sales teams from the ground up, amplify marketing, and plan social impact. Hear lessons she learned from building UberEATS Seattle's sales team - going LIVE at 5:  https://t.co/83FtkntVeP #SDSM2020",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						221,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83FtkntVeP",
+					"expanded_url": "http://ow.ly/CAlv50BQj3W",
+					"display_url": "ow.ly/CAlv50BQj3W",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Katy Sperry helps startups build sales teams from the ground up, amplify marketing, and plan social impact. Hear lessons she learned from building UberEATS Seattle's sales team - going LIVE at 5:  https://t.co/83FtkntVeP #SDSM2020"
+	},
+	{
+		"created_at": "Tue Oct 13 23:11:05 +0000 2020",
+		"id": 1316153501555126300,
+		"id_str": "1316154519571423234",
+		"full_text": "Proud to be leading such a #community driven organization powered by #entrepreneurs who truly embody our #givefirst @StartupSanDiego ethos! #SDSM2020 🚀✨💙 https://t.co/ALt57rewCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "community",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"text": "givefirst",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "SDSM2020",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ALt57rewCQ",
+					"expanded_url": "https://twitter.com/fredmgrier/status/1316040317641003008",
+					"display_url": "twitter.com/fredmgrier/sta…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 473,
+			"listed_count": 16,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316040317641003000,
+		"quoted_status_id_str": "1316040317641003008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ALt57rewCQ",
+			"expanded": "https://twitter.com/fredmgrier/status/1316040317641003008",
+			"display": "twitter.com/fredmgrier/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 13 15:37:17 +0000 2020",
+			"id": 1316040317641003000,
+			"id_str": "1316040317641003008",
+			"full_text": ".@StartupSanDiego has partnered up with @techstars to launch its first-ever incubator. \n\nI spoke to entrepreneur, @chrisstanchak, who is helping led the program (he's mentored startups such as @venmo and others).\n\nFull Scoop: https://t.co/pJTCZx02oQ https://t.co/uSJ1AjXjNG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							1,
+							17
+						]
+					},
+					{
+						"screen_name": "techstars",
+						"name": "Techstars",
+						"id": 14277276,
+						"id_str": "14277276",
+						"indices": [
+							40,
+							50
+						]
+					},
+					{
+						"screen_name": "chrisstanchak",
+						"name": "Chris Stanchak",
+						"id": 2136041,
+						"id_str": "2136041",
+						"indices": [
+							114,
+							128
+						]
+					},
+					{
+						"screen_name": "venmo",
+						"name": "Venmo",
+						"id": 18580938,
+						"id_str": "18580938",
+						"indices": [
+							193,
+							199
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pJTCZx02oQ",
+						"expanded_url": "https://www.sdbj.com/news/2020/oct/12/startup-san-diego-launches-incubator-early-stage-c/",
+						"display_url": "sdbj.com/news/2020/oct/…",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1316039874231763000,
+						"id_str": "1316039874231762944",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EkODSv3VgAAnjiK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkODSv3VgAAnjiK.jpg",
+						"url": "https://t.co/uSJ1AjXjNG",
+						"display_url": "pic.twitter.com/uSJ1AjXjNG",
+						"expanded_url": "https://twitter.com/fredmgrier/status/1316040317641003008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 569,
+								"h": 320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 569,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 569,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1316039874231763000,
+						"id_str": "1316039874231762944",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EkODSv3VgAAnjiK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkODSv3VgAAnjiK.jpg",
+						"url": "https://t.co/uSJ1AjXjNG",
+						"display_url": "pic.twitter.com/uSJ1AjXjNG",
+						"expanded_url": "https://twitter.com/fredmgrier/status/1316040317641003008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 569,
+								"h": 320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 569,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 569,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4775662891,
+				"id_str": "4775662891",
+				"name": "Fred Grier",
+				"screen_name": "fredmgrier",
+				"location": "San Diego",
+				"description": "Reporter covering tech, startups & venture capital Reach me at fgrier@sdbj.com for signal. Find latest work below ⬇️",
+				"url": "https://t.co/OxhsdbT8Cg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OxhsdbT8Cg",
+								"expanded_url": "http://fredgrier.com",
+								"display_url": "fredgrier.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 295,
+				"friends_count": 260,
+				"listed_count": 3,
+				"created_at": "Sun Jan 17 23:08:47 +0000 2016",
+				"favourites_count": 945,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 228,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1307738358769045504/0Ptl0SAA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307738358769045504/0Ptl0SAA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4775662891/1602538126",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud to be leading such a #community driven organization powered by #entrepreneurs who truly embody our #givefirst @StartupSanDiego ethos! #SDSM2020 🚀✨💙 https://t.co/ALt57rewCQ"
+	},
+	{
+		"created_at": "Tue Oct 13 22:00:43 +0000 2020",
+		"id": 1316136811631120400,
+		"id_str": "1316136811631120390",
+		"full_text": "Give your startup a solid 💸 foundation. @VentureConnect from @SVB_Financial is about to talk banking for founders. Live at 4 PM: https://t.co/SZ8rIFveq2 #SDSM2020",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VentureConnect",
+					"name": "Eric Otterson",
+					"id": 111437784,
+					"id_str": "111437784",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"screen_name": "SVB_Financial",
+					"name": "Silicon Valley Bank",
+					"id": 17396865,
+					"id_str": "17396865",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SZ8rIFveq2",
+					"expanded_url": "http://ow.ly/nj8250BQj0W",
+					"display_url": "ow.ly/nj8250BQj0W",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Give your startup a solid 💸 foundation. @VentureConnect from @SVB_Financial is about to talk banking for founders. Live at 4 PM: https://t.co/SZ8rIFveq2 #SDSM2020"
+	},
+	{
+		"created_at": "Tue Oct 13 21:30:17 +0000 2020",
+		"id": 1316129156187422700,
+		"id_str": "1316129156187422726",
+		"full_text": "Worried about legal for your #startup? @pillsburylaw has you covered. Join #SDSM2020 open startup incubator session - starts at 3 PM https://t.co/WqwmaojiRm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "SDSM2020",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pillsburylaw",
+					"name": "PillsburyLaw",
+					"id": 17823729,
+					"id_str": "17823729",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WqwmaojiRm",
+					"expanded_url": "http://ow.ly/AECs50BQiX5",
+					"display_url": "ow.ly/AECs50BQiX5",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Worried about legal for your #startup? @pillsburylaw has you covered. Join #SDSM2020 open startup incubator session - starts at 3 PM https://t.co/WqwmaojiRm"
+	},
+	{
+		"created_at": "Tue Oct 13 18:30:25 +0000 2020",
+		"id": 1316083890122039300,
+		"id_str": "1316083890122039299",
+		"full_text": "Building a virtual team? Thomas Underhill from @HashiCorp will bust common myths about virtual teams and show you how build productive teams in a strong culture. #SDSM2020 Live at Noon: https://t.co/x6pGZGdi54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HashiCorp",
+					"name": "HashiCorp",
+					"id": 290900886,
+					"id_str": "290900886",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x6pGZGdi54",
+					"expanded_url": "http://ow.ly/SKWA50BQiUt",
+					"display_url": "ow.ly/SKWA50BQiUt",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 2368,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Building a virtual team? Thomas Underhill from @HashiCorp will bust common myths about virtual teams and show you how build productive teams in a strong culture. #SDSM2020 Live at Noon: https://t.co/x6pGZGdi54"
+	},
+	{
 		"created_at": "Mon Oct 12 23:30:10 +0000 2020",
 		"id": 1315796936532918300,
 		"id_str": "1315796936532918273",
