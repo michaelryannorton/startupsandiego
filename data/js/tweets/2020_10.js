@@ -1,6 +1,819 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 23:00:23 +0000 2020",
+		"id": 1320862871304216600,
+		"id_str": "1320862871304216576",
+		"full_text": "#SDSM2020 Pitch Competition - Final Week! Watch real-time pitches from #sandiego startups. Feedback from @tcasandiego judges. Celebrate San Diego's startup ecosystem with @CONNECTinSD @SDInnovCouncil #SDTogether ✨LIVE at 5: https://t.co/9Iut8JUNgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "SDTogether",
+					"indices": [
+						200,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "Connect",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"screen_name": "SDInnovCouncil",
+					"name": "SDIC",
+					"id": 871730809895563300,
+					"id_str": "871730809895563264",
+					"indices": [
+						184,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Iut8JUNgq",
+					"expanded_url": "http://ow.ly/iPYS50C2X0N",
+					"display_url": "ow.ly/iPYS50C2X0N",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4197,
+			"friends_count": 2366,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SDSM2020 Pitch Competition - Final Week! Watch real-time pitches from #sandiego startups. Feedback from @tcasandiego judges. Celebrate San Diego's startup ecosystem with @CONNECTinSD @SDInnovCouncil #SDTogether ✨LIVE at 5: https://t.co/9Iut8JUNgq"
+	},
+	{
+		"created_at": "Mon Oct 26 18:00:29 +0000 2020",
+		"id": 1320787400432488400,
+		"id_str": "1320787400432488448",
+		"full_text": "Customers leave products because they can't figure out how to use them! Ali Amin from @Intuit will show you how to use AI to drive your customer journey. Deliver better customer experience &amp; increase retention. #SDSM2020 at Noon: https://t.co/symzMlMyTe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						215,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intuit",
+					"name": "Intuit",
+					"id": 1125071,
+					"id_str": "1125071",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/symzMlMyTe",
+					"expanded_url": "http://ow.ly/5zG950C2WTX",
+					"display_url": "ow.ly/5zG950C2WTX",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4197,
+			"friends_count": 2366,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Customers leave products because they can't figure out how to use them! Ali Amin from @Intuit will show you how to use AI to drive your customer journey. Deliver better customer experience &amp; increase retention. #SDSM2020 at Noon: https://t.co/symzMlMyTe"
+	},
+	{
+		"created_at": "Mon Oct 26 17:00:24 +0000 2020",
+		"id": 1320772276502077400,
+		"id_str": "1320772276502077440",
+		"full_text": "The value of diversity is trending now more than ever. Be a part of the conversation &amp; implement in your #startup. #SDSM2020 panel ft. @Kimbra727, @shassaine , @jharps007, @sparklinglala LIVE at 11: https://t.co/vbvIGGXjKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "SDSM2020",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kimbra727",
+					"name": "Kimbra",
+					"id": 482228602,
+					"id_str": "482228602",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"screen_name": "shassaine",
+					"name": "Sarah Hassaine",
+					"id": 65725249,
+					"id_str": "65725249",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"screen_name": "jharps007",
+					"name": "Jayton Harps",
+					"id": 713367814363562000,
+					"id_str": "713367814363561984",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"screen_name": "sparklinglala",
+					"name": "Lala Castro Castaneda",
+					"id": 117914254,
+					"id_str": "117914254",
+					"indices": [
+						176,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vbvIGGXjKg",
+					"expanded_url": "https://www.runtheworld.today/app/join-webinar-attendee?meetingid=20388",
+					"display_url": "runtheworld.today/app/join-webin…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4197,
+			"friends_count": 2366,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The value of diversity is trending now more than ever. Be a part of the conversation &amp; implement in your #startup. #SDSM2020 panel ft. @Kimbra727, @shassaine , @jharps007, @sparklinglala LIVE at 11: https://t.co/vbvIGGXjKg"
+	},
+	{
+		"created_at": "Mon Oct 26 16:39:05 +0000 2020",
+		"id": 1319722341081862100,
+		"id_str": "1320766913585336322",
+		"full_text": "Join me Mon 11am at #SDSM2020 @SDStartupWeek @StartupSanDiego for \"Why #Diversity On Teams Matter\". #TechWomen at @Intuit \n\nTix: https://t.co/mPhVXdTWkD\n\n@WWCodesandiego @AthenaSanDiego @GirlsInTechSD @NSBE @LatinaGeeks @women_designing @SDTWS2020 @WomensVS @NAWBOSanDiego https://t.co/AEAcbVdsAZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"text": "Diversity",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "TechWomen",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "Intuit",
+					"name": "Intuit",
+					"id": 1125071,
+					"id_str": "1125071",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"screen_name": "WWCodesandiego",
+					"name": "WWCodeSanDiego",
+					"id": 801082960179040300,
+					"id_str": "801082960179040256",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "AthenaSanDiego",
+					"name": "Athena",
+					"id": 413449531,
+					"id_str": "413449531",
+					"indices": [
+						170,
+						185
+					]
+				},
+				{
+					"screen_name": "GirlsInTechSD",
+					"name": "Girls In Tech SD",
+					"id": 887073681897279500,
+					"id_str": "887073681897279488",
+					"indices": [
+						186,
+						200
+					]
+				},
+				{
+					"screen_name": "NSBE",
+					"name": "NSBE",
+					"id": 18419094,
+					"id_str": "18419094",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"screen_name": "LatinaGeeks",
+					"name": "#LatinaGeeks",
+					"id": 627801443,
+					"id_str": "627801443",
+					"indices": [
+						207,
+						219
+					]
+				},
+				{
+					"screen_name": "women_designing",
+					"name": "Designing Women",
+					"id": 2893979970,
+					"id_str": "2893979970",
+					"indices": [
+						220,
+						236
+					]
+				},
+				{
+					"screen_name": "SDTWS2020",
+					"name": "SDTechWomensSummit",
+					"id": 1207438177822052400,
+					"id_str": "1207438177822052353",
+					"indices": [
+						237,
+						247
+					]
+				},
+				{
+					"screen_name": "WomensVS",
+					"name": "Women’s Venture Summit",
+					"id": 1162092637702111200,
+					"id_str": "1162092637702111232",
+					"indices": [
+						248,
+						257
+					]
+				},
+				{
+					"screen_name": "NAWBOSanDiego",
+					"name": "NAWBO San Diego",
+					"id": 54778728,
+					"id_str": "54778728",
+					"indices": [
+						258,
+						272
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mPhVXdTWkD",
+					"expanded_url": "https://lnkd.in/gVs3qHN",
+					"display_url": "lnkd.in/gVs3qHN",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319721520311103500,
+					"id_str": "1319721520311103489",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/ElCXuwSU8AErQQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElCXuwSU8AErQQ6.jpg",
+					"url": "https://t.co/AEAcbVdsAZ",
+					"display_url": "pic.twitter.com/AEAcbVdsAZ",
+					"expanded_url": "https://twitter.com/Kimbra727/status/1319722341081862144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319721520311103500,
+					"id_str": "1319721520311103489",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/ElCXuwSU8AErQQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElCXuwSU8AErQQ6.jpg",
+					"url": "https://t.co/AEAcbVdsAZ",
+					"display_url": "pic.twitter.com/AEAcbVdsAZ",
+					"expanded_url": "https://twitter.com/Kimbra727/status/1319722341081862144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 482228602,
+			"id_str": "482228602",
+			"name": "Kimbra",
+			"screen_name": "Kimbra727",
+			"location": "San Diego, CA",
+			"description": "Sr. Program Manager, Tech Women at @Intuit. Founding Member @sdtws2020 , Auntie, Foodie, Wino, 🌎 Traveler 🧳 #TWI at https://t.co/R9mkGq1wGV",
+			"url": "https://t.co/v5EXB13HA5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v5EXB13HA5",
+							"expanded_url": "https://www.linkedin.com/in/kimbrabrookstein",
+							"display_url": "linkedin.com/in/kimbrabrook…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R9mkGq1wGV",
+							"expanded_url": "http://intuit.com",
+							"display_url": "intuit.com",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 621,
+			"friends_count": 1238,
+			"listed_count": 16,
+			"created_at": "Fri Feb 03 17:30:42 +0000 2012",
+			"favourites_count": 2893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232884283104055297/1UDoXcBV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232884283104055297/1UDoXcBV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/482228602/1582777494",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join me Mon 11am at #SDSM2020 @SDStartupWeek @StartupSanDiego for \"Why #Diversity On Teams Matter\". #TechWomen at @Intuit \n\nTix: https://t.co/mPhVXdTWkD\n\n@WWCodesandiego @AthenaSanDiego @GirlsInTechSD @NSBE @LatinaGeeks @women_designing @SDTWS2020 @WomensVS @NAWBOSanDiego https://t.co/AEAcbVdsAZ"
+	},
+	{
 		"created_at": "Fri Oct 23 22:30:11 +0000 2020",
 		"id": 1319768105342652400,
 		"id_str": "1319768105342652416",
