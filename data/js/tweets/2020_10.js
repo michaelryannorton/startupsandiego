@@ -1,6 +1,1508 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 23:43:44 +0000 2020",
+		"id": 1322323251981394000,
+		"id_str": "1322323331157266433",
+		"full_text": "\"Social impact is, at its heart, doing right by the community.\" -Barry Givens @DreamMaven, talking social impact entrepreneurship with Scot Chisholm, @classy  in the @StartupSanDiego #SDSM2020 finale - LIVE Now https://t.co/sewXTtV80n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						183,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DreamMaven",
+					"name": "Barry Givens",
+					"id": 26153436,
+					"id_str": "26153436",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"screen_name": "classy",
+					"name": "Classy",
+					"id": 15818883,
+					"id_str": "15818883",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						166,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sewXTtV80n",
+					"expanded_url": "http://ow.ly/VNJj50C7Kpb",
+					"display_url": "ow.ly/VNJj50C7Kpb",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2339762118,
+			"id_str": "2339762118",
+			"name": "San Diego Startup Month",
+			"screen_name": "SDStartupWeek",
+			"location": "San Diego, CA",
+			"description": "One month, celebrating innovation. October 1 - 30 2020 #SDSM2020 #StartupSD #SDtech - Join us year round at @StartupSanDiego",
+			"url": "https://t.co/apBzLwX7RV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4869,
+			"friends_count": 2331,
+			"listed_count": 158,
+			"created_at": "Wed Feb 12 04:53:19 +0000 2014",
+			"favourites_count": 3185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309554513171243009/1R0DWaj9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309554513171243009/1R0DWaj9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339762118/1599626578",
+			"profile_link_color": "45C3F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Social impact is, at its heart, doing right by the community.\" -Barry Givens @DreamMaven, talking social impact entrepreneurship with Scot Chisholm, @classy  in the @StartupSanDiego #SDSM2020 finale - LIVE Now https://t.co/sewXTtV80n"
+	},
+	{
+		"created_at": "Fri Oct 30 23:12:59 +0000 2020",
+		"id": 1322289704298008600,
+		"id_str": "1322315594780299264",
+		"full_text": "Be sure to visit the IGE Booth at the @StartupSanDiego's Virtual Halloween Party and Expo Night! We hope to see you soon!\n\nGet your tickets now: https://t.co/XrK36p3bqo \n\n#SDSM2020 https://t.co/B7CdqhfXZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						171,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XrK36p3bqo",
+					"expanded_url": "https://lnkd.in/eNaYN2b",
+					"display_url": "lnkd.in/eNaYN2b",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322289701823406000,
+					"id_str": "1322289701823406087",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Elm3el9XYAcqA49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elm3el9XYAcqA49.jpg",
+					"url": "https://t.co/B7CdqhfXZ0",
+					"display_url": "pic.twitter.com/B7CdqhfXZ0",
+					"expanded_url": "https://twitter.com/ige_ucsd/status/1322289704298008577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1851,
+							"h": 1417,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 919,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322289701823406000,
+					"id_str": "1322289701823406087",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Elm3el9XYAcqA49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elm3el9XYAcqA49.jpg",
+					"url": "https://t.co/B7CdqhfXZ0",
+					"display_url": "pic.twitter.com/B7CdqhfXZ0",
+					"expanded_url": "https://twitter.com/ige_ucsd/status/1322289704298008577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1851,
+							"h": 1417,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 919,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 499276833,
+			"id_str": "499276833",
+			"name": "IGE",
+			"screen_name": "ige_ucsd",
+			"location": "UC San Diego",
+			"description": "The Institute for the Global Entrepreneur is a collaboration between Jacobs School of Engineering and Rady School of Management.",
+			"url": "https://t.co/IvhiSqc9uX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IvhiSqc9uX",
+							"expanded_url": "http://ige.ucsd.edu",
+							"display_url": "ige.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468,
+			"friends_count": 251,
+			"listed_count": 24,
+			"created_at": "Tue Feb 21 23:37:13 +0000 2012",
+			"favourites_count": 222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921074463168389120/-XCwuKFr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921074463168389120/-XCwuKFr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/499276833/1508450873",
+			"profile_link_color": "224076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be sure to visit the IGE Booth at the @StartupSanDiego's Virtual Halloween Party and Expo Night! We hope to see you soon!\n\nGet your tickets now: https://t.co/XrK36p3bqo \n\n#SDSM2020 https://t.co/B7CdqhfXZ0"
+	},
+	{
+		"created_at": "Fri Oct 30 23:12:55 +0000 2020",
+		"id": 1322277827211788300,
+		"id_str": "1322315575440400388",
+		"full_text": "Getting ready for the #SDSM2020 finale! Join us today @4:00pm pst. Kicking off w/ a fireside chat w/ @classy CEO Scot Chisholm, panel on Startup + National Security Tech, networking + a virtual beach party🎃. @StartupSanDiego #startups @VirBELA1 #sandeigo https://t.co/375fyt5exQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						225,
+						234
+					]
+				},
+				{
+					"text": "sandeigo",
+					"indices": [
+						245,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "4",
+					"name": "A 4-loop",
+					"id": 898384208,
+					"id_str": "898384208",
+					"indices": [
+						54,
+						56
+					]
+				},
+				{
+					"screen_name": "classy",
+					"name": "Classy",
+					"id": 15818883,
+					"id_str": "15818883",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						208,
+						224
+					]
+				},
+				{
+					"screen_name": "VirBELA1",
+					"name": "VirBELA",
+					"id": 1431687014,
+					"id_str": "1431687014",
+					"indices": [
+						235,
+						244
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322275991834697700,
+					"id_str": "1322275991834697728",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+					"url": "https://t.co/375fyt5exQ",
+					"display_url": "pic.twitter.com/375fyt5exQ",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1322277827211788288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 833,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322275991834697700,
+					"id_str": "1322275991834697728",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+					"url": "https://t.co/375fyt5exQ",
+					"display_url": "pic.twitter.com/375fyt5exQ",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1322277827211788288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 833,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26823079,
+			"id_str": "26823079",
+			"name": "Caitlin Wege",
+			"screen_name": "Thinkleap",
+			"location": "San Diego, CA",
+			"description": "Mom + activist + Investor / President @tcasandiego / Partner, MooDoos / Board Member @eco_center @startupsandiego @neuralace CPL-Glasshouse Pharma",
+			"url": "https://t.co/flwrdspsL4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/flwrdspsL4",
+							"expanded_url": "http://www.moodooslp.com",
+							"display_url": "moodooslp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 211,
+			"listed_count": 3,
+			"created_at": "Thu Mar 26 19:13:10 +0000 2009",
+			"favourites_count": 1398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225131446676803585/oISoAwya_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225131446676803585/oISoAwya_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26823079/1582840020",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Getting ready for the #SDSM2020 finale! Join us today @4:00pm pst. Kicking off w/ a fireside chat w/ @classy CEO Scot Chisholm, panel on Startup + National Security Tech, networking + a virtual beach party🎃. @StartupSanDiego #startups @VirBELA1 #sandeigo https://t.co/375fyt5exQ"
+	},
+	{
+		"created_at": "Fri Oct 30 23:12:52 +0000 2020",
+		"id": 1322279346325782500,
+		"id_str": "1322315565466296320",
+		"full_text": "It’s been an incredible #SDSM2020 journey! Join @StartupSanDiego tonight 4:00 - 6:30 pm for the stellar finale 🚀✨💙 https://t.co/abhwRLypV0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/abhwRLypV0",
+					"expanded_url": "https://twitter.com/thinkleap/status/1322277827211788288",
+					"display_url": "twitter.com/thinkleap/stat…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 369,
+			"friends_count": 472,
+			"listed_count": 16,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322277827211788300,
+		"quoted_status_id_str": "1322277827211788288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/abhwRLypV0",
+			"expanded": "https://twitter.com/thinkleap/status/1322277827211788288",
+			"display": "twitter.com/thinkleap/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 30 20:42:55 +0000 2020",
+			"id": 1322277827211788300,
+			"id_str": "1322277827211788288",
+			"full_text": "Getting ready for the #SDSM2020 finale! Join us today @4:00pm pst. Kicking off w/ a fireside chat w/ @classy CEO Scot Chisholm, panel on Startup + National Security Tech, networking + a virtual beach party🎃. @StartupSanDiego #startups @VirBELA1 #sandeigo https://t.co/375fyt5exQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SDSM2020",
+						"indices": [
+							22,
+							31
+						]
+					},
+					{
+						"text": "startups",
+						"indices": [
+							225,
+							234
+						]
+					},
+					{
+						"text": "sandeigo",
+						"indices": [
+							245,
+							254
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "4",
+						"name": "A 4-loop",
+						"id": 898384208,
+						"id_str": "898384208",
+						"indices": [
+							54,
+							56
+						]
+					},
+					{
+						"screen_name": "classy",
+						"name": "Classy",
+						"id": 15818883,
+						"id_str": "15818883",
+						"indices": [
+							101,
+							108
+						]
+					},
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							208,
+							224
+						]
+					},
+					{
+						"screen_name": "VirBELA1",
+						"name": "VirBELA",
+						"id": 1431687014,
+						"id_str": "1431687014",
+						"indices": [
+							235,
+							244
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1322275991834697700,
+						"id_str": "1322275991834697728",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+						"url": "https://t.co/375fyt5exQ",
+						"display_url": "pic.twitter.com/375fyt5exQ",
+						"expanded_url": "https://twitter.com/Thinkleap/status/1322277827211788288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 828,
+								"h": 833,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 676,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 833,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1322275991834697700,
+						"id_str": "1322275991834697728",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElmrAkRVoAAcF1M.jpg",
+						"url": "https://t.co/375fyt5exQ",
+						"display_url": "pic.twitter.com/375fyt5exQ",
+						"expanded_url": "https://twitter.com/Thinkleap/status/1322277827211788288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 828,
+								"h": 833,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 676,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 833,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26823079,
+				"id_str": "26823079",
+				"name": "Caitlin Wege",
+				"screen_name": "Thinkleap",
+				"location": "San Diego, CA",
+				"description": "Mom + activist + Investor / President @tcasandiego / Partner, MooDoos / Board Member @eco_center @startupsandiego @neuralace CPL-Glasshouse Pharma",
+				"url": "https://t.co/flwrdspsL4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/flwrdspsL4",
+								"expanded_url": "http://www.moodooslp.com",
+								"display_url": "moodooslp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217,
+				"friends_count": 211,
+				"listed_count": 3,
+				"created_at": "Thu Mar 26 19:13:10 +0000 2009",
+				"favourites_count": 1398,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 235,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225131446676803585/oISoAwya_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225131446676803585/oISoAwya_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26823079/1582840020",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s been an incredible #SDSM2020 journey! Join @StartupSanDiego tonight 4:00 - 6:30 pm for the stellar finale 🚀✨💙 https://t.co/abhwRLypV0"
+	},
+	{
+		"created_at": "Fri Oct 30 23:00:36 +0000 2020",
+		"id": 1322312478840234000,
+		"id_str": "1322312478840233984",
+		"full_text": "Startups &amp; National Security – How to Make a Difference from San Diego 🚀 Our last #SDSM2020 panel discussion goes LIVE soon. Talking all things tech &amp; security. Featuring leaders from AWS, USG, defense investors, &amp; founders. https://t.co/HsOVRcmhVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HsOVRcmhVO",
+					"expanded_url": "http://ow.ly/cuHZ50C5KHz",
+					"display_url": "ow.ly/cuHZ50C5KHz",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4210,
+			"friends_count": 2367,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Startups &amp; National Security – How to Make a Difference from San Diego 🚀 Our last #SDSM2020 panel discussion goes LIVE soon. Talking all things tech &amp; security. Featuring leaders from AWS, USG, defense investors, &amp; founders. https://t.co/HsOVRcmhVO"
+	},
+	{
+		"created_at": "Fri Oct 30 22:00:44 +0000 2020",
+		"id": 1322297409381302300,
+		"id_str": "1322297409381302274",
+		"full_text": "🚀 Profit + Purpose = Social Impact 🦄 Join Scot Chisholm, @classy and @DreamMaven from @CoxEnterprises as they talk how embracing community consciousness is the only way to do business #SocialEnterprise #SDSM2020 🔥 Starting soon: https://t.co/I4a7FBv94u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialEnterprise",
+					"indices": [
+						184,
+						201
+					]
+				},
+				{
+					"text": "SDSM2020",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "classy",
+					"name": "Classy",
+					"id": 15818883,
+					"id_str": "15818883",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"screen_name": "DreamMaven",
+					"name": "Barry Givens",
+					"id": 26153436,
+					"id_str": "26153436",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "CoxEnterprises",
+					"name": "Cox Enterprises",
+					"id": 28126953,
+					"id_str": "28126953",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I4a7FBv94u",
+					"expanded_url": "http://ow.ly/nTi050C5KGu",
+					"display_url": "ow.ly/nTi050C5KGu",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4210,
+			"friends_count": 2367,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚀 Profit + Purpose = Social Impact 🦄 Join Scot Chisholm, @classy and @DreamMaven from @CoxEnterprises as they talk how embracing community consciousness is the only way to do business #SocialEnterprise #SDSM2020 🔥 Starting soon: https://t.co/I4a7FBv94u"
+	},
+	{
+		"created_at": "Fri Oct 30 21:00:48 +0000 2020",
+		"id": 1322282326873833500,
+		"id_str": "1322282326873833472",
+		"full_text": "Coming soon... #SDSM2020 FINALE - Join us in our event platform, Run the World, from 4 PM - 5:45 PM.  After, we'll hop into the virtual world of @VirBELA1 for an expo + Halloween virtual beach party from 5:45 PM - 6:30 PM. https://t.co/irqMKHSWPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VirBELA1",
+					"name": "VirBELA",
+					"id": 1431687014,
+					"id_str": "1431687014",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/irqMKHSWPQ",
+					"expanded_url": "http://ow.ly/ZWpb50C5KFk",
+					"display_url": "ow.ly/ZWpb50C5KFk",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4210,
+			"friends_count": 2367,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming soon... #SDSM2020 FINALE - Join us in our event platform, Run the World, from 4 PM - 5:45 PM.  After, we'll hop into the virtual world of @VirBELA1 for an expo + Halloween virtual beach party from 5:45 PM - 6:30 PM. https://t.co/irqMKHSWPQ"
+	},
+	{
+		"created_at": "Fri Oct 30 18:02:19 +0000 2020",
+		"id": 1322237412655927300,
+		"id_str": "1322237412655927300",
+		"full_text": "Join the first #SDSM2020 Demo Day! 🔥 We are thrilled to highlight our 10 incubator founders. Connect and grow the #sandiego ecosystem... and maybe raise a round of funding. Going LIVE at NOON: https://t.co/7XQU5j03DC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2020",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7XQU5j03DC",
+					"expanded_url": "http://ow.ly/oVm850C5KEB",
+					"display_url": "ow.ly/oVm850C5KEB",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4210,
+			"friends_count": 2367,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join the first #SDSM2020 Demo Day! 🔥 We are thrilled to highlight our 10 incubator founders. Connect and grow the #sandiego ecosystem... and maybe raise a round of funding. Going LIVE at NOON: https://t.co/7XQU5j03DC"
+	},
+	{
 		"created_at": "Thu Oct 29 23:00:26 +0000 2020",
 		"id": 1321950047190343700,
 		"id_str": "1321950047190343681",
