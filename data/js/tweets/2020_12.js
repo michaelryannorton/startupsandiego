@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 01:20:06 +0000 2020",
+		"id": 1333832944633299000,
+		"id_str": "1333943996884901888",
+		"full_text": "Join us @StartupSanDiego in continuing to support #StartupSD #entrepreneurs 🚀💙🙏🏻 https://t.co/4kBJTtB5im",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						8,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4kBJTtB5im",
+					"expanded_url": "https://twitter.com/startupsandiego/status/1333818874458943492",
+					"display_url": "twitter.com/startupsandieg…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 369,
+			"friends_count": 472,
+			"listed_count": 16,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1333818874458943500,
+		"quoted_status_id_str": "1333818874458943492",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4kBJTtB5im",
+			"expanded": "https://twitter.com/startupsandiego/status/1333818874458943492",
+			"display": "twitter.com/startupsandieg…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 01 17:02:55 +0000 2020",
+			"id": 1333818874458943500,
+			"id_str": "1333818874458943492",
+			"full_text": "#GivingTuesday is a global celebration of generosity + a way to give back locally! Let's come together for our San Diego startups. This week, when you contribute $10, we will send you a special gift. Visit https://t.co/7dhw1FUPe8 --THANK YOU! https://t.co/bCiHOw5wIW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GivingTuesday",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7dhw1FUPe8",
+						"expanded_url": "http://startupsd.org/donate",
+						"display_url": "startupsd.org/donate",
+						"indices": [
+							206,
+							229
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1333818872378617900,
+						"id_str": "1333818872378617861",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/EoKtMpLW8AUknmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoKtMpLW8AUknmV.jpg",
+						"url": "https://t.co/bCiHOw5wIW",
+						"display_url": "pic.twitter.com/bCiHOw5wIW",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1333818874458943492/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1333818872378617900,
+						"id_str": "1333818872378617861",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/EoKtMpLW8AUknmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoKtMpLW8AUknmV.jpg",
+						"url": "https://t.co/bCiHOw5wIW",
+						"display_url": "pic.twitter.com/bCiHOw5wIW",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1333818874458943492/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/apBzLwX7RV",
+								"expanded_url": "http://sandiegostartupweek.com",
+								"display_url": "sandiegostartupweek.com",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4235,
+				"friends_count": 2363,
+				"listed_count": 116,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3892,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us @StartupSanDiego in continuing to support #StartupSD #entrepreneurs 🚀💙🙏🏻 https://t.co/4kBJTtB5im"
+	},
+	{
 		"created_at": "Tue Dec 01 23:00:58 +0000 2020",
 		"id": 1333908982759633000,
 		"id_str": "1333908982759632896",
