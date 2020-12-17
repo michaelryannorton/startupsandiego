@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 19:01:03 +0000 2020",
+		"id": 1339284421304864800,
+		"id_str": "1339284421304864768",
+		"full_text": "TiE’s Young Entrepreneur Academy is an incubator for #highschoolentrepreneurs - think mini-MBA + “Shark Tank” for #teenstartupfounders. @Tea_SoCal 's global program uses a proven curriculum to help #youngentrepreneurs. Apply for 2021: https://t.co/4UwrppxUMH #teenfounders",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highschoolentrepreneurs",
+					"indices": [
+						53,
+						77
+					]
+				},
+				{
+					"text": "teenstartupfounders",
+					"indices": [
+						114,
+						134
+					]
+				},
+				{
+					"text": "youngentrepreneurs",
+					"indices": [
+						198,
+						217
+					]
+				},
+				{
+					"text": "teenfounders",
+					"indices": [
+						259,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tea_SoCal",
+					"name": "The Entrepreneur Academy",
+					"id": 1263933641350017000,
+					"id_str": "1263933641350017024",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4UwrppxUMH",
+					"expanded_url": "http://ow.ly/xVPK50CLfbO",
+					"display_url": "ow.ly/xVPK50CLfbO",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4249,
+			"friends_count": 2363,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TiE’s Young Entrepreneur Academy is an incubator for #highschoolentrepreneurs - think mini-MBA + “Shark Tank” for #teenstartupfounders. @Tea_SoCal 's global program uses a proven curriculum to help #youngentrepreneurs. Apply for 2021: https://t.co/4UwrppxUMH #teenfounders"
+	},
+	{
 		"created_at": "Mon Dec 14 19:06:39 +0000 2020",
 		"id": 1338561057208610800,
 		"id_str": "1338561057208610816",
