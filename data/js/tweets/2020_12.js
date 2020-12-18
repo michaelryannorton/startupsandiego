@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 20:21:05 +0000 2020",
+		"id": 1339397457042497500,
+		"id_str": "1339666952743251968",
+		"full_text": "Congrats on a fantastic term as Chair of @StartupSanDiego but you're not going anywhere  @NealBloom. Now you're officially Chair Emeritus! https://t.co/x6sbL1p8wm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						41,
+						57
+					]
+				},
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x6sbL1p8wm",
+					"expanded_url": "https://twitter.com/NealBloom/status/1339023767910019072",
+					"display_url": "twitter.com/NealBloom/stat…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 576387800,
+			"id_str": "576387800",
+			"name": "Lauree Miller Sahba",
+			"screen_name": "LSahba",
+			"location": "San Diego, CA",
+			"description": "San Diego Regional EDC's COO; @SDLifeChanging promoter; Voices for Children foster kids champion; Bar Method disciple; SDSU Aztec hoops fan! @sdregionaledc",
+			"url": "http://t.co/0dfC3hZv9h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0dfC3hZv9h",
+							"expanded_url": "http://www.sandiegobusiness.org",
+							"display_url": "sandiegobusiness.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 642,
+			"friends_count": 469,
+			"listed_count": 18,
+			"created_at": "Thu May 10 16:51:04 +0000 2012",
+			"favourites_count": 6760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321828478463873025/QZBPn1nS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321828478463873025/QZBPn1nS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/576387800/1607481666",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1339023767910019000,
+		"quoted_status_id_str": "1339023767910019072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x6sbL1p8wm",
+			"expanded": "https://twitter.com/NealBloom/status/1339023767910019072",
+			"display": "twitter.com/NealBloom/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 16 01:45:18 +0000 2020",
+			"id": 1339023767910019000,
+			"id_str": "1339023767910019072",
+			"full_text": "It's my last board meeting as Chair of Startup San Diego and I am so honored to be amongst tremendous community leaders who are continuing to push us forward to help entrepreneurs start and talent build our great companies. So many happy tears to see wher…https://t.co/Z0T6goH6SJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Z0T6goH6SJ",
+						"expanded_url": "https://lnkd.in/g-esKtx",
+						"display_url": "lnkd.in/g-esKtx",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19131762,
+				"id_str": "19131762",
+				"name": "Neal Bloom",
+				"screen_name": "NealBloom",
+				"location": "SD/OC, CA",
+				"description": "“You don’t have to be great to start but you do have to start to be great” @freshbrewedtech @tacosandtechpod @OCfreshsqueezed @startupsandiego",
+				"url": "https://t.co/sbmE5iLnTA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sbmE5iLnTA",
+								"expanded_url": "http://freshbrewedtech.com",
+								"display_url": "freshbrewedtech.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2485,
+				"friends_count": 285,
+				"listed_count": 193,
+				"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+				"favourites_count": 18202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15003,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326571209660624899/8sor3Yhe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326571209660624899/8sor3Yhe_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats on a fantastic term as Chair of @StartupSanDiego but you're not going anywhere  @NealBloom. Now you're officially Chair Emeritus! https://t.co/x6sbL1p8wm"
+	},
+	{
 		"created_at": "Wed Dec 16 19:01:03 +0000 2020",
 		"id": 1339284421304864800,
 		"id_str": "1339284421304864768",
