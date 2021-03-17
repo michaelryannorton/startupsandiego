@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 16 18:30:07 +0000 2021",
+		"id": 1371891546820317200,
+		"id_str": "1371891546820317194",
+		"full_text": "Startup San Diego published our 1st ever impact report! Join us as we invest in cultivating the next San Diego-based unicorns and the workforce that will fuel their growth. See the full report: https://t.co/5B7cxAptQI https://t.co/2PazZeWe2H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5B7cxAptQI",
+					"expanded_url": "https://startupsd.org/impact-report/",
+					"display_url": "startupsd.org/impact-report/",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1371891543116816400,
+					"id_str": "1371891543116816387",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnwFwHXIAMbC83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnwFwHXIAMbC83.jpg",
+					"url": "https://t.co/2PazZeWe2H",
+					"display_url": "pic.twitter.com/2PazZeWe2H",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1371891546820317194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1371891543116816400,
+					"id_str": "1371891543116816387",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnwFwHXIAMbC83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnwFwHXIAMbC83.jpg",
+					"url": "https://t.co/2PazZeWe2H",
+					"display_url": "pic.twitter.com/2PazZeWe2H",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1371891546820317194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1371891541900398600,
+					"id_str": "1371891541900398602",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnwFrlWEAoBQ46.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnwFrlWEAoBQ46.jpg",
+					"url": "https://t.co/2PazZeWe2H",
+					"display_url": "pic.twitter.com/2PazZeWe2H",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1371891546820317194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1371891541694906400,
+					"id_str": "1371891541694906373",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnwFq0WgAUMiCY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnwFq0WgAUMiCY.jpg",
+					"url": "https://t.co/2PazZeWe2H",
+					"display_url": "pic.twitter.com/2PazZeWe2H",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1371891546820317194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1371891542445731800,
+					"id_str": "1371891542445731843",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnwFtnXMAMSoyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnwFtnXMAMSoyY.jpg",
+					"url": "https://t.co/2PazZeWe2H",
+					"display_url": "pic.twitter.com/2PazZeWe2H",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1371891546820317194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4334,
+			"friends_count": 2338,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Startup San Diego published our 1st ever impact report! Join us as we invest in cultivating the next San Diego-based unicorns and the workforce that will fuel their growth. See the full report: https://t.co/5B7cxAptQI https://t.co/2PazZeWe2H"
+	},
+	{
 		"created_at": "Mon Mar 08 19:10:02 +0000 2021",
 		"id": 1369002489304014800,
 		"id_str": "1369002489304014855",
@@ -175,7 +477,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "Gaby Dow 🇺🇸✨",
 			"screen_name": "GabrielaDow",
 			"location": "San Diego, CA☀️ she. her. ella",
-			"description": "💃🏻✨ Mom, wife, biz ....... 🚀✨ Changing the world ....... 😎✨ #Startups #SmartCities ....... 👩🏻‍💻✨ #InfrastructureInnovation ....... 🌏 ✨ #Wanderlust",
+			"description": "💃🏻✨ Mom, wife, biz ....... 🚀✨ Changing the world ....... 😎✨ #Startups #SmartCities ....... 👩🏻💻✨ #InfrastructureInnovation ....... 🌏 ✨ #Wanderlust",
 			"url": "https://t.co/JaAreC7w22",
 			"entities": {
 				"url": {
@@ -457,7 +759,7 @@ Grailbird.data.tweets_2021_03 =
 				"name": "Gaby Dow 🇺🇸✨",
 				"screen_name": "GabrielaDow",
 				"location": "San Diego, CA☀️ she. her. ella",
-				"description": "💃🏻✨ Mom, wife, biz ....... 🚀✨ Changing the world ....... 😎✨ #Startups #SmartCities ....... 👩🏻‍💻✨ #InfrastructureInnovation ....... 🌏 ✨ #Wanderlust",
+				"description": "💃🏻✨ Mom, wife, biz ....... 🚀✨ Changing the world ....... 😎✨ #Startups #SmartCities ....... 👩🏻💻✨ #InfrastructureInnovation ....... 🌏 ✨ #Wanderlust",
 				"url": "https://t.co/JaAreC7w22",
 				"entities": {
 					"url": {
@@ -763,7 +1065,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "Gaby Dow 🇺🇸✨",
 			"screen_name": "GabrielaDow",
 			"location": "San Diego, CA☀️ she. her. ella",
-			"description": "💃🏻✨ Mom, wife, biz ....... 🚀✨ Changing the world ....... 😎✨ #Startups #SmartCities ....... 👩🏻‍💻✨ #InfrastructureInnovation ....... 🌏 ✨ #Wanderlust",
+			"description": "💃🏻✨ Mom, wife, biz ....... 🚀✨ Changing the world ....... 😎✨ #Startups #SmartCities ....... 👩🏻💻✨ #InfrastructureInnovation ....... 🌏 ✨ #Wanderlust",
 			"url": "https://t.co/JaAreC7w22",
 			"entities": {
 				"url": {
