@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 18 17:01:45 +0000 2021",
+		"id": 1372594083328311300,
+		"id_str": "1372594083328311308",
+		"full_text": "Apply today to pitch LIVE to renowned host of #SharkTank and pitch judge— @kevinolearytv. Enter to win $30K in cash prizes and $40K in value prizes from @startengine sponsors.\n \nApply by March 19th and watch the show on March 26th 9AM PT. Register here: https://t.co/NiAOdKTahX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SharkTank",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevinolearytv",
+					"name": "Kevin O'Leary aka Mr. Wonderful",
+					"id": 32002507,
+					"id_str": "32002507",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"screen_name": "startengine",
+					"name": "startengine",
+					"id": 268300972,
+					"id_str": "268300972",
+					"indices": [
+						153,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NiAOdKTahX",
+					"expanded_url": "http://ow.ly/iilG50DZucl",
+					"display_url": "ow.ly/iilG50DZucl",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4338,
+			"friends_count": 2338,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apply today to pitch LIVE to renowned host of #SharkTank and pitch judge— @kevinolearytv. Enter to win $30K in cash prizes and $40K in value prizes from @startengine sponsors.\n \nApply by March 19th and watch the show on March 26th 9AM PT. Register here: https://t.co/NiAOdKTahX"
+	},
+	{
 		"created_at": "Wed Mar 17 17:01:19 +0000 2021",
 		"id": 1372231585844576300,
 		"id_str": "1372231585844576258",
