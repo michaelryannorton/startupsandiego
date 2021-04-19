@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 18 19:42:17 +0000 2021",
+		"id": 1381951713691586600,
+		"id_str": "1383868506043686912",
+		"full_text": "First heard about Ethereum in 2017 when I went to @StartupSanDiego",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						50,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17551830,
+			"id_str": "17551830",
+			"name": "MikΞ Damazo",
+			"screen_name": "mikedamazo",
+			"location": "Japan",
+			"description": "#bitcoin ",
+			"url": "https://t.co/QgyWA6M2Jq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QgyWA6M2Jq",
+							"expanded_url": "https://xn--xl8hy5a2q.y.at",
+							"display_url": "🏀🖼🚀.y.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 285,
+			"listed_count": 5,
+			"created_at": "Sat Nov 22 03:14:14 +0000 2008",
+			"favourites_count": 4158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196082785108119553/uh1IKxau_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196082785108119553/uh1IKxau_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17551830/1569649803",
+			"profile_link_color": "030303",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "F00C0C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "First heard about Ethereum in 2017 when I went to @StartupSanDiego"
+	},
+	{
 		"created_at": "Tue Apr 13 19:29:54 +0000 2021",
 		"id": 1382053448745631700,
 		"id_str": "1382053448745631744",
