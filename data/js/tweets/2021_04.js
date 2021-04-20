@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 17:30:17 +0000 2021",
+		"id": 1384197673712902100,
+		"id_str": "1384197673712902147",
+		"full_text": "@SDRegionalEDC is hosting a virtual town hall series, underwritten by @SDGE that explores employer-led and market-driven best practices.\n\nApril 20th join @sdworkforce as we hear from experts in employee ownership.  Learn more: https://t.co/8xpuiZMJE8 https://t.co/gFvhRn5NnS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDRegionalEDC",
+					"name": "San Diego Regional EDC",
+					"id": 113474827,
+					"id_str": "113474827",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SDGE",
+					"name": "SDG&E",
+					"id": 34968878,
+					"id_str": "34968878",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"screen_name": "sdworkforce",
+					"name": "Workforce Partnership",
+					"id": 2168793970,
+					"id_str": "2168793970",
+					"indices": [
+						154,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8xpuiZMJE8",
+					"expanded_url": "http://ow.ly/Jiyx50ErCRP",
+					"display_url": "ow.ly/Jiyx50ErCRP",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1384197670265245700,
+					"id_str": "1384197670265245697",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EzWocoMVUAEoaXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzWocoMVUAEoaXe.jpg",
+					"url": "https://t.co/gFvhRn5NnS",
+					"display_url": "pic.twitter.com/gFvhRn5NnS",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1384197673712902147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384197670265245700,
+					"id_str": "1384197670265245697",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EzWocoMVUAEoaXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzWocoMVUAEoaXe.jpg",
+					"url": "https://t.co/gFvhRn5NnS",
+					"display_url": "pic.twitter.com/gFvhRn5NnS",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1384197673712902147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 113474827,
+		"in_reply_to_user_id_str": "113474827",
+		"in_reply_to_screen_name": "SDRegionalEDC",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4357,
+			"friends_count": 2334,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SDRegionalEDC is hosting a virtual town hall series, underwritten by @SDGE that explores employer-led and market-driven best practices.\n\nApril 20th join @sdworkforce as we hear from experts in employee ownership.  Learn more: https://t.co/8xpuiZMJE8 https://t.co/gFvhRn5NnS"
+	},
+	{
 		"created_at": "Sun Apr 18 19:42:17 +0000 2021",
 		"id": 1381951713691586600,
 		"id_str": "1383868506043686912",
