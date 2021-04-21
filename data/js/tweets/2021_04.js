@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 20 17:01:12 +0000 2021",
+		"id": 1384552741805174800,
+		"id_str": "1384552741805174786",
+		"full_text": "Join @GA and seasoned product managers to learn the valuable lessons they learned along the way in their role. Experts will delve into their most valuable tips, tricks, and best kept secrets of the product community. We hope you can join! \n\nSign up: https://t.co/sNpE5f6qeX https://t.co/PCsOwii6bJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GA",
+					"name": "General Assembly",
+					"id": 170393291,
+					"id_str": "170393291",
+					"indices": [
+						5,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sNpE5f6qeX",
+					"expanded_url": "http://ow.ly/gBzW50ErCNl",
+					"display_url": "ow.ly/gBzW50ErCNl",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1384552740584632300,
+					"id_str": "1384552740584632321",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EzbrYcNXMAEVVXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzbrYcNXMAEVVXh.jpg",
+					"url": "https://t.co/PCsOwii6bJ",
+					"display_url": "pic.twitter.com/PCsOwii6bJ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1384552741805174786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384552740584632300,
+					"id_str": "1384552740584632321",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EzbrYcNXMAEVVXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzbrYcNXMAEVVXh.jpg",
+					"url": "https://t.co/PCsOwii6bJ",
+					"display_url": "pic.twitter.com/PCsOwii6bJ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1384552741805174786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4359,
+			"friends_count": 2334,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @GA and seasoned product managers to learn the valuable lessons they learned along the way in their role. Experts will delve into their most valuable tips, tricks, and best kept secrets of the product community. We hope you can join! \n\nSign up: https://t.co/sNpE5f6qeX https://t.co/PCsOwii6bJ"
+	},
+	{
 		"created_at": "Mon Apr 19 17:30:17 +0000 2021",
 		"id": 1384197673712902100,
 		"id_str": "1384197673712902147",
