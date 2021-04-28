@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 27 18:00:26 +0000 2021",
+		"id": 1387104363328442400,
+		"id_str": "1387104363328442375",
+		"full_text": "@cleantechsd invites you for an in-depth conversation about the future of San Diego’s transportation electrification with a panel of grid operations experts, builders, mobility specialists, and clean innovators.  April 28, 8:30 AM – 10:00 AM PDT\n\nRegister: https://t.co/CDOGvuLYpD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cleantechsd",
+					"name": "Cleantech San Diego",
+					"id": 19193200,
+					"id_str": "19193200",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CDOGvuLYpD",
+					"expanded_url": "http://ow.ly/i57q50EyTgW",
+					"display_url": "ow.ly/i57q50EyTgW",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 19193200,
+		"in_reply_to_user_id_str": "19193200",
+		"in_reply_to_screen_name": "cleantechsd",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4355,
+			"friends_count": 2333,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cleantechsd invites you for an in-depth conversation about the future of San Diego’s transportation electrification with a panel of grid operations experts, builders, mobility specialists, and clean innovators.  April 28, 8:30 AM – 10:00 AM PDT\n\nRegister: https://t.co/CDOGvuLYpD"
+	},
+	{
+		"created_at": "Tue Apr 27 17:00:26 +0000 2021",
+		"id": 1387089267655069700,
+		"id_str": "1387089267655069698",
+		"full_text": "Want to learn why incredible companies like @cotopaxi, @BOMBAS and  @EILEENFISHERNY all become B Corporations? In this panel, @GA speakers will discuss what a B Corp is. Happening TODAY at  4 – 5 pm MDT. \n\nRegister: https://t.co/RsJVqQHLHE https://t.co/ztjBVK60vq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cotopaxi",
+					"name": "Cotopaxi",
+					"id": 1711051310,
+					"id_str": "1711051310",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"screen_name": "BOMBAS",
+					"name": "Bombas",
+					"id": 357940576,
+					"id_str": "357940576",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"screen_name": "EILEENFISHERNY",
+					"name": "EILEEN FISHER",
+					"id": 47073715,
+					"id_str": "47073715",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "GA",
+					"name": "General Assembly",
+					"id": 170393291,
+					"id_str": "170393291",
+					"indices": [
+						126,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RsJVqQHLHE",
+					"expanded_url": "https://generalassemb.ly/education/earth-day-series-the-b-corporation-revolution/san-diego/186926",
+					"display_url": "generalassemb.ly/education/eart…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387089265818054700,
+					"id_str": "1387089265818054667",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_uVpDXsAsJ556.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_uVpDXsAsJ556.jpg",
+					"url": "https://t.co/ztjBVK60vq",
+					"display_url": "pic.twitter.com/ztjBVK60vq",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1387089267655069698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387089265818054700,
+					"id_str": "1387089265818054667",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_uVpDXsAsJ556.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_uVpDXsAsJ556.jpg",
+					"url": "https://t.co/ztjBVK60vq",
+					"display_url": "pic.twitter.com/ztjBVK60vq",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1387089267655069698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4355,
+			"friends_count": 2333,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to learn why incredible companies like @cotopaxi, @BOMBAS and  @EILEENFISHERNY all become B Corporations? In this panel, @GA speakers will discuss what a B Corp is. Happening TODAY at  4 – 5 pm MDT. \n\nRegister: https://t.co/RsJVqQHLHE https://t.co/ztjBVK60vq"
+	},
+	{
 		"created_at": "Tue Apr 20 17:01:12 +0000 2021",
 		"id": 1384552741805174800,
 		"id_str": "1384552741805174786",
