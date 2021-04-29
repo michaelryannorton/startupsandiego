@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 28 17:00:58 +0000 2021",
+		"id": 1387451786294923300,
+		"id_str": "1387451786294923264",
+		"full_text": "@SanDiegoAirport is seeking companies in the autonomous technology space to participate in a 1-year collaborative program. Find solutions for autonomous transit options for passengers and employees. Connect by April 30th.\n\nLearn more &amp; Apply: https://t.co/VfJAHmhB6w https://t.co/2Psr7d7ggg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SanDiegoAirport",
+					"name": "San Diego Airport",
+					"id": 45013924,
+					"id_str": "45013924",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VfJAHmhB6w",
+					"expanded_url": "https://www.f6s.com/1-yearprogram-autonomoustechnology/apply",
+					"display_url": "f6s.com/1-yearprogram-…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387451785334464500,
+					"id_str": "1387451785334464515",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/E0E4DDfXoAM30BF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0E4DDfXoAM30BF.jpg",
+					"url": "https://t.co/2Psr7d7ggg",
+					"display_url": "pic.twitter.com/2Psr7d7ggg",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1387451786294923264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 402,
+							"h": 223,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 402,
+							"h": 223,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 402,
+							"h": 223,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387451785334464500,
+					"id_str": "1387451785334464515",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/E0E4DDfXoAM30BF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0E4DDfXoAM30BF.jpg",
+					"url": "https://t.co/2Psr7d7ggg",
+					"display_url": "pic.twitter.com/2Psr7d7ggg",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1387451786294923264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 402,
+							"h": 223,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 402,
+							"h": 223,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 402,
+							"h": 223,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 45013924,
+		"in_reply_to_user_id_str": "45013924",
+		"in_reply_to_screen_name": "SanDiegoAirport",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM20 The full month of October: https://t.co/apBzLwX7RV #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/apBzLwX7RV",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4359,
+			"friends_count": 2332,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1599627051",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SanDiegoAirport is seeking companies in the autonomous technology space to participate in a 1-year collaborative program. Find solutions for autonomous transit options for passengers and employees. Connect by April 30th.\n\nLearn more &amp; Apply: https://t.co/VfJAHmhB6w https://t.co/2Psr7d7ggg"
+	},
+	{
 		"created_at": "Tue Apr 27 18:00:26 +0000 2021",
 		"id": 1387104363328442400,
 		"id_str": "1387104363328442375",
