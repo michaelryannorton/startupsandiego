@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 03:48:06 +0000 2021",
+		"id": 1392278115095781400,
+		"id_str": "1392325685893419012",
+		"full_text": "Hey hey San Diego! Convergence is coming. May 24-28, @StartupSanDiego is bringing together students and entrepreneurs to learn from America's Finest Startup Community™️. Check the agenda and get your tickets here. Use my code KUDER50 for 50% off. https://t.co/8Ix3UG9GFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						53,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Ix3UG9GFU",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6837002,
+			"id_str": "6837002",
+			"name": "Ryan Kuder",
+			"screen_name": "ryankuder",
+			"location": "Slam Diego, CA",
+			"description": "Managing Director, @Techstars Anywhere. Hoya. @StartupSanDiego. Fan of @akuder, my kids, fish tacos, the @Padres, and people who build.\n\nFired up. Ready to go.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6920,
+			"friends_count": 3740,
+			"listed_count": 410,
+			"created_at": "Fri Jun 15 16:05:55 +0000 2007",
+			"favourites_count": 8646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "180C12",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1327423330706620416/AOYTGNSG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327423330706620416/AOYTGNSG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6837002/1516464745",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FECC80",
+			"profile_sidebar_fill_color": "120108",
+			"profile_text_color": "7D333A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey hey San Diego! Convergence is coming. May 24-28, @StartupSanDiego is bringing together students and entrepreneurs to learn from America's Finest Startup Community™️. Check the agenda and get your tickets here. Use my code KUDER50 for 50% off. https://t.co/8Ix3UG9GFU"
+	},
+	{
 		"created_at": "Wed May 05 16:10:06 +0000 2021",
 		"id": 1389975701785235500,
 		"id_str": "1389975701785235457",
