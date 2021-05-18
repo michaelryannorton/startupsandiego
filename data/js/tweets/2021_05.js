@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 20:12:59 +0000 2021",
+		"id": 1394385478644818000,
+		"id_str": "1394385478644817923",
+		"full_text": "We'd love to help 50 students (or more!) attend #Convergence at no cost... and we are more than halfway there. Can you help? Donate a ticket to a student today!\n\nhttps://t.co/DdUbeHJeCA https://t.co/WuGUYon9ok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdUbeHJeCA",
+					"expanded_url": "https://linktr.ee/startupsandiego",
+					"display_url": "linktr.ee/startupsandiego",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394385475830493200,
+					"id_str": "1394385475830493185",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E1naM9bXMAEOdq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1naM9bXMAEOdq1.jpg",
+					"url": "https://t.co/WuGUYon9ok",
+					"display_url": "pic.twitter.com/WuGUYon9ok",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1394385478644817923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394385475830493200,
+					"id_str": "1394385475830493185",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E1naM9bXMAEOdq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1naM9bXMAEOdq1.jpg",
+					"url": "https://t.co/WuGUYon9ok",
+					"display_url": "pic.twitter.com/WuGUYon9ok",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1394385478644817923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 2335,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'd love to help 50 students (or more!) attend #Convergence at no cost... and we are more than halfway there. Can you help? Donate a ticket to a student today!\n\nhttps://t.co/DdUbeHJeCA https://t.co/WuGUYon9ok"
+	},
+	{
+		"created_at": "Mon May 17 20:09:42 +0000 2021",
+		"id": 1392899197100249000,
+		"id_str": "1394384654615068682",
+		"full_text": "Join us from May 24-28 for @StartupSanDiego's CONVERGENCE 2021 virtual conference 🚀 Interact with experts to help you launch your startup, connect with mentors, break into the tech industry or find your big idea 💡\n\n🎟️: Use code \"i7830\" for 30% off ⬇️\nhttps://t.co/sbgQTdIOSd https://t.co/0PsSmjJ05t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sbgQTdIOSd",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392899194810163200,
+					"id_str": "1392899194810163215",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E1SScBKWYA8rftP.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1SScBKWYA8rftP.png",
+					"url": "https://t.co/0PsSmjJ05t",
+					"display_url": "pic.twitter.com/0PsSmjJ05t",
+					"expanded_url": "https://twitter.com/Innovate_78/status/1392899197100249092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392899194810163200,
+					"id_str": "1392899194810163215",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E1SScBKWYA8rftP.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1SScBKWYA8rftP.png",
+					"url": "https://t.co/0PsSmjJ05t",
+					"display_url": "pic.twitter.com/0PsSmjJ05t",
+					"expanded_url": "https://twitter.com/Innovate_78/status/1392899197100249092/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3063174003,
+			"id_str": "3063174003",
+			"name": "Innovate78",
+			"screen_name": "Innovate_78",
+			"location": "North County, San Diego",
+			"description": "Innovate78 supports the business ecosystem of San Diego's 78 Corridor by elevating the region’s reputation and assisting businesses as they evolve.",
+			"url": "https://t.co/WEIW2gjlJ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WEIW2gjlJ0",
+							"expanded_url": "http://innovate78.com",
+							"display_url": "innovate78.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1791,
+			"friends_count": 965,
+			"listed_count": 50,
+			"created_at": "Wed Feb 25 20:22:26 +0000 2015",
+			"favourites_count": 2674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1316824327367483392/HXYxUzCK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316824327367483392/HXYxUzCK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3063174003/1602790360",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us from May 24-28 for @StartupSanDiego's CONVERGENCE 2021 virtual conference 🚀 Interact with experts to help you launch your startup, connect with mentors, break into the tech industry or find your big idea 💡\n\n🎟️: Use code \"i7830\" for 30% off ⬇️\nhttps://t.co/sbgQTdIOSd https://t.co/0PsSmjJ05t"
+	},
+	{
 		"created_at": "Fri May 14 01:58:03 +0000 2021",
 		"id": 1393013592790769700,
 		"id_str": "1393022765272231941",
