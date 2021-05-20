@@ -1,6 +1,688 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 19 16:55:03 +0000 2021",
+		"id": 1395060443480313900,
+		"id_str": "1395060443480313859",
+		"full_text": "Next week we'll be having the kick-off for #Convergence2021, we're so excited to host students, entrepreneurs, founders and bring the San Diego community together!  Buy tickets and learn more: https://t.co/DdUbeHJeCA https://t.co/aXzgZe4Xom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						43,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdUbeHJeCA",
+					"expanded_url": "https://linktr.ee/startupsandiego",
+					"display_url": "linktr.ee/startupsandiego",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395060441655746600,
+					"id_str": "1395060441655746564",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/E1xAFJEXIAQhLEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1xAFJEXIAQhLEU.jpg",
+					"url": "https://t.co/aXzgZe4Xom",
+					"display_url": "pic.twitter.com/aXzgZe4Xom",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395060443480313859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395060441655746600,
+					"id_str": "1395060441655746564",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/E1xAFJEXIAQhLEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1xAFJEXIAQhLEU.jpg",
+					"url": "https://t.co/aXzgZe4Xom",
+					"display_url": "pic.twitter.com/aXzgZe4Xom",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395060443480313859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4364,
+			"friends_count": 2335,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next week we'll be having the kick-off for #Convergence2021, we're so excited to host students, entrepreneurs, founders and bring the San Diego community together!  Buy tickets and learn more: https://t.co/DdUbeHJeCA https://t.co/aXzgZe4Xom"
+	},
+	{
+		"created_at": "Wed May 19 16:32:52 +0000 2021",
+		"id": 1394434653130395600,
+		"id_str": "1395054861612376065",
+		"full_text": "Hiring? Drop your roles here for @StartupSanDiego  Convergence attendees to see and apply https://t.co/oHcOuOh2yu\nDon't have tickets to Convergence yet? Buy here for May 24-28 https://t.co/vS5otOnQdc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oHcOuOh2yu",
+					"expanded_url": "https://lnkd.in/gQhG5eB",
+					"display_url": "lnkd.in/gQhG5eB",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/vS5otOnQdc",
+					"expanded_url": "https://lnkd.in/gAHQQ6z",
+					"display_url": "lnkd.in/gAHQQ6z",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19131762,
+			"id_str": "19131762",
+			"name": "Neal Bloom 🎩",
+			"screen_name": "NealBloom",
+			"location": "San Diego, CA",
+			"description": "Entrepreneur, investor, community builder, friend. Storytelling @risingtideptr 💧@tacosandtechpod 🌮 @freshbrewedtech 🍊@OCFreshSqueezed #sdtechos",
+			"url": "https://t.co/m6fMx6ty0d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6fMx6ty0d",
+							"expanded_url": "http://interlock.capital",
+							"display_url": "interlock.capital",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2743,
+			"friends_count": 297,
+			"listed_count": 195,
+			"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+			"favourites_count": 20101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369004677082226688/mXBGAZ0d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369004677082226688/mXBGAZ0d_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hiring? Drop your roles here for @StartupSanDiego  Convergence attendees to see and apply https://t.co/oHcOuOh2yu\nDon't have tickets to Convergence yet? Buy here for May 24-28 https://t.co/vS5otOnQdc"
+	},
+	{
+		"created_at": "Wed May 19 16:32:48 +0000 2021",
+		"id": 1394645454789300200,
+		"id_str": "1395054845120421892",
+		"full_text": "Convergence is a 5-day event hosted by @StartupSanDiego bringing together the innovation ecosystem with the next generation of founders and the tech workforce that will be driving startup growth. Running the week of May 24th, use code TCA30 at checkout!\nhttps://t.co/LZziZvwD9h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						39,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LZziZvwD9h",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893178238679236600,
+			"id_str": "893178238679236612",
+			"name": "Tech Coast Angels SD",
+			"screen_name": "tcasandiego",
+			"location": "San Diego, CA",
+			"description": "TCA has been fueling innovative entrepreneurs in SoCal since 1997. San Diego is the largest @techcoastangels chapter with 200+ members investing $10M+ / year.",
+			"url": "https://t.co/v57J55gP2u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v57J55gP2u",
+							"expanded_url": "http://www.tcasandiego.com",
+							"display_url": "tcasandiego.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361,
+			"friends_count": 750,
+			"listed_count": 15,
+			"created_at": "Thu Aug 03 18:34:21 +0000 2017",
+			"favourites_count": 630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893178238679236612/1527737947",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Convergence is a 5-day event hosted by @StartupSanDiego bringing together the innovation ecosystem with the next generation of founders and the tech workforce that will be driving startup growth. Running the week of May 24th, use code TCA30 at checkout!\nhttps://t.co/LZziZvwD9h"
+	},
+	{
+		"created_at": "Wed May 19 16:32:42 +0000 2021",
+		"id": 1394669294563233800,
+		"id_str": "1395054821502300161",
+		"full_text": "The @StartupSanDiego Convergence is bringing together our region’s next-generation founders &amp; #tech workforce with the local #innovation ecosystem🚀\n\n#Students &amp; #entrepreneurs, come meet the startup community virtually from May 24-28.\n\nGet your tickets: https://t.co/UMWWQZx5Hh https://t.co/SmjPc4w41L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tech",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "innovation",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "Students",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						169,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UMWWQZx5Hh",
+					"expanded_url": "http://ow.ly/AmD750EOVBQ",
+					"display_url": "ow.ly/AmD750EOVBQ",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394669292881387500,
+					"id_str": "1394669292881387526",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/E1rcVSVXIAYNRdt.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1rcVSVXIAYNRdt.png",
+					"url": "https://t.co/SmjPc4w41L",
+					"display_url": "pic.twitter.com/SmjPc4w41L",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1394669294563233797/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 872,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 872,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394669292881387500,
+					"id_str": "1394669292881387526",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/E1rcVSVXIAYNRdt.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1rcVSVXIAYNRdt.png",
+					"url": "https://t.co/SmjPc4w41L",
+					"display_url": "pic.twitter.com/SmjPc4w41L",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1394669294563233797/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 872,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 872,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2424103860,
+			"id_str": "2424103860",
+			"name": "Carlsbad Innovation & Economic Development",
+			"screen_name": "Carlsbadbiz",
+			"location": "Carlsbad, CA",
+			"description": "Official account of the @carlsbadcagov Office of Innovation & Economic Development. #LifeInAction\n                \nTerms of Service: https://t.co/bEhxdbpJ4t",
+			"url": "https://t.co/Way8N0Lsda",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Way8N0Lsda",
+							"expanded_url": "https://carlsbadlifeinaction.com/",
+							"display_url": "carlsbadlifeinaction.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bEhxdbpJ4t",
+							"expanded_url": "http://carlsbadca.gov/news/tos.asp",
+							"display_url": "carlsbadca.gov/news/tos.asp",
+							"indices": [
+								133,
+								156
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 1479,
+			"listed_count": 36,
+			"created_at": "Wed Apr 02 17:14:57 +0000 2014",
+			"favourites_count": 3268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "40A0BB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2424103860/1595460969",
+			"profile_link_color": "0A9CBD",
+			"profile_sidebar_border_color": "FE8171",
+			"profile_sidebar_fill_color": "FDAEA2",
+			"profile_text_color": "DFD1D2",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @StartupSanDiego Convergence is bringing together our region’s next-generation founders &amp; #tech workforce with the local #innovation ecosystem🚀\n\n#Students &amp; #entrepreneurs, come meet the startup community virtually from May 24-28.\n\nGet your tickets: https://t.co/UMWWQZx5Hh https://t.co/SmjPc4w41L"
+	},
+	{
 		"created_at": "Mon May 17 20:12:59 +0000 2021",
 		"id": 1394385478644818000,
 		"id_str": "1394385478644817923",
