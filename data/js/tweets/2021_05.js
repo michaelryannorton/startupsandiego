@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 21:11:57 +0000 2021",
+		"id": 1395485485661884400,
+		"id_str": "1395487481445847047",
+		"full_text": "Join @StartupSanDiego for #Convergence2021 on May 24 - 28! Experience 5 days of opportunities to connect with entrepreneurs, find a mentor, or grow your startup. \n\nRegister and learn more ⬇️ \nhttps://t.co/rPqjNmwzlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						26,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						5,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rPqjNmwzlY",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 821480201808814100,
+			"id_str": "821480201808814080",
+			"name": "San Diego: Life. Changing.",
+			"screen_name": "SDlifechanging",
+			"location": "San Diego ☀️ ",
+			"description": "More innovation, more impact, more ways to live life on your terms. Welcome to San Diego: Life. Changing. ☀️ #SDlifechanging",
+			"url": "https://t.co/6vdn7Y23wl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6vdn7Y23wl",
+							"expanded_url": "https://sandiegolifechanging.org/",
+							"display_url": "sandiegolifechanging.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1685,
+			"friends_count": 384,
+			"listed_count": 20,
+			"created_at": "Tue Jan 17 22:11:57 +0000 2017",
+			"favourites_count": 3195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021811418457243649/RPBW0Hr6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021811418457243649/RPBW0Hr6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/821480201808814080/1584672885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @StartupSanDiego for #Convergence2021 on May 24 - 28! Experience 5 days of opportunities to connect with entrepreneurs, find a mentor, or grow your startup. \n\nRegister and learn more ⬇️ \nhttps://t.co/rPqjNmwzlY"
+	},
+	{
+		"created_at": "Thu May 20 21:11:33 +0000 2021",
+		"id": 1395414229264466000,
+		"id_str": "1395487382963515395",
+		"full_text": "Join us from May 24-28 for @StartupSanDiego's #Convergence2021 virtual conference 🚀 Interact with experts to help you launch your startup, connect with mentors, break into the tech industry or find your next big idea 💡\n🎟️: Use code \"i7830\" for 30% off ⬇️ https://t.co/MJVhdSYkIG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						46,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MJVhdSYkIG",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395411513083580446",
+					"display_url": "twitter.com/StartupSanDieg…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3063174003,
+			"id_str": "3063174003",
+			"name": "Innovate78",
+			"screen_name": "Innovate_78",
+			"location": "North County, San Diego",
+			"description": "Innovate78 supports the business ecosystem of San Diego's 78 Corridor by elevating the region’s reputation and assisting businesses as they evolve.",
+			"url": "https://t.co/WEIW2gjlJ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WEIW2gjlJ0",
+							"expanded_url": "http://innovate78.com",
+							"display_url": "innovate78.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1789,
+			"friends_count": 967,
+			"listed_count": 50,
+			"created_at": "Wed Feb 25 20:22:26 +0000 2015",
+			"favourites_count": 2683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1316824327367483392/HXYxUzCK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316824327367483392/HXYxUzCK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3063174003/1602790360",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395411513083580400,
+		"quoted_status_id_str": "1395411513083580446",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MJVhdSYkIG",
+			"expanded": "https://twitter.com/StartupSanDiego/status/1395411513083580446",
+			"display": "twitter.com/StartupSanDieg…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 20 16:10:04 +0000 2021",
+			"id": 1395411513083580400,
+			"id_str": "1395411513083580446",
+			"full_text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩‍💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Convergence2021",
+						"indices": [
+							19,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gositeinc",
+						"name": "GoSite",
+						"id": 2864222033,
+						"id_str": "2864222033",
+						"indices": [
+							223,
+							233
+						]
+					},
+					{
+						"screen_name": "MaryFainBrandt",
+						"name": "Mary Fain Brandt",
+						"id": 2372669606,
+						"id_str": "2372669606",
+						"indices": [
+							257,
+							272
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1395411511271637000,
+						"id_str": "1395411511271636993",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+						"url": "https://t.co/kunwFlRz3E",
+						"display_url": "pic.twitter.com/kunwFlRz3E",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1395411513083580446/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1395411511271637000,
+						"id_str": "1395411511271636993",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+						"url": "https://t.co/kunwFlRz3E",
+						"display_url": "pic.twitter.com/kunwFlRz3E",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1395411513083580446/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jPPXmjGszk",
+								"expanded_url": "http://linktr.ee/startupsandiego",
+								"display_url": "linktr.ee/startupsandiego",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4362,
+				"friends_count": 2336,
+				"listed_count": 117,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3964,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us from May 24-28 for @StartupSanDiego's #Convergence2021 virtual conference 🚀 Interact with experts to help you launch your startup, connect with mentors, break into the tech industry or find your next big idea 💡\n🎟️: Use code \"i7830\" for 30% off ⬇️ https://t.co/MJVhdSYkIG"
+	},
+	{
+		"created_at": "Thu May 20 16:10:04 +0000 2021",
+		"id": 1395411513083580400,
+		"id_str": "1395411513083580446",
+		"full_text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩‍💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gositeinc",
+					"name": "GoSite",
+					"id": 2864222033,
+					"id_str": "2864222033",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"screen_name": "MaryFainBrandt",
+					"name": "Mary Fain Brandt",
+					"id": 2372669606,
+					"id_str": "2372669606",
+					"indices": [
+						257,
+						272
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395411511271637000,
+					"id_str": "1395411511271636993",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+					"url": "https://t.co/kunwFlRz3E",
+					"display_url": "pic.twitter.com/kunwFlRz3E",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395411513083580446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395411511271637000,
+					"id_str": "1395411511271636993",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11_YFTWQAEHscq.jpg",
+					"url": "https://t.co/kunwFlRz3E",
+					"display_url": "pic.twitter.com/kunwFlRz3E",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395411513083580446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4362,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩‍💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E"
+	},
+	{
 		"created_at": "Wed May 19 16:55:03 +0000 2021",
 		"id": 1395060443480313900,
 		"id_str": "1395060443480313859",
