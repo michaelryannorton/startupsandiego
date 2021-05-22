@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 19:00:19 +0000 2021",
+		"id": 1395816743399051300,
+		"id_str": "1395816743399051264",
+		"full_text": "Our mission aligned 🔥#SanDiego #Tech companies joining us at #Convergence2021 next week: @gositeinc @trustandwill @clickup @classy @sekrofficial #Xilo 🤓...#SDtechos you joining us?! https://t.co/HIEDCslErt https://t.co/azbqELWyrS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "Tech",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "Convergence2021",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"text": "Xilo",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "SDtechos",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gositeinc",
+					"name": "GoSite",
+					"id": 2864222033,
+					"id_str": "2864222033",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"screen_name": "trustandwill",
+					"name": "Trust & Will",
+					"id": 895876199372562400,
+					"id_str": "895876199372562433",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"screen_name": "clickup",
+					"name": "ClickUp",
+					"id": 857643149149085700,
+					"id_str": "857643149149085696",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"screen_name": "classy",
+					"name": "Classy",
+					"id": 15818883,
+					"id_str": "15818883",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"screen_name": "sekrofficial",
+					"name": "Sēkr (formerly The Vanlife App)",
+					"id": 1171915706381865000,
+					"id_str": "1171915706381864960",
+					"indices": [
+						131,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HIEDCslErt",
+					"expanded_url": "http://ow.ly/mtBG50ESxH6",
+					"display_url": "ow.ly/mtBG50ESxH6",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395816741708652500,
+					"id_str": "1395816741708652547",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E17v7mUWYAMzklY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17v7mUWYAMzklY.jpg",
+					"url": "https://t.co/azbqELWyrS",
+					"display_url": "pic.twitter.com/azbqELWyrS",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395816743399051264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395816741708652500,
+					"id_str": "1395816741708652547",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E17v7mUWYAMzklY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17v7mUWYAMzklY.jpg",
+					"url": "https://t.co/azbqELWyrS",
+					"display_url": "pic.twitter.com/azbqELWyrS",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395816743399051264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4363,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our mission aligned 🔥#SanDiego #Tech companies joining us at #Convergence2021 next week: @gositeinc @trustandwill @clickup @classy @sekrofficial #Xilo 🤓...#SDtechos you joining us?! https://t.co/HIEDCslErt https://t.co/azbqELWyrS"
+	},
+	{
+		"created_at": "Fri May 21 16:15:08 +0000 2021",
+		"id": 1395775173878550500,
+		"id_str": "1395775173878550528",
+		"full_text": "Hand-selected startups from our university partners will compete in the toughest inter-college pitch competition. Who’s going to win? @UCSDbasement @ZIPLaunchpad @REC_SDMiramar? Learn more: https://t.co/HobC2s48Aq https://t.co/YRMvmBNyLv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCSDbasement",
+					"name": "The Basement",
+					"id": 2792498235,
+					"id_str": "2792498235",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "ZIPLaunchpad",
+					"name": "SDSU ZIP Launchpad",
+					"id": 2295045266,
+					"id_str": "2295045266",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"screen_name": "REC_SDMiramar",
+					"name": "REC Innovation Lab",
+					"id": 1226258205606469600,
+					"id_str": "1226258205606469634",
+					"indices": [
+						162,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HobC2s48Aq",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395775171991150600,
+					"id_str": "1395775171991150595",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E17KH7DXoAMdDTI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17KH7DXoAMdDTI.jpg",
+					"url": "https://t.co/YRMvmBNyLv",
+					"display_url": "pic.twitter.com/YRMvmBNyLv",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395775173878550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395775171991150600,
+					"id_str": "1395775171991150595",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E17KH7DXoAMdDTI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17KH7DXoAMdDTI.jpg",
+					"url": "https://t.co/YRMvmBNyLv",
+					"display_url": "pic.twitter.com/YRMvmBNyLv",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1395775173878550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4363,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hand-selected startups from our university partners will compete in the toughest inter-college pitch competition. Who’s going to win? @UCSDbasement @ZIPLaunchpad @REC_SDMiramar? Learn more: https://t.co/HobC2s48Aq https://t.co/YRMvmBNyLv"
+	},
+	{
 		"created_at": "Thu May 20 21:11:57 +0000 2021",
 		"id": 1395485485661884400,
 		"id_str": "1395487481445847047",
@@ -255,7 +763,7 @@ Grailbird.data.tweets_2021_05 =
 			"created_at": "Thu May 20 16:10:04 +0000 2021",
 			"id": 1395411513083580400,
 			"id_str": "1395411513083580446",
-			"full_text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩‍💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E",
+			"full_text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -476,7 +984,7 @@ Grailbird.data.tweets_2021_05 =
 		"created_at": "Thu May 20 16:10:04 +0000 2021",
 		"id": 1395411513083580400,
 		"id_str": "1395411513083580446",
-		"full_text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩‍💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E",
+		"full_text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -684,7 +1192,7 @@ Grailbird.data.tweets_2021_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩‍💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E"
+		"text": "Check out Day 2 of #Convergence2021 programming: May 25 TALENT INCUBATION NIGHT\n👩💻 Training, workshops, withSan Diego tech companies.\n🖇️  LinkedIn improvement sessions.\n✨ All-Day Convergence Job Matching Portal, featuring @gositeinc, @FōkcusMentoring, and @MaryFainBrandt https://t.co/kunwFlRz3E"
 	},
 	{
 		"created_at": "Wed May 19 16:55:03 +0000 2021",
