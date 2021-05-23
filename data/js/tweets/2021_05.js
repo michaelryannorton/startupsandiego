@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 22:15:39 +0000 2021",
+		"id": 1396180324619538400,
+		"id_str": "1396228288532467714",
+		"full_text": "REC student-entrepreneur Till Hartwig, co-founder &amp; CEO of @tilltheapp, will be one of the featured speakers at @StartupSanDiego's Convergence 2021!\n\nREGISTER TODAY!! Get 30% off with code REC30 at checkout! https://t.co/vMMDgOoAMX \n\n#Convergence2021 #StartupSD #RECInnovationLab https://t.co/FhFjzGILYM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						238,
+						254
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						255,
+						265
+					]
+				},
+				{
+					"text": "RECInnovationLab",
+					"indices": [
+						266,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tilltheapp",
+					"name": "till",
+					"id": 1235973908794245000,
+					"id_str": "1235973908794245121",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vMMDgOoAMX",
+					"expanded_url": "http://tinyurl.com/startupsdconvergence2021",
+					"display_url": "tinyurl.com/startupsdconve…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1396180322509893600,
+					"id_str": "1396180322509893632",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E2A6myWXsAAgmio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2A6myWXsAAgmio.jpg",
+					"url": "https://t.co/FhFjzGILYM",
+					"display_url": "pic.twitter.com/FhFjzGILYM",
+					"expanded_url": "https://twitter.com/REC_SDMiramar/status/1396180324619538432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396180322509893600,
+					"id_str": "1396180322509893632",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E2A6myWXsAAgmio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2A6myWXsAAgmio.jpg",
+					"url": "https://t.co/FhFjzGILYM",
+					"display_url": "pic.twitter.com/FhFjzGILYM",
+					"expanded_url": "https://twitter.com/REC_SDMiramar/status/1396180324619538432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1226258205606469600,
+			"id_str": "1226258205606469634",
+			"name": "REC Innovation Lab",
+			"screen_name": "REC_SDMiramar",
+			"location": "San Diego Miramar College",
+			"description": "We are a community business incubator dedicated to diversity, equity, and inclusion, and to helping founders solve problems by launching high-growth startups.",
+			"url": "https://t.co/3TfpWeC4JM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TfpWeC4JM",
+							"expanded_url": "https://recinnovationlab.com",
+							"display_url": "recinnovationlab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 51,
+			"listed_count": 2,
+			"created_at": "Sat Feb 08 21:35:27 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284958398438572033/UglF7TOf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284958398438572033/UglF7TOf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1226258205606469634/1595192931",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "REC student-entrepreneur Till Hartwig, co-founder &amp; CEO of @tilltheapp, will be one of the featured speakers at @StartupSanDiego's Convergence 2021!\n\nREGISTER TODAY!! Get 30% off with code REC30 at checkout! https://t.co/vMMDgOoAMX \n\n#Convergence2021 #StartupSD #RECInnovationLab https://t.co/FhFjzGILYM"
+	},
+	{
+		"created_at": "Sat May 22 15:55:03 +0000 2021",
+		"id": 1396132507054223400,
+		"id_str": "1396132507054223364",
+		"full_text": "MAY 27: LEARN FROM THE BEST\n \nA major factor in startup success is the ability to iterate rapidly and find product-market fit – without breaking the bank. Come learn how at Convergence 2021!\n\nGet your ticket or head to https://t.co/HobC2s48Aq https://t.co/KMUIJCxFa8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HobC2s48Aq",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1396132505154166800,
+					"id_str": "1396132505154166788",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E2APHc0XIAQmHVv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2APHc0XIAQmHVv.jpg",
+					"url": "https://t.co/KMUIJCxFa8",
+					"display_url": "pic.twitter.com/KMUIJCxFa8",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1396132507054223364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396132505154166800,
+					"id_str": "1396132505154166788",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E2APHc0XIAQmHVv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2APHc0XIAQmHVv.jpg",
+					"url": "https://t.co/KMUIJCxFa8",
+					"display_url": "pic.twitter.com/KMUIJCxFa8",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1396132507054223364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4362,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MAY 27: LEARN FROM THE BEST\n \nA major factor in startup success is the ability to iterate rapidly and find product-market fit – without breaking the bank. Come learn how at Convergence 2021!\n\nGet your ticket or head to https://t.co/HobC2s48Aq https://t.co/KMUIJCxFa8"
+	},
+	{
 		"created_at": "Fri May 21 19:00:19 +0000 2021",
 		"id": 1395816743399051300,
 		"id_str": "1395816743399051264",
