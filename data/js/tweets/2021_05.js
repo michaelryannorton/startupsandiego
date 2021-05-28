@@ -1,6 +1,1600 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 23:45:02 +0000 2021",
+		"id": 1398062723154514000,
+		"id_str": "1398062723154513920",
+		"full_text": "TONIGHT at 5 PM, join us for our first #Convergence2021 Open Office Hour! Network with Chris Staszak, CTO of @LabsBoost, ask them any questions and learn how to  interact with investors.\n\nJoin and learn more: https://t.co/HobC2s48Aq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						39,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HobC2s48Aq",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TONIGHT at 5 PM, join us for our first #Convergence2021 Open Office Hour! Network with Chris Staszak, CTO of @LabsBoost, ask them any questions and learn how to  interact with investors.\n\nJoin and learn more: https://t.co/HobC2s48Aq"
+	},
+	{
+		"created_at": "Thu May 27 23:40:02 +0000 2021",
+		"id": 1398061466155167700,
+		"id_str": "1398061466155167744",
+		"full_text": "At 5 PM, Ashleigh Ferran, CEO at In Good Company will host a workshop on LEAN #Startups. Find out how to create the best product – without breaking the bank. This session is focused on learning and iterating a lean startup.\n\nJoin: https://t.co/HobC2s48Aq\n\n#Convergence2021",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Startups",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "Convergence2021",
+					"indices": [
+						256,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HobC2s48Aq",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At 5 PM, Ashleigh Ferran, CEO at In Good Company will host a workshop on LEAN #Startups. Find out how to create the best product – without breaking the bank. This session is focused on learning and iterating a lean startup.\n\nJoin: https://t.co/HobC2s48Aq\n\n#Convergence2021"
+	},
+	{
+		"created_at": "Thu May 27 23:15:03 +0000 2021",
+		"id": 1398055176750219300,
+		"id_str": "1398055176750219264",
+		"full_text": "TONIGHT at 4:30 PM, join us for our first #Convergence2021 workshop! Learn how to get ready for investors and how to survive due diligence. Featuring Chris Staszak, CTO at @LabsBoost.  \n\nJoin and learn more: https://t.co/HobC2s48Aq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						42,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HobC2s48Aq",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TONIGHT at 4:30 PM, join us for our first #Convergence2021 workshop! Learn how to get ready for investors and how to survive due diligence. Featuring Chris Staszak, CTO at @LabsBoost.  \n\nJoin and learn more: https://t.co/HobC2s48Aq"
+	},
+	{
+		"created_at": "Thu May 27 22:29:45 +0000 2021",
+		"id": 1398026496158179300,
+		"id_str": "1398043777726550018",
+		"full_text": "It’s almost time! Our CTO Chris is hosting a workshop at this year’s #Convergence2021 hosted by @StartupSanDiego. Register for the event here: https://t.co/DOayLpG9jo https://t.co/vyT0ygkEMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2021",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DOayLpG9jo",
+					"expanded_url": "https://buff.ly/3bYR21K",
+					"display_url": "buff.ly/3bYR21K",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/vyT0ygkEMF",
+					"expanded_url": "https://twitter.com/LabsBoost/status/1398025630890041344",
+					"display_url": "twitter.com/LabsBoost/stat…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28049622,
+			"id_str": "28049622",
+			"name": "Jonathan Cogley",
+			"screen_name": "jonathancogley",
+			"location": "San Diego, CA",
+			"description": "Founder @Thycotic, helping B2B SaaS startups at @labsboost. Mentoring, angel investing, experts. Grew up in South Africa. No recruiters please.",
+			"url": "https://t.co/Oz3CpY8TgZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Oz3CpY8TgZ",
+							"expanded_url": "https://logicboostlabs.com/blog",
+							"display_url": "logicboostlabs.com/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 146,
+			"listed_count": 27,
+			"created_at": "Wed Apr 01 04:21:46 +0000 2009",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3D3D3D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229580309596798976/8ZP2zUKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229580309596798976/8ZP2zUKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28049622/1581989765",
+			"profile_link_color": "BCBCBC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BBECCC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398025630890041300,
+		"quoted_status_id_str": "1398025630890041344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vyT0ygkEMF",
+			"expanded": "https://twitter.com/LabsBoost/status/1398025630890041344",
+			"display": "twitter.com/LabsBoost/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 27 21:17:39 +0000 2021",
+			"id": 1398025630890041300,
+			"id_str": "1398025630890041344",
+			"full_text": "It’s almost time! Our CTO Chris is hosting a workshop at this year’s #Convergence2021 hosted by @StartupSanDiego. Register for the event here: https://t.co/m5AP1sRZK1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Convergence2021",
+						"indices": [
+							69,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StartupSanDiego",
+						"name": "Startup San Diego",
+						"id": 3222944604,
+						"id_str": "3222944604",
+						"indices": [
+							96,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m5AP1sRZK1",
+						"expanded_url": "https://buff.ly/3bYR21K",
+						"display_url": "buff.ly/3bYR21K",
+						"indices": [
+							143,
+							166
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1182731644119109600,
+				"id_str": "1182731644119109632",
+				"name": "LogicBoostLabs",
+				"screen_name": "LabsBoost",
+				"location": "San Diego, CA",
+				"description": "LogicBoost Labs has the expertise, experience, funding and connections to make your startup succeed.",
+				"url": "https://t.co/sTL8ldcajG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sTL8ldcajG",
+								"expanded_url": "https://logicboostlabs.com/",
+								"display_url": "logicboostlabs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33,
+				"friends_count": 11,
+				"listed_count": 0,
+				"created_at": "Fri Oct 11 18:56:49 +0000 2019",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 169,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1227843080180490240/ZSsXgOZl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227843080180490240/ZSsXgOZl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1182731644119109632/1581575578",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s almost time! Our CTO Chris is hosting a workshop at this year’s #Convergence2021 hosted by @StartupSanDiego. Register for the event here: https://t.co/DOayLpG9jo https://t.co/vyT0ygkEMF"
+	},
+	{
+		"created_at": "Thu May 27 13:21:22 +0000 2021",
+		"id": 1397653209842274300,
+		"id_str": "1397905771711631367",
+		"full_text": "@LuisitoBrooklyn @StartupSanDiego It was so great to have @WeThaPlug1 be part of our conversation! Thanks to Christiana for sharing her superpowers and expertise with our audience on #diversity #equity &amp; #inclusion 🙏🏻...the conversation was 💯!",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "diversity",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "equity",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "inclusion",
+					"indices": [
+						208,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LuisitoBrooklyn",
+					"name": "Luis Martínez, MSOL🇭🇳",
+					"id": 1062165516603686900,
+					"id_str": "1062165516603686912",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "WeThaPlug1",
+					"name": "We Tha Plug",
+					"id": 1229639906781040600,
+					"id_str": "1229639906781040640",
+					"indices": [
+						58,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1397602414555848700,
+		"in_reply_to_status_id_str": "1397602414555848705",
+		"in_reply_to_user_id": 1062165516603686900,
+		"in_reply_to_user_id_str": "1062165516603686912",
+		"in_reply_to_screen_name": "LuisitoBrooklyn",
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 482,
+			"listed_count": 16,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LuisitoBrooklyn @StartupSanDiego It was so great to have @WeThaPlug1 be part of our conversation! Thanks to Christiana for sharing her superpowers and expertise with our audience on #diversity #equity &amp; #inclusion 🙏🏻...the conversation was 💯!"
+	},
+	{
+		"created_at": "Thu May 27 13:21:19 +0000 2021",
+		"id": 1397658356987269000,
+		"id_str": "1397905759405551619",
+		"full_text": "Don’t miss tonight’s @StartupSanDiego #convergence2021 uni #pitchcompetition ft. guest judges from @LabsBoost @techstars @stellalabs_org &amp; @StateFarm Ventures 🤩! Come watch #SanDiego’s best #student #Entrepreneurs battle it out! #sdtechos 🚀👊🏻 https://t.co/enwg7RnGbR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "convergence2021",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"text": "pitchcompetition",
+					"indices": [
+						59,
+						76
+					]
+				},
+				{
+					"text": "SanDiego",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "student",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "Entrepreneurs",
+					"indices": [
+						203,
+						217
+					]
+				},
+				{
+					"text": "sdtechos",
+					"indices": [
+						233,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"screen_name": "techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"screen_name": "stellalabs_org",
+					"name": "Stella Labs",
+					"id": 1480627296,
+					"id_str": "1480627296",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"screen_name": "StateFarm",
+					"name": "State Farm",
+					"id": 15091022,
+					"id_str": "15091022",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397658354072256500,
+					"id_str": "1397658354072256513",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E2V63i_VgAEvDXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2V63i_VgAEvDXb.jpg",
+					"url": "https://t.co/enwg7RnGbR",
+					"display_url": "pic.twitter.com/enwg7RnGbR",
+					"expanded_url": "https://twitter.com/lexaRaeN/status/1397658356987269120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1503,
+							"h": 924,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397658354072256500,
+					"id_str": "1397658354072256513",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E2V63i_VgAEvDXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2V63i_VgAEvDXb.jpg",
+					"url": "https://t.co/enwg7RnGbR",
+					"display_url": "pic.twitter.com/enwg7RnGbR",
+					"expanded_url": "https://twitter.com/lexaRaeN/status/1397658356987269120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1503,
+							"h": 924,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 482,
+			"listed_count": 16,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t miss tonight’s @StartupSanDiego #convergence2021 uni #pitchcompetition ft. guest judges from @LabsBoost @techstars @stellalabs_org &amp; @StateFarm Ventures 🤩! Come watch #SanDiego’s best #student #Entrepreneurs battle it out! #sdtechos 🚀👊🏻 https://t.co/enwg7RnGbR"
+	},
+	{
+		"created_at": "Thu May 27 13:21:07 +0000 2021",
+		"id": 1397688208331133000,
+		"id_str": "1397905708570525696",
+		"full_text": "@action_ceo @chrisleemph @StartupSanDiego Haha thanks Action 😉 I don’t know about all that, but I do know that I appreciate others tuning in, learning somethings, and paying it forward. Much appreciated 🙏🏻",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "action_ceo",
+					"name": "Action.CEO",
+					"id": 1392980473484251100,
+					"id_str": "1392980473484251136",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "chrisleemph",
+					"name": "Christopher K. Lee",
+					"id": 4807137794,
+					"id_str": "4807137794",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						25,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1397610444496375800,
+		"in_reply_to_status_id_str": "1397610444496375810",
+		"in_reply_to_user_id": 1392980473484251100,
+		"in_reply_to_user_id_str": "1392980473484251136",
+		"in_reply_to_screen_name": "action_ceo",
+		"user": {
+			"id": 19131762,
+			"id_str": "19131762",
+			"name": "Neal Bloom 🎩",
+			"screen_name": "NealBloom",
+			"location": "San Diego, CA",
+			"description": "Entrepreneur, investor, community builder, friend. Storytelling @risingtideptr 💧@tacosandtechpod 🌮 @freshbrewedtech 🍊@OCFreshSqueezed #sdtechos",
+			"url": "https://t.co/m6fMx6ty0d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6fMx6ty0d",
+							"expanded_url": "http://interlock.capital",
+							"display_url": "interlock.capital",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2753,
+			"friends_count": 298,
+			"listed_count": 195,
+			"created_at": "Sun Jan 18 01:31:26 +0000 2009",
+			"favourites_count": 20242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369004677082226688/mXBGAZ0d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369004677082226688/mXBGAZ0d_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@action_ceo @chrisleemph @StartupSanDiego Haha thanks Action 😉 I don’t know about all that, but I do know that I appreciate others tuning in, learning somethings, and paying it forward. Much appreciated 🙏🏻"
+	},
+	{
+		"created_at": "Thu May 27 03:45:02 +0000 2021",
+		"id": 1397760732624830500,
+		"id_str": "1397760732624830465",
+		"full_text": "End the night with our networking , Cox-tail party, brought to you by @coxbusiness! Starting at 9 PM We provide the state-of-the-art platform to build and grow your network. Get matched with event attendees to connect for quick chats.\n\nLearn more: https://t.co/HobC2s48Aq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coxbusiness",
+					"name": "Cox Business",
+					"id": 95263650,
+					"id_str": "95263650",
+					"indices": [
+						70,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HobC2s48Aq",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "End the night with our networking , Cox-tail party, brought to you by @coxbusiness! Starting at 9 PM We provide the state-of-the-art platform to build and grow your network. Get matched with event attendees to connect for quick chats.\n\nLearn more: https://t.co/HobC2s48Aq"
+	},
+	{
+		"created_at": "Thu May 27 02:45:02 +0000 2021",
+		"id": 1397745633998540800,
+		"id_str": "1397745633998540801",
+		"full_text": "Take part of our Student and Founders fireside chat!  We’ll dig into burning student questions, challenges, and key advice by local Founders. Tonight at 8 PM!\n\nJoin and learn more: https://t.co/HobC2s48Aq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HobC2s48Aq",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4365,
+			"friends_count": 2336,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take part of our Student and Founders fireside chat!  We’ll dig into burning student questions, challenges, and key advice by local Founders. Tonight at 8 PM!\n\nJoin and learn more: https://t.co/HobC2s48Aq"
+	},
+	{
+		"created_at": "Thu May 27 01:01:40 +0000 2021",
+		"id": 1397717738030653400,
+		"id_str": "1397719620266647555",
+		"full_text": "Founder Taylor Fields from https://t.co/kGWHFyOs9F said her mentor told her to build for iteration not for perfection @StartupSanDiego #convergence2021 #coffee #mentors",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "convergence2021",
+					"indices": [
+						135,
+						151
+					]
+				},
+				{
+					"text": "coffee",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "mentors",
+					"indices": [
+						160,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						118,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kGWHFyOs9F",
+					"expanded_url": "http://nostalgiacoffeeroasters.com",
+					"display_url": "nostalgiacoffeeroasters.com",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788908238053834800,
+			"id_str": "788908238053834752",
+			"name": "Fōkcus Mentoring",
+			"screen_name": "fokcus",
+			"location": "San Diego, CA",
+			"description": "Get a qualified business mentor. Save time and money. Help your venture survive and thrive.",
+			"url": "https://t.co/jUOZhpElT0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jUOZhpElT0",
+							"expanded_url": "http://www.fokcus.com",
+							"display_url": "fokcus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88,
+			"friends_count": 453,
+			"listed_count": 0,
+			"created_at": "Thu Oct 20 01:02:35 +0000 2016",
+			"favourites_count": 386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970384679994994688/7PK6nWTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970384679994994688/7PK6nWTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788908238053834752/1605581595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Founder Taylor Fields from https://t.co/kGWHFyOs9F said her mentor told her to build for iteration not for perfection @StartupSanDiego #convergence2021 #coffee #mentors"
+	},
+	{
 		"created_at": "Wed May 26 23:45:02 +0000 2021",
 		"id": 1397700334265548800,
 		"id_str": "1397700334265548807",
@@ -2701,7 +4295,7 @@ Grailbird.data.tweets_2021_05 =
 		"created_at": "Wed May 26 03:26:13 +0000 2021",
 		"id": 1397344421671096300,
 		"id_str": "1397393609280868354",
-		"full_text": "It’s #Convergence2021 Night ✌🏻with @StartupSanDiego chatting about how to land your dream tech job ✨👩🏽‍💻with @gositeinc @trustandwill @clickup @fokcus #startupsandiego #SDtechos",
+		"full_text": "It’s #Convergence2021 Night ✌🏻with @StartupSanDiego chatting about how to land your dream tech job ✨👩🏽💻with @gositeinc @trustandwill @clickup @fokcus #startupsandiego #SDtechos",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2861,7 +4455,7 @@ Grailbird.data.tweets_2021_05 =
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
-		"text": "It’s #Convergence2021 Night ✌🏻with @StartupSanDiego chatting about how to land your dream tech job ✨👩🏽‍💻with @gositeinc @trustandwill @clickup @fokcus #startupsandiego #SDtechos"
+		"text": "It’s #Convergence2021 Night ✌🏻with @StartupSanDiego chatting about how to land your dream tech job ✨👩🏽💻with @gositeinc @trustandwill @clickup @fokcus #startupsandiego #SDtechos"
 	},
 	{
 		"created_at": "Wed May 26 03:26:08 +0000 2021",
