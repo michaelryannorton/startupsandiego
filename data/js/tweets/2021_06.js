@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 17:15:03 +0000 2021",
+		"id": 1407024275865878500,
+		"id_str": "1407024275865878528",
+		"full_text": "@GA will be hosting a COMMUNITY MANAGEMENT FOR DIGITAL MARKETERS workshop Tuesday 5-6 PM EDT. You will meet certified Community Managers and they'll teach you how how to build a thriving digital community. \n\nRegister: https://t.co/DidPtrM3tZ https://t.co/xsZwZ1yWGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GA",
+					"name": "General Assembly",
+					"id": 170393291,
+					"id_str": "170393291",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DidPtrM3tZ",
+					"expanded_url": "http://ow.ly/hmH750Ff6qr",
+					"display_url": "ow.ly/hmH750Ff6qr",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407024274607677400,
+					"id_str": "1407024274607677440",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E4bBH35XoAAhOCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4bBH35XoAAhOCh.jpg",
+					"url": "https://t.co/xsZwZ1yWGZ",
+					"display_url": "pic.twitter.com/xsZwZ1yWGZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1407024275865878528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407024274607677400,
+					"id_str": "1407024274607677440",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E4bBH35XoAAhOCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4bBH35XoAAhOCh.jpg",
+					"url": "https://t.co/xsZwZ1yWGZ",
+					"display_url": "pic.twitter.com/xsZwZ1yWGZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1407024275865878528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 170393291,
+		"in_reply_to_user_id_str": "170393291",
+		"in_reply_to_screen_name": "GA",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4371,
+			"friends_count": 2335,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GA will be hosting a COMMUNITY MANAGEMENT FOR DIGITAL MARKETERS workshop Tuesday 5-6 PM EDT. You will meet certified Community Managers and they'll teach you how how to build a thriving digital community. \n\nRegister: https://t.co/DidPtrM3tZ https://t.co/xsZwZ1yWGZ"
+	},
+	{
+		"created_at": "Mon Jun 21 17:10:02 +0000 2021",
+		"id": 1407023014647144400,
+		"id_str": "1407023014647144457",
+		"full_text": "Our community partner @GA  is hosting a Marketing Week, check out their event TOMORROW at 7-8 PM EDT  for a conversation with marketing powerhouses. \n\nMake sure to see the rest of the schedule and register: https://t.co/iD28qEVv6J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GA",
+					"name": "General Assembly",
+					"id": 170393291,
+					"id_str": "170393291",
+					"indices": [
+						22,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iD28qEVv6J",
+					"expanded_url": "http://ow.ly/TL8d50Ff6gK",
+					"display_url": "ow.ly/TL8d50Ff6gK",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4371,
+			"friends_count": 2335,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our community partner @GA  is hosting a Marketing Week, check out their event TOMORROW at 7-8 PM EDT  for a conversation with marketing powerhouses. \n\nMake sure to see the rest of the schedule and register: https://t.co/iD28qEVv6J"
+	},
+	{
+		"created_at": "Mon Jun 21 17:00:27 +0000 2021",
+		"id": 1407020602884493300,
+		"id_str": "1407020602884493323",
+		"full_text": "Our community partner @MissionEdgeSD will be holding an info session TOMORROW at 12 pm to learn about Mission Edge's Social Enterprise Accelerator called City SAIL. Learn how this program can help you earn revenue to sustain your mission.\n\nRegister: https://t.co/Og6WgMoZ8P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissionEdgeSD",
+					"name": "Mission Edge",
+					"id": 130852872,
+					"id_str": "130852872",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Og6WgMoZ8P",
+					"expanded_url": "https://www.missionedge.org/sail-social-enterprise-accelerator",
+					"display_url": "missionedge.org/sail-social-en…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4371,
+			"friends_count": 2335,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our community partner @MissionEdgeSD will be holding an info session TOMORROW at 12 pm to learn about Mission Edge's Social Enterprise Accelerator called City SAIL. Learn how this program can help you earn revenue to sustain your mission.\n\nRegister: https://t.co/Og6WgMoZ8P"
+	},
+	{
+		"created_at": "Mon Jun 21 16:08:15 +0000 2021",
+		"id": 1404457611727151000,
+		"id_str": "1407007467121348615",
+		"full_text": "🎵 HEY BIG SPENDER. 🤑 \n\nAds ➕ up! Optimize your spending, improve ROI, &amp; expand your reach through our free Marketing Week workshops. This will conclude our Hit Play conference series on 6/25, so reserve spots while you still can! https://t.co/5NLj67Fdm4 #GAHitPlay https://t.co/qdP8xwaPuf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GAHitPlay",
+					"indices": [
+						258,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5NLj67Fdm4",
+					"expanded_url": "https://ga.co/3fINAtp",
+					"display_url": "ga.co/3fINAtp",
+					"indices": [
+						234,
+						257
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1404457608480755700,
+					"id_str": "1404457608480755715",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E32iwPeXEAMs_uy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E32iwPeXEAMs_uy.jpg",
+					"url": "https://t.co/qdP8xwaPuf",
+					"display_url": "pic.twitter.com/qdP8xwaPuf",
+					"expanded_url": "https://twitter.com/GA/status/1404457611727151109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404457608480755700,
+					"id_str": "1404457608480755715",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E32iwPeXEAMs_uy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E32iwPeXEAMs_uy.jpg",
+					"url": "https://t.co/qdP8xwaPuf",
+					"display_url": "pic.twitter.com/qdP8xwaPuf",
+					"expanded_url": "https://twitter.com/GA/status/1404457611727151109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 170393291,
+			"id_str": "170393291",
+			"name": "General Assembly",
+			"screen_name": "GA",
+			"location": "",
+			"description": "We transform careers and teams — including more than one third of the Fortune 100 — through dynamic courses in coding, data, design, and business.",
+			"url": "https://t.co/YQeEXPxJ4H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YQeEXPxJ4H",
+							"expanded_url": "http://ga.co/Twitter",
+							"display_url": "ga.co/Twitter",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160482,
+			"friends_count": 5393,
+			"listed_count": 3183,
+			"created_at": "Sat Jul 24 18:19:59 +0000 2010",
+			"favourites_count": 35851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318271172216324097/O7Xaryg2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318271172216324097/O7Xaryg2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/170393291/1480618900",
+			"profile_link_color": "DE2233",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎵 HEY BIG SPENDER. 🤑 \n\nAds ➕ up! Optimize your spending, improve ROI, &amp; expand your reach through our free Marketing Week workshops. This will conclude our Hit Play conference series on 6/25, so reserve spots while you still can! https://t.co/5NLj67Fdm4 #GAHitPlay https://t.co/qdP8xwaPuf"
+	},
+	{
 		"created_at": "Fri Jun 18 17:05:04 +0000 2021",
 		"id": 1405934599113478100,
 		"id_str": "1405934599113478146",
