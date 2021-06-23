@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 17:35:03 +0000 2021",
+		"id": 1407391696539861000,
+		"id_str": "1407391696539860992",
+		"full_text": "Our community partner @DataScienceAll1  will be hosting a Data Skills workshop. Join as they cover the skills and techniques needed to run effective surveys while taking into account the importance of equity, coverage, and consequences.\n\nLearn more: https://t.co/RfC0IRitiy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DataScienceAll1",
+					"name": "Data Science Alliance",
+					"id": 1223021360294719500,
+					"id_str": "1223021360294719488",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RfC0IRitiy",
+					"expanded_url": "http://ow.ly/KqLw50Fg7yG",
+					"display_url": "ow.ly/KqLw50Fg7yG",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4371,
+			"friends_count": 2335,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our community partner @DataScienceAll1  will be hosting a Data Skills workshop. Join as they cover the skills and techniques needed to run effective surveys while taking into account the importance of equity, coverage, and consequences.\n\nLearn more: https://t.co/RfC0IRitiy"
+	},
+	{
+		"created_at": "Tue Jun 22 17:10:03 +0000 2021",
+		"id": 1407385405427753000,
+		"id_str": "1407385405427752963",
+		"full_text": "Happening Wed, June 23  6-7:30 EDT. As part of @GA Marketing Week, they'll be having @WeinbergLauren, CMO at @Square  for a Fireside Chat. Hear from Lauren and learn how to drive marketing decisions with #data.\n\nRegister and see the full schedule: https://t.co/5yOImNvhXz https://t.co/1ixGUH67Pi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "data",
+					"indices": [
+						204,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GA",
+					"name": "General Assembly",
+					"id": 170393291,
+					"id_str": "170393291",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"screen_name": "WeinbergLauren",
+					"name": "Lauren",
+					"id": 1401130376,
+					"id_str": "1401130376",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "Square",
+					"name": "Square",
+					"id": 93017945,
+					"id_str": "93017945",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5yOImNvhXz",
+					"expanded_url": "http://ow.ly/itDB50Fg6cF",
+					"display_url": "ow.ly/itDB50Fg6cF",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407385404572065800,
+					"id_str": "1407385404572065802",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E4gJkZ2WYAo3uJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4gJkZ2WYAo3uJY.jpg",
+					"url": "https://t.co/1ixGUH67Pi",
+					"display_url": "pic.twitter.com/1ixGUH67Pi",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1407385405427752963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407385404572065800,
+					"id_str": "1407385404572065802",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E4gJkZ2WYAo3uJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4gJkZ2WYAo3uJY.jpg",
+					"url": "https://t.co/1ixGUH67Pi",
+					"display_url": "pic.twitter.com/1ixGUH67Pi",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1407385405427752963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 213,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4371,
+			"friends_count": 2335,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happening Wed, June 23  6-7:30 EDT. As part of @GA Marketing Week, they'll be having @WeinbergLauren, CMO at @Square  for a Fireside Chat. Hear from Lauren and learn how to drive marketing decisions with #data.\n\nRegister and see the full schedule: https://t.co/5yOImNvhXz https://t.co/1ixGUH67Pi"
+	},
+	{
 		"created_at": "Mon Jun 21 17:15:03 +0000 2021",
 		"id": 1407024275865878500,
 		"id_str": "1407024275865878528",
