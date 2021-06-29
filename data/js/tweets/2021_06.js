@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 16:48:34 +0000 2021",
+		"id": 1408784864296550400,
+		"id_str": "1409554327203729408",
+		"full_text": "The @StartupSanDiego Entrepreneur-In-Residence program has put out the call for next year’s cohort! Be a part of a program for entrepreneurs looking to build and grow the startup community. Applications are open until July 5th – sign up at https://t.co/oZjrWIyIQm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oZjrWIyIQm",
+					"expanded_url": "https://startupsd.org/eir-program/",
+					"display_url": "startupsd.org/eir-program/",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893178238679236600,
+			"id_str": "893178238679236612",
+			"name": "Tech Coast Angels SD",
+			"screen_name": "tcasandiego",
+			"location": "San Diego, CA",
+			"description": "TCA has been fueling innovative entrepreneurs in SoCal since 1997. San Diego is the largest @techcoastangels chapter with 200+ members investing $10M+ / year.",
+			"url": "https://t.co/v57J55gP2u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v57J55gP2u",
+							"expanded_url": "http://www.tcasandiego.com",
+							"display_url": "tcasandiego.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 755,
+			"listed_count": 16,
+			"created_at": "Thu Aug 03 18:34:21 +0000 2017",
+			"favourites_count": 633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893180168755224577/kUVDFiRs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893178238679236612/1527737947",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @StartupSanDiego Entrepreneur-In-Residence program has put out the call for next year’s cohort! Be a part of a program for entrepreneurs looking to build and grow the startup community. Applications are open until July 5th – sign up at https://t.co/oZjrWIyIQm"
+	},
+	{
+		"created_at": "Mon Jun 28 16:44:27 +0000 2021",
+		"id": 1409553290501759000,
+		"id_str": "1409553290501758979",
+		"full_text": "Join @GA in the discussion on starting a business as a female founder, mental health, struggles &amp; pressures of the industry, career journeys, standing out in a crowd and so much more!  Happening TUESDAY June 29th 7 – 8:30 pm EDT. Register and learn more: https://t.co/RAHTJjQPSm https://t.co/x6n59KaRX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GA",
+					"name": "General Assembly",
+					"id": 170393291,
+					"id_str": "170393291",
+					"indices": [
+						5,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RAHTJjQPSm",
+					"expanded_url": "https://generalassemb.ly/education/california-female-founders-dare-take-the-leap-into-entrepreneurship/san-diego/188217",
+					"display_url": "generalassemb.ly/education/cali…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409553289138651100,
+					"id_str": "1409553289138651140",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-9P5MXwAQMXPO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-9P5MXwAQMXPO.jpg",
+					"url": "https://t.co/x6n59KaRX5",
+					"display_url": "pic.twitter.com/x6n59KaRX5",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1409553290501758979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409553289138651100,
+					"id_str": "1409553289138651140",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-9P5MXwAQMXPO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-9P5MXwAQMXPO.jpg",
+					"url": "https://t.co/x6n59KaRX5",
+					"display_url": "pic.twitter.com/x6n59KaRX5",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1409553290501758979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4374,
+			"friends_count": 2334,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @GA in the discussion on starting a business as a female founder, mental health, struggles &amp; pressures of the industry, career journeys, standing out in a crowd and so much more!  Happening TUESDAY June 29th 7 – 8:30 pm EDT. Register and learn more: https://t.co/RAHTJjQPSm https://t.co/x6n59KaRX5"
+	},
+	{
 		"created_at": "Fri Jun 25 17:00:59 +0000 2021",
 		"id": 1408470287293698000,
 		"id_str": "1408470287293698051",
