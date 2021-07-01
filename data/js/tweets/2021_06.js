@@ -1,6 +1,944 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 17:15:04 +0000 2021",
+		"id": 1410285771068686300,
+		"id_str": "1410285771068686339",
+		"full_text": "Pete DiSalvo, CEO and Founder at @DataCapable shares their testimony on what's it like as part of this years cohort of Entrepreneur-in-Residence. Be part of the next cohort of EIR's and grow your startup! Applications OPEN through July 5th! \n\nApply: https://t.co/MQPTVtn96Z https://t.co/NT3S0rijsN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DataCapable",
+					"name": "DataCapable",
+					"id": 1726356390,
+					"id_str": "1726356390",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MQPTVtn96Z",
+					"expanded_url": "https://startupsd.org/eir-program",
+					"display_url": "startupsd.org/eir-program",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410285768539508700,
+					"id_str": "1410285768539508738",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E5JXbzmWEAI-Rru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5JXbzmWEAI-Rru.jpg",
+					"url": "https://t.co/NT3S0rijsN",
+					"display_url": "pic.twitter.com/NT3S0rijsN",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1410285771068686339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410285768539508700,
+					"id_str": "1410285768539508738",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E5JXbzmWEAI-Rru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5JXbzmWEAI-Rru.jpg",
+					"url": "https://t.co/NT3S0rijsN",
+					"display_url": "pic.twitter.com/NT3S0rijsN",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1410285771068686339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4375,
+			"friends_count": 2334,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pete DiSalvo, CEO and Founder at @DataCapable shares their testimony on what's it like as part of this years cohort of Entrepreneur-in-Residence. Be part of the next cohort of EIR's and grow your startup! Applications OPEN through July 5th! \n\nApply: https://t.co/MQPTVtn96Z https://t.co/NT3S0rijsN"
+	},
+	{
+		"created_at": "Wed Jun 30 15:05:24 +0000 2021",
+		"id": 1409643147559268400,
+		"id_str": "1410253140990046214",
+		"full_text": "Apply to join my @StartupSanDiego EIR team! Looking for 6 mission aligned #founders for Class ✌🏻! 🚀🤓 #sdtechos #startupsd https://t.co/RWDlyDyUVg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "founders",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "sdtechos",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "startupsd",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RWDlyDyUVg",
+					"expanded_url": "https://twitter.com/startupsandiego/status/1409539228682293249",
+					"display_url": "twitter.com/startupsandieg…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1666344193,
+			"id_str": "1666344193",
+			"name": "Alexa-Rae Navarro",
+			"screen_name": "lexaRaeN",
+			"location": "San Diego, CA",
+			"description": "#Tech has the power to make #impact! #community #economicimpact #inclusivetech | ED @startupsandiego https://t.co/VvpwKjp0HU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VvpwKjp0HU",
+							"expanded_url": "http://www.startupsd.org",
+							"display_url": "startupsd.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 402,
+			"friends_count": 485,
+			"listed_count": 17,
+			"created_at": "Tue Aug 13 00:07:12 +0000 2013",
+			"favourites_count": 343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624338434107179008/THJMCbxs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1666344193/1576080659",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409539228682293200,
+		"quoted_status_id_str": "1409539228682293249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RWDlyDyUVg",
+			"expanded": "https://twitter.com/startupsandiego/status/1409539228682293249",
+			"display": "twitter.com/startupsandieg…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 28 15:48:34 +0000 2021",
+			"id": 1409539228682293200,
+			"id_str": "1409539228682293249",
+			"full_text": "Applications for the Startup San Diego Entrepreneur-in-Residence program are now LIVE! Build community, grow our organization, and get connected to the most influential members of the San Diego startup ecosystem. Apply now! https://t.co/diXBr716LH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/diXBr716LH",
+						"expanded_url": "https://startupsd.org/eir-program/",
+						"display_url": "startupsd.org/eir-program/",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #Convergence2021 from May 24 - 28 https://t.co/jPPXmjGszk #StartupSD",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jPPXmjGszk",
+								"expanded_url": "http://linktr.ee/startupsandiego",
+								"display_url": "linktr.ee/startupsandiego",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4375,
+				"friends_count": 2334,
+				"listed_count": 118,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4077,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1620629231",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apply to join my @StartupSanDiego EIR team! Looking for 6 mission aligned #founders for Class ✌🏻! 🚀🤓 #sdtechos #startupsd https://t.co/RWDlyDyUVg"
+	},
+	{
+		"created_at": "Wed Jun 30 15:05:16 +0000 2021",
+		"id": 1409662473066582000,
+		"id_str": "1410253107959840768",
+		"full_text": "RT:@founding: Applications Now OPEN to Founder Institute #SanDiego Virtual 2021 Accelerator→ https://t.co/8HkReaRhBZ ←Build a company with help from #SoCal's top startup experts, as we collectively rebuild better in 2021, together! @Wefunder @StartupGrindSD @StartupSanDiego…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "SoCal",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "founding",
+					"name": "Founder Institute",
+					"id": 29054405,
+					"id_str": "29054405",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "Wefunder",
+					"name": "Wefunder",
+					"id": 468423167,
+					"id_str": "468423167",
+					"indices": [
+						232,
+						241
+					]
+				},
+				{
+					"screen_name": "StartupGrindSD",
+					"name": "Startup Grind San Diego",
+					"id": 1730085294,
+					"id_str": "1730085294",
+					"indices": [
+						242,
+						257
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						258,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8HkReaRhBZ",
+					"expanded_url": "https://bit.ly/3y7OqaH",
+					"display_url": "bit.ly/3y7OqaH",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3010538376,
+			"id_str": "3010538376",
+			"name": "Pete Biggam",
+			"screen_name": "petebiggam",
+			"location": "Santa Cruz, CA",
+			"description": "Dad | Entrepreneur | Idea Crafter | Mentor & Advisor @founding  | @blacksitescom #startupgrind | Space, Security & Blockchain consultant 🇺🇸 /G\\",
+			"url": "https://t.co/0ecSuiTLgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0ecSuiTLgr",
+							"expanded_url": "https://blacksite.solutions",
+							"display_url": "blacksite.solutions",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3073,
+			"friends_count": 5001,
+			"listed_count": 272,
+			"created_at": "Thu Feb 05 22:07:17 +0000 2015",
+			"favourites_count": 12684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032023869983404032/WItA2QS7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032023869983404032/WItA2QS7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3010538376/1534888711",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RT:@founding: Applications Now OPEN to Founder Institute #SanDiego Virtual 2021 Accelerator→ https://t.co/8HkReaRhBZ ←Build a company with help from #SoCal's top startup experts, as we collectively rebuild better in 2021, together! @Wefunder @StartupGrindSD @StartupSanDiego…"
+	},
+	{
+		"created_at": "Wed Jun 30 15:05:13 +0000 2021",
+		"id": 1409677810902306800,
+		"id_str": "1410253095909609482",
+		"full_text": "Applications for the @StartupSanDiego EIR program are now open through July 5th! Be part of one of the most prestigious programs for entrepreneurs looking to build community, grow an organization, &amp; mentorship from members of the SD startup ecosystem. https://t.co/PTNL6u9wyr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						21,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PTNL6u9wyr",
+					"expanded_url": "https://startupsd.org/eir-program/",
+					"display_url": "startupsd.org/eir-program/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16711411,
+			"id_str": "16711411",
+			"name": "Al Bsharah",
+			"screen_name": "ALBsharah",
+			"location": "San Diego, CA",
+			"description": "Managing Partner @InterlockCap. Startup guy since '99. Founded + sold companies. Techstars grad + mentor. Player of volleyball. #SDTech",
+			"url": "https://t.co/1zlBY4Barj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1zlBY4Barj",
+							"expanded_url": "http://al.bsharah.com",
+							"display_url": "al.bsharah.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1160,
+			"friends_count": 505,
+			"listed_count": 71,
+			"created_at": "Sun Oct 12 19:57:31 +0000 2008",
+			"favourites_count": 312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354292925606203394/guJGtb9f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354292925606203394/guJGtb9f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16711411/1571961826",
+			"profile_link_color": "C16A29",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Applications for the @StartupSanDiego EIR program are now open through July 5th! Be part of one of the most prestigious programs for entrepreneurs looking to build community, grow an organization, &amp; mentorship from members of the SD startup ecosystem. https://t.co/PTNL6u9wyr"
+	},
+	{
+		"created_at": "Wed Jun 30 15:05:10 +0000 2021",
+		"id": 1409954587037999000,
+		"id_str": "1410253081913217028",
+		"full_text": ".@StartupSanDiego's Entrepreneur-in-Residence Program is a year-long residency for six local serial entrepreneurs to sit at the epicenter of all things #SanDiegostartups as they start or scale their companies. Apply: https://t.co/SV3dAwIOXb https://t.co/gkuiNNUBg0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiegostartups",
+					"indices": [
+						152,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SV3dAwIOXb",
+					"expanded_url": "https://startupsd.org/eir-program/",
+					"display_url": "startupsd.org/eir-program/",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409954558193799200,
+					"id_str": "1409954558193799171",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/E5EqM06VkAMqQm4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5EqM06VkAMqQm4.jpg",
+					"url": "https://t.co/gkuiNNUBg0",
+					"display_url": "pic.twitter.com/gkuiNNUBg0",
+					"expanded_url": "https://twitter.com/bree_burris/status/1409954587037999104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409954558193799200,
+					"id_str": "1409954558193799171",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/E5EqM06VkAMqQm4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5EqM06VkAMqQm4.jpg",
+					"url": "https://t.co/gkuiNNUBg0",
+					"display_url": "pic.twitter.com/gkuiNNUBg0",
+					"expanded_url": "https://twitter.com/bree_burris/status/1409954587037999104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 280903824,
+			"id_str": "280903824",
+			"name": "Bree Burris",
+			"screen_name": "bree_burris",
+			"location": "San Diego",
+			"description": "brand police @sdregionaledc | @plnu BA, @radyschool MBA | #SDlifechanging die-hard 🤘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 464,
+			"listed_count": 5,
+			"created_at": "Tue Apr 12 07:38:05 +0000 2011",
+			"favourites_count": 8701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394019230606004224/I21umUrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394019230606004224/I21umUrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280903824/1549520492",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@StartupSanDiego's Entrepreneur-in-Residence Program is a year-long residency for six local serial entrepreneurs to sit at the epicenter of all things #SanDiegostartups as they start or scale their companies. Apply: https://t.co/SV3dAwIOXb https://t.co/gkuiNNUBg0"
+	},
+	{
 		"created_at": "Tue Jun 29 17:00:55 +0000 2021",
 		"id": 1409919823518355500,
 		"id_str": "1409919823518355457",
