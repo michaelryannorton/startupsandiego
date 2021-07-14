@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 18:15:10 +0000 2021",
+		"id": 1414421793159348200,
+		"id_str": "1415011940175339525",
+		"full_text": "@randfish @StartupSanDiego Current EIR here! Joining this program led to connections &amp; mentorship that continues to transform our business for the better. DM me if you have questions!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "randfish",
+					"name": "Rand Fishkin",
+					"id": 6527972,
+					"id_str": "6527972",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1414381556546736000,
+		"in_reply_to_status_id_str": "1414381556546736131",
+		"in_reply_to_user_id": 6527972,
+		"in_reply_to_user_id_str": "6527972",
+		"in_reply_to_screen_name": "randfish",
+		"user": {
+			"id": 133817339,
+			"id_str": "133817339",
+			"name": "Sheena Schleicher",
+			"screen_name": "SheenaSchleichr",
+			"location": "North San Diego",
+			"description": "Jesus Follower. Wife. Mom. Founder, Schleicher Marketing. EIR @startupsandiego, Tech SEO, eCommerce, Shopify+, CRO/UX. Migrations. Real Estate Investor. ✨",
+			"url": "https://t.co/EkRdpDjw5l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EkRdpDjw5l",
+							"expanded_url": "http://schleichermarketing.com",
+							"display_url": "schleichermarketing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1213,
+			"friends_count": 443,
+			"listed_count": 94,
+			"created_at": "Fri Apr 16 18:15:07 +0000 2010",
+			"favourites_count": 3586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182685962150612995/W0PJxoGP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182685962150612995/W0PJxoGP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133817339/1570489967",
+			"profile_link_color": "053266",
+			"profile_sidebar_border_color": "F4BB64",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "053266",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@randfish @StartupSanDiego Current EIR here! Joining this program led to connections &amp; mentorship that continues to transform our business for the better. DM me if you have questions!"
+	},
+	{
 		"created_at": "Mon Jul 12 17:10:03 +0000 2021",
 		"id": 1414633164295839700,
 		"id_str": "1414633164295839744",
