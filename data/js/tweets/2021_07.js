@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 16:09:30 +0000 2021",
+		"id": 1417879414591967200,
+		"id_str": "1417879414591967240",
+		"full_text": "Congrats to Startup San Diego Board Member @CarrieMSawyer (she, her) on the launch of her Social Justice Superhero Academy! The Academy is for anyone who wants to skill-up and do their part in building a better, more inclusive world.\n\nLearn More: https://t.co/wmJo4G0Qay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CarrieMSawyer",
+					"name": "Carrie M. Sawyer",
+					"id": 12962832,
+					"id_str": "12962832",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wmJo4G0Qay",
+					"expanded_url": "https://sjsacademy.samcart.com/products/social-justice-superhero-academy-/",
+					"display_url": "sjsacademy.samcart.com/products/socia…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM2021 from October 1 - 29  https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4412,
+			"friends_count": 2335,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1625764342",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats to Startup San Diego Board Member @CarrieMSawyer (she, her) on the launch of her Social Justice Superhero Academy! The Academy is for anyone who wants to skill-up and do their part in building a better, more inclusive world.\n\nLearn More: https://t.co/wmJo4G0Qay"
+	},
+	{
+		"created_at": "Wed Jul 21 16:01:55 +0000 2021",
+		"id": 1417522311784247300,
+		"id_str": "1417877508410822668",
+		"full_text": "@SDStartupWeek returns, Oct 1st-29th! This is YOUR chance to connect with investors, co-founders, and other people who can help you level up @StartupSanDiego!\nhttps://t.co/G3h5r21aIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						141,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G3h5r21aIV",
+					"expanded_url": "http://ow.ly/I0Vm50FzUlb",
+					"display_url": "ow.ly/I0Vm50FzUlb",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2339762118,
+		"in_reply_to_user_id_str": "2339762118",
+		"in_reply_to_screen_name": "SDStartupWeek",
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1721,
+			"friends_count": 1328,
+			"listed_count": 102,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1622227014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SDStartupWeek returns, Oct 1st-29th! This is YOUR chance to connect with investors, co-founders, and other people who can help you level up @StartupSanDiego!\nhttps://t.co/G3h5r21aIV"
+	},
+	{
 		"created_at": "Tue Jul 13 18:15:10 +0000 2021",
 		"id": 1414421793159348200,
 		"id_str": "1415011940175339525",
