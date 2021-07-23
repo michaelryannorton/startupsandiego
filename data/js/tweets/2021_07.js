@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 17:05:04 +0000 2021",
+		"id": 1418255787038843000,
+		"id_str": "1418255787038842881",
+		"full_text": "#SDSM2021 Open Call: We invite you to submit your session and workshop proposals for the potential opportunity to share your expertise with the community. We're accepting proposals through August 19th!\n\nLearn more: https://t.co/UYOFBDC0WV\n\n#startup https://t.co/HCE46Pz9AS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						240,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UYOFBDC0WV",
+					"expanded_url": "https://www.sandiegostartupweek.com/session-and-workshop-proposals",
+					"display_url": "sandiegostartupweek.com/session-and-wo…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418255784924885000,
+					"id_str": "1418255784924884992",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E66oH0UXMAACmsi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E66oH0UXMAACmsi.jpg",
+					"url": "https://t.co/HCE46Pz9AS",
+					"display_url": "pic.twitter.com/HCE46Pz9AS",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1418255787038842881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418255784924885000,
+					"id_str": "1418255784924884992",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E66oH0UXMAACmsi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E66oH0UXMAACmsi.jpg",
+					"url": "https://t.co/HCE46Pz9AS",
+					"display_url": "pic.twitter.com/HCE46Pz9AS",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1418255787038842881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #SDSM2021 from October 1 - 29  https://t.co/jPPXmjGszk #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPPXmjGszk",
+							"expanded_url": "http://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4413,
+			"friends_count": 2333,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1625764342",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SDSM2021 Open Call: We invite you to submit your session and workshop proposals for the potential opportunity to share your expertise with the community. We're accepting proposals through August 19th!\n\nLearn more: https://t.co/UYOFBDC0WV\n\n#startup https://t.co/HCE46Pz9AS"
+	},
+	{
 		"created_at": "Wed Jul 21 16:09:30 +0000 2021",
 		"id": 1417879414591967200,
 		"id_str": "1417879414591967240",
