@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 17:51:27 +0000 2021",
+		"id": 1437474015866769400,
+		"id_str": "1437474015866769408",
+		"full_text": "@SDRegionalEDC with be hosting a webinar, Preparing for Ransomware with @BoozAllen. Learn from experts about best practices to prepare for and respond to ransomware. Happening Sept 14 12 - 1 pm. Register for this FREE event: https://t.co/w2SZDxPr58",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDRegionalEDC",
+					"name": "San Diego Regional EDC",
+					"id": 113474827,
+					"id_str": "113474827",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BoozAllen",
+					"name": "Booz Allen Hamilton",
+					"id": 17375116,
+					"id_str": "17375116",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w2SZDxPr58",
+					"expanded_url": "https://www.eventbrite.com/e/preparing-for-ransomware-tickets-167524108117",
+					"display_url": "eventbrite.com/e/preparing-fo…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 113474827,
+		"in_reply_to_user_id_str": "113474827",
+		"in_reply_to_screen_name": "SDRegionalEDC",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4447,
+			"friends_count": 2331,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SDRegionalEDC with be hosting a webinar, Preparing for Ransomware with @BoozAllen. Learn from experts about best practices to prepare for and respond to ransomware. Happening Sept 14 12 - 1 pm. Register for this FREE event: https://t.co/w2SZDxPr58"
+	},
+	{
 		"created_at": "Fri Sep 10 17:00:45 +0000 2021",
 		"id": 1436374094828785700,
 		"id_str": "1436374094828785700",
