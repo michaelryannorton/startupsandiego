@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 23 17:05:04 +0000 2021",
+		"id": 1441086223951429600,
+		"id_str": "1441086223951429648",
+		"full_text": "Our #SDSM2021 Incubator Program Commanders have been selected! These commanders will mentor #Startup founders on how to grow and scale their ideas/business. These #entrepreneurs have years of experience in the startup ecosystem!  Apply: https://t.co/ZHuX2rfZ0k https://t.co/fZXPv45nec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "Startup",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						163,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZHuX2rfZ0k",
+					"expanded_url": "https://airtable.com/shrtGKBD1Hxj7dwQo",
+					"display_url": "airtable.com/shrtGKBD1Hxj7d…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1441086221749424000,
+					"id_str": "1441086221749424141",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E__ESJIVkA0cvUI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E__ESJIVkA0cvUI.jpg",
+					"url": "https://t.co/fZXPv45nec",
+					"display_url": "pic.twitter.com/fZXPv45nec",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1441086223951429648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1441086221749424000,
+					"id_str": "1441086221749424141",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E__ESJIVkA0cvUI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E__ESJIVkA0cvUI.jpg",
+					"url": "https://t.co/fZXPv45nec",
+					"display_url": "pic.twitter.com/fZXPv45nec",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1441086223951429648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4445,
+			"friends_count": 2331,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our #SDSM2021 Incubator Program Commanders have been selected! These commanders will mentor #Startup founders on how to grow and scale their ideas/business. These #entrepreneurs have years of experience in the startup ecosystem!  Apply: https://t.co/ZHuX2rfZ0k https://t.co/fZXPv45nec"
+	},
+	{
+		"created_at": "Thu Sep 23 16:34:34 +0000 2021",
+		"id": 1441063308816273400,
+		"id_str": "1441078548115202048",
+		"full_text": "Take your startup to the next level at @StartupSanDiego's Startup Month! Register to join the pitch competition to share your story with the regional startup community &amp; a panel of judges 🚀\n\n✔️ Use code 'I7830' at checkout for 30% off.\nhttps://t.co/9dXatP4QHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						39,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9dXatP4QHL",
+					"expanded_url": "https://startupsd.org",
+					"display_url": "startupsd.org",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113474827,
+			"id_str": "113474827",
+			"name": "San Diego Regional EDC",
+			"screen_name": "SDRegionalEDC",
+			"location": "San Diego, Calif.",
+			"description": "EDC's mission is to maximize San Diego's economic prosperity. San Diego news, data, resources, and more in support of businesses. #SDlifechanging #inclusiveSD",
+			"url": "https://t.co/0dfC3hHTKH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0dfC3hHTKH",
+							"expanded_url": "http://www.sandiegobusiness.org",
+							"display_url": "sandiegobusiness.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6993,
+			"friends_count": 1671,
+			"listed_count": 227,
+			"created_at": "Thu Feb 11 21:57:12 +0000 2010",
+			"favourites_count": 8439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093232936013320193/Go9TeN6z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093232936013320193/Go9TeN6z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113474827/1534455893",
+			"profile_link_color": "003B4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take your startup to the next level at @StartupSanDiego's Startup Month! Register to join the pitch competition to share your story with the regional startup community &amp; a panel of judges 🚀\n\n✔️ Use code 'I7830' at checkout for 30% off.\nhttps://t.co/9dXatP4QHL"
+	},
+	{
+		"created_at": "Thu Sep 23 01:06:49 +0000 2021",
+		"id": 1440712091598397400,
+		"id_str": "1440845073319485441",
+		"full_text": "Startup Month is a few days away! 🚀 Register for @StartupSanDiego's pitch competition to share your story with the San Diego startup community and a panel of judges comprised of entrepreneurs and investors 🤝 \n\n✔️ Use code 'I7830' at checkout for 30% off\nhttps://t.co/T2VLnXhjIL https://t.co/aNwjQ3IHsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T2VLnXhjIL",
+					"expanded_url": "https://startupsd.org/",
+					"display_url": "startupsd.org",
+					"indices": [
+						254,
+						277
+					]
+				},
+				{
+					"url": "https://t.co/aNwjQ3IHsP",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1436374094828785700",
+					"display_url": "twitter.com/StartupSanDieg…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3063174003,
+			"id_str": "3063174003",
+			"name": "Innovate78",
+			"screen_name": "Innovate_78",
+			"location": "North County, San Diego",
+			"description": "Innovate78 supports the business ecosystem of San Diego's 78 Corridor by elevating the region’s reputation and assisting businesses as they evolve.",
+			"url": "https://t.co/WEIW2gjlJ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WEIW2gjlJ0",
+							"expanded_url": "http://innovate78.com",
+							"display_url": "innovate78.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1836,
+			"friends_count": 995,
+			"listed_count": 51,
+			"created_at": "Wed Feb 25 20:22:26 +0000 2015",
+			"favourites_count": 2886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1316824327367483392/HXYxUzCK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316824327367483392/HXYxUzCK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3063174003/1602790360",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436374094828785700,
+		"quoted_status_id_str": "1436374094828785700",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aNwjQ3IHsP",
+			"expanded": "https://twitter.com/StartupSanDiego/status/1436374094828785700",
+			"display": "twitter.com/StartupSanDieg…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 10 17:00:45 +0000 2021",
+			"id": 1436374094828785700,
+			"id_str": "1436374094828785700",
+			"full_text": "In partnership with Tech Coast Angels &amp; Connect presented by SDSU, hand-selected startups from our university and startup ecosystem will compete in the pitch battle around! Our all-star judging panels will crown a lightweight &amp; heavyweight champ! Apply: https://t.co/pRbSwPxbVC https://t.co/wdNdCHrX1j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				285
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pRbSwPxbVC",
+						"expanded_url": "https://airtable.com/shreXK8KR59OGRC1M",
+						"display_url": "airtable.com/shreXK8KR59OGR…",
+						"indices": [
+							262,
+							285
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1436374092526112800,
+						"id_str": "1436374092526112806",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/E-8GoH2X0CYcraQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-8GoH2X0CYcraQ.jpg",
+						"url": "https://t.co/wdNdCHrX1j",
+						"display_url": "pic.twitter.com/wdNdCHrX1j",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1436374094828785700/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1436374092526112800,
+						"id_str": "1436374092526112806",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/E-8GoH2X0CYcraQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-8GoH2X0CYcraQ.jpg",
+						"url": "https://t.co/wdNdCHrX1j",
+						"display_url": "pic.twitter.com/wdNdCHrX1j",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1436374094828785700/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+				"url": "https://t.co/7LZNZT3tWU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7LZNZT3tWU",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pKuEWWhRPI",
+								"expanded_url": "http://sandiegostartupweek.com",
+								"display_url": "sandiegostartupweek.com",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4445,
+				"friends_count": 2331,
+				"listed_count": 119,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2263,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4136,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Startup Month is a few days away! 🚀 Register for @StartupSanDiego's pitch competition to share your story with the San Diego startup community and a panel of judges comprised of entrepreneurs and investors 🤝 \n\n✔️ Use code 'I7830' at checkout for 30% off\nhttps://t.co/T2VLnXhjIL https://t.co/aNwjQ3IHsP"
+	},
+	{
 		"created_at": "Wed Sep 22 17:53:51 +0000 2021",
 		"id": 1440736114474582000,
 		"id_str": "1440736114474582030",
