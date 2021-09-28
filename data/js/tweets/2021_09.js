@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 27 19:00:16 +0000 2021",
+		"id": 1442564764610318300,
+		"id_str": "1442564764610318340",
+		"full_text": "Meet the newest San Diego companies to hit the $1B mark, shooting to the moon 🚀 , and growing super scalable businesses. We'll be having #founders from Shield AI, Flock Freight, TuSimple, and ClickUp come together for a panel and Q&amp;A. Tickets: https://t.co/TJISX3NL26 https://t.co/jHLCMZnFUd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "founders",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TJISX3NL26",
+					"expanded_url": "https://sandiegostartupweek.com/",
+					"display_url": "sandiegostartupweek.com",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442564762475376600,
+					"id_str": "1442564762475376646",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FAUFAijXMAYYIHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAUFAijXMAYYIHW.jpg",
+					"url": "https://t.co/jHLCMZnFUd",
+					"display_url": "pic.twitter.com/jHLCMZnFUd",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442564764610318340/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442564762475376600,
+					"id_str": "1442564762475376646",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FAUFAijXMAYYIHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAUFAijXMAYYIHW.jpg",
+					"url": "https://t.co/jHLCMZnFUd",
+					"display_url": "pic.twitter.com/jHLCMZnFUd",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442564764610318340/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4447,
+			"friends_count": 2331,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet the newest San Diego companies to hit the $1B mark, shooting to the moon 🚀 , and growing super scalable businesses. We'll be having #founders from Shield AI, Flock Freight, TuSimple, and ClickUp come together for a panel and Q&amp;A. Tickets: https://t.co/TJISX3NL26 https://t.co/jHLCMZnFUd"
+	},
+	{
+		"created_at": "Mon Sep 27 18:22:24 +0000 2021",
+		"id": 1442504554868842500,
+		"id_str": "1442555236262899713",
+		"full_text": "Apply to be part of @StartupSanDiego's 2nd annual #SDSM2021 Incubator, in collaboration with @techstars! Become 1 of 10 companies to receive expert training, #mentorship, and #community to help grow &amp; scale your startups throughout the month.\n\nApply here: https://t.co/4HBaHDoZxc https://t.co/IgtAhwFt6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "mentorship",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						175,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						20,
+						36
+					]
+				},
+				{
+					"screen_name": "techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4HBaHDoZxc",
+					"expanded_url": "https://airtable.com/shrtGKBD1Hxj7dwQo",
+					"display_url": "airtable.com/shrtGKBD1Hxj7d…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442504553463644200,
+					"id_str": "1442504553463644163",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FATOP6gVgAM_dRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FATOP6gVgAM_dRn.jpg",
+					"url": "https://t.co/IgtAhwFt6p",
+					"display_url": "pic.twitter.com/IgtAhwFt6p",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1442504554868842496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442504553463644200,
+					"id_str": "1442504553463644163",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FATOP6gVgAM_dRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FATOP6gVgAM_dRn.jpg",
+					"url": "https://t.co/IgtAhwFt6p",
+					"display_url": "pic.twitter.com/IgtAhwFt6p",
+					"expanded_url": "https://twitter.com/Carlsbadbiz/status/1442504554868842496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2424103860,
+			"id_str": "2424103860",
+			"name": "Carlsbad Innovation & Economic Development",
+			"screen_name": "Carlsbadbiz",
+			"location": "Carlsbad, CA",
+			"description": "Official account of the @carlsbadcagov Innovation & Economic Development Dept. #LifeInAction\n                \nTerms of Service: https://t.co/9Q6lMlRLk4",
+			"url": "https://t.co/Way8N0Lsda",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Way8N0Lsda",
+							"expanded_url": "https://carlsbadlifeinaction.com/",
+							"display_url": "carlsbadlifeinaction.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9Q6lMlRLk4",
+							"expanded_url": "http://carlsbadca.gov/news/tos.asp",
+							"display_url": "carlsbadca.gov/news/tos.asp",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1528,
+			"listed_count": 37,
+			"created_at": "Wed Apr 02 17:14:57 +0000 2014",
+			"favourites_count": 3660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "40A0BB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962114495999983618/iwaWsWsU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2424103860/1595460969",
+			"profile_link_color": "0A9CBD",
+			"profile_sidebar_border_color": "FE8171",
+			"profile_sidebar_fill_color": "FDAEA2",
+			"profile_text_color": "DFD1D2",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apply to be part of @StartupSanDiego's 2nd annual #SDSM2021 Incubator, in collaboration with @techstars! Become 1 of 10 companies to receive expert training, #mentorship, and #community to help grow &amp; scale your startups throughout the month.\n\nApply here: https://t.co/4HBaHDoZxc https://t.co/IgtAhwFt6p"
+	},
+	{
 		"created_at": "Fri Sep 24 17:00:15 +0000 2021",
 		"id": 1441447398664986600,
 		"id_str": "1441447398664986626",
