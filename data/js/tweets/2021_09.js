@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 28 20:25:07 +0000 2021",
+		"id": 1442948506939846700,
+		"id_str": "1442948506939846656",
+		"full_text": "Are you a #startupfounder in the process of hiring employees but you're confused about which documents are required?  Join @CONNECTALLSD TODAY at 3 p.m. for a FREE workshop presented by San Diego Volunteer Lawyer Program, Inc.  Register today: https://t.co/U2gvlXFCsn  #startups https://t.co/ApWkahaJzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startupfounder",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CONNECTALLSD",
+					"name": "CONNECT ALL @ the Jacobs Center",
+					"id": 726604938210476000,
+					"id_str": "726604938210476032",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U2gvlXFCsn",
+					"expanded_url": "https://lnkd.in/ganJ6y5F",
+					"display_url": "lnkd.in/ganJ6y5F",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442948499151081500,
+					"id_str": "1442948499151081472",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FAZiA9EVUAA8aPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAZiA9EVUAA8aPc.jpg",
+					"url": "https://t.co/ApWkahaJzQ",
+					"display_url": "pic.twitter.com/ApWkahaJzQ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442948506939846656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442948499151081500,
+					"id_str": "1442948499151081472",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FAZiA9EVUAA8aPc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAZiA9EVUAA8aPc.jpg",
+					"url": "https://t.co/ApWkahaJzQ",
+					"display_url": "pic.twitter.com/ApWkahaJzQ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442948506939846656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4448,
+			"friends_count": 2331,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you a #startupfounder in the process of hiring employees but you're confused about which documents are required?  Join @CONNECTALLSD TODAY at 3 p.m. for a FREE workshop presented by San Diego Volunteer Lawyer Program, Inc.  Register today: https://t.co/U2gvlXFCsn  #startups https://t.co/ApWkahaJzQ"
+	},
+	{
+		"created_at": "Tue Sep 28 19:00:12 +0000 2021",
+		"id": 1442927135954325500,
+		"id_str": "1442927135954325506",
+		"full_text": "The final day to apply for our #SDSM2021 Incubator program is coming up this Thursday, September 30th. This is your chance to be part of the next cohort of startup founders and entrepreneurs looking to grow and scale their startup. Apply: https://t.co/ZHuX2rfZ0k https://t.co/vNS1CSHiS0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZHuX2rfZ0k",
+					"expanded_url": "https://airtable.com/shrtGKBD1Hxj7dwQo",
+					"display_url": "airtable.com/shrtGKBD1Hxj7d…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442927133991465000,
+					"id_str": "1442927133991464961",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FAZOlVpVcAEdYnE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAZOlVpVcAEdYnE.jpg",
+					"url": "https://t.co/vNS1CSHiS0",
+					"display_url": "pic.twitter.com/vNS1CSHiS0",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442927135954325506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442927133991465000,
+					"id_str": "1442927133991464961",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FAZOlVpVcAEdYnE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAZOlVpVcAEdYnE.jpg",
+					"url": "https://t.co/vNS1CSHiS0",
+					"display_url": "pic.twitter.com/vNS1CSHiS0",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442927135954325506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4448,
+			"friends_count": 2331,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The final day to apply for our #SDSM2021 Incubator program is coming up this Thursday, September 30th. This is your chance to be part of the next cohort of startup founders and entrepreneurs looking to grow and scale their startup. Apply: https://t.co/ZHuX2rfZ0k https://t.co/vNS1CSHiS0"
+	},
+	{
+		"created_at": "Tue Sep 28 18:00:25 +0000 2021",
+		"id": 1442912092034527200,
+		"id_str": "1442912092034527234",
+		"full_text": "San Diego Startup Month is built for every #startup stage. Developer, HR professional, marketer,  founder, designer, or analyst we have talks catered to your specific role. Check out the full #SDSM2021 schedule &amp; get tickets: https://t.co/a53cGPpSRj\n\n#StartupSD #Sandiegoevents https://t.co/F4BOm403Jq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "SDSM2021",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						255,
+						265
+					]
+				},
+				{
+					"text": "Sandiegoevents",
+					"indices": [
+						266,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a53cGPpSRj",
+					"expanded_url": "https://www.sandiegostartupweek.com/",
+					"display_url": "sandiegostartupweek.com",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442912090126106600,
+					"id_str": "1442912090126106629",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FAZA5q4VQAUYF7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAZA5q4VQAUYF7k.jpg",
+					"url": "https://t.co/F4BOm403Jq",
+					"display_url": "pic.twitter.com/F4BOm403Jq",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442912092034527234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442912090126106600,
+					"id_str": "1442912090126106629",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FAZA5q4VQAUYF7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAZA5q4VQAUYF7k.jpg",
+					"url": "https://t.co/F4BOm403Jq",
+					"display_url": "pic.twitter.com/F4BOm403Jq",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1442912092034527234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4448,
+			"friends_count": 2331,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "San Diego Startup Month is built for every #startup stage. Developer, HR professional, marketer,  founder, designer, or analyst we have talks catered to your specific role. Check out the full #SDSM2021 schedule &amp; get tickets: https://t.co/a53cGPpSRj\n\n#StartupSD #Sandiegoevents https://t.co/F4BOm403Jq"
+	},
+	{
 		"created_at": "Mon Sep 27 19:00:16 +0000 2021",
 		"id": 1442564764610318300,
 		"id_str": "1442564764610318340",
