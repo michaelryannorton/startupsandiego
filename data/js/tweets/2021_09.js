@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 30 17:00:54 +0000 2021",
+		"id": 1443621890430492700,
+		"id_str": "1443621890430492673",
+		"full_text": "Our all-star judges for the #SDSM2021 Pitch Competition - Heavyweight Division is now officially selected! We've got CEOs, Investment Partners, and VPs helping mentor and give feedback to #Startup founders! Learn more &amp; Apply: https://t.co/pRbSwPxbVC\n\n#pitchcompetition #StartupSD https://t.co/cdnMUSguJP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "Startup",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "pitchcompetition",
+					"indices": [
+						256,
+						273
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						274,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pRbSwPxbVC",
+					"expanded_url": "https://airtable.com/shreXK8KR59OGRC1M",
+					"display_url": "airtable.com/shreXK8KR59OGR…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443621888551436300,
+					"id_str": "1443621888551436289",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FAjGdYEWQAE3agU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAjGdYEWQAE3agU.jpg",
+					"url": "https://t.co/cdnMUSguJP",
+					"display_url": "pic.twitter.com/cdnMUSguJP",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1443621890430492673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443621888551436300,
+					"id_str": "1443621888551436289",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FAjGdYEWQAE3agU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAjGdYEWQAE3agU.jpg",
+					"url": "https://t.co/cdnMUSguJP",
+					"display_url": "pic.twitter.com/cdnMUSguJP",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1443621890430492673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4454,
+			"friends_count": 2330,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our all-star judges for the #SDSM2021 Pitch Competition - Heavyweight Division is now officially selected! We've got CEOs, Investment Partners, and VPs helping mentor and give feedback to #Startup founders! Learn more &amp; Apply: https://t.co/pRbSwPxbVC\n\n#pitchcompetition #StartupSD https://t.co/cdnMUSguJP"
+	},
+	{
 		"created_at": "Wed Sep 29 20:00:16 +0000 2021",
 		"id": 1443304642255990800,
 		"id_str": "1443304642255990794",
