@@ -1,6 +1,644 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 17:00:08 +0000 2021",
+		"id": 1446883189587333000,
+		"id_str": "1446883189587333120",
+		"full_text": "Thank you to everyone that participated this past week for #SDSM2021! We had a successful Content Week and In-person Startup Fair &amp; Partner Expo. It was great seeing so many faces! We look forward to seeing you all next week for our Incubator Kickoff, Community Showcase &amp; More!🚀 https://t.co/buvkBGEjFG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446883186965991400,
+					"id_str": "1446883186965991430",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FBRcl7aX0AYvcfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBRcl7aX0AYvcfF.jpg",
+					"url": "https://t.co/buvkBGEjFG",
+					"display_url": "pic.twitter.com/buvkBGEjFG",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1446883189587333120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446883186965991400,
+					"id_str": "1446883186965991430",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FBRcl7aX0AYvcfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBRcl7aX0AYvcfF.jpg",
+					"url": "https://t.co/buvkBGEjFG",
+					"display_url": "pic.twitter.com/buvkBGEjFG",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1446883189587333120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 2329,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to everyone that participated this past week for #SDSM2021! We had a successful Content Week and In-person Startup Fair &amp; Partner Expo. It was great seeing so many faces! We look forward to seeing you all next week for our Incubator Kickoff, Community Showcase &amp; More!🚀 https://t.co/buvkBGEjFG"
+	},
+	{
+		"created_at": "Sat Oct 09 16:38:35 +0000 2021",
+		"id": 1446629697673068500,
+		"id_str": "1446877764297138183",
+		"full_text": "If you're attending the San Diego Startup Month Happy Hour tonight, come say hi to Drata CTO @danielzev! We have swag, stickers, and t-shirts! 😎\n@StartupSanDiego @SDStartupWeek #SDSM2021 #StartupMonth https://t.co/TBY0Sl9ykA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "StartupMonth",
+					"indices": [
+						187,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielzev",
+					"name": "Daniel Marashlian",
+					"id": 15840206,
+					"id_str": "15840206",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						162,
+						176
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446629693541666800,
+					"id_str": "1446629693541666816",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FBN2Cq0VUAAzAR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBN2Cq0VUAAzAR3.jpg",
+					"url": "https://t.co/TBY0Sl9ykA",
+					"display_url": "pic.twitter.com/TBY0Sl9ykA",
+					"expanded_url": "https://twitter.com/DrataHQ/status/1446629697673068553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446629693541666800,
+					"id_str": "1446629693541666816",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FBN2Cq0VUAAzAR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBN2Cq0VUAAzAR3.jpg",
+					"url": "https://t.co/TBY0Sl9ykA",
+					"display_url": "pic.twitter.com/TBY0Sl9ykA",
+					"expanded_url": "https://twitter.com/DrataHQ/status/1446629697673068553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1251553861384335400,
+			"id_str": "1251553861384335360",
+			"name": "Drata",
+			"screen_name": "DrataHQ",
+			"location": "San Diego, CA",
+			"description": "Drata is the fastest and simplest way to achieve continuous SOC 2 & ISO 27001 compliance. Build trust with customers & securely grow your business.",
+			"url": "https://t.co/iuMpooqXy2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuMpooqXy2",
+							"expanded_url": "https://drata.com",
+							"display_url": "drata.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 35,
+			"listed_count": 5,
+			"created_at": "Sat Apr 18 16:51:28 +0000 2020",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1338369137261703170/35qT-sU3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338369137261703170/35qT-sU3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1251553861384335360/1627502817",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're attending the San Diego Startup Month Happy Hour tonight, come say hi to Drata CTO @danielzev! We have swag, stickers, and t-shirts! 😎\n@StartupSanDiego @SDStartupWeek #SDSM2021 #StartupMonth https://t.co/TBY0Sl9ykA"
+	},
+	{
+		"created_at": "Sat Oct 09 16:38:28 +0000 2021",
+		"id": 1446654589319581700,
+		"id_str": "1446877735587045377",
+		"full_text": "Back in real life. For @StartupSanDiego #Startup Fair at @downtownworks . With the org that welcomed me into the startup community. Here with the chair: @ryankuder , Executive Director @lexaRaeN , &amp; former board member: Phelan. https://t.co/0gXCPUbCJ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Startup",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "downtownworks",
+					"name": "Downtown Works",
+					"id": 722890121935081500,
+					"id_str": "722890121935081472",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446654581077725200,
+					"id_str": "1446654581077725186",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FBOMrUHUUAIm4pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBOMrUHUUAIm4pk.jpg",
+					"url": "https://t.co/0gXCPUbCJ3",
+					"display_url": "pic.twitter.com/0gXCPUbCJ3",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1446654589319581696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446654581077725200,
+					"id_str": "1446654581077725186",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FBOMrUHUUAIm4pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBOMrUHUUAIm4pk.jpg",
+					"url": "https://t.co/0gXCPUbCJ3",
+					"display_url": "pic.twitter.com/0gXCPUbCJ3",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1446654589319581696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "Community organizer, DEI advocate, & co-founder for an upcoming tech venture - Expected launch Summer 2021 🚀",
+			"url": "https://t.co/oO7aLOcqjN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oO7aLOcqjN",
+							"expanded_url": "http://www.juliusalejandro.com",
+							"display_url": "juliusalejandro.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442,
+			"friends_count": 687,
+			"listed_count": 57,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 2375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1611903256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Back in real life. For @StartupSanDiego #Startup Fair at @downtownworks . With the org that welcomed me into the startup community. Here with the chair: @ryankuder , Executive Director @lexaRaeN , &amp; former board member: Phelan. https://t.co/0gXCPUbCJ3"
+	},
+	{
 		"created_at": "Fri Oct 08 17:35:03 +0000 2021",
 		"id": 1446529585995292700,
 		"id_str": "1446529585995292677",
