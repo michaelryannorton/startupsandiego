@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 23:30:02 +0000 2021",
+		"id": 1448430861469225000,
+		"id_str": "1448430861469224960",
+		"full_text": "Do you have what it takes to be an energy #entrepreneur? Join us at 5 PM for a panel with local Clean Tech startup founders who are developing breakthrough technologies that are shaping our clean energy future. Learn more and get tickets: https://t.co/lNssDCwTPJ\n\n#SDSM2021",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneur",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"text": "SDSM2021",
+					"indices": [
+						264,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lNssDCwTPJ",
+					"expanded_url": "http://ow.ly/JBq750GqUVr",
+					"display_url": "ow.ly/JBq750GqUVr",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you have what it takes to be an energy #entrepreneur? Join us at 5 PM for a panel with local Clean Tech startup founders who are developing breakthrough technologies that are shaping our clean energy future. Learn more and get tickets: https://t.co/lNssDCwTPJ\n\n#SDSM2021"
+	},
+	{
+		"created_at": "Wed Oct 13 22:30:04 +0000 2021",
+		"id": 1448415768278937600,
+		"id_str": "1448415768278937604",
+		"full_text": "Tonight at 4PM - Learn about what it takes to be a #founder at venture studio. With the rise of the #venture studio model, local firms are changing the game with new founder opportunities while providing seed capital, advisors and incubation. Join in: https://t.co/GbSBonnHsp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "founder",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "venture",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GbSBonnHsp",
+					"expanded_url": "http://ow.ly/9Pzq50GqTWO",
+					"display_url": "ow.ly/9Pzq50GqTWO",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight at 4PM - Learn about what it takes to be a #founder at venture studio. With the rise of the #venture studio model, local firms are changing the game with new founder opportunities while providing seed capital, advisors and incubation. Join in: https://t.co/GbSBonnHsp"
+	},
+	{
+		"created_at": "Wed Oct 13 22:00:21 +0000 2021",
+		"id": 1448408292477259800,
+		"id_str": "1448408292477259776",
+		"full_text": "Starting at 4 PM TONIGHT we'll be kicking off our Community Showcase night! We'll be having panelist talk about what it takes to be an entrepreneur, clean tech, mental health, and how to succeed as a female founder. Get tickets and see the full schedule: https://t.co/GbSBonnHsp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GbSBonnHsp",
+					"expanded_url": "http://ow.ly/9Pzq50GqTWO",
+					"display_url": "ow.ly/9Pzq50GqTWO",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting at 4 PM TONIGHT we'll be kicking off our Community Showcase night! We'll be having panelist talk about what it takes to be an entrepreneur, clean tech, mental health, and how to succeed as a female founder. Get tickets and see the full schedule: https://t.co/GbSBonnHsp"
+	},
+	{
+		"created_at": "Wed Oct 13 17:00:17 +0000 2021",
+		"id": 1448332779033436200,
+		"id_str": "1448332779033436166",
+		"full_text": "Today we're having our #SDSM2021 Community Showcase 🚀! Learn what it takes to be an entrepreneur in Clean Tech, different #startup models, importance of mental health and the female founders hack for success. Don't miss out! For tickets &amp; full schedule: https://t.co/c005ZCvYME https://t.co/aEsm8QzVvo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c005ZCvYME",
+					"expanded_url": "http://ow.ly/t0cc50GqSoA",
+					"display_url": "ow.ly/t0cc50GqSoA",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448332777359908900,
+					"id_str": "1448332777359908873",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FBmC_McXoAkiykl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBmC_McXoAkiykl.jpg",
+					"url": "https://t.co/aEsm8QzVvo",
+					"display_url": "pic.twitter.com/aEsm8QzVvo",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1448332779033436166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448332777359908900,
+					"id_str": "1448332777359908873",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FBmC_McXoAkiykl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBmC_McXoAkiykl.jpg",
+					"url": "https://t.co/aEsm8QzVvo",
+					"display_url": "pic.twitter.com/aEsm8QzVvo",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1448332779033436166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4471,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we're having our #SDSM2021 Community Showcase 🚀! Learn what it takes to be an entrepreneur in Clean Tech, different #startup models, importance of mental health and the female founders hack for success. Don't miss out! For tickets &amp; full schedule: https://t.co/c005ZCvYME https://t.co/aEsm8QzVvo"
+	},
+	{
 		"created_at": "Tue Oct 12 23:30:03 +0000 2021",
 		"id": 1448068476321640400,
 		"id_str": "1448068476321640459",
