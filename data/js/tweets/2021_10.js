@@ -1,6 +1,1949 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 00:12:41 +0000 2021",
+		"id": 1448798814458900500,
+		"id_str": "1448803982198018055",
+		"full_text": ".@StartupSanDiego's Awards &amp; Reception is Fri 10/29 at the San Diego Tech Center by Alexandria. Outside and an awesome wrap up for Startup Month. Get tix today!  https://t.co/kIL9u0ZoAl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kIL9u0ZoAl",
+					"expanded_url": "https://www.eventbrite.com/e/san-diego-startup-month-2021-tickets-127228294253O",
+					"display_url": "eventbrite.com/e/san-diego-st…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 576387800,
+			"id_str": "576387800",
+			"name": "Lauree Miller Sahba - yes with two Es",
+			"screen_name": "LSahba",
+			"location": "San Diego, CA",
+			"description": "@sdregionaledc COO; @SDLifeChanging promoter; @Voices4Childrn foster kids champion; Bar Method disciple; @Aztec_MB hoops fan! #luckyandgrateful",
+			"url": "http://t.co/0dfC3hZv9h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0dfC3hZv9h",
+							"expanded_url": "http://www.sandiegobusiness.org",
+							"display_url": "sandiegobusiness.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 667,
+			"friends_count": 520,
+			"listed_count": 17,
+			"created_at": "Thu May 10 16:51:04 +0000 2012",
+			"favourites_count": 7848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380620128392388613/RHMCLgpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380620128392388613/RHMCLgpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/576387800/1633975098",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@StartupSanDiego's Awards &amp; Reception is Fri 10/29 at the San Diego Tech Center by Alexandria. Outside and an awesome wrap up for Startup Month. Get tix today!  https://t.co/kIL9u0ZoAl"
+	},
+	{
+		"created_at": "Thu Oct 14 23:49:39 +0000 2021",
+		"id": 1448798184252354600,
+		"id_str": "1448798184252354560",
+		"full_text": "Our #SDSM2021 Heavyweight Pitch Competition is happening RIGHT NOW! Join in and watch 12 local San Diego #startups battle for the crown 🚀 Get tickets or learn more: https://t.co/ozS0k09WW4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ozS0k09WW4",
+					"expanded_url": "http://ow.ly/Spm350GrMuL",
+					"display_url": "ow.ly/Spm350GrMuL",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4476,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our #SDSM2021 Heavyweight Pitch Competition is happening RIGHT NOW! Join in and watch 12 local San Diego #startups battle for the crown 🚀 Get tickets or learn more: https://t.co/ozS0k09WW4"
+	},
+	{
+		"created_at": "Thu Oct 14 23:47:22 +0000 2021",
+		"id": 1448797611587211300,
+		"id_str": "1448797611587211268",
+		"full_text": "Congratulations to our 2nd and 3rd place #SDSM2021 Lightweight Division winners Nicolas Villanueva PhD. Founder of Four Winds Biotherapeutics, Inc. (2nd place) and Eric Shnell Founder of Craitor (3rd place) for your amazing pitches! 🚀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4476,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Congratulations to our 2nd and 3rd place #SDSM2021 Lightweight Division winners Nicolas Villanueva PhD. Founder of Four Winds Biotherapeutics, Inc. (2nd place) and Eric Shnell Founder of Craitor (3rd place) for your amazing pitches! 🚀"
+	},
+	{
+		"created_at": "Thu Oct 14 23:43:36 +0000 2021",
+		"id": 1448796662110032000,
+		"id_str": "1448796662110031880",
+		"full_text": "Congratulations Kim Pendergrass, Founder of Algeon Materials for winning the #SDSM2021 Lightweight Division Competition! They went against 11 #startup founders and won the Cash Prize of $10,000 from @tcasandiego! Great work, we're excited to see you all grow! 🚀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						199,
+						211
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4476,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Congratulations Kim Pendergrass, Founder of Algeon Materials for winning the #SDSM2021 Lightweight Division Competition! They went against 11 #startup founders and won the Cash Prize of $10,000 from @tcasandiego! Great work, we're excited to see you all grow! 🚀"
+	},
+	{
+		"created_at": "Thu Oct 14 23:36:46 +0000 2021",
+		"id": 1448793855071907800,
+		"id_str": "1448794944978800642",
+		"full_text": "We're live at #sdsm2021 HEAVYWEIGHT division, Founder's Fight Club pitch competition. It's not too late to jump in join us during this exciting event 🚀 @SDStartupWeek @tcasandiego @StartupSanDiego @silviamah @lexaRaeN Tickets &amp; Full Schedule: https://t.co/sJiZ8kVwOn https://t.co/YznG9CiA4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sdsm2021",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"screen_name": "tcasandiego",
+					"name": "Tech Coast Angels SD",
+					"id": 893178238679236600,
+					"id_str": "893178238679236612",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"screen_name": "silviamah",
+					"name": "Silvia Mah",
+					"id": 200349076,
+					"id_str": "200349076",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sJiZ8kVwOn",
+					"expanded_url": "http://ow.ly/9ryR50Gqco8",
+					"display_url": "ow.ly/9ryR50Gqco8",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448793671906652200,
+					"id_str": "1448793671906652175",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FBsmKybUcA8p51A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBsmKybUcA8p51A.jpg",
+					"url": "https://t.co/YznG9CiA4Q",
+					"display_url": "pic.twitter.com/YznG9CiA4Q",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1448793855071907874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1106,
+							"h": 652,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448793671906652200,
+					"id_str": "1448793671906652175",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FBsmKybUcA8p51A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBsmKybUcA8p51A.jpg",
+					"url": "https://t.co/YznG9CiA4Q",
+					"display_url": "pic.twitter.com/YznG9CiA4Q",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1448793855071907874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1106,
+							"h": 652,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26823079,
+			"id_str": "26823079",
+			"name": "Caitlin Wege",
+			"screen_name": "Thinkleap",
+			"location": "San Diego, CA",
+			"description": "Activist + Investor / President @tcasandiego / Partner, MooDoos / Board Member @startupsandiego @neuralace @pumpspotting / Chairperson@ CPL-Glasshouse Pharma",
+			"url": "https://t.co/7Gaq9CQaJh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7Gaq9CQaJh",
+							"expanded_url": "http://www.moodooslp.com",
+							"display_url": "moodooslp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493,
+			"friends_count": 306,
+			"listed_count": 7,
+			"created_at": "Thu Mar 26 19:13:10 +0000 2009",
+			"favourites_count": 2342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415110958414852099/nGg-yWWc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415110958414852099/nGg-yWWc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26823079/1626923044",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're live at #sdsm2021 HEAVYWEIGHT division, Founder's Fight Club pitch competition. It's not too late to jump in join us during this exciting event 🚀 @SDStartupWeek @tcasandiego @StartupSanDiego @silviamah @lexaRaeN Tickets &amp; Full Schedule: https://t.co/sJiZ8kVwOn https://t.co/YznG9CiA4Q"
+	},
+	{
+		"created_at": "Thu Oct 14 22:49:10 +0000 2021",
+		"id": 1448762366586404900,
+		"id_str": "1448782965345906697",
+		"full_text": "Come watch as @jonathancogley judges one of the toughest pitch competitions in town at @startupsandiego. 12 startups will vie over three rounds to win the grand prize from @Techcoastangels and free mentoring sessions with @LabsBoost. https://t.co/E1rKwsOUPX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonathancogley",
+					"name": "Jonathan Cogley",
+					"id": 28049622,
+					"id_str": "28049622",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"screen_name": "Techcoastangels",
+					"name": "Tech Coast Angels",
+					"id": 14608247,
+					"id_str": "14608247",
+					"indices": [
+						172,
+						188
+					]
+				},
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						222,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E1rKwsOUPX",
+					"expanded_url": "https://buff.ly/3mXVkLo",
+					"display_url": "buff.ly/3mXVkLo",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1182731644119109600,
+			"id_str": "1182731644119109632",
+			"name": "LogicBoostLabs",
+			"screen_name": "LabsBoost",
+			"location": "San Diego, CA",
+			"description": "LogicBoost Labs has the expertise, experience, funding and connections to make your startup succeed.",
+			"url": "https://t.co/sTL8ldcajG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sTL8ldcajG",
+							"expanded_url": "https://logicboostlabs.com/",
+							"display_url": "logicboostlabs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Fri Oct 11 18:56:49 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227843080180490240/ZSsXgOZl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227843080180490240/ZSsXgOZl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1182731644119109632/1581575578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come watch as @jonathancogley judges one of the toughest pitch competitions in town at @startupsandiego. 12 startups will vie over three rounds to win the grand prize from @Techcoastangels and free mentoring sessions with @LabsBoost. https://t.co/E1rKwsOUPX"
+	},
+	{
+		"created_at": "Thu Oct 14 18:36:11 +0000 2021",
+		"id": 1448713602110828500,
+		"id_str": "1448719297900077057",
+		"full_text": "ZIP Launchpad has two teams (Wubbie and Till) participating in the @startupsandiego Pitch Competition! Click the link in our bio and use the code 21SDSU100 to attend! https://t.co/GmED2pls5P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GmED2pls5P",
+					"expanded_url": "https://www.instagram.com/p/CVBMiB9Pp7d/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CVBMiB9Pp7d/…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2295045266,
+			"id_str": "2295045266",
+			"name": "SDSU ZIP Launchpad",
+			"screen_name": "ZIPLaunchpad",
+			"location": "San Diego, CA",
+			"description": "The ZIP Launchpad is a business incubator that helps San Diego State University students build their own companies",
+			"url": "https://t.co/vXHYLYgpNN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vXHYLYgpNN",
+							"expanded_url": "http://ziplaunchpad.sdsu.edu",
+							"display_url": "ziplaunchpad.sdsu.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 285,
+			"listed_count": 31,
+			"created_at": "Thu Jan 16 21:32:23 +0000 2014",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140685261686202371/sLEyWCmJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140685261686202371/sLEyWCmJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2295045266/1562780882",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ZIP Launchpad has two teams (Wubbie and Till) participating in the @startupsandiego Pitch Competition! Click the link in our bio and use the code 21SDSU100 to attend! https://t.co/GmED2pls5P"
+	},
+	{
+		"created_at": "Thu Oct 14 18:33:58 +0000 2021",
+		"id": 1448718742213570600,
+		"id_str": "1448718742213570560",
+		"full_text": "Our #SDSM2021 Pitch Competition Lightweight Division is starting at 12 PM! Don't miss out! Twelve finalists are going head-to-head to win the ultimate cash prize of $10,000! Join in and watch this event: https://t.co/Imtbfuo80t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Imtbfuo80t",
+					"expanded_url": "http://ow.ly/MxDt50GrDLw",
+					"display_url": "ow.ly/MxDt50GrDLw",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4476,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our #SDSM2021 Pitch Competition Lightweight Division is starting at 12 PM! Don't miss out! Twelve finalists are going head-to-head to win the ultimate cash prize of $10,000! Join in and watch this event: https://t.co/Imtbfuo80t"
+	},
+	{
+		"created_at": "Thu Oct 14 17:11:48 +0000 2021",
+		"id": 1448698064013860900,
+		"id_str": "1448698064013860865",
+		"full_text": "Happening TODAY starting at 12 PM is our #SDSM2021 Pitch Competition &amp; Tournament! A total of 24 finalists have been chosen for the Lightweight &amp; Heavyweight Division and will go head-to-head to win the $10,000 cash prize! 🚀\n\nGet tickets and learn more: https://t.co/53iIglosVU https://t.co/c1izftDAD0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/53iIglosVU",
+					"expanded_url": "http://ow.ly/vOEP50GrAxQ",
+					"display_url": "ow.ly/vOEP50GrAxQ",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448697985416716300,
+					"id_str": "1448697985416716293",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448697985416716293/pu/img/AQy1ikYaGS4LJN4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448697985416716293/pu/img/AQy1ikYaGS4LJN4F.jpg",
+					"url": "https://t.co/c1izftDAD0",
+					"display_url": "pic.twitter.com/c1izftDAD0",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1448698064013860865/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448697985416716300,
+					"id_str": "1448697985416716293",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448697985416716293/pu/img/AQy1ikYaGS4LJN4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448697985416716293/pu/img/AQy1ikYaGS4LJN4F.jpg",
+					"url": "https://t.co/c1izftDAD0",
+					"display_url": "pic.twitter.com/c1izftDAD0",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1448698064013860865/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448697985416716293/pu/vid/640x360/Nt7rgfdun-4SqVp2.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448697985416716293/pu/vid/1280x720/qtdWbs0VkYR1YJ7U.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448697985416716293/pu/vid/480x270/zi_TMZ5eH4ifIjGT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448697985416716293/pu/pl/59COPtCH21asj264.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4476,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happening TODAY starting at 12 PM is our #SDSM2021 Pitch Competition &amp; Tournament! A total of 24 finalists have been chosen for the Lightweight &amp; Heavyweight Division and will go head-to-head to win the $10,000 cash prize! 🚀\n\nGet tickets and learn more: https://t.co/53iIglosVU https://t.co/c1izftDAD0"
+	},
+	{
+		"created_at": "Thu Oct 14 07:30:10 +0000 2021",
+		"id": 1448472903545020400,
+		"id_str": "1448551690043465732",
+		"full_text": "Our @StartupSanDiego session was a real talk on #Mentalhealth for #female #entrepreneurs. https://t.co/a9PRCQgvBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mentalhealth",
+					"indices": [
+						48,
+						61
+					]
+				},
+				{
+					"text": "female",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448472897404563500,
+					"id_str": "1448472897404563459",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FBoCbQSUcAMGHQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBoCbQSUcAMGHQz.jpg",
+					"url": "https://t.co/a9PRCQgvBG",
+					"display_url": "pic.twitter.com/a9PRCQgvBG",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1448472903545020416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 837,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448472897404563500,
+					"id_str": "1448472897404563459",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FBoCbQSUcAMGHQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBoCbQSUcAMGHQz.jpg",
+					"url": "https://t.co/a9PRCQgvBG",
+					"display_url": "pic.twitter.com/a9PRCQgvBG",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1448472903545020416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 837,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "Community organizer, DEI advocate, & co-founder for an upcoming tech venture - Expected launch Summer 2021 🚀",
+			"url": "https://t.co/oO7aLOcqjN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oO7aLOcqjN",
+							"expanded_url": "http://www.juliusalejandro.com",
+							"display_url": "juliusalejandro.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 688,
+			"listed_count": 57,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 2387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1611903256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our @StartupSanDiego session was a real talk on #Mentalhealth for #female #entrepreneurs. https://t.co/a9PRCQgvBG"
+	},
+	{
+		"created_at": "Thu Oct 14 07:29:59 +0000 2021",
+		"id": 1448426637545001000,
+		"id_str": "1448551645252517889",
+		"full_text": "Excited for this panel at San Diego Startup Month:\n\n- Brad Chisum + Kim Davis King @LaunchFactorySD \n- Derrick Oien @scorestream \n- Priscilla Guevara @ScienceInc \n\n#SDSM2021 @StartupSanDiego https://t.co/wdhNx4lPrz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaunchFactorySD",
+					"name": "Launch Factory",
+					"id": 1220430197435981800,
+					"id_str": "1220430197435981824",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"screen_name": "scorestream",
+					"name": "ScoreStream",
+					"id": 250299367,
+					"id_str": "250299367",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"screen_name": "ScienceInc",
+					"name": "Science",
+					"id": 397052290,
+					"id_str": "397052290",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						174,
+						190
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448425425521111000,
+					"id_str": "1448425425521111044",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FBnXQBvUcAQcnln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBnXQBvUcAQcnln.jpg",
+					"url": "https://t.co/wdhNx4lPrz",
+					"display_url": "pic.twitter.com/wdhNx4lPrz",
+					"expanded_url": "https://twitter.com/chrisleemph/status/1448426637545000965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1435,
+							"h": 890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448425425521111000,
+					"id_str": "1448425425521111044",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FBnXQBvUcAQcnln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBnXQBvUcAQcnln.jpg",
+					"url": "https://t.co/wdhNx4lPrz",
+					"display_url": "pic.twitter.com/wdhNx4lPrz",
+					"expanded_url": "https://twitter.com/chrisleemph/status/1448426637545000965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1435,
+							"h": 890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4807137794,
+			"id_str": "4807137794",
+			"name": "Christopher K. Lee",
+			"screen_name": "chrisleemph",
+			"location": "Orange County, CA",
+			"description": "Marketing @uclahealth. Content creator: https://t.co/21OVPtuCT9",
+			"url": "https://t.co/H57d5GX1Xl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H57d5GX1Xl",
+							"expanded_url": "http://linkedin.com/in/chrisleemph",
+							"display_url": "linkedin.com/in/chrisleemph",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/21OVPtuCT9",
+							"expanded_url": "http://youtube.com/PurposeRedeemed",
+							"display_url": "youtube.com/PurposeRedeemed",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 440,
+			"friends_count": 75,
+			"listed_count": 171,
+			"created_at": "Sun Jan 24 10:25:24 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388774082452221952/dx5cJE22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388774082452221952/dx5cJE22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4807137794/1453632536",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited for this panel at San Diego Startup Month:\n\n- Brad Chisum + Kim Davis King @LaunchFactorySD \n- Derrick Oien @scorestream \n- Priscilla Guevara @ScienceInc \n\n#SDSM2021 @StartupSanDiego https://t.co/wdhNx4lPrz"
+	},
+	{
+		"created_at": "Thu Oct 14 01:30:02 +0000 2021",
+		"id": 1448461060340535300,
+		"id_str": "1448461060340535296",
+		"full_text": "Join us for our last Community Showcase at 7PM. This session is all about unpacking the #femme founders’ experience to explore why their journey is unique,  importance of community, &amp; strategies for success. Ft. @thatsavvygal &amp; Lauren Rowley! Join in: https://t.co/P404PyApGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femme",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatsavvygal",
+					"name": "Raven O'Neal",
+					"id": 524513266,
+					"id_str": "524513266",
+					"indices": [
+						216,
+						229
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P404PyApGs",
+					"expanded_url": "http://ow.ly/1yng50GqVZB",
+					"display_url": "ow.ly/1yng50GqVZB",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4476,
+			"friends_count": 2328,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us for our last Community Showcase at 7PM. This session is all about unpacking the #femme founders’ experience to explore why their journey is unique,  importance of community, &amp; strategies for success. Ft. @thatsavvygal &amp; Lauren Rowley! Join in: https://t.co/P404PyApGs"
+	},
+	{
 		"created_at": "Wed Oct 13 23:30:02 +0000 2021",
 		"id": 1448430861469225000,
 		"id_str": "1448430861469224960",
