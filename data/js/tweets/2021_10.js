@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 23:30:04 +0000 2021",
+		"id": 1451329974330351600,
+		"id_str": "1451329974330351620",
+		"full_text": "Happening SOON at 5pm, Join #SDSM2021 for another Incubator Open Session, Featuring Ryan Kuder, Managing Director at Techstars Anywhere. Ryan will be walking our #Incubator Cohort through How to Raise Money for their #startup💰. Join in and get tickets: https://t.co/fHmxXwaIaB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "Incubator",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						217,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fHmxXwaIaB",
+					"expanded_url": "http://ow.ly/EhF850GuXB0",
+					"display_url": "ow.ly/EhF850GuXB0",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 2325,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happening SOON at 5pm, Join #SDSM2021 for another Incubator Open Session, Featuring Ryan Kuder, Managing Director at Techstars Anywhere. Ryan will be walking our #Incubator Cohort through How to Raise Money for their #startup💰. Join in and get tickets: https://t.co/fHmxXwaIaB"
+	},
+	{
+		"created_at": "Thu Oct 21 23:00:19 +0000 2021",
+		"id": 1451322484440113200,
+		"id_str": "1451322484440113153",
+		"full_text": "Looking for some feedback with your #LinkedIn profile? Tonight at 5PM join Taylor Cavanah, CEO at @petdesk for a LIVE LinkedIn Teardown &amp; Buildup. Taylor has been growing teams and knows exactly what hiring managers/leads look for on LinkedIn. Join: https://t.co/mq5JNgPGLj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LinkedIn",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "petdesk",
+					"name": "PetDesk",
+					"id": 1311445760,
+					"id_str": "1311445760",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mq5JNgPGLj",
+					"expanded_url": "http://ow.ly/k14u50GuXHM",
+					"display_url": "ow.ly/k14u50GuXHM",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 2325,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for some feedback with your #LinkedIn profile? Tonight at 5PM join Taylor Cavanah, CEO at @petdesk for a LIVE LinkedIn Teardown &amp; Buildup. Taylor has been growing teams and knows exactly what hiring managers/leads look for on LinkedIn. Join: https://t.co/mq5JNgPGLj"
+	},
+	{
+		"created_at": "Thu Oct 21 17:00:39 +0000 2021",
+		"id": 1451231974157336600,
+		"id_str": "1451231974157336587",
+		"full_text": "What's the best way to raise money for your #Startup 💰? Find out with Ryan Kuder, Managing Director at Techstars Anywhere, with our #SDSM2021 Incubator Open Session at 5PM. Join in and get tickets: https://t.co/h3GfzUtkyJ https://t.co/PUlDLprnkT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Startup",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "SDSM2021",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h3GfzUtkyJ",
+					"expanded_url": "http://ow.ly/8Xlq50GuXx7",
+					"display_url": "ow.ly/8Xlq50GuXx7",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451231972085440500,
+					"id_str": "1451231972085440513",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPPyibXoAE3iv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPPyibXoAE3iv0.jpg",
+					"url": "https://t.co/PUlDLprnkT",
+					"display_url": "pic.twitter.com/PUlDLprnkT",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1451231974157336587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451231972085440500,
+					"id_str": "1451231972085440513",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FCPPyibXoAE3iv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCPPyibXoAE3iv0.jpg",
+					"url": "https://t.co/PUlDLprnkT",
+					"display_url": "pic.twitter.com/PUlDLprnkT",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1451231974157336587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4475,
+			"friends_count": 2325,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What's the best way to raise money for your #Startup 💰? Find out with Ryan Kuder, Managing Director at Techstars Anywhere, with our #SDSM2021 Incubator Open Session at 5PM. Join in and get tickets: https://t.co/h3GfzUtkyJ https://t.co/PUlDLprnkT"
+	},
+	{
 		"created_at": "Tue Oct 19 23:30:02 +0000 2021",
 		"id": 1450605190135038000,
 		"id_str": "1450605190135037956",
