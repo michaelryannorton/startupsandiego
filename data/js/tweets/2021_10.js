@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 23:35:51 +0000 2021",
+		"id": 1454230531848249300,
+		"id_str": "1454230531848249347",
+		"full_text": "We're starting our #SDSM2021 Startup Awards Party &amp; Reception Shortly! So excited to see you all in the new San Diego Tech Center by Alexandria.  Around 6 PM we'll be doing an Instagram LIVE for the Awards Ceremony.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4484,
+			"friends_count": 2325,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "We're starting our #SDSM2021 Startup Awards Party &amp; Reception Shortly! So excited to see you all in the new San Diego Tech Center by Alexandria.  Around 6 PM we'll be doing an Instagram LIVE for the Awards Ceremony."
+	},
+	{
+		"created_at": "Fri Oct 29 22:39:39 +0000 2021",
+		"id": 1454153274165063700,
+		"id_str": "1454216388118257671",
+		"full_text": "Come hang with us in person for the final day of #SDSM2021\n\n@StartupSanDiego Startup Awards Party &amp; Reception. There's still time to grab a ticket and celebrate our #startup culture!\n\nhttps://t.co/JXmLtJCHnf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						60,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JXmLtJCHnf",
+					"expanded_url": "https://www.sandiegostartupweek.com/",
+					"display_url": "sandiegostartupweek.com",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1454153273082933200,
+		"in_reply_to_status_id_str": "1454153273082933259",
+		"in_reply_to_user_id": 134660407,
+		"in_reply_to_user_id_str": "134660407",
+		"in_reply_to_screen_name": "jonahpeake",
+		"user": {
+			"id": 134660407,
+			"id_str": "134660407",
+			"name": "jonah",
+			"screen_name": "jonahpeake",
+			"location": "San Diego, CA",
+			"description": "Stay Optimistic and Always be Curious\n#startups #tech #sandiego\nwriting a book with my dad: https://t.co/f2X2iFjFia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/f2X2iFjFia",
+							"expanded_url": "http://itwasnostaycation.com",
+							"display_url": "itwasnostaycation.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 374,
+			"listed_count": 9,
+			"created_at": "Mon Apr 19 02:56:20 +0000 2010",
+			"favourites_count": 2351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195422",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407911087815618568/InFd1mi-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407911087815618568/InFd1mi-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134660407/1624507161",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "80C458",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come hang with us in person for the final day of #SDSM2021\n\n@StartupSanDiego Startup Awards Party &amp; Reception. There's still time to grab a ticket and celebrate our #startup culture!\n\nhttps://t.co/JXmLtJCHnf"
+	},
+	{
+		"created_at": "Fri Oct 29 22:39:27 +0000 2021",
+		"id": 1454168667462127600,
+		"id_str": "1454216336377368580",
+		"full_text": "We were nominated by @StartupSanDiego  as one of the Startups Of The Year. A huge honor!\n\nWe will be at the final ceremony tonight hanging with @ryankuder @NealBloom and many more amazing folks\n\nCome hang out with founders, investors, and startup geeks\n\nhttps://t.co/4rNeG0XVHB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom 🎩",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						155,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4rNeG0XVHB",
+					"expanded_url": "https://www.eventbrite.com/e/san-diego-startup-month-2021-tickets-127228294253",
+					"display_url": "eventbrite.com/e/san-diego-st…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111230048,
+			"id_str": "111230048",
+			"name": "Daniel Goldstein",
+			"screen_name": "Goldstein222",
+			"location": "San Diego",
+			"description": "Co-Founder/COO @trustandwill // Passion inspires progress // I love solving problems // legal, tech, finance // Chicago raised. SD Based. @baylor alum",
+			"url": "https://t.co/AIfMU4qLcd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AIfMU4qLcd",
+							"expanded_url": "http://www.trustandwill.com",
+							"display_url": "trustandwill.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1063,
+			"friends_count": 1393,
+			"listed_count": 71,
+			"created_at": "Thu Feb 04 06:14:15 +0000 2010",
+			"favourites_count": 3211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450558163854319616/LLZzxzEu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450558163854319616/LLZzxzEu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111230048/1436309057",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We were nominated by @StartupSanDiego  as one of the Startups Of The Year. A huge honor!\n\nWe will be at the final ceremony tonight hanging with @ryankuder @NealBloom and many more amazing folks\n\nCome hang out with founders, investors, and startup geeks\n\nhttps://t.co/4rNeG0XVHB"
+	},
+	{
+		"created_at": "Fri Oct 29 21:00:09 +0000 2021",
+		"id": 1454191345933951000,
+		"id_str": "1454191345933950986",
+		"full_text": "The grand finale of #SDSM2021 is starting in a few hours! Get LAST MINUTE tickets for our in-person Startup Awards Party &amp; Reception. Network with some of the best entrepreneurs in San Diego. Get Tickets: https://t.co/TNdDk5tFnK https://t.co/sWeFhURFmo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM2021",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TNdDk5tFnK",
+					"expanded_url": "http://ow.ly/sei050GBw60",
+					"display_url": "ow.ly/sei050GBw60",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1454191343669026800,
+					"id_str": "1454191343669026816",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FC5TUorXIAAp8AA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC5TUorXIAAp8AA.jpg",
+					"url": "https://t.co/sWeFhURFmo",
+					"display_url": "pic.twitter.com/sWeFhURFmo",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1454191345933950986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1454191343669026800,
+					"id_str": "1454191343669026816",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FC5TUorXIAAp8AA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC5TUorXIAAp8AA.jpg",
+					"url": "https://t.co/sWeFhURFmo",
+					"display_url": "pic.twitter.com/sWeFhURFmo",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1454191345933950986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us for #SDSM2021 happening October 1 - 29, 2021 - Get tickets: https://t.co/pKuEWWhRPI #StartupSD",
+			"url": "https://t.co/7LZNZT3tWU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7LZNZT3tWU",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pKuEWWhRPI",
+							"expanded_url": "http://sandiegostartupweek.com",
+							"display_url": "sandiegostartupweek.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4484,
+			"friends_count": 2325,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The grand finale of #SDSM2021 is starting in a few hours! Get LAST MINUTE tickets for our in-person Startup Awards Party &amp; Reception. Network with some of the best entrepreneurs in San Diego. Get Tickets: https://t.co/TNdDk5tFnK https://t.co/sWeFhURFmo"
+	},
+	{
 		"created_at": "Thu Oct 28 17:00:13 +0000 2021",
 		"id": 1453768580621906000,
 		"id_str": "1453768580621905921",
