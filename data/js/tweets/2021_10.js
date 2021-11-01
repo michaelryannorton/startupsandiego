@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 31 03:02:31 +0000 2021",
+		"id": 1454564916271087600,
+		"id_str": "1454644926403072003",
+		"full_text": "From last night @StartupSanDiego first annual #Startup Awards &amp; closing of @SDStartupWeek. It was good to be with community IRL https://t.co/T8Gwq8LGOI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Startup",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1454564900777324500,
+					"id_str": "1454564900777324550",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FC-nEhWVcAYVG4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC-nEhWVcAYVG4V.jpg",
+					"url": "https://t.co/T8Gwq8LGOI",
+					"display_url": "pic.twitter.com/T8Gwq8LGOI",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1454564916271087622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1454564900777324500,
+					"id_str": "1454564900777324550",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FC-nEhWVcAYVG4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC-nEhWVcAYVG4V.jpg",
+					"url": "https://t.co/T8Gwq8LGOI",
+					"display_url": "pic.twitter.com/T8Gwq8LGOI",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1454564916271087622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1454564900785713200,
+					"id_str": "1454564900785713154",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FC-nEhYVcAIE3s_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC-nEhYVcAIE3s_.jpg",
+					"url": "https://t.co/T8Gwq8LGOI",
+					"display_url": "pic.twitter.com/T8Gwq8LGOI",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1454564916271087622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1454564900785717200,
+					"id_str": "1454564900785717248",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FC-nEhYVgAAig9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC-nEhYVgAAig9I.jpg",
+					"url": "https://t.co/T8Gwq8LGOI",
+					"display_url": "pic.twitter.com/T8Gwq8LGOI",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1454564916271087622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1454564900873781200,
+					"id_str": "1454564900873781248",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FC-nEhtVQAAN9zn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC-nEhtVQAAN9zn.jpg",
+					"url": "https://t.co/T8Gwq8LGOI",
+					"display_url": "pic.twitter.com/T8Gwq8LGOI",
+					"expanded_url": "https://twitter.com/juls_alejandro/status/1454564916271087622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "Community organizer, DEI advocate, & co-founder for an upcoming tech venture - Expected launch Summer 2021 🚀",
+			"url": "https://t.co/oO7aLOcqjN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oO7aLOcqjN",
+							"expanded_url": "http://www.juliusalejandro.com",
+							"display_url": "juliusalejandro.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447,
+			"friends_count": 691,
+			"listed_count": 57,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 2407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1611903256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From last night @StartupSanDiego first annual #Startup Awards &amp; closing of @SDStartupWeek. It was good to be with community IRL https://t.co/T8Gwq8LGOI"
+	},
+	{
 		"created_at": "Fri Oct 29 23:35:51 +0000 2021",
 		"id": 1454230531848249300,
 		"id_str": "1454230531848249347",
