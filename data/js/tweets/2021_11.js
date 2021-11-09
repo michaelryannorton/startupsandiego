@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 23:25:14 +0000 2021",
+		"id": 1456719212009775000,
+		"id_str": "1457851739227533318",
+		"full_text": "@SVB_Financial @StartupSanDiego @SDStartupWeek Thank you to the volunteers of @SDStartupWeek, and all those who joined us to make it happen, &amp; to @lexaRaeN (Her supporting husband) and all the co-founders and team at @StartupSanDiego THANK YOU.",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SVB_Financial",
+					"name": "Silicon Valley Bank",
+					"id": 17396865,
+					"id_str": "17396865",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "SDStartupWeek",
+					"name": "San Diego Startup Month",
+					"id": 2339762118,
+					"id_str": "2339762118",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						221,
+						237
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1456654070299701200,
+		"in_reply_to_status_id_str": "1456654070299701269",
+		"in_reply_to_user_id": 17396865,
+		"in_reply_to_user_id_str": "17396865",
+		"in_reply_to_screen_name": "SVB_Financial",
+		"user": {
+			"id": 111437784,
+			"id_str": "111437784",
+			"name": "Eric Otterson",
+			"screen_name": "VentureConnect",
+			"location": "San Diego",
+			"description": "Serial entrepreneur, angel, San Diego booster, board member, supporter of innovation through funding, advising and network advantage of Silicon Valley Bank.",
+			"url": "http://t.co/q5kL5ZhUpp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q5kL5ZhUpp",
+							"expanded_url": "http://SVB.com",
+							"display_url": "SVB.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 237,
+			"listed_count": 61,
+			"created_at": "Thu Feb 04 22:56:02 +0000 2010",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780538068939870208/DeEZkuea_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780538068939870208/DeEZkuea_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111437784/1444407086",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@SVB_Financial @StartupSanDiego @SDStartupWeek Thank you to the volunteers of @SDStartupWeek, and all those who joined us to make it happen, &amp; to @lexaRaeN (Her supporting husband) and all the co-founders and team at @StartupSanDiego THANK YOU."
+	},
+	{
 		"created_at": "Wed Nov 03 19:54:00 +0000 2021",
 		"id": 1455986641793953800,
 		"id_str": "1455986641793953793",
