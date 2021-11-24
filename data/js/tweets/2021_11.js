@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 23:38:11 +0000 2021",
+		"id": 1463227778220761000,
+		"id_str": "1463290815317430278",
+		"full_text": "Very grateful for @StartupSanDiego for welcoming me &amp; helping with my #entrepreneurship journey. https://t.co/hgKDgWLLCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneurship",
+					"indices": [
+						74,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hgKDgWLLCj",
+					"expanded_url": "https://twitter.com/startupsandiego/status/1463216611536642058",
+					"display_url": "twitter.com/startupsandieg…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3433772714,
+			"id_str": "3433772714",
+			"name": "Julius Alejandro",
+			"screen_name": "juls_alejandro",
+			"location": "San Diego, CA",
+			"description": "Finding innovative approaches of technology and human collaboration to address complex issues.",
+			"url": "https://t.co/0LieXReANe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0LieXReANe",
+							"expanded_url": "http://www.juliusalejandro.com",
+							"display_url": "juliusalejandro.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 691,
+			"listed_count": 57,
+			"created_at": "Thu Sep 03 05:53:06 +0000 2015",
+			"favourites_count": 2453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319694208270172160/fvHmMcpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3433772714/1611903256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463216611536642000,
+		"quoted_status_id_str": "1463216611536642058",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hgKDgWLLCj",
+			"expanded": "https://twitter.com/startupsandiego/status/1463216611536642058",
+			"display": "twitter.com/startupsandieg…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 23 18:43:20 +0000 2021",
+			"id": 1463216611536642000,
+			"id_str": "1463216611536642058",
+			"full_text": "At Startup San Diego we are dedicated in creating an inclusive #startup community that will foster and nourish the next generation of entrepreneurs. We're proud of the impact we've made in Julius's startup #journey and we hope to support many more.Donate: https://t.co/8h3HKO7QXQ https://t.co/DWjXTe2vZb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "startup",
+						"indices": [
+							63,
+							71
+						]
+					},
+					{
+						"text": "journey",
+						"indices": [
+							206,
+							214
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8h3HKO7QXQ",
+						"expanded_url": "http://ow.ly/8uzc50GUK2K",
+						"display_url": "ow.ly/8uzc50GUK2K",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1463216609682768000,
+						"id_str": "1463216609682767875",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FE5jwQmXwAMNlKo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FE5jwQmXwAMNlKo.jpg",
+						"url": "https://t.co/DWjXTe2vZb",
+						"display_url": "pic.twitter.com/DWjXTe2vZb",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1463216611536642058/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1463216609682768000,
+						"id_str": "1463216609682767875",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FE5jwQmXwAMNlKo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FE5jwQmXwAMNlKo.jpg",
+						"url": "https://t.co/DWjXTe2vZb",
+						"display_url": "pic.twitter.com/DWjXTe2vZb",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1463216611536642058/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. #StartupSD",
+				"url": "https://t.co/dCUHKND7uJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dCUHKND7uJ",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4502,
+				"friends_count": 2324,
+				"listed_count": 118,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2333,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very grateful for @StartupSanDiego for welcoming me &amp; helping with my #entrepreneurship journey. https://t.co/hgKDgWLLCj"
+	},
+	{
 		"created_at": "Mon Nov 22 18:16:28 +0000 2021",
 		"id": 1462847465762263000,
 		"id_str": "1462847465762263042",
