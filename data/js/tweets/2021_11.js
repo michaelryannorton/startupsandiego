@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 18:36:16 +0000 2021",
+		"id": 1463577222246281200,
+		"id_str": "1463577222246281219",
+		"full_text": "Exclusively for #GivingTuesday, Donate as a Philanthropic Investor. Some perks include:\n\n✅Custom SSD merch\n✅ San Diego Startup Week tickets &amp; Discounts\n✅ Recognition on our platforms\n✅ Board access\n✅ Startup Awards Ceremony Invitation\n\nDonate Today: https://t.co/bqwJmTFYtP https://t.co/aGuG9nvHvo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GivingTuesday",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bqwJmTFYtP",
+					"expanded_url": "https://lnkd.in/gN3YzwUv",
+					"display_url": "lnkd.in/gN3YzwUv",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463577220258181000,
+					"id_str": "1463577220258181126",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FE-rujrXsAYEScT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE-rujrXsAYEScT.jpg",
+					"url": "https://t.co/aGuG9nvHvo",
+					"display_url": "pic.twitter.com/aGuG9nvHvo",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1463577222246281219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463577220258181000,
+					"id_str": "1463577220258181126",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FE-rujrXsAYEScT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE-rujrXsAYEScT.jpg",
+					"url": "https://t.co/aGuG9nvHvo",
+					"display_url": "pic.twitter.com/aGuG9nvHvo",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1463577222246281219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4501,
+			"friends_count": 2324,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exclusively for #GivingTuesday, Donate as a Philanthropic Investor. Some perks include:\n\n✅Custom SSD merch\n✅ San Diego Startup Week tickets &amp; Discounts\n✅ Recognition on our platforms\n✅ Board access\n✅ Startup Awards Ceremony Invitation\n\nDonate Today: https://t.co/bqwJmTFYtP https://t.co/aGuG9nvHvo"
+	},
+	{
 		"created_at": "Tue Nov 23 23:38:11 +0000 2021",
 		"id": 1463227778220761000,
 		"id_str": "1463290815317430278",
