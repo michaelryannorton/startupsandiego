@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 30 20:25:27 +0000 2021",
+		"id": 1465779026056949800,
+		"id_str": "1465779026056949770",
+		"full_text": "We believe that guiding the next generation of #entrepreneurs and #founders is a vital part of growing the Startup Ecosystem. \n\n🚀 Support the future of the startup community. Contribute to our #GivingTuesday Campaign.\n\n➡️ https://t.co/6Wo6t9UQti https://t.co/4TXKs7bezc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"text": "founders",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "GivingTuesday",
+					"indices": [
+						193,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Wo6t9UQti",
+					"expanded_url": "https://startupsd.org/donate",
+					"display_url": "startupsd.org/donate",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465779024421081000,
+					"id_str": "1465779024421081089",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FFd-QbXWUAE7VhX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFd-QbXWUAE7VhX.jpg",
+					"url": "https://t.co/4TXKs7bezc",
+					"display_url": "pic.twitter.com/4TXKs7bezc",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1465779026056949770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465779024421081000,
+					"id_str": "1465779024421081089",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FFd-QbXWUAE7VhX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFd-QbXWUAE7VhX.jpg",
+					"url": "https://t.co/4TXKs7bezc",
+					"display_url": "pic.twitter.com/4TXKs7bezc",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1465779026056949770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4500,
+			"friends_count": 2323,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1629310407",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We believe that guiding the next generation of #entrepreneurs and #founders is a vital part of growing the Startup Ecosystem. \n\n🚀 Support the future of the startup community. Contribute to our #GivingTuesday Campaign.\n\n➡️ https://t.co/6Wo6t9UQti https://t.co/4TXKs7bezc"
+	},
+	{
 		"created_at": "Mon Nov 29 19:15:14 +0000 2021",
 		"id": 1465398969824120800,
 		"id_str": "1465398969824120848",
