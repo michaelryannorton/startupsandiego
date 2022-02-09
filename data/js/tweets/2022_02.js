@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 21:06:13 +0000 2022",
+		"id": 1491156436809883600,
+		"id_str": "1491156436809883651",
+		"full_text": "Thank you to everyone that came out to our 1st Mondays event last night! We had a blast seeing new and familiar faces and a great mini-panel with our local #entrepreneurs and #investors.\n\nWe hope to see you at our next #networking event on May 2nd, more details coming soon 🚀 https://t.co/BQLpPm4ewE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "entrepreneurs",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"text": "investors",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "networking",
+					"indices": [
+						219,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491156366504902700,
+					"id_str": "1491156366504902663",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1491156366504902663/pu/img/4fMjITTwtuVLjxpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1491156366504902663/pu/img/4fMjITTwtuVLjxpm.jpg",
+					"url": "https://t.co/BQLpPm4ewE",
+					"display_url": "pic.twitter.com/BQLpPm4ewE",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1491156436809883651/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491156366504902700,
+					"id_str": "1491156366504902663",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1491156366504902663/pu/img/4fMjITTwtuVLjxpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1491156366504902663/pu/img/4fMjITTwtuVLjxpm.jpg",
+					"url": "https://t.co/BQLpPm4ewE",
+					"display_url": "pic.twitter.com/BQLpPm4ewE",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1491156436809883651/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7900,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1491156366504902663/pu/pl/xD-CaVaDqmswpJwH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1491156366504902663/pu/vid/720x1280/T6F6CysDw7Ej1QJV.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1491156366504902663/pu/vid/480x852/aqdA0sw3WkNBD4Ol.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1491156366504902663/pu/vid/320x568/Hw4wGlXZ3BIPaJAT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us Feb 7th for our in-person 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4536,
+			"friends_count": 2321,
+			"listed_count": 121,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1642666589",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to everyone that came out to our 1st Mondays event last night! We had a blast seeing new and familiar faces and a great mini-panel with our local #entrepreneurs and #investors.\n\nWe hope to see you at our next #networking event on May 2nd, more details coming soon 🚀 https://t.co/BQLpPm4ewE"
+	},
+	{
+		"created_at": "Tue Feb 08 21:01:05 +0000 2022",
+		"id": 1490883503323775000,
+		"id_str": "1491155144620355591",
+		"full_text": "Managing Partner @ALBsharah along with Venture Partner @silviamah dropping some 🔥at @StartupSanDiego #1stMondays https://t.co/k8NjEQJzLD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ALBsharah",
+					"name": "Al Bsharah",
+					"id": 16711411,
+					"id_str": "16711411",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "silviamah",
+					"name": "Silvia Mah",
+					"id": 200349076,
+					"id_str": "200349076",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490883498508374000,
+					"id_str": "1490883498508374019",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCupJIVUAMp7gF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCupJIVUAMp7gF.jpg",
+					"url": "https://t.co/k8NjEQJzLD",
+					"display_url": "pic.twitter.com/k8NjEQJzLD",
+					"expanded_url": "https://twitter.com/InterlockCap/status/1490883503323774976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490883498508374000,
+					"id_str": "1490883498508374019",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCupJIVUAMp7gF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCupJIVUAMp7gF.jpg",
+					"url": "https://t.co/k8NjEQJzLD",
+					"display_url": "pic.twitter.com/k8NjEQJzLD",
+					"expanded_url": "https://twitter.com/InterlockCap/status/1490883503323774976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1349073151091634200,
+			"id_str": "1349073151091634176",
+			"name": "Interlock Capital",
+			"screen_name": "InterlockCap",
+			"location": "",
+			"description": "This is not your typical startup fund. Begin or expand your angel career and become a Venture Partner. FIND, EVALUATE, FUND, and SUPPORT great co's.",
+			"url": "https://t.co/9udzFLXvH5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9udzFLXvH5",
+							"expanded_url": "https://interlock.capital",
+							"display_url": "interlock.capital",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 64,
+			"listed_count": 8,
+			"created_at": "Tue Jan 12 19:18:12 +0000 2021",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369036866637340674/zzvy9LVL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369036866637340674/zzvy9LVL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Managing Partner @ALBsharah along with Venture Partner @silviamah dropping some 🔥at @StartupSanDiego #1stMondays https://t.co/k8NjEQJzLD"
+	},
+	{
+		"created_at": "Tue Feb 08 21:00:57 +0000 2022",
+		"id": 1491155109472096300,
+		"id_str": "1491155109472096259",
+		"full_text": "@MoniqueSoltani @InterlockCap @ALBsharah @silviamah May 2nd! Keep a look out for more details",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MoniqueSoltani",
+					"name": "Monique Soltani",
+					"id": 102509647,
+					"id_str": "102509647",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "InterlockCap",
+					"name": "Interlock Capital",
+					"id": 1349073151091634200,
+					"id_str": "1349073151091634176",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "ALBsharah",
+					"name": "Al Bsharah",
+					"id": 16711411,
+					"id_str": "16711411",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "silviamah",
+					"name": "Silvia Mah",
+					"id": 200349076,
+					"id_str": "200349076",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1490886736133517300,
+		"in_reply_to_status_id_str": "1490886736133517314",
+		"in_reply_to_user_id": 102509647,
+		"in_reply_to_user_id_str": "102509647",
+		"in_reply_to_screen_name": "MoniqueSoltani",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us Feb 7th for our in-person 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4536,
+			"friends_count": 2321,
+			"listed_count": 121,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1642666589",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MoniqueSoltani @InterlockCap @ALBsharah @silviamah May 2nd! Keep a look out for more details"
+	},
+	{
 		"created_at": "Mon Feb 07 19:42:41 +0000 2022",
 		"id": 1490773028686467000,
 		"id_str": "1490773028686467074",
