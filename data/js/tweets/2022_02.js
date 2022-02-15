@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 19:45:34 +0000 2022",
+		"id": 1493310467846070300,
+		"id_str": "1493310467846070273",
+		"full_text": "Join @founding  for a live and interactive online #Pitch event on Tues, Feb 15th! Pitch your ideas to a panel of San Diego #startup investors and experts and get ratings and feedback, all from the comfort of your home. \n\nRegister: https://t.co/iOLSC82Y7W\n\n@mrusk @mikesherbakov",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pitch",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "founding",
+					"name": "Founder Institute",
+					"id": 29054405,
+					"id_str": "29054405",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"screen_name": "mrusk",
+					"name": "Mysty Rusk",
+					"id": 20454953,
+					"id_str": "20454953",
+					"indices": [
+						256,
+						262
+					]
+				},
+				{
+					"screen_name": "mikesherbakov",
+					"name": "Mike Sherbakov",
+					"id": 41002099,
+					"id_str": "41002099",
+					"indices": [
+						263,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iOLSC82Y7W",
+					"expanded_url": "http://ow.ly/8LuT50HUPJz",
+					"display_url": "ow.ly/8LuT50HUPJz",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on May 2nd for our in-person 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKNlw69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKNlw69",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4547,
+			"friends_count": 2320,
+			"listed_count": 121,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1644780956",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @founding  for a live and interactive online #Pitch event on Tues, Feb 15th! Pitch your ideas to a panel of San Diego #startup investors and experts and get ratings and feedback, all from the comfort of your home. \n\nRegister: https://t.co/iOLSC82Y7W\n\n@mrusk @mikesherbakov"
+	},
+	{
 		"created_at": "Fri Feb 11 21:44:39 +0000 2022",
 		"id": 1492253272593293300,
 		"id_str": "1492253272593293319",
