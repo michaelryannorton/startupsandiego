@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 18:37:22 +0000 2022",
+		"id": 1494018080057577500,
+		"id_str": "1494018080057577475",
+		"full_text": "San Diego Life Sciences businesses &amp; startups: @SDRegionalEDC's #advancingSD is selecting 15 companies to host paid Lab Technician interns from local Preferred Providers of Life Sciences Talent—at no cost to you.\n\nApply by 5 pm Monday, February 28th ⤵️\nhttps://t.co/tCg4WCUnWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "advancingSD",
+					"indices": [
+						68,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDRegionalEDC",
+					"name": "San Diego Regional EDC",
+					"id": 113474827,
+					"id_str": "113474827",
+					"indices": [
+						51,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tCg4WCUnWU",
+					"expanded_url": "https://lnkd.in/gPNBpEs",
+					"display_url": "lnkd.in/gPNBpEs",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on May 2nd for our in-person 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKNlw69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKNlw69",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4550,
+			"friends_count": 2319,
+			"listed_count": 121,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1644780956",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "San Diego Life Sciences businesses &amp; startups: @SDRegionalEDC's #advancingSD is selecting 15 companies to host paid Lab Technician interns from local Preferred Providers of Life Sciences Talent—at no cost to you.\n\nApply by 5 pm Monday, February 28th ⤵️\nhttps://t.co/tCg4WCUnWU"
+	},
+	{
 		"created_at": "Tue Feb 15 20:05:03 +0000 2022",
 		"id": 1493677757569683500,
 		"id_str": "1493677757569683459",
