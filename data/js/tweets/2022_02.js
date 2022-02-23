@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 19:33:46 +0000 2022",
+		"id": 1496206600876482600,
+		"id_str": "1496206600876482563",
+		"full_text": "Have a virtual coffee with Paul Roben, Associate Vice Chancellor for UC San Diego's Office of Innovation &amp; Commercialization, to ask open-ended questions about patents, licensing, invention reporting, &amp; educational programming on campus!\n\nHappening Feb 23: https://t.co/u8oKoUrMCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u8oKoUrMCJ",
+					"expanded_url": "http://ow.ly/CJr950I1zR2",
+					"display_url": "ow.ly/CJr950I1zR2",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on May 2nd for our in-person 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKNlw69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKNlw69",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4552,
+			"friends_count": 2318,
+			"listed_count": 121,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1644780956",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have a virtual coffee with Paul Roben, Associate Vice Chancellor for UC San Diego's Office of Innovation &amp; Commercialization, to ask open-ended questions about patents, licensing, invention reporting, &amp; educational programming on campus!\n\nHappening Feb 23: https://t.co/u8oKoUrMCJ"
+	},
+	{
 		"created_at": "Wed Feb 16 18:37:22 +0000 2022",
 		"id": 1494018080057577500,
 		"id_str": "1494018080057577475",
