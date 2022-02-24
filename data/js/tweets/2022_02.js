@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 19:29:31 +0000 2022",
+		"id": 1496567921287614500,
+		"id_str": "1496567921287614469",
+		"full_text": "@comcast @NBCUniversal selected 10 Startups from more than 800 applicants in 44 countries to join them for their SportsTech Accelerator program, #SDSM Incubator alumni, @grobconnolly, CEO and co-founder of @meetlete was one of them.\n\nRead more &amp; support: https://t.co/08ZLK7z7S4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSM",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "comcast",
+					"name": "Comcast",
+					"id": 89587925,
+					"id_str": "89587925",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "NBCUniversal",
+					"name": "NBCUniversal",
+					"id": 93673287,
+					"id_str": "93673287",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "grobconnolly",
+					"name": "Rob Connolly",
+					"id": 95285563,
+					"id_str": "95285563",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "meetlete",
+					"name": "Meetlete",
+					"id": 1347601674538373000,
+					"id_str": "1347601674538373120",
+					"indices": [
+						206,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/08ZLK7z7S4",
+					"expanded_url": "http://ow.ly/BK6q50I2FUX",
+					"display_url": "ow.ly/BK6q50I2FUX",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 89587925,
+		"in_reply_to_user_id_str": "89587925",
+		"in_reply_to_screen_name": "comcast",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on May 2nd for our in-person 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKNlw69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKNlw69",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4552,
+			"friends_count": 2318,
+			"listed_count": 121,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1644780956",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@comcast @NBCUniversal selected 10 Startups from more than 800 applicants in 44 countries to join them for their SportsTech Accelerator program, #SDSM Incubator alumni, @grobconnolly, CEO and co-founder of @meetlete was one of them.\n\nRead more &amp; support: https://t.co/08ZLK7z7S4"
+	},
+	{
 		"created_at": "Tue Feb 22 19:33:46 +0000 2022",
 		"id": 1496206600876482600,
 		"id_str": "1496206600876482563",
