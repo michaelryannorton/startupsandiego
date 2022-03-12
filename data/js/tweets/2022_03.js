@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 18:00:40 +0000 2022",
+		"id": 1502343766765670400,
+		"id_str": "1502343766765670406",
+		"full_text": "TODAY is the last day to get Early-bird tickets for this year's Convergence before prices go up! Get your tickets today and join us for 2-nights of #startup keynotes, workshops, and networking events.\n\nGet tickets and see the schedule: https://t.co/VXZaK3tZMq https://t.co/xpJQwRYfUh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						148,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VXZaK3tZMq",
+					"expanded_url": "https://lnkd.in/gQja5Fe",
+					"display_url": "lnkd.in/gQja5Fe",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1502343695428956200,
+					"id_str": "1502343695428956165",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502343695428956165/pu/img/moNC6sQcXHDIt-Ft.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502343695428956165/pu/img/moNC6sQcXHDIt-Ft.jpg",
+					"url": "https://t.co/xpJQwRYfUh",
+					"display_url": "pic.twitter.com/xpJQwRYfUh",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1502343766765670406/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502343695428956200,
+					"id_str": "1502343695428956165",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502343695428956165/pu/img/moNC6sQcXHDIt-Ft.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502343695428956165/pu/img/moNC6sQcXHDIt-Ft.jpg",
+					"url": "https://t.co/xpJQwRYfUh",
+					"display_url": "pic.twitter.com/xpJQwRYfUh",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1502343766765670406/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1502343695428956165/pu/pl/BKJu4QJ4fJmLGCFw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502343695428956165/pu/vid/320x320/1fMnoB9PjVAMxB4G.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502343695428956165/pu/vid/720x720/H9n1AJ_xAnFQNjjz.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502343695428956165/pu/vid/540x540/pF5a3666JwF6iSdZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4563,
+			"friends_count": 2317,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY is the last day to get Early-bird tickets for this year's Convergence before prices go up! Get your tickets today and join us for 2-nights of #startup keynotes, workshops, and networking events.\n\nGet tickets and see the schedule: https://t.co/VXZaK3tZMq https://t.co/xpJQwRYfUh"
+	},
+	{
 		"created_at": "Tue Mar 08 18:33:14 +0000 2022",
 		"id": 1501264796368478200,
 		"id_str": "1501264796368478209",
