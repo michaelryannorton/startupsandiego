@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 17:51:05 +0000 2022",
+		"id": 1512475880601358300,
+		"id_str": "1512488214841409538",
+		"full_text": "#Tritons!  Take part in the toughest Intercollegiate #pitch battle around, hosted at @UCSanDiego! @StartupSanDiego's panel of local San Diego Investors will crown the champs, April 14. Apply by Sunday, April 9! https://t.co/oW9cZgRcXb https://t.co/B57Lgmd6I2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tritons",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "pitch",
+					"indices": [
+						53,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCSanDiego",
+					"name": "UC San Diego",
+					"id": 338660808,
+					"id_str": "338660808",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oW9cZgRcXb",
+					"expanded_url": "https://airtable.com/shrhdW0CubpP1lpXs",
+					"display_url": "airtable.com/shrhdW0CubpP1l…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512475878613209000,
+					"id_str": "1512475878613209091",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FP1kzFQWUAM9TYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP1kzFQWUAM9TYB.jpg",
+					"url": "https://t.co/B57Lgmd6I2",
+					"display_url": "pic.twitter.com/B57Lgmd6I2",
+					"expanded_url": "https://twitter.com/UCSDInnovation/status/1512475880601358338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512475878613209000,
+					"id_str": "1512475878613209091",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FP1kzFQWUAM9TYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP1kzFQWUAM9TYB.jpg",
+					"url": "https://t.co/B57Lgmd6I2",
+					"display_url": "pic.twitter.com/B57Lgmd6I2",
+					"expanded_url": "https://twitter.com/UCSDInnovation/status/1512475880601358338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1823,
+			"friends_count": 1379,
+			"listed_count": 103,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1622227014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Tritons!  Take part in the toughest Intercollegiate #pitch battle around, hosted at @UCSanDiego! @StartupSanDiego's panel of local San Diego Investors will crown the champs, April 14. Apply by Sunday, April 9! https://t.co/oW9cZgRcXb https://t.co/B57Lgmd6I2"
+	},
+	{
 		"created_at": "Thu Apr 07 19:00:04 +0000 2022",
 		"id": 1512143186487038000,
 		"id_str": "1512143186487037953",
