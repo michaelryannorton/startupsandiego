@@ -1,6 +1,737 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 15:15:39 +0000 2022",
+		"id": 1513898647095849000,
+		"id_str": "1513898647095848978",
+		"full_text": "Are you ready for #Convergence2022? We're only 1 Day Away from one of the biggest student-focused #startup conference in SD! This year we'll be featuring startup leaders, recruiting champions, &amp; local startup founders/SD University alumni!\n\nGet tickets: https://t.co/e4xMsoQYNN https://t.co/427OKX16wG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2022",
+					"indices": [
+						18,
+						34
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4xMsoQYNN",
+					"expanded_url": "http://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513898644617019400,
+					"id_str": "1513898644617019397",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FQJyy9pXwAUfcYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQJyy9pXwAUfcYq.jpg",
+					"url": "https://t.co/427OKX16wG",
+					"display_url": "pic.twitter.com/427OKX16wG",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1513898647095848978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513898644617019400,
+					"id_str": "1513898644617019397",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FQJyy9pXwAUfcYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQJyy9pXwAUfcYq.jpg",
+					"url": "https://t.co/427OKX16wG",
+					"display_url": "pic.twitter.com/427OKX16wG",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1513898647095848978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4591,
+			"friends_count": 2315,
+			"listed_count": 0,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you ready for #Convergence2022? We're only 1 Day Away from one of the biggest student-focused #startup conference in SD! This year we'll be featuring startup leaders, recruiting champions, &amp; local startup founders/SD University alumni!\n\nGet tickets: https://t.co/e4xMsoQYNN https://t.co/427OKX16wG"
+	},
+	{
+		"created_at": "Tue Apr 12 15:00:07 +0000 2022",
+		"id": 1513578257035104300,
+		"id_str": "1513894740831440900",
+		"full_text": "Are you ready for @StartupSanDiego's Convergence? This Wednesday &amp; Thursday, engage with #SanDiego's top tech companies for two nights of keynotes, networking, and mentorship workshops! Happening April 13-14, get tickets: https://t.co/uiLSpTUYRC https://t.co/F2WFf95643",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uiLSpTUYRC",
+					"expanded_url": "https://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513578239012319200,
+					"id_str": "1513578239012319238",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FQFPY5wXMAYClUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQFPY5wXMAYClUb.jpg",
+					"url": "https://t.co/F2WFf95643",
+					"display_url": "pic.twitter.com/F2WFf95643",
+					"expanded_url": "https://twitter.com/UCSDInnovation/status/1513578257035104260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513578239012319200,
+					"id_str": "1513578239012319238",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FQFPY5wXMAYClUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQFPY5wXMAYClUb.jpg",
+					"url": "https://t.co/F2WFf95643",
+					"display_url": "pic.twitter.com/F2WFf95643",
+					"expanded_url": "https://twitter.com/UCSDInnovation/status/1513578257035104260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1825,
+			"friends_count": 1382,
+			"listed_count": 103,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1622227014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you ready for @StartupSanDiego's Convergence? This Wednesday &amp; Thursday, engage with #SanDiego's top tech companies for two nights of keynotes, networking, and mentorship workshops! Happening April 13-14, get tickets: https://t.co/uiLSpTUYRC https://t.co/F2WFf95643"
+	},
+	{
+		"created_at": "Tue Apr 12 15:00:00 +0000 2022",
+		"id": 1513612482769739800,
+		"id_str": "1513894710435364864",
+		"full_text": "Look at who is on the judging panel, our very own Lauren A. Rowley!\nJoin @StartupSanDiego's Convergence on April 13th and 14th.\nUse our Startup San Diego community partner code: StellaLabs30 to claim your 30% discount on Convergence tickets here.\nhttps://t.co/Jde07aRuQq https://t.co/o4IH7Ymd6m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						73,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jde07aRuQq",
+					"expanded_url": "https://bit.ly/Convergence2022",
+					"display_url": "bit.ly/Convergence2022",
+					"indices": [
+						247,
+						270
+					]
+				},
+				{
+					"url": "https://t.co/o4IH7Ymd6m",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1509617258435264512",
+					"display_url": "twitter.com/StartupSanDieg…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1480627296,
+			"id_str": "1480627296",
+			"name": "Stella",
+			"screen_name": "wearestellaco",
+			"location": "San Diego",
+			"description": "Created for women, by women 💪🏻💪🏽💪🏿. Stella connects women founders and investors to the right resource–at the right time–in their journeys.",
+			"url": "https://t.co/fLeXRyzgok",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fLeXRyzgok",
+							"expanded_url": "https://linktr.ee/stellalabs",
+							"display_url": "linktr.ee/stellalabs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2339,
+			"friends_count": 1224,
+			"listed_count": 222,
+			"created_at": "Mon Jun 03 21:16:42 +0000 2013",
+			"favourites_count": 2405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509573094830231564/EZMnzHdA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509573094830231564/EZMnzHdA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1480627296/1646797576",
+			"profile_link_color": "8FA5B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1509617258435264500,
+		"quoted_status_id_str": "1509617258435264512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o4IH7Ymd6m",
+			"expanded": "https://twitter.com/StartupSanDiego/status/1509617258435264512",
+			"display": "twitter.com/StartupSanDieg…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 31 19:42:56 +0000 2022",
+			"id": 1509617258435264500,
+			"id_str": "1509617258435264512",
+			"full_text": "Check out our All-star judges for this year's Convergence! These judges will be in charge of picking the best pitch out of the sixteen hand-selected startups. To apply to pitch make sure to sign up here: https://t.co/VoustcXTHR\n\nGet  Convergence tickets: https://t.co/VXZaK3conQ https://t.co/JlmFfT4xwE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VoustcXTHR",
+						"expanded_url": "https://lnkd.in/gQQFYMKh",
+						"display_url": "lnkd.in/gQQFYMKh",
+						"indices": [
+							204,
+							227
+						]
+					},
+					{
+						"url": "https://t.co/VXZaK3conQ",
+						"expanded_url": "https://lnkd.in/gQja5Fe",
+						"display_url": "lnkd.in/gQja5Fe",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1509617256833200000,
+						"id_str": "1509617256833200130",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FPM85ZRXsAIJhBV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPM85ZRXsAIJhBV.jpg",
+						"url": "https://t.co/JlmFfT4xwE",
+						"display_url": "pic.twitter.com/JlmFfT4xwE",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1509617258435264512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1509617256833200000,
+						"id_str": "1509617256833200130",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FPM85ZRXsAIJhBV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPM85ZRXsAIJhBV.jpg",
+						"url": "https://t.co/JlmFfT4xwE",
+						"display_url": "pic.twitter.com/JlmFfT4xwE",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1509617258435264512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+				"url": "https://t.co/dCUHKND7uJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dCUHKND7uJ",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4591,
+				"friends_count": 2315,
+				"listed_count": 0,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2398,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4358,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look at who is on the judging panel, our very own Lauren A. Rowley!\nJoin @StartupSanDiego's Convergence on April 13th and 14th.\nUse our Startup San Diego community partner code: StellaLabs30 to claim your 30% discount on Convergence tickets here.\nhttps://t.co/Jde07aRuQq https://t.co/o4IH7Ymd6m"
+	},
+	{
 		"created_at": "Mon Apr 11 17:54:40 +0000 2022",
 		"id": 1513569552751161300,
 		"id_str": "1513576277894172672",
