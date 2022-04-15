@@ -1,6 +1,1695 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 23:58:42 +0000 2022",
+		"id": 1514755053420224500,
+		"id_str": "1514755053420224513",
+		"full_text": "Our last workshop of the night @NealBloom  &amp; @juls_alejandro are talking about Navigating the Ecosystem &amp; Pluggin-in! Meet us at the 2nd floor of the UCSD Design &amp; Innovation Building. Full schedule: https://t.co/e4xMsoQYNN\n\nUp next - Intercollegiate Pitch Competition! https://t.co/SCLjyBJMgZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "juls_alejandro",
+					"name": "Julius Alejandro",
+					"id": 3433772714,
+					"id_str": "3433772714",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e4xMsoQYNN",
+					"expanded_url": "http://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514755048743571500,
+					"id_str": "1514755048743571462",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FQV9sPoXEAY8rra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQV9sPoXEAY8rra.jpg",
+					"url": "https://t.co/SCLjyBJMgZ",
+					"display_url": "pic.twitter.com/SCLjyBJMgZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1514755053420224513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1924,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514755048743571500,
+					"id_str": "1514755048743571462",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FQV9sPoXEAY8rra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQV9sPoXEAY8rra.jpg",
+					"url": "https://t.co/SCLjyBJMgZ",
+					"display_url": "pic.twitter.com/SCLjyBJMgZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1514755053420224513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1924,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our last workshop of the night @NealBloom  &amp; @juls_alejandro are talking about Navigating the Ecosystem &amp; Pluggin-in! Meet us at the 2nd floor of the UCSD Design &amp; Innovation Building. Full schedule: https://t.co/e4xMsoQYNN\n\nUp next - Intercollegiate Pitch Competition! https://t.co/SCLjyBJMgZ"
+	},
+	{
+		"created_at": "Thu Apr 14 23:44:25 +0000 2022",
+		"id": 1514751459925139500,
+		"id_str": "1514751459925139460",
+		"full_text": "Justin (@JustinRenfro11) will be available for officer hours on the 4th floor terrace, ask him all about raising capital for your startup! \n\n#Convergence2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2022",
+					"indices": [
+						141,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JustinRenfro11",
+					"name": "Justin Renfro",
+					"id": 1378017455990169600,
+					"id_str": "1378017455990169605",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Justin (@JustinRenfro11) will be available for officer hours on the 4th floor terrace, ask him all about raising capital for your startup! \n\n#Convergence2022"
+	},
+	{
+		"created_at": "Thu Apr 14 23:42:48 +0000 2022",
+		"id": 1514751053388001300,
+		"id_str": "1514751053388001280",
+		"full_text": "Next up will be @NealBloom &amp; @juls_alejandro, they'll be talking about Navigating the Local Ecosystem and Pluggin-in! Join them on the 2nd floor of the UCSD Design &amp; Innovation Building. \n\nView the full schedule: https://t.co/Jxvq3JS3ld\n\n@InterlockCap #Convergence2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2022",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "juls_alejandro",
+					"name": "Julius Alejandro",
+					"id": 3433772714,
+					"id_str": "3433772714",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "InterlockCap",
+					"name": "Interlock Capital",
+					"id": 1349073151091634200,
+					"id_str": "1349073151091634176",
+					"indices": [
+						246,
+						259
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jxvq3JS3ld",
+					"expanded_url": "http://startupsd.org/convergence",
+					"display_url": "startupsd.org/convergence",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next up will be @NealBloom &amp; @juls_alejandro, they'll be talking about Navigating the Local Ecosystem and Pluggin-in! Join them on the 2nd floor of the UCSD Design &amp; Innovation Building. \n\nView the full schedule: https://t.co/Jxvq3JS3ld\n\n@InterlockCap #Convergence2022"
+	},
+	{
+		"created_at": "Thu Apr 14 23:21:33 +0000 2022",
+		"id": 1514745706032124000,
+		"id_str": "1514745706032123914",
+		"full_text": "We're starting our next workshop by @JustinRenfro11, Director of Growth at @Wefunder! He'll be talking about Accessing Capital &amp; What You Need to Know. Join us on the 2nd event floor in the UCSD Design &amp; Innovation building.\n\nFull schedule: https://t.co/e4xMsoQYNN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JustinRenfro11",
+					"name": "Justin Renfro",
+					"id": 1378017455990169600,
+					"id_str": "1378017455990169605",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"screen_name": "Wefunder",
+					"name": "Wefunder",
+					"id": 468423167,
+					"id_str": "468423167",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e4xMsoQYNN",
+					"expanded_url": "http://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're starting our next workshop by @JustinRenfro11, Director of Growth at @Wefunder! He'll be talking about Accessing Capital &amp; What You Need to Know. Join us on the 2nd event floor in the UCSD Design &amp; Innovation building.\n\nFull schedule: https://t.co/e4xMsoQYNN"
+	},
+	{
+		"created_at": "Thu Apr 14 23:18:23 +0000 2022",
+		"id": 1514744909286232000,
+		"id_str": "1514744909286232065",
+		"full_text": "Great workshop by Mike Roberts @3c4sd! #Convergence2022 attendees learned a lot on how to build a solid startup team and different resources. Check out his officer hours in 4th Floor Open Landing A at the Design and Innovation Building. \n\nFull schedule: https://t.co/e4xMsoQYNN https://t.co/6uqO3J9hcP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2022",
+					"indices": [
+						39,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "3c4sd",
+					"name": "Creating Coding Careers for San Diegans",
+					"id": 1194694455321714700,
+					"id_str": "1194694455321714693",
+					"indices": [
+						31,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e4xMsoQYNN",
+					"expanded_url": "http://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514744906677469200,
+					"id_str": "1514744906677469191",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FQV0d5fXwAcA44f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQV0d5fXwAcA44f.jpg",
+					"url": "https://t.co/6uqO3J9hcP",
+					"display_url": "pic.twitter.com/6uqO3J9hcP",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1514744909286232065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514744906677469200,
+					"id_str": "1514744906677469191",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FQV0d5fXwAcA44f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQV0d5fXwAcA44f.jpg",
+					"url": "https://t.co/6uqO3J9hcP",
+					"display_url": "pic.twitter.com/6uqO3J9hcP",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1514744909286232065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great workshop by Mike Roberts @3c4sd! #Convergence2022 attendees learned a lot on how to build a solid startup team and different resources. Check out his officer hours in 4th Floor Open Landing A at the Design and Innovation Building. \n\nFull schedule: https://t.co/e4xMsoQYNN https://t.co/6uqO3J9hcP"
+	},
+	{
+		"created_at": "Thu Apr 14 22:49:52 +0000 2022",
+		"id": 1514735442926600200,
+		"id_str": "1514737734035902470",
+		"full_text": "Happening now! @ryankuder @Techstars “Perfecting your #pitch” wrkshp. Super engaging + full of insight. Ryan will not you disengage + leave w/out learning something👏🏼💪🏽 How does Super Mario + The Princess Bride relate to your pitch? Find out @#convergence2022 @StartupSanDiego https://t.co/wzBi3W7Pl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pitch",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "convergence2022",
+					"indices": [
+						243,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder 🦄🌊🌮",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "Techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514735426837250000,
+					"id_str": "1514735426837250055",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FQVr2GVVgAcW4Rb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQVr2GVVgAcW4Rb.jpg",
+					"url": "https://t.co/wzBi3W7Pl4",
+					"display_url": "pic.twitter.com/wzBi3W7Pl4",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1514735442926600202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514735426837250000,
+					"id_str": "1514735426837250055",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FQVr2GVVgAcW4Rb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQVr2GVVgAcW4Rb.jpg",
+					"url": "https://t.co/wzBi3W7Pl4",
+					"display_url": "pic.twitter.com/wzBi3W7Pl4",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1514735442926600202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514735426841444400,
+					"id_str": "1514735426841444359",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FQVr2GWVgAcCbR0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQVr2GWVgAcCbR0.jpg",
+					"url": "https://t.co/wzBi3W7Pl4",
+					"display_url": "pic.twitter.com/wzBi3W7Pl4",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1514735442926600202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514735426958884900,
+					"id_str": "1514735426958884890",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FQVr2GyVgBoI3gI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQVr2GyVgBoI3gI.jpg",
+					"url": "https://t.co/wzBi3W7Pl4",
+					"display_url": "pic.twitter.com/wzBi3W7Pl4",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1514735442926600202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514735426954690600,
+					"id_str": "1514735426954690561",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FQVr2GxVgAECb7V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQVr2GxVgAECb7V.jpg",
+					"url": "https://t.co/wzBi3W7Pl4",
+					"display_url": "pic.twitter.com/wzBi3W7Pl4",
+					"expanded_url": "https://twitter.com/Thinkleap/status/1514735442926600202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1966,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26823079,
+			"id_str": "26823079",
+			"name": "Caitlin Wege",
+			"screen_name": "Thinkleap",
+			"location": "San Diego, CA",
+			"description": "Activist + Investor / President @nufundventures / Partner, MooDoos / Board Member @startupsandiego @neuralace @pumpspotting / Chairperson@ CPL-Glasshouse Pharma",
+			"url": "https://t.co/7Gaq9CyzkH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7Gaq9CyzkH",
+							"expanded_url": "http://www.moodooslp.com",
+							"display_url": "moodooslp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 305,
+			"listed_count": 6,
+			"created_at": "Thu Mar 26 19:13:10 +0000 2009",
+			"favourites_count": 2457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415110958414852099/nGg-yWWc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415110958414852099/nGg-yWWc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26823079/1626923044",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9c931d0088000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9c931d0088000.json",
+			"place_type": "poi",
+			"name": "University of California, San Diego (UCSD)",
+			"full_name": "University of California, San Diego (UCSD)",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.2389196551706,
+							32.87979301300122
+						],
+						[
+							-117.2389196551706,
+							32.87979301300122
+						],
+						[
+							-117.2389196551706,
+							32.87979301300122
+						],
+						[
+							-117.2389196551706,
+							32.87979301300122
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happening now! @ryankuder @Techstars “Perfecting your #pitch” wrkshp. Super engaging + full of insight. Ryan will not you disengage + leave w/out learning something👏🏼💪🏽 How does Super Mario + The Princess Bride relate to your pitch? Find out @#convergence2022 @StartupSanDiego https://t.co/wzBi3W7Pl4"
+	},
+	{
+		"created_at": "Thu Apr 14 22:48:24 +0000 2022",
+		"id": 1514737364010250200,
+		"id_str": "1514737364010250241",
+		"full_text": "Convergence Workshops  &amp; Officer hours are happening on the 2nd floor of the Design and Innovation building until 5:30 PM! Check out the full schedule: https://t.co/e4xMsoQYNN\n\nHappening soon: Accessing Capital &amp; What You Need to Know, with Justin Renfro, Director at @Wefunder",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wefunder",
+					"name": "Wefunder",
+					"id": 468423167,
+					"id_str": "468423167",
+					"indices": [
+						276,
+						285
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e4xMsoQYNN",
+					"expanded_url": "http://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Convergence Workshops  &amp; Officer hours are happening on the 2nd floor of the Design and Innovation building until 5:30 PM! Check out the full schedule: https://t.co/e4xMsoQYNN\n\nHappening soon: Accessing Capital &amp; What You Need to Know, with Justin Renfro, Director at @Wefunder"
+	},
+	{
+		"created_at": "Thu Apr 14 21:40:54 +0000 2022",
+		"id": 1514720377410367500,
+		"id_str": "1514720377410367489",
+		"full_text": "PRO Parking Tip: We HIGHLY Recommend that you park at the Noble Parking at the MTS Nobel Drive Station (La Jolla Village Square, 8657 Villa La Jolla Dr.)  You can catch the MTS blue line trolley &amp; 2 stops land in front of the Design &amp; Innovation building on UCSD Central Campus.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "PRO Parking Tip: We HIGHLY Recommend that you park at the Noble Parking at the MTS Nobel Drive Station (La Jolla Village Square, 8657 Villa La Jolla Dr.)  You can catch the MTS blue line trolley &amp; 2 stops land in front of the Design &amp; Innovation building on UCSD Central Campus."
+	},
+	{
+		"created_at": "Thu Apr 14 18:07:23 +0000 2022",
+		"id": 1514666641350611000,
+		"id_str": "1514666641350610946",
+		"full_text": "Convergence Night-2 focuses on creating an opportunity! Join us for educational workshop &amp; office hours, intercollegiate pitch competition &amp; tournament, and end the conference with our student startups &amp; ecosystem expo.\n\nView the full Convergence schedule: https://t.co/e4xMsoQYNN https://t.co/EFF808KC8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4xMsoQYNN",
+					"expanded_url": "http://startupsd.org/convergence/",
+					"display_url": "startupsd.org/convergence/",
+					"indices": [
+						269,
+						292
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514666639366701000,
+					"id_str": "1514666639366701060",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUtSJCWQAQe25r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQUtSJCWQAQe25r.jpg",
+					"url": "https://t.co/EFF808KC8M",
+					"display_url": "pic.twitter.com/EFF808KC8M",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1514666641350610946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514666639366701000,
+					"id_str": "1514666639366701060",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUtSJCWQAQe25r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQUtSJCWQAQe25r.jpg",
+					"url": "https://t.co/EFF808KC8M",
+					"display_url": "pic.twitter.com/EFF808KC8M",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1514666641350610946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Convergence Night-2 focuses on creating an opportunity! Join us for educational workshop &amp; office hours, intercollegiate pitch competition &amp; tournament, and end the conference with our student startups &amp; ecosystem expo.\n\nView the full Convergence schedule: https://t.co/e4xMsoQYNN https://t.co/EFF808KC8M"
+	},
+	{
+		"created_at": "Thu Apr 14 01:46:58 +0000 2022",
+		"id": 1514419912919466000,
+		"id_str": "1514419912919465987",
+		"full_text": "Starting at 7 PM  we'll be kicking off our our keynote panel - Land Your Dream Tech Job in a Rapidly Expanding Gig Economy, with top recruiters, Kyle Barbato, Gabby Povoli, and Emily Wentworth! Join us in Exec Conference Room 213/214!\n\n#Convergence2022 #hiring #jobs @gofundme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Convergence2022",
+					"indices": [
+						236,
+						252
+					]
+				},
+				{
+					"text": "hiring",
+					"indices": [
+						253,
+						260
+					]
+				},
+				{
+					"text": "jobs",
+					"indices": [
+						261,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gofundme",
+					"name": "GoFundMe",
+					"id": 112897540,
+					"id_str": "112897540",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us April 13-14 for Convergence 2022. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKND7uJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKND7uJ",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 2314,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1646433266",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Starting at 7 PM  we'll be kicking off our our keynote panel - Land Your Dream Tech Job in a Rapidly Expanding Gig Economy, with top recruiters, Kyle Barbato, Gabby Povoli, and Emily Wentworth! Join us in Exec Conference Room 213/214!\n\n#Convergence2022 #hiring #jobs @gofundme"
+	},
+	{
 		"created_at": "Wed Apr 13 23:36:52 +0000 2022",
 		"id": 1514387173247701000,
 		"id_str": "1514387173247700994",
