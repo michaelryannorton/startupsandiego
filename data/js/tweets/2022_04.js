@@ -1,6 +1,556 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 18:04:39 +0000 2022",
+		"id": 1516840284297998300,
+		"id_str": "1516840284297998342",
+		"full_text": "We're coming together again for our quarterly 1st Mondays networking event! Join us Monday, May 2nd for a night of connection, expert panel, and happy hour.\n\nLearn more &amp; get tickets before they sell out: https://t.co/V8vTKb2tcd\n\n#networking #StartupSD #sandiego #1stMondays https://t.co/7KFyI9xE4G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "networking",
+					"indices": [
+						234,
+						245
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						246,
+						256
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						257,
+						266
+					]
+				},
+				{
+					"text": "1stMondays",
+					"indices": [
+						267,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V8vTKb2tcd",
+					"expanded_url": "http://ow.ly/B4o550INTkB",
+					"display_url": "ow.ly/B4o550INTkB",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1516840281727029200,
+					"id_str": "1516840281727029249",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FQzmMx1X0AES6Lu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQzmMx1X0AES6Lu.jpg",
+					"url": "https://t.co/7KFyI9xE4G",
+					"display_url": "pic.twitter.com/7KFyI9xE4G",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1516840284297998342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516840281727029200,
+					"id_str": "1516840281727029249",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FQzmMx1X0AES6Lu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQzmMx1X0AES6Lu.jpg",
+					"url": "https://t.co/7KFyI9xE4G",
+					"display_url": "pic.twitter.com/7KFyI9xE4G",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1516840284297998342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on May 2nd for 1st Mondays. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKNlw69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKNlw69",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4603,
+			"friends_count": 2313,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1650477957",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're coming together again for our quarterly 1st Mondays networking event! Join us Monday, May 2nd for a night of connection, expert panel, and happy hour.\n\nLearn more &amp; get tickets before they sell out: https://t.co/V8vTKb2tcd\n\n#networking #StartupSD #sandiego #1stMondays https://t.co/7KFyI9xE4G"
+	},
+	{
+		"created_at": "Wed Apr 20 16:44:48 +0000 2022",
+		"id": 1516505094082101200,
+		"id_str": "1516820185767813121",
+		"full_text": "Find yourself below 📸🤳 Thanks to everyone who came out to @UCSanDiego for @StartupSanDiego Convergence Night 2! https://t.co/7NFlAcJK7m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCSanDiego",
+					"name": "UC San Diego",
+					"id": 338660808,
+					"id_str": "338660808",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7NFlAcJK7m",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1516485005760892932",
+					"display_url": "twitter.com/StartupSanDieg…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49085200,
+			"id_str": "49085200",
+			"name": "UCSD OIC",
+			"screen_name": "UCSDInnovation",
+			"location": "La Jolla CA",
+			"description": "UC San Diego Office of Innovation and Commercialization: Leading regional social and economic development – building a dynamic innovation culture and ecosystem.",
+			"url": "https://t.co/Uij5ceg6o5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uij5ceg6o5",
+							"expanded_url": "http://innovation.ucsd.edu",
+							"display_url": "innovation.ucsd.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1836,
+			"friends_count": 1384,
+			"listed_count": 103,
+			"created_at": "Sat Jun 20 19:02:47 +0000 2009",
+			"favourites_count": 840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843898368396939264/FtGToChU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49085200/1622227014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516485005760893000,
+		"quoted_status_id_str": "1516485005760892932",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7NFlAcJK7m",
+			"expanded": "https://twitter.com/StartupSanDiego/status/1516485005760892932",
+			"display": "twitter.com/StartupSanDieg…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 19 18:32:54 +0000 2022",
+			"id": 1516485005760893000,
+			"id_str": "1516485005760892932",
+			"full_text": "It was incredible seeing your beautiful faces last week, we still feel the adrenaline from #Convergence &amp; we can't wait to connect with you all again soon!\n\n📷 View Convergence pictures: https://t.co/Ufl7LXrv1N\n\n🤝 Join our next 1st Mondays event: https://t.co/JgiLtuE4ho https://t.co/f92eefbGZQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Convergence",
+						"indices": [
+							91,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ufl7LXrv1N",
+						"expanded_url": "http://ow.ly/FBHL50IMQJ0",
+						"display_url": "ow.ly/FBHL50IMQJ0",
+						"indices": [
+							190,
+							213
+						]
+					},
+					{
+						"url": "https://t.co/JgiLtuE4ho",
+						"expanded_url": "https://lnkd.in/g2tDUCa7",
+						"display_url": "lnkd.in/g2tDUCa7",
+						"indices": [
+							250,
+							273
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1516485002216853500,
+						"id_str": "1516485002216853519",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FQujEyhX0A88lmc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQujEyhX0A88lmc.jpg",
+						"url": "https://t.co/f92eefbGZQ",
+						"display_url": "pic.twitter.com/f92eefbGZQ",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1516485005760892932/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1516485002216853500,
+						"id_str": "1516485002216853519",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FQujEyhX0A88lmc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQujEyhX0A88lmc.jpg",
+						"url": "https://t.co/f92eefbGZQ",
+						"display_url": "pic.twitter.com/f92eefbGZQ",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1516485005760892932/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. Join us on May 2nd for 1st Mondays. Link in bio for tickets. #StartupSD",
+				"url": "https://t.co/dCUHKNlw69",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dCUHKNlw69",
+								"expanded_url": "https://startupsd.org/",
+								"display_url": "startupsd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4603,
+				"friends_count": 2313,
+				"listed_count": 119,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2417,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4385,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1650477957",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Find yourself below 📸🤳 Thanks to everyone who came out to @UCSanDiego for @StartupSanDiego Convergence Night 2! https://t.co/7NFlAcJK7m"
+	},
+	{
 		"created_at": "Fri Apr 15 18:50:30 +0000 2022",
 		"id": 1515039882212782000,
 		"id_str": "1515039882212782082",
@@ -616,7 +1166,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Brian Fraley",
 			"screen_name": "nanobri",
 			"location": "San Diego, CA",
-			"description": "Gay Engineer in the DNA tech field 👨‍🔬🏳️‍🌈 Data wrangler 🤓👨‍💻 Former fur daddy 🐶👼 Beard enthusiast 🧔❤ (He/They)",
+			"description": "Gay Engineer in the DNA tech field 👨🔬🏳️🌈 Data wrangler 🤓👨💻 Former fur daddy 🐶👼 Beard enthusiast 🧔❤ (He/They)",
 			"url": null,
 			"entities": {
 				"description": {
