@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 19:01:16 +0000 2022",
+		"id": 1518666467918626800,
+		"id_str": "1518666467918626817",
+		"full_text": "Happening in three days - @CONNECTinSD is hosting the largest #SanDiego innovation day celebration at Petco Park. The Concourse is SOLD OUT with 100+ exhibitors! Celebrate with 2500+ attendees, 150+ VC's, and Connect's 2022 Cool Companies! \n\nRegister: https://t.co/eX9TSzD45S https://t.co/gT3zc1K1KE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiego",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CONNECTinSD",
+					"name": "Connect",
+					"id": 319294242,
+					"id_str": "319294242",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eX9TSzD45S",
+					"expanded_url": "https://bit.ly/3JbCTgs",
+					"display_url": "bit.ly/3JbCTgs",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1518666466211602400,
+					"id_str": "1518666466211602441",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FRNjGtLXIAkjthZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRNjGtLXIAkjthZ.jpg",
+					"url": "https://t.co/gT3zc1K1KE",
+					"display_url": "pic.twitter.com/gT3zc1K1KE",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1518666467918626817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518666466211602400,
+					"id_str": "1518666466211602441",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FRNjGtLXIAkjthZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRNjGtLXIAkjthZ.jpg",
+					"url": "https://t.co/gT3zc1K1KE",
+					"display_url": "pic.twitter.com/gT3zc1K1KE",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1518666467918626817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on May 2nd for 1st Mondays. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/dCUHKNlw69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dCUHKNlw69",
+							"expanded_url": "https://startupsd.org/",
+							"display_url": "startupsd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4606,
+			"friends_count": 2312,
+			"listed_count": 119,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1650477957",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happening in three days - @CONNECTinSD is hosting the largest #SanDiego innovation day celebration at Petco Park. The Concourse is SOLD OUT with 100+ exhibitors! Celebrate with 2500+ attendees, 150+ VC's, and Connect's 2022 Cool Companies! \n\nRegister: https://t.co/eX9TSzD45S https://t.co/gT3zc1K1KE"
+	},
+	{
 		"created_at": "Thu Apr 21 16:36:49 +0000 2022",
 		"id": 1517180564717121500,
 		"id_str": "1517180564717121536",
