@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 14:43:52 +0000 2022",
+		"id": 1534184372970070000,
+		"id_str": "1534184372970070016",
+		"full_text": "Thank you to everyone who joined @BBBPacificSW for their first Diversity, Equity, and Inclusion Summit! It was a great time learning new DEI strategies with some very knowledgeable speakers.\n\nIt was a pleasure to be a Community Sponsor of this amazing event! \n\n#DEISummit2022 #DEI https://t.co/uCSsAmYSmy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEISummit2022",
+					"indices": [
+						261,
+						275
+					]
+				},
+				{
+					"text": "DEI",
+					"indices": [
+						276,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBBPacificSW",
+					"name": "BBB Serving the Pacific Southwest",
+					"id": 21798919,
+					"id_str": "21798919",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534184371187482600,
+					"id_str": "1534184371187482625",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FUqEjqCWAAEkL5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUqEjqCWAAEkL5C.jpg",
+					"url": "https://t.co/uCSsAmYSmy",
+					"display_url": "pic.twitter.com/uCSsAmYSmy",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1534184372970070016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534184371187482600,
+					"id_str": "1534184371187482625",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FUqEjqCWAAEkL5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUqEjqCWAAEkL5C.jpg",
+					"url": "https://t.co/uCSsAmYSmy",
+					"display_url": "pic.twitter.com/uCSsAmYSmy",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1534184372970070016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4664,
+			"friends_count": 2309,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to everyone who joined @BBBPacificSW for their first Diversity, Equity, and Inclusion Summit! It was a great time learning new DEI strategies with some very knowledgeable speakers.\n\nIt was a pleasure to be a Community Sponsor of this amazing event! \n\n#DEISummit2022 #DEI https://t.co/uCSsAmYSmy"
+	},
+	{
 		"created_at": "Thu Jun 02 15:08:10 +0000 2022",
 		"id": 1532378548136251400,
 		"id_str": "1532378548136251392",
