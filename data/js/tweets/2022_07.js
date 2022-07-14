@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 15:37:38 +0000 2022",
+		"id": 1547243863751917600,
+		"id_str": "1547243863751917568",
+		"full_text": "Do you need help improving sale? Join @JacobsCenter's Biz Resource Center for a Sales 101 workshop on July 19, 5-6:30 p.m.  This virtual workshop will cover sales strategy conversations &amp; the key psych factors that impact buyer decision-making. Sign up: https://t.co/EqSkIxWBNq https://t.co/ek9kbjpteN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JacobsCenter",
+					"name": "JacobsCenter",
+					"id": 1176944778,
+					"id_str": "1176944778",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EqSkIxWBNq",
+					"expanded_url": "http://bit.ly/sales_101_workshop",
+					"display_url": "bit.ly/sales_101_work…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547243860203643000,
+					"id_str": "1547243860203642886",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FXjqF9xXoAYG2P_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXjqF9xXoAYG2P_.jpg",
+					"url": "https://t.co/ek9kbjpteN",
+					"display_url": "pic.twitter.com/ek9kbjpteN",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1547243863751917568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547243860203643000,
+					"id_str": "1547243860203642886",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FXjqF9xXoAYG2P_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXjqF9xXoAYG2P_.jpg",
+					"url": "https://t.co/ek9kbjpteN",
+					"display_url": "pic.twitter.com/ek9kbjpteN",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1547243863751917568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4661,
+			"friends_count": 2305,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you need help improving sale? Join @JacobsCenter's Biz Resource Center for a Sales 101 workshop on July 19, 5-6:30 p.m.  This virtual workshop will cover sales strategy conversations &amp; the key psych factors that impact buyer decision-making. Sign up: https://t.co/EqSkIxWBNq https://t.co/ek9kbjpteN"
+	},
+	{
 		"created_at": "Tue Jul 12 14:56:53 +0000 2022",
 		"id": 1546871220456620000,
 		"id_str": "1546871220456620033",
