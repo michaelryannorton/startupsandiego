@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 17:10:49 +0000 2022",
+		"id": 1551615968450945000,
+		"id_str": "1551615968450945024",
+		"full_text": "There's only 7 DAYS LEFT to apply for this year's #SDSW2022 Heavyweight Pitch Competition! Last year we gave out $10,000 in cash prizes to 3 impactful San Diego #startups, this year we're giving another cash prize to winners!\n\n📝 Apply by Sunday July 31st: https://t.co/f5JBGxpsZs https://t.co/jYsiwGvzxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f5JBGxpsZs",
+					"expanded_url": "https://airtable.com/shrnoG1JfxW1AeUHr",
+					"display_url": "airtable.com/shrnoG1JfxW1Ae…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551615964936020000,
+					"id_str": "1551615964936019969",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FYhyf9HWIAE-d1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYhyf9HWIAE-d1Y.jpg",
+					"url": "https://t.co/jYsiwGvzxu",
+					"display_url": "pic.twitter.com/jYsiwGvzxu",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1551615968450945024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551615964936020000,
+					"id_str": "1551615964936019969",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FYhyf9HWIAE-d1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYhyf9HWIAE-d1Y.jpg",
+					"url": "https://t.co/jYsiwGvzxu",
+					"display_url": "pic.twitter.com/jYsiwGvzxu",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1551615968450945024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4668,
+			"friends_count": 2305,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's only 7 DAYS LEFT to apply for this year's #SDSW2022 Heavyweight Pitch Competition! Last year we gave out $10,000 in cash prizes to 3 impactful San Diego #startups, this year we're giving another cash prize to winners!\n\n📝 Apply by Sunday July 31st: https://t.co/f5JBGxpsZs https://t.co/jYsiwGvzxu"
+	},
+	{
 		"created_at": "Fri Jul 22 16:42:27 +0000 2022",
 		"id": 1550521666224021500,
 		"id_str": "1550521666224021504",
