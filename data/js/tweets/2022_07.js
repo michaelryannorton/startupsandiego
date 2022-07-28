@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 15:05:12 +0000 2022",
+		"id": 1552309132497133600,
+		"id_str": "1552309132497133568",
+		"full_text": "We're only accepting applications for 5 MORE DAYS! If you're looking to take your #startup to the next level, with expert mentorship, workshops, and networking, the Startup Incubator program is for you. \n\n🚀 Apply by July 31st: https://t.co/X3Z85LekIE\n\n#SDSW2022 @ryankuder https://t.co/ehd1F7rjP3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						252,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder 🦄🌊🌮",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						262,
+						272
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X3Z85LekIE",
+					"expanded_url": "http://ow.ly/MeaQ50K5vyf",
+					"display_url": "ow.ly/MeaQ50K5vyf",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552309129452068900,
+					"id_str": "1552309129452068865",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FYro7cKWIAERYbS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYro7cKWIAERYbS.jpg",
+					"url": "https://t.co/ehd1F7rjP3",
+					"display_url": "pic.twitter.com/ehd1F7rjP3",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1552309132497133568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552309129452068900,
+					"id_str": "1552309129452068865",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FYro7cKWIAERYbS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYro7cKWIAERYbS.jpg",
+					"url": "https://t.co/ehd1F7rjP3",
+					"display_url": "pic.twitter.com/ehd1F7rjP3",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1552309132497133568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4671,
+			"friends_count": 2305,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're only accepting applications for 5 MORE DAYS! If you're looking to take your #startup to the next level, with expert mentorship, workshops, and networking, the Startup Incubator program is for you. \n\n🚀 Apply by July 31st: https://t.co/X3Z85LekIE\n\n#SDSW2022 @ryankuder https://t.co/ehd1F7rjP3"
+	},
+	{
 		"created_at": "Tue Jul 26 16:46:26 +0000 2022",
 		"id": 1551972219550580700,
 		"id_str": "1551972219550580738",
