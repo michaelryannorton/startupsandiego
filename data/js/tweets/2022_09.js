@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 15:46:52 +0000 2022",
+		"id": 1567539907526099000,
+		"id_str": "1567539907526098948",
+		"full_text": "Joining us this upcoming 1st Mondays on Sept 12th is special guest @dontrahughes, Founder &amp; CEO at @gotSPARE &amp; part of the @Techstars'22 cohort. D'ontra will talk about his experience in #incubators, startups, and more! Get tickets: https://t.co/knWcZ4ukkH\n\n#1stMondays #startups https://t.co/uLcIsVHkbM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "incubators",
+					"indices": [
+						195,
+						206
+					]
+				},
+				{
+					"text": "1stMondays",
+					"indices": [
+						266,
+						277
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						278,
+						287
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dontrahughes",
+					"name": "D'ontra Hughes",
+					"id": 3586825152,
+					"id_str": "3586825152",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "gotSPARE",
+					"name": "SPARE.",
+					"id": 2518515962,
+					"id_str": "2518515962",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "Techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						131,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/knWcZ4ukkH",
+					"expanded_url": "http://ow.ly/hRWL50KCq2f",
+					"display_url": "ow.ly/hRWL50KCq2f",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567539905424756700,
+					"id_str": "1567539905424756737",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FcEFPSIXkAEWZ6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcEFPSIXkAEWZ6O.jpg",
+					"url": "https://t.co/uLcIsVHkbM",
+					"display_url": "pic.twitter.com/uLcIsVHkbM",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1567539907526098948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567539905424756700,
+					"id_str": "1567539905424756737",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FcEFPSIXkAEWZ6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcEFPSIXkAEWZ6O.jpg",
+					"url": "https://t.co/uLcIsVHkbM",
+					"display_url": "pic.twitter.com/uLcIsVHkbM",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1567539907526098948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4725,
+			"friends_count": 2305,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Joining us this upcoming 1st Mondays on Sept 12th is special guest @dontrahughes, Founder &amp; CEO at @gotSPARE &amp; part of the @Techstars'22 cohort. D'ontra will talk about his experience in #incubators, startups, and more! Get tickets: https://t.co/knWcZ4ukkH\n\n#1stMondays #startups https://t.co/uLcIsVHkbM"
+	},
+	{
 		"created_at": "Tue Sep 06 16:06:37 +0000 2022",
 		"id": 1567182492011987000,
 		"id_str": "1567182492011986944",
