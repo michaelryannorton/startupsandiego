@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 15:53:17 +0000 2022",
+		"id": 1568266298546610200,
+		"id_str": "1568266298546610177",
+		"full_text": "We're only a 3 days away from our 1st Mondays event happening this Monday, Sept 12th at the Local Roots Boochyard in Vista! Hear from @ryankuder, Managing Director at @Techstars Anywhere &amp; @StartupSanDiego Board Chair! Get tickets: https://t.co/fA4vPZ9N0M\n\n#1stMondays #networking https://t.co/HRWQuA7Fez",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						261,
+						272
+					]
+				},
+				{
+					"text": "networking",
+					"indices": [
+						273,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder 🦄🌊🌮",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"screen_name": "Techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						193,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fA4vPZ9N0M",
+					"expanded_url": "http://ow.ly/iUbU50KFAhe",
+					"display_url": "ow.ly/iUbU50KFAhe",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568266296390721500,
+					"id_str": "1568266296390721536",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FcOZ4zWWIAAjJoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcOZ4zWWIAAjJoW.jpg",
+					"url": "https://t.co/HRWQuA7Fez",
+					"display_url": "pic.twitter.com/HRWQuA7Fez",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1568266298546610177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568266296390721500,
+					"id_str": "1568266296390721536",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FcOZ4zWWIAAjJoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcOZ4zWWIAAjJoW.jpg",
+					"url": "https://t.co/HRWQuA7Fez",
+					"display_url": "pic.twitter.com/HRWQuA7Fez",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1568266298546610177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4729,
+			"friends_count": 2305,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're only a 3 days away from our 1st Mondays event happening this Monday, Sept 12th at the Local Roots Boochyard in Vista! Hear from @ryankuder, Managing Director at @Techstars Anywhere &amp; @StartupSanDiego Board Chair! Get tickets: https://t.co/fA4vPZ9N0M\n\n#1stMondays #networking https://t.co/HRWQuA7Fez"
+	},
+	{
 		"created_at": "Wed Sep 07 15:46:52 +0000 2022",
 		"id": 1567539907526099000,
 		"id_str": "1567539907526098948",
