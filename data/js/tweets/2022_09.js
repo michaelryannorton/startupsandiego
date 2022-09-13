@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 15:16:43 +0000 2022",
+		"id": 1569344263091097600,
+		"id_str": "1569344263091097603",
+		"full_text": "HAPPENING TONIGHT! Don't miss out on our Sept #1stMondays happening at @BoochLocalRoots in @cityofvista. Join us for a night of networking &amp; learn all about #incubators &amp; #accelerators. Get tickets: https://t.co/5Wn1lh7ocR\n\n@wearestellaco @ReasonInvest @gotSPARE @Techstars https://t.co/XzS0uCmXU2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"text": "incubators",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "accelerators",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoochLocalRoots",
+					"name": "LocalRootsKombucha",
+					"id": 1319428325081632800,
+					"id_str": "1319428325081632770",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"screen_name": "cityofvista",
+					"name": "City of Vista, CA",
+					"id": 50044408,
+					"id_str": "50044408",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "wearestellaco",
+					"name": "Stella",
+					"id": 1480627296,
+					"id_str": "1480627296",
+					"indices": [
+						232,
+						246
+					]
+				},
+				{
+					"screen_name": "ReasonInvest",
+					"name": "Reason",
+					"id": 1412533501639872500,
+					"id_str": "1412533501639872512",
+					"indices": [
+						247,
+						260
+					]
+				},
+				{
+					"screen_name": "gotSPARE",
+					"name": "SPARE.",
+					"id": 2518515962,
+					"id_str": "2518515962",
+					"indices": [
+						261,
+						270
+					]
+				},
+				{
+					"screen_name": "Techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						271,
+						281
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5Wn1lh7ocR",
+					"expanded_url": "http://ow.ly/4XNr50KGYuV",
+					"display_url": "ow.ly/4XNr50KGYuV",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569344260792615000,
+					"id_str": "1569344260792614914",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FcduSlrXgAILvgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcduSlrXgAILvgK.jpg",
+					"url": "https://t.co/XzS0uCmXU2",
+					"display_url": "pic.twitter.com/XzS0uCmXU2",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1569344263091097603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569344260792615000,
+					"id_str": "1569344260792614914",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FcduSlrXgAILvgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcduSlrXgAILvgK.jpg",
+					"url": "https://t.co/XzS0uCmXU2",
+					"display_url": "pic.twitter.com/XzS0uCmXU2",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1569344263091097603/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4735,
+			"friends_count": 2303,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPENING TONIGHT! Don't miss out on our Sept #1stMondays happening at @BoochLocalRoots in @cityofvista. Join us for a night of networking &amp; learn all about #incubators &amp; #accelerators. Get tickets: https://t.co/5Wn1lh7ocR\n\n@wearestellaco @ReasonInvest @gotSPARE @Techstars https://t.co/XzS0uCmXU2"
+	},
+	{
 		"created_at": "Fri Sep 09 15:53:17 +0000 2022",
 		"id": 1568266298546610200,
 		"id_str": "1568266298546610177",
