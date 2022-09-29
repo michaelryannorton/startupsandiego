@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 28 16:27:54 +0000 2022",
+		"id": 1575160381240115200,
+		"id_str": "1575160381240115202",
+		"full_text": "Our first Startup Incubator Open Session is happening tomorrow @ 12 PM, we'll be talking all about legal! Joining us as a Mission Specialist is Kit Ryan Corporate &amp; Securities Associate at @pillsburylaw.\n\n⚖️ Learn legal essentials, sign up: https://t.co/bah3Cm9yMT\n\n#SDSW2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						270,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pillsburylaw",
+					"name": "PillsburyLaw",
+					"id": 17823729,
+					"id_str": "17823729",
+					"indices": [
+						193,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bah3Cm9yMT",
+					"expanded_url": "http://ow.ly/jBO550KW1Ki",
+					"display_url": "ow.ly/jBO550KW1Ki",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4754,
+			"friends_count": 2302,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our first Startup Incubator Open Session is happening tomorrow @ 12 PM, we'll be talking all about legal! Joining us as a Mission Specialist is Kit Ryan Corporate &amp; Securities Associate at @pillsburylaw.\n\n⚖️ Learn legal essentials, sign up: https://t.co/bah3Cm9yMT\n\n#SDSW2022"
+	},
+	{
+		"created_at": "Tue Sep 27 16:44:13 +0000 2022",
+		"id": 1574802097702420500,
+		"id_str": "1574802097702420481",
+		"full_text": "@startupsandiego\nCC: @ccoutdoor @CityofSanDiego @LabsBoost @Thinkleap  @USD_Business @SUSD @UCSDInnovation @carlsbadcagov @CSUSM @PLNU @cityofVista @cityofescondido @techcu @downtownworks @Insperity @trustandwill @miracosta @lexaRaeN\n @ckgoodman",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ccoutdoor",
+					"name": "ClearChannelOutdoor",
+					"id": 281092410,
+					"id_str": "281092410",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "CityofSanDiego",
+					"name": "City of San Diego",
+					"id": 25370473,
+					"id_str": "25370473",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "Thinkleap",
+					"name": "Caitlin Wege",
+					"id": 26823079,
+					"id_str": "26823079",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "usd_business",
+					"name": "USD Knauss School of Business",
+					"id": 39559225,
+					"id_str": "39559225",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"screen_name": "SUSD",
+					"name": "Sylvan District",
+					"id": 39301601,
+					"id_str": "39301601",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"screen_name": "UCSDInnovation",
+					"name": "UCSD OIC",
+					"id": 49085200,
+					"id_str": "49085200",
+					"indices": [
+						91,
+						106
+					]
+				},
+				{
+					"screen_name": "carlsbadcagov",
+					"name": "City of Carlsbad",
+					"id": 64486260,
+					"id_str": "64486260",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "CSUSM",
+					"name": "Cal State San Marcos",
+					"id": 373547790,
+					"id_str": "373547790",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"screen_name": "PLNU",
+					"name": "Point Loma Nazarene University",
+					"id": 48000835,
+					"id_str": "48000835",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"screen_name": "cityofvista",
+					"name": "City of Vista, CA",
+					"id": 50044408,
+					"id_str": "50044408",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"screen_name": "cityofescondido",
+					"name": "City of Escondido",
+					"id": 193334887,
+					"id_str": "193334887",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"screen_name": "TechCU",
+					"name": "Tech CU",
+					"id": 15986898,
+					"id_str": "15986898",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"screen_name": "downtownworks",
+					"name": "Downtown Works",
+					"id": 722890121935081500,
+					"id_str": "722890121935081472",
+					"indices": [
+						173,
+						187
+					]
+				},
+				{
+					"screen_name": "Insperity",
+					"name": "Insperity",
+					"id": 149176270,
+					"id_str": "149176270",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"screen_name": "trustandwill",
+					"name": "Trust & Will",
+					"id": 895876199372562400,
+					"id_str": "895876199372562433",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"screen_name": "MiraCosta",
+					"name": "MiraCosta College",
+					"id": 22537518,
+					"id_str": "22537518",
+					"indices": [
+						213,
+						223
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"screen_name": "Ckgoodman",
+					"name": "Cheryl K. Goodman",
+					"id": 39694330,
+					"id_str": "39694330",
+					"indices": [
+						235,
+						245
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1574800951730372600,
+		"in_reply_to_status_id_str": "1574800951730372609",
+		"in_reply_to_user_id": 3222944604,
+		"in_reply_to_user_id_str": "3222944604",
+		"in_reply_to_screen_name": "StartupSanDiego",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4754,
+			"friends_count": 2302,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@startupsandiego\nCC: @ccoutdoor @CityofSanDiego @LabsBoost @Thinkleap  @USD_Business @SUSD @UCSDInnovation @carlsbadcagov @CSUSM @PLNU @cityofVista @cityofescondido @techcu @downtownworks @Insperity @trustandwill @miracosta @lexaRaeN\n @ckgoodman"
+	},
+	{
+		"created_at": "Tue Sep 27 16:39:52 +0000 2022",
+		"id": 1574402256786673700,
+		"id_str": "1574801002900987904",
+		"full_text": "4 Days, 20 Sponsors, #IRL Best of the #Innovators #SDSW2022 @startupsandiego @ccoutdoor @CityofSanDiego @USD_Business @SUSD @UCSDInnovation @carlsbadcagov  @CSUSM @PLNU @cityofVista @cityofescondido @techcu @downtownworks @miracosta @lexaRaeN @ckgoodman https://t.co/Ap7COeUG0W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRL",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "Innovators",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"screen_name": "ccoutdoor",
+					"name": "ClearChannelOutdoor",
+					"id": 281092410,
+					"id_str": "281092410",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "CityofSanDiego",
+					"name": "City of San Diego",
+					"id": 25370473,
+					"id_str": "25370473",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"screen_name": "usd_business",
+					"name": "USD Knauss School of Business",
+					"id": 39559225,
+					"id_str": "39559225",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"screen_name": "SUSD",
+					"name": "Sylvan District",
+					"id": 39301601,
+					"id_str": "39301601",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"screen_name": "UCSDInnovation",
+					"name": "UCSD OIC",
+					"id": 49085200,
+					"id_str": "49085200",
+					"indices": [
+						124,
+						139
+					]
+				},
+				{
+					"screen_name": "carlsbadcagov",
+					"name": "City of Carlsbad",
+					"id": 64486260,
+					"id_str": "64486260",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"screen_name": "CSUSM",
+					"name": "Cal State San Marcos",
+					"id": 373547790,
+					"id_str": "373547790",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"screen_name": "PLNU",
+					"name": "Point Loma Nazarene University",
+					"id": 48000835,
+					"id_str": "48000835",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"screen_name": "cityofvista",
+					"name": "City of Vista, CA",
+					"id": 50044408,
+					"id_str": "50044408",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "cityofescondido",
+					"name": "City of Escondido",
+					"id": 193334887,
+					"id_str": "193334887",
+					"indices": [
+						182,
+						198
+					]
+				},
+				{
+					"screen_name": "TechCU",
+					"name": "Tech CU",
+					"id": 15986898,
+					"id_str": "15986898",
+					"indices": [
+						199,
+						206
+					]
+				},
+				{
+					"screen_name": "downtownworks",
+					"name": "Downtown Works",
+					"id": 722890121935081500,
+					"id_str": "722890121935081472",
+					"indices": [
+						207,
+						221
+					]
+				},
+				{
+					"screen_name": "MiraCosta",
+					"name": "MiraCosta College",
+					"id": 22537518,
+					"id_str": "22537518",
+					"indices": [
+						222,
+						232
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"screen_name": "Ckgoodman",
+					"name": "Cheryl K. Goodman",
+					"id": 39694330,
+					"id_str": "39694330",
+					"indices": [
+						243,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ap7COeUG0W",
+					"expanded_url": "http://s.einnews.com/NLXxvIP7Ya",
+					"display_url": "s.einnews.com/NLXxvIP7Ya",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.einnews.com\" rel=\"nofollow\">EIN Presswire</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44840411,
+			"id_str": "44840411",
+			"name": "EIN Presswire: Press Releases",
+			"screen_name": "EINPresswirePR",
+			"location": "Washington DC",
+			"description": "EIN Presswire is Everyone's Internet News Presswire™. We make issuing and distributing press releases easy and affordable.",
+			"url": "https://t.co/44nSzkPk8p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/44nSzkPk8p",
+							"expanded_url": "https://www.einpresswire.com/",
+							"display_url": "einpresswire.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5087,
+			"friends_count": 185,
+			"listed_count": 126,
+			"created_at": "Fri Jun 05 06:55:48 +0000 2009",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 255497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263078596320559104/HWd_RFzc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263078596320559104/HWd_RFzc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44840411/1591100701",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "999999",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4 Days, 20 Sponsors, #IRL Best of the #Innovators #SDSW2022 @startupsandiego @ccoutdoor @CityofSanDiego @USD_Business @SUSD @UCSDInnovation @carlsbadcagov  @CSUSM @PLNU @cityofVista @cityofescondido @techcu @downtownworks @miracosta @lexaRaeN @ckgoodman https://t.co/Ap7COeUG0W"
+	},
+	{
 		"created_at": "Mon Sep 26 15:55:50 +0000 2022",
 		"id": 1574427536192426000,
 		"id_str": "1574427536192425984",
