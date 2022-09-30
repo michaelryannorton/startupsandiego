@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 18:37:21 +0000 2022",
+		"id": 1575555344314630100,
+		"id_str": "1575555344314630157",
+		"full_text": "📢  We have 2 Incubator Open Sessions TODAY, first one starts @ 12 PM! \n\nSession 1: Legal This or That Essentials ft. @pillsburylaw 12PM PST. Sign up here: https://t.co/ESJPiLkH66\n\nSession 2: How to CEO ft. @ryankuder @TaraFalcone Morgan Spenla, @ 4pm: https://t.co/7NPNFBXbGV https://t.co/9LHWnrKpPz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pillsburylaw",
+					"name": "PillsburyLaw",
+					"id": 17823729,
+					"id_str": "17823729",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder 🦄🌊🌮",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"screen_name": "TaraFalcone",
+					"name": "Tara Falcone",
+					"id": 4047907342,
+					"id_str": "4047907342",
+					"indices": [
+						217,
+						229
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ESJPiLkH66",
+					"expanded_url": "https://www.eventbrite.com/e/427442681567",
+					"display_url": "eventbrite.com/e/427442681567",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/7NPNFBXbGV",
+					"expanded_url": "https://www.eventbrite.com/e/420959038817",
+					"display_url": "eventbrite.com/e/420959038817",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1575555342578188300,
+					"id_str": "1575555342578188296",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1_PIZXgAgbawe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1_PIZXgAgbawe.jpg",
+					"url": "https://t.co/9LHWnrKpPz",
+					"display_url": "pic.twitter.com/9LHWnrKpPz",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1575555344314630157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575555342578188300,
+					"id_str": "1575555342578188296",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd1_PIZXgAgbawe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd1_PIZXgAgbawe.jpg",
+					"url": "https://t.co/9LHWnrKpPz",
+					"display_url": "pic.twitter.com/9LHWnrKpPz",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1575555344314630157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4759,
+			"friends_count": 2302,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢  We have 2 Incubator Open Sessions TODAY, first one starts @ 12 PM! \n\nSession 1: Legal This or That Essentials ft. @pillsburylaw 12PM PST. Sign up here: https://t.co/ESJPiLkH66\n\nSession 2: How to CEO ft. @ryankuder @TaraFalcone Morgan Spenla, @ 4pm: https://t.co/7NPNFBXbGV https://t.co/9LHWnrKpPz"
+	},
+	{
 		"created_at": "Wed Sep 28 16:27:54 +0000 2022",
 		"id": 1575160381240115200,
 		"id_str": "1575160381240115202",
