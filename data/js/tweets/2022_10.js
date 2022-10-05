@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 16:51:50 +0000 2022",
+		"id": 1577340732465184800,
+		"id_str": "1577340732465184768",
+		"full_text": "Tonight at 4 PM — Join us for Incubator Session 4: Building Your Team ft. @heymisticain , Founder at @WhyzzeInc. Learn how to source great talent, how to grow your #startup team, and more.\n\n🚀 Sign up: https://t.co/wf0G5r8fSo\n\n#SDSW2022 #sandiegostartupweek #StartupSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						236,
+						256
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						257,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heymisticain",
+					"name": "Misti Cain",
+					"id": 4714863974,
+					"id_str": "4714863974",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"screen_name": "WhyzzeInc",
+					"name": "whyzze",
+					"id": 4175767994,
+					"id_str": "4175767994",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wf0G5r8fSo",
+					"expanded_url": "http://ow.ly/tkEM50L19MZ",
+					"display_url": "ow.ly/tkEM50L19MZ",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4764,
+			"friends_count": 2302,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight at 4 PM — Join us for Incubator Session 4: Building Your Team ft. @heymisticain , Founder at @WhyzzeInc. Learn how to source great talent, how to grow your #startup team, and more.\n\n🚀 Sign up: https://t.co/wf0G5r8fSo\n\n#SDSW2022 #sandiegostartupweek #StartupSD"
+	},
+	{
 		"created_at": "Mon Oct 03 20:56:50 +0000 2022",
 		"id": 1577040000654446600,
 		"id_str": "1577040000654446597",
