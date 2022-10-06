@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 22:32:27 +0000 2022",
+		"id": 1577788838231031800,
+		"id_str": "1577788838231031809",
+		"full_text": "Tomorrow at 4 PM Ethan Lu, EIR &amp; Data Science at BrightZen Systems will leading a workshop on how to leverage a financial model to impress investors and close checks.\n\n🚀 Sign up: https://t.co/fHZTDUQQ1V\n🗓️ Full schedule: https://t.co/Fq6NUvFUTc\n\n#SDSW2022 #sandiegostartupweek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						250,
+						259
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						260,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fHZTDUQQ1V",
+					"expanded_url": "http://ow.ly/U2k650L2FPM",
+					"display_url": "ow.ly/U2k650L2FPM",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/Fq6NUvFUTc",
+					"expanded_url": "http://ow.ly/nCVF50L2FPO",
+					"display_url": "ow.ly/nCVF50L2FPO",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4763,
+			"friends_count": 2302,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow at 4 PM Ethan Lu, EIR &amp; Data Science at BrightZen Systems will leading a workshop on how to leverage a financial model to impress investors and close checks.\n\n🚀 Sign up: https://t.co/fHZTDUQQ1V\n🗓️ Full schedule: https://t.co/Fq6NUvFUTc\n\n#SDSW2022 #sandiegostartupweek"
+	},
+	{
+		"created_at": "Wed Oct 05 22:17:00 +0000 2022",
+		"id": 1577765586305749000,
+		"id_str": "1577784948328742914",
+		"full_text": "After careful consideration, @StartupSanDiego has officially announced 12 businesses to be part of the 2022 Startup Incubator program! Big congrats to the companies! https://t.co/EzoHqDG4fD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EzoHqDG4fD",
+					"expanded_url": "https://bit.ly/3M6Oz6w",
+					"display_url": "bit.ly/3M6Oz6w",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970531248882896900,
+			"id_str": "970531248882896897",
+			"name": "Fresh Brewed Tech - SD Tech News",
+			"screen_name": "freshbrewedtech",
+			"location": "San Diego, CA",
+			"description": "Serving up the latest San Diego tech news & tacos 🌮 Subscribe to our newsletter here https://t.co/Msp95nNQqF & check out our podcast @TacosandTechPod #sdtechos",
+			"url": "https://t.co/gqgiCYPCGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gqgiCYPCGk",
+							"expanded_url": "http://FreshBrewedTech.com",
+							"display_url": "FreshBrewedTech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Msp95nNQqF",
+							"expanded_url": "http://conta.cc/2XsAbOi",
+							"display_url": "conta.cc/2XsAbOi",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2018,
+			"friends_count": 1019,
+			"listed_count": 27,
+			"created_at": "Mon Mar 05 05:27:36 +0000 2018",
+			"favourites_count": 2442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970531248882896897/1574713241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After careful consideration, @StartupSanDiego has officially announced 12 businesses to be part of the 2022 Startup Incubator program! Big congrats to the companies! https://t.co/EzoHqDG4fD"
+	},
+	{
 		"created_at": "Tue Oct 04 16:51:50 +0000 2022",
 		"id": 1577340732465184800,
 		"id_str": "1577340732465184768",
