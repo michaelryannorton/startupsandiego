@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 17:00:04 +0000 2022",
+		"id": 1578067580769681400,
+		"id_str": "1578067580769681411",
+		"full_text": "Starting at 12 PM PST join @ryankuder for a session on how to raise $$ for your #startup. Sign-up here: https://t.co/ZFKjZlDBdr\n\nLater at 4 PM PST, join Ethan Lu for a session on leveraging a financial model. Register: https://t.co/G3XsWmYp6H\n\n#SDSW2022 https://t.co/FNz4GxkFoX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						244,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryankuder",
+					"name": "Ryan Kuder 🦄🌊🌮",
+					"id": 6837002,
+					"id_str": "6837002",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZFKjZlDBdr",
+					"expanded_url": "https://lnkd.in/ddApp_ju",
+					"display_url": "lnkd.in/ddApp_ju",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/G3XsWmYp6H",
+					"expanded_url": "https://lnkd.in/eRsemxsV",
+					"display_url": "lnkd.in/eRsemxsV",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578067574956474400,
+					"id_str": "1578067574956474369",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZsGTTXwAEnrfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZsGTTXwAEnrfx.jpg",
+					"url": "https://t.co/FNz4GxkFoX",
+					"display_url": "pic.twitter.com/FNz4GxkFoX",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1578067580769681411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578067574956474400,
+					"id_str": "1578067574956474369",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZsGTTXwAEnrfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZsGTTXwAEnrfx.jpg",
+					"url": "https://t.co/FNz4GxkFoX",
+					"display_url": "pic.twitter.com/FNz4GxkFoX",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1578067580769681411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4765,
+			"friends_count": 2302,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting at 12 PM PST join @ryankuder for a session on how to raise $$ for your #startup. Sign-up here: https://t.co/ZFKjZlDBdr\n\nLater at 4 PM PST, join Ethan Lu for a session on leveraging a financial model. Register: https://t.co/G3XsWmYp6H\n\n#SDSW2022 https://t.co/FNz4GxkFoX"
+	},
+	{
 		"created_at": "Wed Oct 05 22:32:27 +0000 2022",
 		"id": 1577788838231031800,
 		"id_str": "1577788838231031809",
