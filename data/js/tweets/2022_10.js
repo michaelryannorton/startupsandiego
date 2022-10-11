@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 16:41:46 +0000 2022",
+		"id": 1579512526630330400,
+		"id_str": "1579512526630330374",
+		"full_text": "We're only 2 WEEKS away until San Diego Startup Week! Don't miss out on this incredible experience, get your #SDSW2022 passes before prices go up!\n\n🚀 Get tickets: https://t.co/28f3L7RSnQ\n\n#SDSW2022 #sandiegostartupweek #StartupSD #incubator https://t.co/3ObKDEVfVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						198,
+						218
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						219,
+						229
+					]
+				},
+				{
+					"text": "incubator",
+					"indices": [
+						230,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/28f3L7RSnQ",
+					"expanded_url": "http://ow.ly/53pY50L67OI",
+					"display_url": "ow.ly/53pY50L67OI",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579512524319367200,
+					"id_str": "1579512524319367168",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FeuORbJWIAAtISR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeuORbJWIAAtISR.jpg",
+					"url": "https://t.co/3ObKDEVfVb",
+					"display_url": "pic.twitter.com/3ObKDEVfVb",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1579512526630330374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579512524319367200,
+					"id_str": "1579512524319367168",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FeuORbJWIAAtISR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeuORbJWIAAtISR.jpg",
+					"url": "https://t.co/3ObKDEVfVb",
+					"display_url": "pic.twitter.com/3ObKDEVfVb",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1579512526630330374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4769,
+			"friends_count": 2302,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're only 2 WEEKS away until San Diego Startup Week! Don't miss out on this incredible experience, get your #SDSW2022 passes before prices go up!\n\n🚀 Get tickets: https://t.co/28f3L7RSnQ\n\n#SDSW2022 #sandiegostartupweek #StartupSD #incubator https://t.co/3ObKDEVfVb"
+	},
+	{
+		"created_at": "Mon Oct 10 16:09:20 +0000 2022",
+		"id": 1578432410051485700,
+		"id_str": "1579504363386867712",
+		"full_text": "StartUp San Diego to Host 10th Annual ‘Startup Week’ https://t.co/20tbecwmI1 via @SDbusiness @StartupSanDiego",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDbusiness",
+					"name": "San Diego Business Journal",
+					"id": 24221330,
+					"id_str": "24221330",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/20tbecwmI1",
+					"expanded_url": "https://www.sdbj.com/innovation/startup-san-diego-to-host-10th-annual-startup-week/",
+					"display_url": "sdbj.com/innovation/sta…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893178238679236600,
+			"id_str": "893178238679236612",
+			"name": "NuFund",
+			"screen_name": "nufundventures",
+			"location": "San Diego, CA and Everywhere",
+			"description": "NuFund Venture Group is a new wave of angel investors with a new fund model investing in new technology leaders. NuFund was formerly known as TCA - San Diego.",
+			"url": "https://t.co/DHC3efIBEd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHC3efIBEd",
+							"expanded_url": "http://www.NuFund.com",
+							"display_url": "NuFund.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 773,
+			"listed_count": 18,
+			"created_at": "Thu Aug 03 18:34:21 +0000 2017",
+			"favourites_count": 715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1506680870245060608/R1w-lfyC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506680870245060608/R1w-lfyC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893178238679236612/1648055742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "StartUp San Diego to Host 10th Annual ‘Startup Week’ https://t.co/20tbecwmI1 via @SDbusiness @StartupSanDiego"
+	},
+	{
 		"created_at": "Fri Oct 07 15:44:03 +0000 2022",
 		"id": 1577800569829216300,
 		"id_str": "1578410837177470978",
