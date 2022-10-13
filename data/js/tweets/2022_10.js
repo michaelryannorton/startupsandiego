@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 17:18:09 +0000 2022",
+		"id": 1580246458174800000,
+		"id_str": "1580246458174799873",
+		"full_text": "🥊 16 Pitch Competition finalists are chosen for #SDSW2022 Pitch Competition! These #startups will go head-to-head for the $10k Cash Grant sponsored by ALEPH ONE. \n\n🎟️ Get tickets: https://t.co/prW1UgCm6k\n📖 Read more: https://t.co/sVKICwVTLG\n\n#SDSW2022 #sandiegostartupweek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						242,
+						251
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						252,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/prW1UgCm6k",
+					"expanded_url": "http://ow.ly/ZCZX50L8nbA",
+					"display_url": "ow.ly/ZCZX50L8nbA",
+					"indices": [
+						180,
+						203
+					]
+				},
+				{
+					"url": "https://t.co/sVKICwVTLG",
+					"expanded_url": "http://ow.ly/jyUu50L8nbB",
+					"display_url": "ow.ly/jyUu50L8nbB",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4768,
+			"friends_count": 2300,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🥊 16 Pitch Competition finalists are chosen for #SDSW2022 Pitch Competition! These #startups will go head-to-head for the $10k Cash Grant sponsored by ALEPH ONE. \n\n🎟️ Get tickets: https://t.co/prW1UgCm6k\n📖 Read more: https://t.co/sVKICwVTLG\n\n#SDSW2022 #sandiegostartupweek"
+	},
+	{
+		"created_at": "Wed Oct 12 17:03:20 +0000 2022",
+		"id": 1579552938233430000,
+		"id_str": "1580242726599417856",
+		"full_text": "Join @SDSU, @sdsufowler, and @ziplaunchpad for a lunch reception on Oct. 27 at 1pm for San Diego Startup Week! Free to the first 100 #SDSUAlumni who RSVP!\n\nStartup Week is @StartupSanDiego’s annual conference to celebrate the San Diego startup community to inspire the ecosystem.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSUAlumni",
+					"indices": [
+						133,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDSU",
+					"name": "San Diego State University",
+					"id": 16739786,
+					"id_str": "16739786",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"screen_name": "sdsufowler",
+					"name": "Fowler College of Business",
+					"id": 1244388637,
+					"id_str": "1244388637",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "ZIPLaunchpad",
+					"name": "SDSU ZIP Launchpad",
+					"id": 2295045266,
+					"id_str": "2295045266",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						172,
+						188
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18149530,
+			"id_str": "18149530",
+			"name": "SDSU Alumni",
+			"screen_name": "sdsualumni",
+			"location": "San Diego, CA",
+			"description": "Community of 475,000+ @SDSU alumni.\nConnecting you with San Diego State University and #SDSUAlumni around the globe. #AztecForLife",
+			"url": "https://t.co/a8o6A6FzNq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a8o6A6FzNq",
+							"expanded_url": "http://www.sdsualumni.org",
+							"display_url": "sdsualumni.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3498,
+			"friends_count": 382,
+			"listed_count": 58,
+			"created_at": "Mon Dec 15 23:03:35 +0000 2008",
+			"favourites_count": 1453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D2C694",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542635469048926208/yaRRud-s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542635469048926208/yaRRud-s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18149530/1546888802",
+			"profile_link_color": "C41230",
+			"profile_sidebar_border_color": "CC0000",
+			"profile_sidebar_fill_color": "363636",
+			"profile_text_color": "CC0000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Join @SDSU, @sdsufowler, and @ziplaunchpad for a lunch reception on Oct. 27 at 1pm for San Diego Startup Week! Free to the first 100 #SDSUAlumni who RSVP!\n\nStartup Week is @StartupSanDiego’s annual conference to celebrate the San Diego startup community to inspire the ecosystem."
+	},
+	{
 		"created_at": "Mon Oct 10 16:41:46 +0000 2022",
 		"id": 1579512526630330400,
 		"id_str": "1579512526630330374",
