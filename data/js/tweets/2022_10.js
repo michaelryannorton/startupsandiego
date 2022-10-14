@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 17:31:27 +0000 2022",
+		"id": 1580612191157649400,
+		"id_str": "1580612191157649408",
+		"full_text": "Sales are the most significant thing to master when first starting your business. Learn from @MarcBarron9 , Co-founder and VP of Business Development &amp; Partnerships at @coursekeyedu TONIGHT at 4 PM.\n\n🚀 Sign up: https://t.co/bKDKwLkRFn\n\n#SDSW2022 #sandiegostartupweek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						240,
+						249
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						250,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarcBarron9",
+					"name": "Marc Anthony Barron",
+					"id": 823271278941352000,
+					"id_str": "823271278941351937",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "coursekeyedu",
+					"name": "CourseKey - Empowering Vocational Schools/Students",
+					"id": 3195832808,
+					"id_str": "3195832808",
+					"indices": [
+						172,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bKDKwLkRFn",
+					"expanded_url": "http://ow.ly/e4s650L9skW",
+					"display_url": "ow.ly/e4s650L9skW",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4770,
+			"friends_count": 2300,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sales are the most significant thing to master when first starting your business. Learn from @MarcBarron9 , Co-founder and VP of Business Development &amp; Partnerships at @coursekeyedu TONIGHT at 4 PM.\n\n🚀 Sign up: https://t.co/bKDKwLkRFn\n\n#SDSW2022 #sandiegostartupweek"
+	},
+	{
 		"created_at": "Wed Oct 12 17:18:09 +0000 2022",
 		"id": 1580246458174800000,
 		"id_str": "1580246458174799873",
