@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 18:53:32 +0000 2022",
+		"id": 1580995237161599000,
+		"id_str": "1580995237161598976",
+		"full_text": "We're looking for VOLUNTEERS for this year's San Diego Startup Week! If you're looking to get involved, meet amazing people, &amp; collab with a fantastic team, this is the perfect opportunity for you! Sign up today: https://t.co/feeUib4klt\n\n#SDSW2022 #sandiegostartupweek https://t.co/8VyJz2zDWX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						242,
+						251
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						252,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/feeUib4klt",
+					"expanded_url": "http://ow.ly/72HE50LaBCr",
+					"display_url": "ow.ly/72HE50LaBCr",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580995234200182800,
+					"id_str": "1580995234200182784",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FfDSyf4WYAAw515.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfDSyf4WYAAw515.jpg",
+					"url": "https://t.co/8VyJz2zDWX",
+					"display_url": "pic.twitter.com/8VyJz2zDWX",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1580995237161598976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580995234200182800,
+					"id_str": "1580995234200182784",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FfDSyf4WYAAw515.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfDSyf4WYAAw515.jpg",
+					"url": "https://t.co/8VyJz2zDWX",
+					"display_url": "pic.twitter.com/8VyJz2zDWX",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1580995237161598976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4771,
+			"friends_count": 2300,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're looking for VOLUNTEERS for this year's San Diego Startup Week! If you're looking to get involved, meet amazing people, &amp; collab with a fantastic team, this is the perfect opportunity for you! Sign up today: https://t.co/feeUib4klt\n\n#SDSW2022 #sandiegostartupweek https://t.co/8VyJz2zDWX"
+	},
+	{
+		"created_at": "Fri Oct 14 18:37:48 +0000 2022",
+		"id": 1580324958944649200,
+		"id_str": "1580991275356295168",
+		"full_text": "Learn how you can join upcoming October events like our #AgTech Hackathon, @StartupSanDiego's #SanDiegoStartupWeek, and MORE in the latest edition of our Fresh Brewed Tech Newsletter! \n\nToday's issue: https://t.co/AR11CZrNt2 \n\n#freshbrewedtech #newsletter #october2022 #sdevents https://t.co/KwbaMyTbNM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AgTech",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "SanDiegoStartupWeek",
+					"indices": [
+						94,
+						114
+					]
+				},
+				{
+					"text": "freshbrewedtech",
+					"indices": [
+						227,
+						243
+					]
+				},
+				{
+					"text": "newsletter",
+					"indices": [
+						244,
+						255
+					]
+				},
+				{
+					"text": "october2022",
+					"indices": [
+						256,
+						268
+					]
+				},
+				{
+					"text": "sdevents",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AR11CZrNt2",
+					"expanded_url": "https://conta.cc/3erJA3K",
+					"display_url": "conta.cc/3erJA3K",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580324956084256800,
+					"id_str": "1580324956084256769",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe5xLLUWQAEpZ9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe5xLLUWQAEpZ9N.jpg",
+					"url": "https://t.co/KwbaMyTbNM",
+					"display_url": "pic.twitter.com/KwbaMyTbNM",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1580324958944649217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580324956084256800,
+					"id_str": "1580324956084256769",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe5xLLUWQAEpZ9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe5xLLUWQAEpZ9N.jpg",
+					"url": "https://t.co/KwbaMyTbNM",
+					"display_url": "pic.twitter.com/KwbaMyTbNM",
+					"expanded_url": "https://twitter.com/freshbrewedtech/status/1580324958944649217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970531248882896900,
+			"id_str": "970531248882896897",
+			"name": "Fresh Brewed Tech - SD Tech News",
+			"screen_name": "freshbrewedtech",
+			"location": "San Diego, CA",
+			"description": "Serving up the latest San Diego tech news & tacos 🌮 Subscribe to our newsletter here https://t.co/Msp95nNQqF & check out our podcast @TacosandTechPod #sdtechos",
+			"url": "https://t.co/gqgiCYPCGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gqgiCYPCGk",
+							"expanded_url": "http://FreshBrewedTech.com",
+							"display_url": "FreshBrewedTech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Msp95nNQqF",
+							"expanded_url": "http://conta.cc/2XsAbOi",
+							"display_url": "conta.cc/2XsAbOi",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2020,
+			"friends_count": 1019,
+			"listed_count": 27,
+			"created_at": "Mon Mar 05 05:27:36 +0000 2018",
+			"favourites_count": 2443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970531248882896897/1574713241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn how you can join upcoming October events like our #AgTech Hackathon, @StartupSanDiego's #SanDiegoStartupWeek, and MORE in the latest edition of our Fresh Brewed Tech Newsletter! \n\nToday's issue: https://t.co/AR11CZrNt2 \n\n#freshbrewedtech #newsletter #october2022 #sdevents https://t.co/KwbaMyTbNM"
+	},
+	{
 		"created_at": "Thu Oct 13 17:31:27 +0000 2022",
 		"id": 1580612191157649400,
 		"id_str": "1580612191157649408",
