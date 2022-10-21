@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 19:58:21 +0000 2022",
+		"id": 1583185875910869000,
+		"id_str": "1583185875910868992",
+		"full_text": "It's the LAST Startup Incubator Session for the year tonight at 4 PM! We're ending our incubator sessions with an inspiring Founders Story by @tcavanah, CEO &amp; Founder at @petdesk \n\n🐕 Sign up: https://t.co/F6l6w1p1yX\n\n#SDSW2022 #sandiegostartupweek #petdesk #founder #startup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						231,
+						251
+					]
+				},
+				{
+					"text": "petdesk",
+					"indices": [
+						252,
+						260
+					]
+				},
+				{
+					"text": "founder",
+					"indices": [
+						261,
+						269
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						270,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tcavanah",
+					"name": "Taylor Cavanah",
+					"id": 33989760,
+					"id_str": "33989760",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"screen_name": "petdesk",
+					"name": "PetDesk",
+					"id": 1311445760,
+					"id_str": "1311445760",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F6l6w1p1yX",
+					"expanded_url": "https://lnkd.in/gzQJx4T4",
+					"display_url": "lnkd.in/gzQJx4T4",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4778,
+			"friends_count": 2300,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's the LAST Startup Incubator Session for the year tonight at 4 PM! We're ending our incubator sessions with an inspiring Founders Story by @tcavanah, CEO &amp; Founder at @petdesk \n\n🐕 Sign up: https://t.co/F6l6w1p1yX\n\n#SDSW2022 #sandiegostartupweek #petdesk #founder #startup"
+	},
+	{
+		"created_at": "Thu Oct 20 19:46:00 +0000 2022",
+		"id": 1583182768913031200,
+		"id_str": "1583182768913031168",
+		"full_text": "🚀 We have a rockstar line-up for San Diego Startup Week! Meet founders and leaders from #startup companies like @trustandwill, @clickup, @KandjiMDM, @vuoriclothing, @coursekeyedu, @Techstars &amp; more. \n\n✨ Check out the full list of speakers: https://t.co/ThfiJ3rqpF\n\n#SDSW2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trustandwill",
+					"name": "Trust & Will",
+					"id": 895876199372562400,
+					"id_str": "895876199372562433",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"screen_name": "clickup",
+					"name": "ClickUp",
+					"id": 857643149149085700,
+					"id_str": "857643149149085696",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"screen_name": "KandjiMDM",
+					"name": "Kandji",
+					"id": 1037044101500162000,
+					"id_str": "1037044101500162050",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"screen_name": "vuoriclothing",
+					"name": "Vuori",
+					"id": 37934006,
+					"id_str": "37934006",
+					"indices": [
+						149,
+						163
+					]
+				},
+				{
+					"screen_name": "coursekeyedu",
+					"name": "CourseKey - Empowering Vocational Schools/Students",
+					"id": 3195832808,
+					"id_str": "3195832808",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"screen_name": "Techstars",
+					"name": "Techstars",
+					"id": 14277276,
+					"id_str": "14277276",
+					"indices": [
+						180,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ThfiJ3rqpF",
+					"expanded_url": "http://ow.ly/vlZq50LgZHU",
+					"display_url": "ow.ly/vlZq50LgZHU",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4778,
+			"friends_count": 2300,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚀 We have a rockstar line-up for San Diego Startup Week! Meet founders and leaders from #startup companies like @trustandwill, @clickup, @KandjiMDM, @vuoriclothing, @coursekeyedu, @Techstars &amp; more. \n\n✨ Check out the full list of speakers: https://t.co/ThfiJ3rqpF\n\n#SDSW2022"
+	},
+	{
+		"created_at": "Thu Oct 20 17:44:43 +0000 2022",
+		"id": 1583152244748275700,
+		"id_str": "1583152244748275712",
+		"full_text": "Happening TODAY at 12 PM, check out our Startup Incubator Session featuring @JoshuaSturgeon Co-founder at @EmberTribe! Josh will be talking about paid customer acquisition and more. \n\n💡 Free and open to the public. Sign up: https://t.co/3DYiwarcbH\n\n#SDSW2022 #sandiegostartupweek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						249,
+						258
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						259,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoshuaSturgeon",
+					"name": "Josh Sturgeon",
+					"id": 19636666,
+					"id_str": "19636666",
+					"indices": [
+						76,
+						91
+					]
+				},
+				{
+					"screen_name": "EmberTribe",
+					"name": "EmberTribe",
+					"id": 3603875356,
+					"id_str": "3603875356",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3DYiwarcbH",
+					"expanded_url": "http://ow.ly/i3Go50LgSWh",
+					"display_url": "ow.ly/i3Go50LgSWh",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4778,
+			"friends_count": 2300,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happening TODAY at 12 PM, check out our Startup Incubator Session featuring @JoshuaSturgeon Co-founder at @EmberTribe! Josh will be talking about paid customer acquisition and more. \n\n💡 Free and open to the public. Sign up: https://t.co/3DYiwarcbH\n\n#SDSW2022 #sandiegostartupweek"
+	},
+	{
+		"created_at": "Thu Oct 20 17:04:44 +0000 2022",
+		"id": 1583142182609092600,
+		"id_str": "1583142182609092608",
+		"full_text": "Do you want to hear from some of the top #startup founders here in SD? Check out this keynote panel:\n\n◽Brock Weatherup, MidOcean Partners\n◽Joe Kudla, Founder at @vuoriclothing \n◽@mrusk  ED at  @usd_business \n◽@sampantz, CEO at @vizerapp \n\n🚀 Tickets: https://t.co/m1OPq3gKbH https://t.co/iVGN5wjYPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vuoriclothing",
+					"name": "Vuori",
+					"id": 37934006,
+					"id_str": "37934006",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"screen_name": "mrusk",
+					"name": "Mysty Rusk",
+					"id": 20454953,
+					"id_str": "20454953",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"screen_name": "usd_business",
+					"name": "USD Knauss School of Business",
+					"id": 39559225,
+					"id_str": "39559225",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"screen_name": "sampantz",
+					"name": "Sam Pantazopoulos",
+					"id": 1311070447484592000,
+					"id_str": "1311070447484592128",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"screen_name": "vizerapp",
+					"name": "Vizer",
+					"id": 981223468350894100,
+					"id_str": "981223468350894080",
+					"indices": [
+						227,
+						236
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m1OPq3gKbH",
+					"expanded_url": "http://ow.ly/tInX50LgPXo",
+					"display_url": "ow.ly/tInX50LgPXo",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583142179811328000,
+					"id_str": "1583142179811328001",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhzbLiXgAE-jQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhzbLiXgAE-jQl.jpg",
+					"url": "https://t.co/iVGN5wjYPQ",
+					"display_url": "pic.twitter.com/iVGN5wjYPQ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1583142182609092608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583142179811328000,
+					"id_str": "1583142179811328001",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhzbLiXgAE-jQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhzbLiXgAE-jQl.jpg",
+					"url": "https://t.co/iVGN5wjYPQ",
+					"display_url": "pic.twitter.com/iVGN5wjYPQ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1583142182609092608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4778,
+			"friends_count": 2300,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you want to hear from some of the top #startup founders here in SD? Check out this keynote panel:\n\n◽Brock Weatherup, MidOcean Partners\n◽Joe Kudla, Founder at @vuoriclothing \n◽@mrusk  ED at  @usd_business \n◽@sampantz, CEO at @vizerapp \n\n🚀 Tickets: https://t.co/m1OPq3gKbH https://t.co/iVGN5wjYPQ"
+	},
+	{
 		"created_at": "Wed Oct 19 17:09:36 +0000 2022",
 		"id": 1582781020641759200,
 		"id_str": "1582781020641759233",
