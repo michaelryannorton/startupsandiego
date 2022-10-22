@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 17:34:00 +0000 2022",
+		"id": 1583511936309678000,
+		"id_str": "1583511936309678081",
+		"full_text": "Keynote panel for Day 3: Founder Led Sales and How it Scales, ft: \n\n✨ Brayden Moreno, @ROBO3D \n✨ Marc Barron, @coursekeyedu \n✨ Michael Millstein,  @LabsBoost \n✨ Teal Cooper, @VendiBean \n\nGet Tickets: https://t.co/57GpVCqo2k\n\nUse the code flash20 at checkout\n\n#SDSW2022 https://t.co/F2bgfL2374",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						259,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ROBO3D",
+					"name": "ROBO 3D™",
+					"id": 995732696,
+					"id_str": "995732696",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"screen_name": "coursekeyedu",
+					"name": "CourseKey - Empowering Vocational Schools/Students",
+					"id": 3195832808,
+					"id_str": "3195832808",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "VendiBean",
+					"name": "VendiBean",
+					"id": 3794731879,
+					"id_str": "3794731879",
+					"indices": [
+						174,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/57GpVCqo2k",
+					"expanded_url": "http://ow.ly/aIKP50LhTxz",
+					"display_url": "ow.ly/aIKP50LhTxz",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583511933445197800,
+					"id_str": "1583511933445197824",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnDtrKX0AAM9Jj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnDtrKX0AAM9Jj.jpg",
+					"url": "https://t.co/F2bgfL2374",
+					"display_url": "pic.twitter.com/F2bgfL2374",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1583511936309678081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583511933445197800,
+					"id_str": "1583511933445197824",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FfnDtrKX0AAM9Jj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfnDtrKX0AAM9Jj.jpg",
+					"url": "https://t.co/F2bgfL2374",
+					"display_url": "pic.twitter.com/F2bgfL2374",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1583511936309678081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4780,
+			"friends_count": 2300,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keynote panel for Day 3: Founder Led Sales and How it Scales, ft: \n\n✨ Brayden Moreno, @ROBO3D \n✨ Marc Barron, @coursekeyedu \n✨ Michael Millstein,  @LabsBoost \n✨ Teal Cooper, @VendiBean \n\nGet Tickets: https://t.co/57GpVCqo2k\n\nUse the code flash20 at checkout\n\n#SDSW2022 https://t.co/F2bgfL2374"
+	},
+	{
 		"created_at": "Thu Oct 20 19:58:21 +0000 2022",
 		"id": 1583185875910869000,
 		"id_str": "1583185875910868992",
