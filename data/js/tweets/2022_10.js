@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 22:38:05 +0000 2022",
+		"id": 1585336938671718400,
+		"id_str": "1585400401700028445",
+		"full_text": "@StartupSanDiego @Insperity Looking forward to hosting day 2 of San Diego Startup Week!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Insperity",
+					"name": "Insperity",
+					"id": 149176270,
+					"id_str": "149176270",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585328445571186700,
+		"in_reply_to_status_id_str": "1585328445571186705",
+		"in_reply_to_user_id": 3222944604,
+		"in_reply_to_user_id_str": "3222944604",
+		"in_reply_to_screen_name": "StartupSanDiego",
+		"user": {
+			"id": 39559225,
+			"id_str": "39559225",
+			"name": "USD Knauss School of Business",
+			"screen_name": "usd_business",
+			"location": "San Diego, CA",
+			"description": "The Knauss School of Business at the University of San Diego develops socially responsible business leaders with a global mindset.",
+			"url": "https://t.co/FZeWJKjgiP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FZeWJKjgiP",
+							"expanded_url": "http://www.sandiego.edu/business",
+							"display_url": "sandiego.edu/business",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1742,
+			"friends_count": 119,
+			"listed_count": 81,
+			"created_at": "Tue May 12 18:19:35 +0000 2009",
+			"favourites_count": 994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "207BC1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471258588056219651/QC0DK-vy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471258588056219651/QC0DK-vy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39559225/1508863110",
+			"profile_link_color": "207BC1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@StartupSanDiego @Insperity Looking forward to hosting day 2 of San Diego Startup Week!"
+	},
+	{
+		"created_at": "Wed Oct 26 22:27:10 +0000 2022",
+		"id": 1585397652103069700,
+		"id_str": "1585397652103069720",
+		"full_text": "We're LIVE for the 2nd day of #SDSW2022 at @usd_business! For all workshops, office hours, and keynotes, come downstairs at the Nexus theater.\n\n🚀 See the full schedule &amp; speakers: https://t.co/cpu0T7VLQr\n\n#SDSW2022 #sandiegostartupweek #startupSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "SDSW2022",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						219,
+						239
+					]
+				},
+				{
+					"text": "startupSD",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "usd_business",
+					"name": "USD Knauss School of Business",
+					"id": 39559225,
+					"id_str": "39559225",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cpu0T7VLQr",
+					"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+					"display_url": "startupsd.org/sandiegostartu…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4792,
+			"friends_count": 2301,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're LIVE for the 2nd day of #SDSW2022 at @usd_business! For all workshops, office hours, and keynotes, come downstairs at the Nexus theater.\n\n🚀 See the full schedule &amp; speakers: https://t.co/cpu0T7VLQr\n\n#SDSW2022 #sandiegostartupweek #startupSD"
+	},
+	{
+		"created_at": "Wed Oct 26 17:52:10 +0000 2022",
+		"id": 1585328445571186700,
+		"id_str": "1585328445571186705",
+		"full_text": "🎉 Day 1 of San Diego Startup Week was a SUCCESS! \n\nThank you to our track sponsors ALEPH ONE and @Insperity!\n\n🚀 See you for Day 2 at @usd_business. You can still buy day passes! Get tickets: https://t.co/jy74ZqsXXv\n\n#SDSW2022 #sandiegostartupweek #StartupSD #startupevent https://t.co/B5pRSPrnOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						216,
+						225
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						226,
+						246
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						247,
+						257
+					]
+				},
+				{
+					"text": "startupevent",
+					"indices": [
+						258,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Insperity",
+					"name": "Insperity",
+					"id": 149176270,
+					"id_str": "149176270",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "usd_business",
+					"name": "USD Knauss School of Business",
+					"id": 39559225,
+					"id_str": "39559225",
+					"indices": [
+						133,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jy74ZqsXXv",
+					"expanded_url": "http://ow.ly/ngrX50LlUBP",
+					"display_url": "ow.ly/ngrX50LlUBP",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585328442899415000,
+					"id_str": "1585328442899415060",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FgA30cNXwBQ0qSw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgA30cNXwBQ0qSw.jpg",
+					"url": "https://t.co/B5pRSPrnOW",
+					"display_url": "pic.twitter.com/B5pRSPrnOW",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1585328445571186705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585328442899415000,
+					"id_str": "1585328442899415060",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FgA30cNXwBQ0qSw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgA30cNXwBQ0qSw.jpg",
+					"url": "https://t.co/B5pRSPrnOW",
+					"display_url": "pic.twitter.com/B5pRSPrnOW",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1585328445571186705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1585328443272700000,
+					"id_str": "1585328443272699904",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FgA30dmXoAAFW2K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgA30dmXoAAFW2K.jpg",
+					"url": "https://t.co/B5pRSPrnOW",
+					"display_url": "pic.twitter.com/B5pRSPrnOW",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1585328445571186705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1585328443172028400,
+					"id_str": "1585328443172028416",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FgA30dOXgAAvy_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgA30dOXgAAvy_q.jpg",
+					"url": "https://t.co/B5pRSPrnOW",
+					"display_url": "pic.twitter.com/B5pRSPrnOW",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1585328445571186705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1585328443197210600,
+					"id_str": "1585328443197210639",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FgA30dUXwA8OI51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgA30dUXwA8OI51.jpg",
+					"url": "https://t.co/B5pRSPrnOW",
+					"display_url": "pic.twitter.com/B5pRSPrnOW",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1585328445571186705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4792,
+			"friends_count": 2301,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎉 Day 1 of San Diego Startup Week was a SUCCESS! \n\nThank you to our track sponsors ALEPH ONE and @Insperity!\n\n🚀 See you for Day 2 at @usd_business. You can still buy day passes! Get tickets: https://t.co/jy74ZqsXXv\n\n#SDSW2022 #sandiegostartupweek #StartupSD #startupevent https://t.co/B5pRSPrnOW"
+	},
+	{
 		"created_at": "Tue Oct 25 21:25:10 +0000 2022",
 		"id": 1585019662827397000,
 		"id_str": "1585019662827397156",
