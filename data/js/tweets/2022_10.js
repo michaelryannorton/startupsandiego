@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 17:27:10 +0000 2022",
+		"id": 1586046932367147000,
+		"id_str": "1586046932367147008",
+		"full_text": "Last night was incredible! Thank you to everyone that came to the pitch competition and saw the amazing startups go head-to-head!\n\n🚀 See you all for the LAST DAY of San Diego Startup Week!\n\nGet tickets to the closing reception: https://t.co/rzzhsTN8Rs\n\n#SDSW2022 https://t.co/RxDWPa1kmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						253,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rzzhsTN8Rs",
+					"expanded_url": "https://lnkd.in/g7vig-fK",
+					"display_url": "lnkd.in/g7vig-fK",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1586046929703772200,
+					"id_str": "1586046929703772166",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FgLFR4IXoAYS1it.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgLFR4IXoAYS1it.jpg",
+					"url": "https://t.co/RxDWPa1kmJ",
+					"display_url": "pic.twitter.com/RxDWPa1kmJ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1586046932367147008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586046929703772200,
+					"id_str": "1586046929703772166",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FgLFR4IXoAYS1it.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgLFR4IXoAYS1it.jpg",
+					"url": "https://t.co/RxDWPa1kmJ",
+					"display_url": "pic.twitter.com/RxDWPa1kmJ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1586046932367147008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1586046929833803800,
+					"id_str": "1586046929833803779",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FgLFR4nXwAMVZLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgLFR4nXwAMVZLs.jpg",
+					"url": "https://t.co/RxDWPa1kmJ",
+					"display_url": "pic.twitter.com/RxDWPa1kmJ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1586046932367147008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1586046929774985200,
+					"id_str": "1586046929774985216",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FgLFR4ZWQAAdH0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgLFR4ZWQAAdH0_.jpg",
+					"url": "https://t.co/RxDWPa1kmJ",
+					"display_url": "pic.twitter.com/RxDWPa1kmJ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1586046932367147008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1586046929779179500,
+					"id_str": "1586046929779179525",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FgLFR4aWQAUS_Qi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgLFR4aWQAUS_Qi.jpg",
+					"url": "https://t.co/RxDWPa1kmJ",
+					"display_url": "pic.twitter.com/RxDWPa1kmJ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1586046932367147008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4798,
+			"friends_count": 2296,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last night was incredible! Thank you to everyone that came to the pitch competition and saw the amazing startups go head-to-head!\n\n🚀 See you all for the LAST DAY of San Diego Startup Week!\n\nGet tickets to the closing reception: https://t.co/rzzhsTN8Rs\n\n#SDSW2022 https://t.co/RxDWPa1kmJ"
+	},
+	{
+		"created_at": "Fri Oct 28 01:11:05 +0000 2022",
+		"id": 1585801291615322000,
+		"id_str": "1585801291615322112",
+		"full_text": "We'll be broadcasting the Startup Week Pitch Competition &amp; Tournament around 6:45 PM PST on the Startup San Diego Instagram!\n\n🚀 Follow us on Instagram: https://t.co/s3gSKCCDvU\n\n#SDSW2022 #sandiegostartupweek #pitchcompetition https://t.co/SZ6r72l8pR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						191,
+						211
+					]
+				},
+				{
+					"text": "pitchcompetition",
+					"indices": [
+						212,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s3gSKCCDvU",
+					"expanded_url": "http://ow.ly/5cQb50Lnv19",
+					"display_url": "ow.ly/5cQb50Lnv19",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585801289715355600,
+					"id_str": "1585801289715355648",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FgHl3v3XEAA5GxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgHl3v3XEAA5GxW.jpg",
+					"url": "https://t.co/SZ6r72l8pR",
+					"display_url": "pic.twitter.com/SZ6r72l8pR",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1585801291615322112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585801289715355600,
+					"id_str": "1585801289715355648",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FgHl3v3XEAA5GxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgHl3v3XEAA5GxW.jpg",
+					"url": "https://t.co/SZ6r72l8pR",
+					"display_url": "pic.twitter.com/SZ6r72l8pR",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1585801291615322112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4798,
+			"friends_count": 2296,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'll be broadcasting the Startup Week Pitch Competition &amp; Tournament around 6:45 PM PST on the Startup San Diego Instagram!\n\n🚀 Follow us on Instagram: https://t.co/s3gSKCCDvU\n\n#SDSW2022 #sandiegostartupweek #pitchcompetition https://t.co/SZ6r72l8pR"
+	},
+	{
 		"created_at": "Thu Oct 27 23:56:08 +0000 2022",
 		"id": 1585782429897441300,
 		"id_str": "1585782429897441280",
