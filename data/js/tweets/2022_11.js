@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 03 20:25:21 +0000 2022",
+		"id": 1588266102076985300,
+		"id_str": "1588266102076985346",
+		"full_text": "THANK YOU for convening for this year's San Diego Startup Week. Over the course of 4 days, 4 locations, +1,500 attendees, +60 speakers, +50 exhibitors, &amp; countless connections, we did it!\n\n🚀 Here's full recap &amp; photos: https://t.co/USJK6Ds9nH\n\n#SDSW2022 #sandiegostartupweek https://t.co/qdhS5fsEps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SDSW2022",
+					"indices": [
+						252,
+						261
+					]
+				},
+				{
+					"text": "sandiegostartupweek",
+					"indices": [
+						262,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/USJK6Ds9nH",
+					"expanded_url": "http://ow.ly/vSQS50LtFK3",
+					"display_url": "ow.ly/vSQS50LtFK3",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1588266092811649000,
+					"id_str": "1588266092811649024",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FgqnmK7WAAA9no-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgqnmK7WAAA9no-.jpg",
+					"url": "https://t.co/qdhS5fsEps",
+					"display_url": "pic.twitter.com/qdhS5fsEps",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1588266102076985346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588266092811649000,
+					"id_str": "1588266092811649024",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FgqnmK7WAAA9no-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgqnmK7WAAA9no-.jpg",
+					"url": "https://t.co/qdhS5fsEps",
+					"display_url": "pic.twitter.com/qdhS5fsEps",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1588266102076985346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1588266093365366800,
+					"id_str": "1588266093365366786",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FgqnmM_XEAIKScI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgqnmM_XEAIKScI.jpg",
+					"url": "https://t.co/qdhS5fsEps",
+					"display_url": "pic.twitter.com/qdhS5fsEps",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1588266102076985346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1588266093822546000,
+					"id_str": "1588266093822545924",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FgqnmOsXEAQCF3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgqnmOsXEAQCF3M.jpg",
+					"url": "https://t.co/qdhS5fsEps",
+					"display_url": "pic.twitter.com/qdhS5fsEps",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1588266102076985346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1588266093747085300,
+					"id_str": "1588266093747085313",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FgqnmOaXoAETS4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgqnmOaXoAETS4l.jpg",
+					"url": "https://t.co/qdhS5fsEps",
+					"display_url": "pic.twitter.com/qdhS5fsEps",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1588266102076985346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on October 25-28 for Startup Week. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/tDK2Vf20Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tDK2Vf20Fi",
+							"expanded_url": "https://startupsd.org/sandiegostartupweek/",
+							"display_url": "startupsd.org/sandiegostartu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4795,
+			"friends_count": 2290,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1654011158",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THANK YOU for convening for this year's San Diego Startup Week. Over the course of 4 days, 4 locations, +1,500 attendees, +60 speakers, +50 exhibitors, &amp; countless connections, we did it!\n\n🚀 Here's full recap &amp; photos: https://t.co/USJK6Ds9nH\n\n#SDSW2022 #sandiegostartupweek https://t.co/qdhS5fsEps"
+	},
+	{
 		"created_at": "Wed Nov 02 16:31:05 +0000 2022",
 		"id": 1587844758679978000,
 		"id_str": "1587844758679977984",
