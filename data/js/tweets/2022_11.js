@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 17:46:21 +0000 2022",
+		"id": 1590038024540201000,
+		"id_str": "1590038024540200961",
+		"full_text": "Keep the Startup Week spirit going! Join us for the last 1st Mondays of the year, happening Monday, Dec 5th at @RoughDraftBrew.\n\nJoin us for networking, happy hour, &amp; an ugly Xmas sweater competition! \n\n🚀 Get 1st Mondays tickets: https://t.co/wrsEC2Fsyx\n\n#1stMondays #StartupSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						259,
+						270
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						271,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoughDraftBrew",
+					"name": "Rough Draft Brewing",
+					"id": 329693688,
+					"id_str": "329693688",
+					"indices": [
+						111,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wrsEC2Fsyx",
+					"expanded_url": "http://ow.ly/KA6m50LxTQN",
+					"display_url": "ow.ly/KA6m50LxTQN",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on December 5th for our last 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHErRhC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHErRhC",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4784,
+			"friends_count": 2281,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1667937997",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keep the Startup Week spirit going! Join us for the last 1st Mondays of the year, happening Monday, Dec 5th at @RoughDraftBrew.\n\nJoin us for networking, happy hour, &amp; an ugly Xmas sweater competition! \n\n🚀 Get 1st Mondays tickets: https://t.co/wrsEC2Fsyx\n\n#1stMondays #StartupSD"
+	},
+	{
 		"created_at": "Thu Nov 03 20:25:21 +0000 2022",
 		"id": 1588266102076985300,
 		"id_str": "1588266102076985346",
