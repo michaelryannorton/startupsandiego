@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 23:50:00 +0000 2022",
+		"id": 1592303869597569000,
+		"id_str": "1592303869597569024",
+		"full_text": "🚀 SAVE THE DATE - Tuesday, November 29th Startup San Diego will be celebrating #givingtuesday! This is a global movement celebrating acts of generosity.\n\nJoin us!\n\n✅ Be an SSD Investor: https://t.co/qWMZZQ5paF\n✅ Donate: https://t.co/7dhw1FUPe8\n\n#givingtuesday #StartupSD https://t.co/QFt2BEy0Ke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "givingtuesday",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"text": "givingtuesday",
+					"indices": [
+						245,
+						259
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						260,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qWMZZQ5paF",
+					"expanded_url": "http://startupsd.org/investors",
+					"display_url": "startupsd.org/investors",
+					"indices": [
+						186,
+						209
+					]
+				},
+				{
+					"url": "https://t.co/7dhw1FUPe8",
+					"expanded_url": "http://startupsd.org/donate",
+					"display_url": "startupsd.org/donate",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1592303868309799000,
+					"id_str": "1592303868309798913",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhj_7o0WAAEYDae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhj_7o0WAAEYDae.jpg",
+					"url": "https://t.co/QFt2BEy0Ke",
+					"display_url": "pic.twitter.com/QFt2BEy0Ke",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1592303869597569024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592303868309799000,
+					"id_str": "1592303868309798913",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhj_7o0WAAEYDae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhj_7o0WAAEYDae.jpg",
+					"url": "https://t.co/QFt2BEy0Ke",
+					"display_url": "pic.twitter.com/QFt2BEy0Ke",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1592303869597569024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on December 5th for our last 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHErRhC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHErRhC",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4780,
+			"friends_count": 2278,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1667937997",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚀 SAVE THE DATE - Tuesday, November 29th Startup San Diego will be celebrating #givingtuesday! This is a global movement celebrating acts of generosity.\n\nJoin us!\n\n✅ Be an SSD Investor: https://t.co/qWMZZQ5paF\n✅ Donate: https://t.co/7dhw1FUPe8\n\n#givingtuesday #StartupSD https://t.co/QFt2BEy0Ke"
+	},
+	{
 		"created_at": "Tue Nov 08 17:46:21 +0000 2022",
 		"id": 1590038024540201000,
 		"id_str": "1590038024540200961",
