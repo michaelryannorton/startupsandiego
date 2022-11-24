@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 23 17:09:06 +0000 2022",
+		"id": 1595138757191254000,
+		"id_str": "1595464471245299716",
+		"full_text": "Get in the #holiday spirit and support your local #startup ecosystem! We're doing an exclusive drop of Startup San Diego Holiday sweaters to keep you warm and festive throughout these next couple of months.\n\n🎄Shop now: https://t.co/2w8BH1wvoN\n\n#StartupSD #givingtuesday https://t.co/MKJCGRmViZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "holiday",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						244,
+						254
+					]
+				},
+				{
+					"text": "givingtuesday",
+					"indices": [
+						255,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2w8BH1wvoN",
+					"expanded_url": "http://startupsd.org/shop/",
+					"display_url": "startupsd.org/shop/",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1595138753814823000,
+					"id_str": "1595138753814822912",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FiMSPsSXgAAplhJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiMSPsSXgAAplhJ.jpg",
+					"url": "https://t.co/MKJCGRmViZ",
+					"display_url": "pic.twitter.com/MKJCGRmViZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1595138757191254031/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595138753814823000,
+					"id_str": "1595138753814822912",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FiMSPsSXgAAplhJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiMSPsSXgAAplhJ.jpg",
+					"url": "https://t.co/MKJCGRmViZ",
+					"display_url": "pic.twitter.com/MKJCGRmViZ",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1595138757191254031/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on December 5th for our last 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHErRhC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHErRhC",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4768,
+			"friends_count": 2276,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1667937997",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get in the #holiday spirit and support your local #startup ecosystem! We're doing an exclusive drop of Startup San Diego Holiday sweaters to keep you warm and festive throughout these next couple of months.\n\n🎄Shop now: https://t.co/2w8BH1wvoN\n\n#StartupSD #givingtuesday https://t.co/MKJCGRmViZ"
+	},
+	{
 		"created_at": "Tue Nov 22 19:34:50 +0000 2022",
 		"id": 1595138757191254000,
 		"id_str": "1595138757191254031",
