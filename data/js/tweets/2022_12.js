@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 23:30:35 +0000 2022",
+		"id": 1600633902099353600,
+		"id_str": "1600633902099353600",
+		"full_text": "CC: @freshbrewedtech @Insperity @villageupsd @LabsBoost @arkusnexus @TheBrinkSbdc @lexaRaeN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freshbrewedtech",
+					"name": "Fresh Brewed Tech - SD Tech News",
+					"id": 970531248882896900,
+					"id_str": "970531248882896897",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"screen_name": "Insperity",
+					"name": "Insperity",
+					"id": 149176270,
+					"id_str": "149176270",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "villageupsd",
+					"name": "villageupsd",
+					"id": 1266883815269515300,
+					"id_str": "1266883815269515264",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "LabsBoost",
+					"name": "LogicBoostLabs",
+					"id": 1182731644119109600,
+					"id_str": "1182731644119109632",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "arkusnexus",
+					"name": "Arkusnexus",
+					"id": 562489080,
+					"id_str": "562489080",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "TheBrinkSbdc",
+					"name": "Brink SBDC",
+					"id": 1020365445520502800,
+					"id_str": "1020365445520502784",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"screen_name": "lexaRaeN",
+					"name": "Alexa-Rae Navarro",
+					"id": 1666344193,
+					"id_str": "1666344193",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1600633402339860500,
+		"in_reply_to_status_id_str": "1600633402339860485",
+		"in_reply_to_user_id": 3222944604,
+		"in_reply_to_user_id_str": "3222944604",
+		"in_reply_to_screen_name": "StartupSanDiego",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on December 5th for our last 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHErRhC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHErRhC",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4767,
+			"friends_count": 2274,
+			"listed_count": 116,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1667937997",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "CC: @freshbrewedtech @Insperity @villageupsd @LabsBoost @arkusnexus @TheBrinkSbdc @lexaRaeN"
+	},
+	{
 		"created_at": "Mon Dec 05 17:18:54 +0000 2022",
 		"id": 1599815588716716000,
 		"id_str": "1599815588716716034",
