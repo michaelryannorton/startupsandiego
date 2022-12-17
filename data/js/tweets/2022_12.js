@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 20:24:50 +0000 2022",
+		"id": 1603848647086641200,
+		"id_str": "1603848647086641153",
+		"full_text": "Looking for the perfect gift to give to your favorite entrepreneur or #startup founder? Get yourself or your loved one a holiday Startup San Diego sweater! All profits support our nonprofit.\n\n🎄Shop online: https://t.co/2w8BH1wvoN\n\n#StartupSD #StartupSanDiego #startup #sandiego https://t.co/BSomFVLBvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						231,
+						241
+					]
+				},
+				{
+					"text": "StartupSanDiego",
+					"indices": [
+						242,
+						258
+					]
+				},
+				{
+					"text": "startup",
+					"indices": [
+						259,
+						267
+					]
+				},
+				{
+					"text": "sandiego",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2w8BH1wvoN",
+					"expanded_url": "http://startupsd.org/shop/",
+					"display_url": "startupsd.org/shop/",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1603848644356149200,
+					"id_str": "1603848644356149255",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FkID2DBXEAceedo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkID2DBXEAceedo.jpg",
+					"url": "https://t.co/BSomFVLBvI",
+					"display_url": "pic.twitter.com/BSomFVLBvI",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1603848647086641153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603848644356149200,
+					"id_str": "1603848644356149255",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FkID2DBXEAceedo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkID2DBXEAceedo.jpg",
+					"url": "https://t.co/BSomFVLBvI",
+					"display_url": "pic.twitter.com/BSomFVLBvI",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1603848647086641153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on December 5th for our last 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHErRhC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHErRhC",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4765,
+			"friends_count": 2269,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1667937997",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for the perfect gift to give to your favorite entrepreneur or #startup founder? Get yourself or your loved one a holiday Startup San Diego sweater! All profits support our nonprofit.\n\n🎄Shop online: https://t.co/2w8BH1wvoN\n\n#StartupSD #StartupSanDiego #startup #sandiego https://t.co/BSomFVLBvI"
+	},
+	{
 		"created_at": "Wed Dec 07 23:30:35 +0000 2022",
 		"id": 1600633902099353600,
 		"id_str": "1600633902099353600",
