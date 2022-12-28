@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 27 18:00:55 +0000 2022",
+		"id": 1607798697491927000,
+		"id_str": "1607798697491927043",
+		"full_text": "As we wrap up the year here at StartupSD we can’t help but reflect on the amazing time we’ve had with the community. Thank you for supporting us &amp; taking part this year.  We wish you a Happy Holiday &amp; New Year!\n\n🚀 Read the 2022 Wrap Up: https://t.co/HmUcEGOff5\n\n#StartupSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StartupSD",
+					"indices": [
+						270,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HmUcEGOff5",
+					"expanded_url": "http://startupsd.org/news/startup-san-diego-2022-wrap-up/",
+					"display_url": "startupsd.org/news/startup-s…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on December 5th for our last 1st Mondays event. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHErRhC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHErRhC",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4766,
+			"friends_count": 2269,
+			"listed_count": 117,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1667937997",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As we wrap up the year here at StartupSD we can’t help but reflect on the amazing time we’ve had with the community. Thank you for supporting us &amp; taking part this year.  We wish you a Happy Holiday &amp; New Year!\n\n🚀 Read the 2022 Wrap Up: https://t.co/HmUcEGOff5\n\n#StartupSD"
+	},
+	{
 		"created_at": "Fri Dec 16 20:24:50 +0000 2022",
 		"id": 1603848647086641200,
 		"id_str": "1603848647086641153",
