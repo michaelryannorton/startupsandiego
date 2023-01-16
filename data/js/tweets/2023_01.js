@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 14:21:49 +0000 2023",
+		"id": 1613944410974167000,
+		"id_str": "1614628928261394432",
+		"full_text": "2022 was a successful year for @StartupSanDiego as they made a substantial impact with their conferences, programs, and networking events. Check out the full recap of the year here: https://t.co/llxKZwfZA7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/llxKZwfZA7",
+					"expanded_url": "https://bit.ly/3Iwv87j",
+					"display_url": "bit.ly/3Iwv87j",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970531248882896900,
+			"id_str": "970531248882896897",
+			"name": "Fresh Brewed Tech - SD Tech News",
+			"screen_name": "freshbrewedtech",
+			"location": "San Diego, CA",
+			"description": "Serving up the latest San Diego tech news & tacos 🌮 Subscribe to our newsletter here https://t.co/Msp95nNQqF & check out our podcast @TacosandTechPod #sdtechos",
+			"url": "https://t.co/gqgiCYPCGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gqgiCYPCGk",
+							"expanded_url": "http://FreshBrewedTech.com",
+							"display_url": "FreshBrewedTech.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Msp95nNQqF",
+							"expanded_url": "http://conta.cc/2XsAbOi",
+							"display_url": "conta.cc/2XsAbOi",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2002,
+			"friends_count": 1010,
+			"listed_count": 26,
+			"created_at": "Mon Mar 05 05:27:36 +0000 2018",
+			"favourites_count": 2457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991396707085647872/EhZ0mt58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970531248882896897/1574713241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 was a successful year for @StartupSanDiego as they made a substantial impact with their conferences, programs, and networking events. Check out the full recap of the year here: https://t.co/llxKZwfZA7"
+	},
+	{
 		"created_at": "Fri Jan 13 17:00:42 +0000 2023",
 		"id": 1613944136947703800,
 		"id_str": "1613944136947703808",
