@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 16:00:48 +0000 2023",
+		"id": 1625163086834303000,
+		"id_str": "1625163086834302976",
+		"full_text": "Apply to be the next SSD Executive Director. Be at the center of action of all things #startups, connect with local founders &amp; thought leaders, work with a diverse team, &amp; produce the largest startup event in San Diego! \n\n🚀 Learn more and apply: https://t.co/peXDUsaS9m\n\n#hiring",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startups",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "hiring",
+					"indices": [
+						279,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/peXDUsaS9m",
+					"expanded_url": "http://ow.ly/hIN550MQKq4",
+					"display_url": "ow.ly/hIN550MQKq4",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on March 6th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4784,
+			"friends_count": 2269,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1673578319",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apply to be the next SSD Executive Director. Be at the center of action of all things #startups, connect with local founders &amp; thought leaders, work with a diverse team, &amp; produce the largest startup event in San Diego! \n\n🚀 Learn more and apply: https://t.co/peXDUsaS9m\n\n#hiring"
+	},
+	{
 		"created_at": "Fri Feb 10 16:37:29 +0000 2023",
 		"id": 1624085155882184700,
 		"id_str": "1624085155882184707",
