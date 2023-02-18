@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 15:00:29 +0000 2023",
+		"id": 1626597457076564000,
+		"id_str": "1626597457076563968",
+		"full_text": "We are excited to share that our community partner @BBBPacificSW is now accepting applications for their Empower by @GoDaddy small business accelerator! Get access to mentorship and #smallbiz support. The deadline to apply is March 1st.\n\n➡️  Sign up: https://t.co/UjPfAzHIG2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "smallbiz",
+					"indices": [
+						182,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBBPacificSW",
+					"name": "BBB Serving the Pacific Southwest",
+					"id": 21798919,
+					"id_str": "21798919",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "GoDaddy",
+					"name": "GoDaddy",
+					"id": 14949454,
+					"id_str": "14949454",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UjPfAzHIG2",
+					"expanded_url": "http://bbbempower.com",
+					"display_url": "bbbempower.com",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on March 6th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4787,
+			"friends_count": 2269,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1673578319",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are excited to share that our community partner @BBBPacificSW is now accepting applications for their Empower by @GoDaddy small business accelerator! Get access to mentorship and #smallbiz support. The deadline to apply is March 1st.\n\n➡️  Sign up: https://t.co/UjPfAzHIG2"
+	},
+	{
 		"created_at": "Thu Feb 16 15:10:16 +0000 2023",
 		"id": 1626237531242262500,
 		"id_str": "1626237531242262528",
