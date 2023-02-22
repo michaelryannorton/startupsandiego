@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 15:16:07 +0000 2023",
+		"id": 1628050945589354500,
+		"id_str": "1628050945589354499",
+		"full_text": "📢 1st Mondays is officially less than 2 WEEKS AWAY! We're happy to announce our newest panelist, Gustavo Fernández De León, Founder of the ENBC Baja California Business School &amp; Co-founder at Geeks Academy.\n\n🚀 Get tickets: https://t.co/e6LlGfyEXW\n\n#1stMondays #StartupSD https://t.co/zcVERCCksx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						252,
+						263
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						264,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e6LlGfyEXW",
+					"expanded_url": "http://ow.ly/iKqg50MY7YM",
+					"display_url": "ow.ly/iKqg50MY7YM",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628050943169134600,
+					"id_str": "1628050943169134594",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpf_tP_WAAIfjFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpf_tP_WAAIfjFH.jpg",
+					"url": "https://t.co/zcVERCCksx",
+					"display_url": "pic.twitter.com/zcVERCCksx",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1628050945589354499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628050943169134600,
+					"id_str": "1628050943169134594",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpf_tP_WAAIfjFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpf_tP_WAAIfjFH.jpg",
+					"url": "https://t.co/zcVERCCksx",
+					"display_url": "pic.twitter.com/zcVERCCksx",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1628050945589354499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on March 6th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4788,
+			"friends_count": 2269,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1673578319",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 1st Mondays is officially less than 2 WEEKS AWAY! We're happy to announce our newest panelist, Gustavo Fernández De León, Founder of the ENBC Baja California Business School &amp; Co-founder at Geeks Academy.\n\n🚀 Get tickets: https://t.co/e6LlGfyEXW\n\n#1stMondays #StartupSD https://t.co/zcVERCCksx"
+	},
+	{
 		"created_at": "Fri Feb 17 15:00:29 +0000 2023",
 		"id": 1626597457076564000,
 		"id_str": "1626597457076563968",
