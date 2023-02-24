@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 18:21:16 +0000 2023",
+		"id": 1628822314392383500,
+		"id_str": "1628822314392383489",
+		"full_text": "All 4 panelists are confirmed for the next 1st Mondays - Networking &amp; Expert Panel event! Join us Monday, March 6th and learn from the startup leaders with years of experience in the binational startup community. \n\n🚀 Get #1stMondays tickets: https://t.co/QYWv6HBXDy\n\n#StartupSD https://t.co/qdmnZjqE1c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						225,
+						236
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						271,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QYWv6HBXDy",
+					"expanded_url": "http://ow.ly/VzVb50N13CK",
+					"display_url": "ow.ly/VzVb50N13CK",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628822313083740200,
+					"id_str": "1628822313083740162",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpq9Q42WIAIAVOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpq9Q42WIAIAVOY.jpg",
+					"url": "https://t.co/qdmnZjqE1c",
+					"display_url": "pic.twitter.com/qdmnZjqE1c",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1628822314392383489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628822313083740200,
+					"id_str": "1628822313083740162",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpq9Q42WIAIAVOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpq9Q42WIAIAVOY.jpg",
+					"url": "https://t.co/qdmnZjqE1c",
+					"display_url": "pic.twitter.com/qdmnZjqE1c",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1628822314392383489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on March 6th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4788,
+			"friends_count": 2269,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1673578319",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All 4 panelists are confirmed for the next 1st Mondays - Networking &amp; Expert Panel event! Join us Monday, March 6th and learn from the startup leaders with years of experience in the binational startup community. \n\n🚀 Get #1stMondays tickets: https://t.co/QYWv6HBXDy\n\n#StartupSD https://t.co/qdmnZjqE1c"
+	},
+	{
 		"created_at": "Tue Feb 21 15:16:07 +0000 2023",
 		"id": 1628050945589354500,
 		"id_str": "1628050945589354499",
