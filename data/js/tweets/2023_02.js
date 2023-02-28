@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 17:00:54 +0000 2023",
+		"id": 1630251639264235500,
+		"id_str": "1630251639264235521",
+		"full_text": "It’s been over 3 years since we’ve held an official event in TJ. That's why our team has partnered up with @arkusnexus to bring the TJ &amp; SD startup communities together.  \n\n🚀 Get 1st Mondays tickets: https://t.co/6GJwFNB2Aw\n📝 Read the blog: https://t.co/GWqSQSt41H\n\n#1stMondays",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						270,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arkusnexus",
+					"name": "Arkusnexus",
+					"id": 562489080,
+					"id_str": "562489080",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6GJwFNB2Aw",
+					"expanded_url": "http://ow.ly/ohJr50N3aGj",
+					"display_url": "ow.ly/ohJr50N3aGj",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/GWqSQSt41H",
+					"expanded_url": "http://ow.ly/TfVK50N3aGk",
+					"display_url": "ow.ly/TfVK50N3aGk",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on March 6th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4788,
+			"friends_count": 2268,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1673578319",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s been over 3 years since we’ve held an official event in TJ. That's why our team has partnered up with @arkusnexus to bring the TJ &amp; SD startup communities together.  \n\n🚀 Get 1st Mondays tickets: https://t.co/6GJwFNB2Aw\n📝 Read the blog: https://t.co/GWqSQSt41H\n\n#1stMondays"
+	},
+	{
 		"created_at": "Thu Feb 23 18:21:16 +0000 2023",
 		"id": 1628822314392383500,
 		"id_str": "1628822314392383489",
