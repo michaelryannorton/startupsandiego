@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 09 01:47:22 +0000 2023",
+		"id": 1633551532062027800,
+		"id_str": "1633645622812180481",
+		"full_text": "Attended #1stMonday hosted by @StartupSanDiego this week.\n\nHeld in Tijuana, Mexico, the event highlighted the importance of cross border collaboration.\n\nOver 100+ founders and startup members gathered to make connections + eat tacos. \n\nThe SD startup community is 🔥 https://t.co/vgzARieF74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMonday",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1633549368300302300,
+					"id_str": "1633549368300302336",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FquIftyacAAV_nh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FquIftyacAAV_nh.jpg",
+					"url": "https://t.co/vgzARieF74",
+					"display_url": "pic.twitter.com/vgzARieF74",
+					"expanded_url": "https://twitter.com/fredmgrier/status/1633551532062027776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1633549368300302300,
+					"id_str": "1633549368300302336",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FquIftyacAAV_nh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FquIftyacAAV_nh.jpg",
+					"url": "https://t.co/vgzARieF74",
+					"display_url": "pic.twitter.com/vgzARieF74",
+					"expanded_url": "https://twitter.com/fredmgrier/status/1633551532062027776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1633549540791033900,
+					"id_str": "1633549540791033856",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FquIpwXaIAAZv8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FquIpwXaIAAZv8b.jpg",
+					"url": "https://t.co/vgzARieF74",
+					"display_url": "pic.twitter.com/vgzARieF74",
+					"expanded_url": "https://twitter.com/fredmgrier/status/1633551532062027776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1478,
+							"h": 831,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1633550587093721000,
+					"id_str": "1633550587093721090",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FquJmqJaIAI22sT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FquJmqJaIAI22sT.jpg",
+					"url": "https://t.co/vgzARieF74",
+					"display_url": "pic.twitter.com/vgzARieF74",
+					"expanded_url": "https://twitter.com/fredmgrier/status/1633551532062027776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1244,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4775662891,
+			"id_str": "4775662891",
+			"name": "Fred M. Grier",
+			"screen_name": "fredmgrier",
+			"location": "San Diego, CA",
+			"description": "Tech Reporter | Interview top companies, startups, and executives | Contributing @ https://t.co/EslUsO5GRI | MBA @UofSanDiego | Formerly reporter @sdbusiness @deloitte",
+			"url": "https://t.co/vWFPWbBvdn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vWFPWbBvdn",
+							"expanded_url": "http://sdfounders.substack.com",
+							"display_url": "sdfounders.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EslUsO5GRI",
+							"expanded_url": "http://tpinsights.com",
+							"display_url": "tpinsights.com",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 989,
+			"listed_count": 22,
+			"created_at": "Sun Jan 17 23:08:47 +0000 2016",
+			"favourites_count": 1482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1591499765669253120/6vpNuLrJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1591499765669253120/6vpNuLrJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4775662891/1677779099",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Attended #1stMonday hosted by @StartupSanDiego this week.\n\nHeld in Tijuana, Mexico, the event highlighted the importance of cross border collaboration.\n\nOver 100+ founders and startup members gathered to make connections + eat tacos. \n\nThe SD startup community is 🔥 https://t.co/vgzARieF74"
+	},
+	{
 		"created_at": "Wed Mar 08 15:42:05 +0000 2023",
 		"id": 1633493297263177700,
 		"id_str": "1633493297263177730",
