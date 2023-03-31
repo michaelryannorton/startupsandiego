@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 30 18:13:00 +0000 2023",
+		"id": 1641503809733025800,
+		"id_str": "1641503809733025798",
+		"full_text": "Startup San Diego will be taking part in this year's @marchmingle, happening TONIGHT at 7 PM at the Prado in Balboa Park! Make sure to stop by our table and say hi to some of our board and staff.\n\n➡️ Get last-minute tickets: https://t.co/cyDb3oKCdv\n\n#MarchMingle #networking",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarchMingle",
+					"indices": [
+						250,
+						262
+					]
+				},
+				{
+					"text": "networking",
+					"indices": [
+						263,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marchmingle",
+					"name": "March Mingle",
+					"id": 113067638,
+					"id_str": "113067638",
+					"indices": [
+						53,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cyDb3oKCdv",
+					"expanded_url": "https://www.eventbrite.com/e/march-mingle-2023-tickets-565893822657?discount=startupsd",
+					"display_url": "eventbrite.com/e/march-mingle…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on June 5th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4810,
+			"friends_count": 2264,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1679942817",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Startup San Diego will be taking part in this year's @marchmingle, happening TONIGHT at 7 PM at the Prado in Balboa Park! Make sure to stop by our table and say hi to some of our board and staff.\n\n➡️ Get last-minute tickets: https://t.co/cyDb3oKCdv\n\n#MarchMingle #networking"
+	},
+	{
 		"created_at": "Mon Mar 27 19:20:28 +0000 2023",
 		"id": 1640433623156375600,
 		"id_str": "1640433623156375556",
