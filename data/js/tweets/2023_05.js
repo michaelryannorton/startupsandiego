@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 08 17:47:08 +0000 2023",
+		"id": 1655630424842854400,
+		"id_str": "1655630424842854415",
+		"full_text": "We're happy to announce the featured panelists for the upcoming #1stMondays happening June 5th @ the @HomeOfBiotech Torrey Pines.\n\n🔷 @Ckgoodman https://t.co/GD6j0Kt49e\n🔷 @vpaquet  @dialpad \n🔷 Elisette Carlson @Boydensearch \n\n🚀 Get Tickets: https://t.co/oXwi8XMQ6E\n\n#1stMondays https://t.co/Oi48K64oGX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"text": "1stMondays",
+					"indices": [
+						265,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HomeOfBiotech",
+					"name": "HomeLab",
+					"id": 1431655626103349200,
+					"id_str": "1431655626103349249",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"screen_name": "Ckgoodman",
+					"name": "Cheryl K. Goodman",
+					"id": 39694330,
+					"id_str": "39694330",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"screen_name": "vpaquet",
+					"name": "Vincent Paquet",
+					"id": 18696178,
+					"id_str": "18696178",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"screen_name": "dialpad",
+					"name": "Dialpad",
+					"id": 2653085148,
+					"id_str": "2653085148",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"screen_name": "Boydensearch",
+					"name": "Boyden search",
+					"id": 25120963,
+					"id_str": "25120963",
+					"indices": [
+						209,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GD6j0Kt49e",
+					"expanded_url": "http://Findgood.tech",
+					"display_url": "Findgood.tech",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/oXwi8XMQ6E",
+					"expanded_url": "http://ow.ly/PeLZ50OinBl",
+					"display_url": "ow.ly/PeLZ50OinBl",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1655630421499994000,
+					"id_str": "1655630421499994134",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Fvn7GLDWYBY6QIC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fvn7GLDWYBY6QIC.jpg",
+					"url": "https://t.co/Oi48K64oGX",
+					"display_url": "pic.twitter.com/Oi48K64oGX",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1655630424842854415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1655630421499994000,
+					"id_str": "1655630421499994134",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Fvn7GLDWYBY6QIC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fvn7GLDWYBY6QIC.jpg",
+					"url": "https://t.co/Oi48K64oGX",
+					"display_url": "pic.twitter.com/Oi48K64oGX",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1655630424842854415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on June 5th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4826,
+			"friends_count": 2264,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1679942817",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're happy to announce the featured panelists for the upcoming #1stMondays happening June 5th @ the @HomeOfBiotech Torrey Pines.\n\n🔷 @Ckgoodman https://t.co/GD6j0Kt49e\n🔷 @vpaquet  @dialpad \n🔷 Elisette Carlson @Boydensearch \n\n🚀 Get Tickets: https://t.co/oXwi8XMQ6E\n\n#1stMondays https://t.co/Oi48K64oGX"
+	},
+	{
 		"created_at": "Thu May 04 17:12:35 +0000 2023",
 		"id": 1654172180995768300,
 		"id_str": "1654172180995768338",
