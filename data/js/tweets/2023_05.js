@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 12 15:13:22 +0000 2023",
+		"id": 1657041279413366800,
+		"id_str": "1657041279413366788",
+		"full_text": "Today is the LAST day to get reduced #1stMondays tickets! Prices will increase to $25 tomorrow.\n\nJoin us Monday, June 5th, at the HomeLab™ Powered By @LabFellows Torrey Pines campus.\n\n🚀 Grab your tickets here: https://t.co/H4yJ1OHAdN\n\n#1stMondays #StartupSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"text": "1stMondays",
+					"indices": [
+						235,
+						246
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LabFellows",
+					"name": "LabFellows",
+					"id": 1905373087,
+					"id_str": "1905373087",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H4yJ1OHAdN",
+					"expanded_url": "https://www.eventbrite.com/e/576345383557",
+					"display_url": "eventbrite.com/e/576345383557",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on June 5th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4829,
+			"friends_count": 2263,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1679942817",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the LAST day to get reduced #1stMondays tickets! Prices will increase to $25 tomorrow.\n\nJoin us Monday, June 5th, at the HomeLab™ Powered By @LabFellows Torrey Pines campus.\n\n🚀 Grab your tickets here: https://t.co/H4yJ1OHAdN\n\n#1stMondays #StartupSD"
+	},
+	{
 		"created_at": "Thu May 11 16:29:17 +0000 2023",
 		"id": 1656698000444473300,
 		"id_str": "1656698000444473357",
