@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 22 19:26:40 +0000 2023",
+		"id": 1660728906733998000,
+		"id_str": "1660728906733998082",
+		"full_text": "@Ckgoodman @Kiwanis @WindanSeaSurf woohoo!",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ckgoodman",
+					"name": "Cheryl K. Goodman",
+					"id": 39694330,
+					"id_str": "39694330",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Kiwanis",
+					"name": "Kiwanis",
+					"id": 18754284,
+					"id_str": "18754284",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "WindanSeaSurf",
+					"name": "WindanSea Surf Club",
+					"id": 595950189,
+					"id_str": "595950189",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1660710231171825700,
+		"in_reply_to_status_id_str": "1660710231171825664",
+		"in_reply_to_user_id": 39694330,
+		"in_reply_to_user_id_str": "39694330",
+		"in_reply_to_screen_name": "Ckgoodman",
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on June 5th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4830,
+			"friends_count": 2264,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1679942817",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ckgoodman @Kiwanis @WindanSeaSurf woohoo!"
+	},
+	{
+		"created_at": "Mon May 22 19:25:15 +0000 2023",
+		"id": 1660710231171825700,
+		"id_str": "1660728550289297429",
+		"full_text": "Great to get outdoors &amp; raise money for kids of @Kiwanis  💥kudos to @WindanSeaSurf club for supporting all runners on the path 🌊 thx @StartupSanDiego for get folks together to cross the finish line! #Running &amp; #startups  share common ground -every step counts towards the finish… https://t.co/8oF6Hay9Ez https://t.co/CDc2Og7Bwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			311
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Running",
+					"indices": [
+						203,
+						211
+					]
+				},
+				{
+					"text": "startups",
+					"indices": [
+						218,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kiwanis",
+					"name": "Kiwanis",
+					"id": 18754284,
+					"id_str": "18754284",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"screen_name": "WindanSeaSurf",
+					"name": "WindanSea Surf Club",
+					"id": 595950189,
+					"id_str": "595950189",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8oF6Hay9Ez",
+					"expanded_url": "https://twitter.com/i/web/status/1660710231171825664",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						288,
+						311
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1660710225517899800,
+					"id_str": "1660710225517899777",
+					"indices": [
+						312,
+						335
+					],
+					"media_url": "http://pbs.twimg.com/media/FwwHJrracAEsahT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwwHJrracAEsahT.jpg",
+					"url": "https://t.co/CDc2Og7Bwf",
+					"display_url": "pic.twitter.com/CDc2Og7Bwf",
+					"expanded_url": "https://twitter.com/Ckgoodman/status/1660710231171825664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1660710225517899800,
+					"id_str": "1660710225517899777",
+					"indices": [
+						312,
+						335
+					],
+					"media_url": "http://pbs.twimg.com/media/FwwHJrracAEsahT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwwHJrracAEsahT.jpg",
+					"url": "https://t.co/CDc2Og7Bwf",
+					"display_url": "pic.twitter.com/CDc2Og7Bwf",
+					"expanded_url": "https://twitter.com/Ckgoodman/status/1660710231171825664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39694330,
+			"id_str": "39694330",
+			"name": "Cheryl K. Goodman",
+			"screen_name": "Ckgoodman",
+			"location": "Uncanny Valley ",
+			"description": "https://t.co/UcaQ4rBZLr former Sony / Qcom / mp3..com / CBS 🌊 🏃‍♀️ Writing a Book on Truth 👩🏼‍🏫@startupsandiego Forbes Contributor / Married to Ruyler",
+			"url": "https://t.co/Bn44VVxFQ4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bn44VVxFQ4",
+							"expanded_url": "http://www.findgood.tech",
+							"display_url": "findgood.tech",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UcaQ4rBZLr",
+							"expanded_url": "http://FindGood.tech",
+							"display_url": "FindGood.tech",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2035,
+			"friends_count": 2904,
+			"listed_count": 80,
+			"created_at": "Wed May 13 05:17:22 +0000 2009",
+			"favourites_count": 6010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFD2C5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1643766499302330369/gNDFShTU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1643766499302330369/gNDFShTU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39694330/1684129019",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C2D9CB",
+			"profile_text_color": "B6E0D2",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "241b50eec4f02e5d",
+			"url": "https://api.twitter.com/1.1/geo/id/241b50eec4f02e5d.json",
+			"place_type": "neighborhood",
+			"name": "La Jolla Village",
+			"full_name": "La Jolla Village, San Diego",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.2382129,
+							32.8496516
+						],
+						[
+							-117.2293201,
+							32.8496516
+						],
+						[
+							-117.2293201,
+							32.872153
+						],
+						[
+							-117.2382129,
+							32.872153
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1660692384307396600,
+		"quoted_status_id_str": "1660692384307396632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ntH98lP5HN",
+			"expanded": "https://twitter.com/startupsandiego/status/1660692384307396632",
+			"display": "twitter.com/startupsandieg…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 22 17:01:33 +0000 2023",
+			"id": 1660692384307396600,
+			"id_str": "1660692384307396632",
+			"full_text": "Our SSD team had an amazing time at the La Jolla Shores Half Marathon &amp; 5k! It was a beautiful run along the coast and a great way to start the weekend.\n\nJoin us at our next event, #1stMonday happening June 5th.\n\n🚀 Get tickets: https://t.co/yfLB1shPgC \n\n@NealBloom  @Ckgoodman https://t.co/y7woR6F9Ux",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "1stMonday",
+						"indices": [
+							185,
+							195
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NealBloom",
+						"name": "Neal Bloom",
+						"id": 19131762,
+						"id_str": "19131762",
+						"indices": [
+							258,
+							268
+						]
+					},
+					{
+						"screen_name": "Ckgoodman",
+						"name": "Cheryl K. Goodman",
+						"id": 39694330,
+						"id_str": "39694330",
+						"indices": [
+							270,
+							280
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yfLB1shPgC",
+						"expanded_url": "http://ow.ly/SaRU50OtBjG",
+						"display_url": "ow.ly/SaRU50OtBjG",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1660692382323490800,
+						"id_str": "1660692382323490816",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+						"url": "https://t.co/y7woR6F9Ux",
+						"display_url": "pic.twitter.com/y7woR6F9Ux",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1660692384307396632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 561,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 561,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1660692382323490800,
+						"id_str": "1660692382323490816",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+						"url": "https://t.co/y7woR6F9Ux",
+						"display_url": "pic.twitter.com/y7woR6F9Ux",
+						"expanded_url": "https://twitter.com/StartupSanDiego/status/1660692384307396632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 561,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 561,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3222944604,
+				"id_str": "3222944604",
+				"name": "Startup San Diego",
+				"screen_name": "StartupSanDiego",
+				"location": "San Diego, CA",
+				"description": "Supporting the startup ecosystem since 2013. Join us on June 5th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+				"url": "https://t.co/H6osHEsp7a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H6osHEsp7a",
+								"expanded_url": "https://linktr.ee/startupsandiego",
+								"display_url": "linktr.ee/startupsandiego",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4830,
+				"friends_count": 2264,
+				"listed_count": 118,
+				"created_at": "Fri May 22 05:50:42 +0000 2015",
+				"favourites_count": 2483,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1679942817",
+				"profile_link_color": "1E81AF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to get outdoors &amp; raise money for kids of @Kiwanis  💥kudos to @WindanSeaSurf club for supporting all runners on the path 🌊 thx @StartupSanDiego for get folks together to cross the finish line! #Running &amp; #startups  share common ground -every step counts towards the finish… https://t.co/8oF6Hay9Ez https://t.co/CDc2Og7Bwf"
+	},
+	{
+		"created_at": "Mon May 22 17:01:33 +0000 2023",
+		"id": 1660692384307396600,
+		"id_str": "1660692384307396632",
+		"full_text": "Our SSD team had an amazing time at the La Jolla Shores Half Marathon &amp; 5k! It was a beautiful run along the coast and a great way to start the weekend.\n\nJoin us at our next event, #1stMonday happening June 5th.\n\n🚀 Get tickets: https://t.co/yfLB1shPgC \n\n@NealBloom  @Ckgoodman https://t.co/y7woR6F9Ux",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMonday",
+					"indices": [
+						185,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NealBloom",
+					"name": "Neal Bloom",
+					"id": 19131762,
+					"id_str": "19131762",
+					"indices": [
+						258,
+						268
+					]
+				},
+				{
+					"screen_name": "Ckgoodman",
+					"name": "Cheryl K. Goodman",
+					"id": 39694330,
+					"id_str": "39694330",
+					"indices": [
+						270,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yfLB1shPgC",
+					"expanded_url": "http://ow.ly/SaRU50OtBjG",
+					"display_url": "ow.ly/SaRU50OtBjG",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1660692382323490800,
+					"id_str": "1660692382323490816",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+					"url": "https://t.co/y7woR6F9Ux",
+					"display_url": "pic.twitter.com/y7woR6F9Ux",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1660692384307396632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 561,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 561,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1660692382323490800,
+					"id_str": "1660692382323490816",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fwv27EmWwAACFtg.jpg",
+					"url": "https://t.co/y7woR6F9Ux",
+					"display_url": "pic.twitter.com/y7woR6F9Ux",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1660692384307396632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 561,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 561,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on June 5th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4830,
+			"friends_count": 2264,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1679942817",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our SSD team had an amazing time at the La Jolla Shores Half Marathon &amp; 5k! It was a beautiful run along the coast and a great way to start the weekend.\n\nJoin us at our next event, #1stMonday happening June 5th.\n\n🚀 Get tickets: https://t.co/yfLB1shPgC \n\n@NealBloom  @Ckgoodman https://t.co/y7woR6F9Ux"
+	},
+	{
 		"created_at": "Thu May 18 20:18:19 +0000 2023",
 		"id": 1659292351037075500,
 		"id_str": "1659292351037075471",
