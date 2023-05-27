@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 26 17:49:23 +0000 2023",
+		"id": 1662153974655352800,
+		"id_str": "1662153974655352846",
+		"full_text": "We're only 10 DAYS away til our 1st Mondays - Networking and Happy Hour event happening Monday, June 5th, at the HomeLab™ Powered By @LabFellows Torrey Pines campus. \n\n🚀 Get #1stMondays tickets before they run out: https://t.co/H4yJ1OHAdN\n\n#1stMondays #StartupSD https://t.co/3kWSB6XV7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1stMondays",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "1stMondays",
+					"indices": [
+						240,
+						251
+					]
+				},
+				{
+					"text": "StartupSD",
+					"indices": [
+						252,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LabFellows",
+					"name": "LabFellows",
+					"id": 1905373087,
+					"id_str": "1905373087",
+					"indices": [
+						133,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H4yJ1OHAdN",
+					"expanded_url": "https://www.eventbrite.com/e/576345383557",
+					"display_url": "eventbrite.com/e/576345383557",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1662153972046495700,
+					"id_str": "1662153972046495748",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FxEoOynWAAQj_9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxEoOynWAAQj_9J.jpg",
+					"url": "https://t.co/3kWSB6XV7f",
+					"display_url": "pic.twitter.com/3kWSB6XV7f",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1662153974655352846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1662153972046495700,
+					"id_str": "1662153972046495748",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FxEoOynWAAQj_9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxEoOynWAAQj_9J.jpg",
+					"url": "https://t.co/3kWSB6XV7f",
+					"display_url": "pic.twitter.com/3kWSB6XV7f",
+					"expanded_url": "https://twitter.com/StartupSanDiego/status/1662153974655352846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3222944604,
+			"id_str": "3222944604",
+			"name": "Startup San Diego",
+			"screen_name": "StartupSanDiego",
+			"location": "San Diego, CA",
+			"description": "Supporting the startup ecosystem since 2013. Join us on June 5th for 1st Mondays - Happy Hour & Networking. Link in bio for tickets. #StartupSD",
+			"url": "https://t.co/H6osHEsp7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6osHEsp7a",
+							"expanded_url": "https://linktr.ee/startupsandiego",
+							"display_url": "linktr.ee/startupsandiego",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4830,
+			"friends_count": 2264,
+			"listed_count": 118,
+			"created_at": "Fri May 22 05:50:42 +0000 2015",
+			"favourites_count": 2487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952311135113330688/v5DVTjoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3222944604/1679942817",
+			"profile_link_color": "1E81AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're only 10 DAYS away til our 1st Mondays - Networking and Happy Hour event happening Monday, June 5th, at the HomeLab™ Powered By @LabFellows Torrey Pines campus. \n\n🚀 Get #1stMondays tickets before they run out: https://t.co/H4yJ1OHAdN\n\n#1stMondays #StartupSD https://t.co/3kWSB6XV7f"
+	},
+	{
 		"created_at": "Thu May 25 19:18:58 +0000 2023",
 		"id": 1661814131542950000,
 		"id_str": "1661814131542949905",
