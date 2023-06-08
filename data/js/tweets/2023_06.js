@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 22:14:32 +0000 2023",
+		"id": 1666197757366009900,
+		"id_str": "1666569355147059200",
+		"full_text": "@StartupSanDiego event last night https://t.co/YauxQrJbGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StartupSanDiego",
+					"name": "Startup San Diego",
+					"id": 3222944604,
+					"id_str": "3222944604",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666197712260432000,
+					"id_str": "1666197712260431873",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx-F_czaAAEi__h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx-F_czaAAEi__h.jpg",
+					"url": "https://t.co/YauxQrJbGY",
+					"display_url": "pic.twitter.com/YauxQrJbGY",
+					"expanded_url": "https://twitter.com/Jared_Seidel_/status/1666197757366009857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666197712260432000,
+					"id_str": "1666197712260431873",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx-F_czaAAEi__h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx-F_czaAAEi__h.jpg",
+					"url": "https://t.co/YauxQrJbGY",
+					"display_url": "pic.twitter.com/YauxQrJbGY",
+					"expanded_url": "https://twitter.com/Jared_Seidel_/status/1666197757366009857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3222944604,
+		"in_reply_to_user_id_str": "3222944604",
+		"in_reply_to_screen_name": "StartupSanDiego",
+		"user": {
+			"id": 1471191745425645600,
+			"id_str": "1471191745425645569",
+			"name": "Jared Seidel",
+			"screen_name": "Jared_Seidel_",
+			"location": "San Diego, CA",
+			"description": "Product Manager @Dexcom. Not here to be well known, here to be known well. Always looking to create, connect, and grow.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30,
+			"friends_count": 171,
+			"listed_count": 0,
+			"created_at": "Wed Dec 15 18:53:48 +0000 2021",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1623034791921876993/FYHczNsk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623034791921876993/FYHczNsk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@StartupSanDiego event last night https://t.co/YauxQrJbGY"
+	},
+	{
 		"created_at": "Tue Jun 06 19:44:15 +0000 2023",
 		"id": 1666169146529267700,
 		"id_str": "1666169146529267712",
